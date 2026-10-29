@@ -1,4 +1,4 @@
-name: Publish Guga database
+name: Publish Guga資料站
 
 # 僅手動發布；一般 push 或 pull request 不會更新網站。
 on:
@@ -20,8 +20,13 @@ jobs:
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
           persist-credentials: false
+      # C# 只在發布前驗證成品；GitHub Pages 不執行後端。
+      - name: Set up .NET
+        uses: actions/setup-dotnet@26b0ec14cb23fa6904739307f278c14f94c95bf1 # v5
+        with:
+          dotnet-version: '10.0.x'
       - name: Verify public package
-        run: python3 tools/verify-release.py
+        run: dotnet run --project tools/PagesReleaseCheck/PagesReleaseCheck.csproj --configuration Release -- site
       - name: Configure Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
       - name: Upload website only

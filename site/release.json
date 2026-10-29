@@ -2,23 +2,23 @@
   "schemaVersion": "endfield.pages.v1",
   "dataReleaseId": "bf16906e09437bb43267b9e6",
   "base": "/gugawikidb/",
-  "generatedAtUtc": "2026-10-29T07:45:08.431Z",
+  "generatedAtUtc": "2026-10-29T08:33:36.791Z",
   "files": {
     ".nojekyll": {
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
-    "assets/index-BFjCLIWS.css": {
+    "assets/index-BHBAp7qV.css": {
       "bytes": 179202,
-      "sha256": "38f9f4d7e5d69dec697ba3ff570c4f69db062555c220212fbec6c76476ca3248"
+      "sha256": "4b35a2177898522d90c83a62b0e8f6ccb2d1538a7f78be626ad179434123bf36"
     },
-    "assets/index-QTXbPdUz.js": {
-      "bytes": 431804,
-      "sha256": "ce7476448ba0394725c7690eeb447649923ac5171b29a9a384571be67e511984"
+    "assets/index-CzbS5qg-.js": {
+      "bytes": 431705,
+      "sha256": "babefa3084b5b8a066e670079d3946b64e4bdcca231259b1aa93b77ba878e3c7"
     },
     "index.html": {
-      "bytes": 1361,
-      "sha256": "1e7dfd5d0a3cebfbb3c7f48be586e2a0c96b20601052dcafaf0b256b65c8d32f"
+      "bytes": 1117,
+      "sha256": "e4c5e216aab7e2656c4ec6a1d25e02c6eb1604690df3ea7b0380ef48a7bd1a8b"
     },
     "media/home-menu/activity-images/00149df8fcde0a4b2c0ad1ad63b416ca8f6edb6599f62ac2c39750c2ae4d4be2.png": {
       "bytes": 46108,
@@ -6363,10 +6363,6 @@
     "media/wiki/weapon-heroes/wpn_sword_0026.png": {
       "bytes": 419356,
       "sha256": "293ffd97e49086d40e80341e5054660c2b8c91fd2a653c71409c737f807f07b3"
-    },
-    "og.png": {
-      "bytes": 2113126,
-      "sha256": "b04493f758b1f45e5deac4c3dc6075baad654412830f402fa6980f312b0dfdb2"
     },
     "static-data/data/bf16906e09437bb43267b9e6/000a491d4dee2dea3ebba33b8586bd3bfc98bf7323d1c774c539c1c67dbe4f2c.json": {
       "bytes": 6993,

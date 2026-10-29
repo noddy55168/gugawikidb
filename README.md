@@ -1,18 +1,19 @@
-# Guga database
+# Guga資料站
 
 Public, read-only static edition of a practice wiki website built with Vue.
-The development project also has a C# backend; this repository contains the generated static website only.
+The development project uses C# to export public data and Vue to build this static edition.
+This repository contains the generated website and a C# (.NET 10) release verifier. GitHub Pages serves static files; it does not run a backend.
 
 ## First publication
 
 1. Review and commit the prepared files to `main`, then push to GitHub.
 2. In **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**.
-3. Open **Actions → Publish Guga database → Run workflow**, select `main`, and run it.
+3. Open **Actions → Publish Guga資料站 → Run workflow**, select `main`, and run it.
 4. Wait for both `package` and `deploy` to pass. Open the URL shown by the deployment.
 
 Expected project URL: https://noddy55168.github.io/gugawikidb/
 Example detail: https://noddy55168.github.io/gugawikidb/#/operators/4
-These URLs become available only after a successful publication.
+The first publication is live. Local changes appear online after another successful manual publication.
 
 ## Manual updates
 
@@ -25,7 +26,7 @@ Replace the previous `site/` contents as one reviewed release, including removal
 do not mix new JavaScript with an old data manifest. Commit, push, and run the workflow manually.
 Keep `.gitattributes`: generated files must retain their exact bytes for hash verification.
 
-Before publication, the package can also be checked locally with `python tools/verify-release.py`.
+Before publication, the package can also be checked locally with `dotnet run --project tools/PagesReleaseCheck/PagesReleaseCheck.csproj --configuration Release -- site`.
 `site/release.json` records the data version, base, build timestamp, and file hashes.
 For rollback, restore a complete previously verified `site/` package in a new commit and publish it manually.
 
