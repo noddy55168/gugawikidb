@@ -2,7 +2,7 @@
   "schemaVersion": "endfield.pages.v1",
   "dataReleaseId": "bf16906e09437bb43267b9e6",
   "base": "/gugawikidb/",
-  "generatedAtUtc": "2026-10-29T08:33:36.791Z",
+  "generatedAtUtc": "2026-10-29T08:46:30.874Z",
   "files": {
     ".nojekyll": {
       "bytes": 0,
@@ -12,13 +12,13 @@
       "bytes": 179202,
       "sha256": "4b35a2177898522d90c83a62b0e8f6ccb2d1538a7f78be626ad179434123bf36"
     },
-    "assets/index-CzbS5qg-.js": {
-      "bytes": 431705,
-      "sha256": "babefa3084b5b8a066e670079d3946b64e4bdcca231259b1aa93b77ba878e3c7"
+    "assets/index-CR5qS0Rc.js": {
+      "bytes": 431353,
+      "sha256": "f117ad1957a6508dbed6483e41fd0a3296c3e57ac868e266a8f4f81b39fd5c30"
     },
     "index.html": {
       "bytes": 1117,
-      "sha256": "e4c5e216aab7e2656c4ec6a1d25e02c6eb1604690df3ea7b0380ef48a7bd1a8b"
+      "sha256": "ae496bcb9601fdbc3a4129d34af3323b5628bd86880c90794a9668079b15876d"
     },
     "media/home-menu/activity-images/00149df8fcde0a4b2c0ad1ad63b416ca8f6edb6599f62ac2c39750c2ae4d4be2.png": {
       "bytes": 46108,
