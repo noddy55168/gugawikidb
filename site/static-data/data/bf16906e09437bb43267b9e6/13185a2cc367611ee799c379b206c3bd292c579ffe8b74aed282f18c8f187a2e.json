@@ -1,0 +1,218 @@
+{
+  "sourceItemId": "item_quartz_enr",
+  "name": "\u9AD8\u6676\u7E96\u7DAD",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_quartz_enr.png?v=e08aa669b668645f4fa586f59c942843b790fa0634e2ae9fa4324684f6d19467",
+  "summary": "\u591A\u7D1A\u52A0\u5DE5\u5F8C\uFF0C\u9AD8\u6676\u7E96\u7DAD\u5DF2\u7D93\u80FD\u5920\u61C9\u7528\u65BC\u591A\u7A2E\u8A0A\u865F\u50B3\u8F38\u5834\u666F\u3002",
+  "description": "\u9AD8\u6676\u7C89\u672B\u7CBE\u7149\u878D\u5408\u5F8C\u7684\u9AD8\u7D1A\u6750\u6599\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_thickener",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7814\u78E8\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u7814\u78E8\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/component_glass_enr_cmpt_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr",
+          "name": "\u9AD8\u6676\u7E96\u7DAD",
+          "quantity": 1,
+          "path": "/items/item_quartz_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr.png?v=e08aa669b668645f4fa586f59c942843b790fa0634e2ae9fa4324684f6d19467",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_enr_cmpt",
+          "name": "\u9AD8\u6676\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_glass_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_enr_cmpt.png?v=c574408eca07480101e9231a749abc3de4c140157363d01f3b85e0a5cac169dd",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_glass_enr_cmpt_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_glass_enr_bottle_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr",
+          "name": "\u9AD8\u6676\u7E96\u7DAD",
+          "quantity": 2,
+          "path": "/items/item_quartz_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr.png?v=e08aa669b668645f4fa586f59c942843b790fa0634e2ae9fa4324684f6d19467",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_enr_bottle",
+          "name": "\u9AD8\u6676\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_glass_enr_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_glass_enr_bottle_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_enr",
+          "name": "\u5BC6\u88FD\u6676\u9AD4",
+          "quantity": 10,
+          "path": "/items/item_crystal_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_enr.png?v=498d7283180cd8a99a87f83e26af302536f5155d0f698559cd016da93a482bdd",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr",
+          "name": "\u9AD8\u6676\u7E96\u7DAD",
+          "quantity": 10,
+          "path": "/items/item_quartz_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr.png?v=e08aa669b668645f4fa586f59c942843b790fa0634e2ae9fa4324684f6d19467",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_3"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_quartz_enr_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr_powder",
+          "name": "\u9AD8\u6676\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_quartz_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr_powder.png?v=97b6981e01200cee2b6eadbb02128ebbfc07e755ee1111ce227fcf9a0a3c402b",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr",
+          "name": "\u9AD8\u6676\u7E96\u7DAD",
+          "quantity": 1,
+          "path": "/items/item_quartz_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr.png?v=e08aa669b668645f4fa586f59c942843b790fa0634e2ae9fa4324684f6d19467",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_quartz_enr_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

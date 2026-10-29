@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_sp_4",
+    "name": "\u91D1\u77F3\u7A3B\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_sp_4.png?v=54ccb693c95058aa620a21ed9d8179a83313f12759eb8a0b85f88b89cc798b54",
+    "sortOrder": 109,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_sp_4",
+    "outputSummary": "\u91D1\u77F3\u7A3B\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_sp_seed_4",
+      "name": "\u91D1\u77F3\u7A3B\u7A2E\u5B50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_seed_4.png?v=77b24f6dfeb2aa816b9b4d68566e1d0deb873320726ed2b8657b55650f86a428",
+      "link": "/items/item_plant_sp_seed_4"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_sp_4",
+      "name": "\u91D1\u77F3\u7A3B\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_sp_4.png?v=54ccb693c95058aa620a21ed9d8179a83313f12759eb8a0b85f88b89cc798b54",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_sp_4",
+      "name": "\u91D1\u77F3\u7A3B",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+      "link": "/items/item_plant_sp_4"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_sp_seed_4",
+      "name": "\u91D1\u77F3\u7A3B\u7A2E\u5B50",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_sp_seed_4.png?v=77b24f6dfeb2aa816b9b4d68566e1d0deb873320726ed2b8657b55650f86a428",
+      "link": "/items/item_plant_sp_seed_4"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_sp_4",
+      "name": "\u91D1\u77F3\u7A3B\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_sp_4.png?v=54ccb693c95058aa620a21ed9d8179a83313f12759eb8a0b85f88b89cc798b54",
+      "link": null
+    }
+  ],
+  "devices": []
+}

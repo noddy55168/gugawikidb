@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_checkin_mifu",
+    "name": "\u62F3\u8207\u5FC3\u5408\u7C3D\u5230",
+    "description": "\u53C3\u8207\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u62F3\u8207\u5FC3\u5408\u5C0B\u8A2A\u6191\u8B49\u00D75\u7B49\u8C50\u5BCC\u734E\u52F5\u3002",
+    "sourceType": 2,
+    "sortOrder": 8309,
+    "detailCoverage": "basic",
+    "timeId": "time_special_1_3_1",
+    "tabImageId": "bg_activity_tab_char_sign_mifu",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/5 7:00:00",
+        "closeTimeRaw": "2026/6/26 12:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1782446400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/5 7:00:00",
+        "closeTimeRaw": "2026/6/26 12:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1782446400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/6/4 18:00:00",
+        "closeTimeRaw": "2026/6/26 12:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1782493200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_checkin_time",
+        "name": "\u9650\u6642\u7C3D\u5230"
+      }
+    ],
+    "themeColor": "#e3245c"
+  },
+  "instructionId": "instru_checkin_mifu",
+  "instructionTitle": "\u300C\u62F3\u8207\u5FC3\u5408\u7C3D\u5230\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6BCF\u65E5\u767B\u5165\u904A\u6232\u5373\u53EF\u9818\u53D6\u7C3D\u5230\u734E\u52F5\u3002\n\u00B7 \u5B8C\u62107\u65E5\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u3010\u62F3\u8207\u5FC3\u5408\u5C0B\u8A2A\u6191\u8B49\u3011\u00D75\u7B49\u8C50\u5BCC\u734E\u52F5\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

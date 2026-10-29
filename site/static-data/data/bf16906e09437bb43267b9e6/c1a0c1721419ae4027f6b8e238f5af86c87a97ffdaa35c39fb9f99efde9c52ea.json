@@ -1,0 +1,255 @@
+{
+  "entry": {
+    "key": "wiki_item_port_grinder_1",
+    "name": "\u7C89\u788E\u6A5F",
+    "kind": "building",
+    "category": "\u57FA\u790E\u751F\u7522",
+    "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_port_grinder_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u80FD\u7C89\u788E\u5404\u7A2E\u6750\u6599\u7684\u91CD\u578B\u8A2D\u5099\u3002",
+  "sourceId": "grinder_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": [
+    {
+      "key": "machine:grinder_Ingredient_flour_1",
+      "name": "\u9EB5\u7C89",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_Ingredient_flour_1.png?v=b325b5438fc41ae1b3ad3d545fb83f576c8517ffad6fe62a8d051d5e9aae7157",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agrinder_Ingredient_flour_1",
+      "outputSummary": "\u9EB5\u7C89 \u00D7 3",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_Ingredient_paprika_1",
+      "name": "\u8FA3\u6912\u7C89",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_Ingredient_paprika_1.png?v=68d5d17db4cfdbb3a2040e64e72790d7f3914e49177e86f6ac9e807f9517ae51",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agrinder_Ingredient_paprika_1",
+      "outputSummary": "\u8FA3\u6912\u7C89 \u00D7 3",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_Ingredient_starch_1",
+      "name": "\u6FB1\u7C89",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_Ingredient_starch_1.png?v=0ee2baeb0f36ce3a1289666482be3467c0422c2e9202f1da5a79ae4ddd1fc66c",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agrinder_Ingredient_starch_1",
+      "outputSummary": "\u6FB1\u7C89 \u00D7 3",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_Ingredient_sugar_1",
+      "name": "\u7802\u7CD6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_Ingredient_sugar_1.png?v=b4217cba5cfcd2df6b14c41d4ad6bff914592ee43387e477a47c883e5ae74313",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agrinder_Ingredient_sugar_1",
+      "outputSummary": "\u7802\u7CD6 \u00D7 3",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_byproduct_bean_moss_1",
+      "name": "\u7403\u8C46\u6BBC\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_byproduct_bean_moss_1.png?v=792ce64f1ab3c36560827e89c2ff9f93d5b5c94e5d07766b9b9fc7eca710451f",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agrinder_byproduct_bean_moss_1",
+      "outputSummary": "\u7403\u8C46\u6BBC\u7C89\u672B \u00D7 3",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_byproduct_potato_moss_1",
+      "name": "\u5E73\u85AF\u8449\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_byproduct_potato_moss_1.png?v=bb95faeb23dd23faff613fc8fff12d6a0296fdb3743ee952e544d5e677c33e20",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agrinder_byproduct_potato_moss_1",
+      "outputSummary": "\u5E73\u85AF\u8449\u7C89\u672B \u00D7 3",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_carbon_powder_1",
+      "name": "\u78B3\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_carbon_powder.png?v=0dbcdd95b1f124b60785125a09c47ad67f8b8cf042bb86da16294bfe5afe68fe",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Agrinder_carbon_powder_1",
+      "outputSummary": "\u78B3\u7C89\u672B \u00D7 2",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_copper_powder_1",
+      "name": "\u8D64\u9285\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_powder.png?v=019a1927de84d5a84aa620d9e32ab6c9319ee9e107766a15fd35cb6c0029ead5",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agrinder_copper_powder_1",
+      "outputSummary": "\u8D64\u9285\u7C89\u672B \u00D7 1",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_crystal_powder_1",
+      "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Agrinder_crystal_powder_1",
+      "outputSummary": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B \u00D7 1",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_iron_powder_1",
+      "name": "\u85CD\u9435\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Agrinder_iron_powder_1",
+      "outputSummary": "\u85CD\u9435\u7C89\u672B \u00D7 1",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_originium_powder_1",
+      "name": "\u6E90\u77F3\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Agrinder_originium_powder_1",
+      "outputSummary": "\u6E90\u77F3\u7C89\u672B \u00D7 1",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_plant_bbflower_powder_1_1",
+      "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+      "sortOrder": 10,
+      "path": "/industry/recipes/machine%3Agrinder_plant_bbflower_powder_1_1",
+      "outputSummary": "\u916E\u5316\u704C\u6728\u7C89\u672B \u00D7 2",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_plant_grass_powder_1_1",
+      "name": "\u9326\u8349\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+      "sortOrder": 11,
+      "path": "/industry/recipes/machine%3Agrinder_plant_grass_powder_1_1",
+      "outputSummary": "\u9326\u8349\u7C89\u672B \u00D7 2",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_plant_grass_powder_2_1",
+      "name": "\u82BD\u91DD\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+      "sortOrder": 12,
+      "path": "/industry/recipes/machine%3Agrinder_plant_grass_powder_2_1",
+      "outputSummary": "\u82BD\u91DD\u7C89\u672B \u00D7 2",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_plant_moss_powder_1_1",
+      "name": "\u854E\u82B1\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Agrinder_plant_moss_powder_1_1",
+      "outputSummary": "\u854E\u82B1\u7C89\u672B \u00D7 2",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_plant_moss_powder_2_1",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Agrinder_plant_moss_powder_2_1",
+      "outputSummary": "\u67D1\u5BE6\u7C89\u672B \u00D7 2",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_plant_moss_powder_3_1",
+      "name": "\u7802\u8449\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Agrinder_plant_moss_powder_3_1",
+      "outputSummary": "\u7802\u8449\u7C89\u672B \u00D7 3",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:grinder_quartz_powder_1",
+      "name": "\u7D2B\u6676\u7C89\u672B",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_quartz_powder.png?v=5594e80efa29e391601288ad43d5ec174fcea9662384a1d2ffd62e965a7f73f5",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Agrinder_quartz_powder_1",
+      "outputSummary": "\u7D2B\u6676\u7C89\u672B \u00D7 1",
+      "deviceNames": [
+        "\u7C89\u788E\u6A5F"
+      ]
+    }
+  ]
+}

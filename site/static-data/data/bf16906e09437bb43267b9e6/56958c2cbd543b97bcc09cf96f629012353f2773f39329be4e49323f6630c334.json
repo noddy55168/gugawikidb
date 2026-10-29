@@ -1,0 +1,37 @@
+{
+  "sourceItemId": "item_factech_tundra_point",
+  "name": "\u57FA\u790E\u5DE5\u696D\u9EDE\u6578",
+  "rarity": 4,
+  "category": "\u529F\u80FD\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_factech_tundra_point.png?v=1a36fe9b56c0a7c272df0e29cce30af284f2a5ba521fcf531c75783c983d22ed",
+  "summary": "\u8A18\u9304\u4E86\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u56DB\u865F\u8C37\u5730\u5730\u5340\u904B\u4F5C\u72C0\u6CC1\u7684\u5C0F\u578B\u96FB\u5B50\u8A2D\u5099\uFF0C\u63A5\u5165\u5354\u8B70\u6838\u5FC3\u5F8C\u80FD\u8ABF\u6574\u6280\u8853\u6295\u653E\u7684\u6B0A\u91CD\u3002",
+  "description": "\u7814\u767C\u57FA\u790E\u5DE5\u696D\u8A08\u5283\u5167\u5404\u985E\u5DE5\u696D\u6280\u8853\u7684\u9700\u6C42\u9EDE\u6578\u3002",
+  "wikiDescription": "",
+  "itemType": "\u5DE5\u696D\u79D1\u6280\u9EDE\u6578",
+  "useEffect": "",
+  "obtainHint": "\u5B8C\u6210\u57FA\u790E\u5DE5\u696D\u8A08\u5283\u76F8\u95DC\u7814\u7A76\u5F8C\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5B8C\u6210\u57FA\u790E\u5DE5\u696D\u8A08\u5283\u76F8\u95DC\u7814\u7A76\u5F8C\u88FD\u4F5C\u3002"
+  ],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_blackbox_activate_1",
+      "description": "\u56DB\u865F\u8C37\u5730-\u555F\u52D5\u5354\u8B70\u63A1\u9304\u6A01",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FacSTTGroupTable/tech_group_tundra/\u79D1\u6280\u7528\u9014/",
+      "category": "\u79D1\u6280\u7528\u9014",
+      "title": "\u5DE5\u696D\u79D1\u6280\u7814\u767C",
+      "description": "\u57FA\u790E\u5DE5\u696D\u8A08\u5283",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

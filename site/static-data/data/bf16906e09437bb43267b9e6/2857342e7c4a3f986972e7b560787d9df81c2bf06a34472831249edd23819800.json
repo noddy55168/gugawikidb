@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "hub:miner_2",
+    "name": "\u96FB\u9A45\u7926\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_miner_2.png?v=d56272876919939c1707403d6491895010605f75091509e2f45a49c8cdd19cb4",
+    "sortOrder": 2,
+    "path": "/industry/recipes/hub%3Aminer_2",
+    "outputSummary": "\u96FB\u9A45\u7926\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_miner_1",
+      "name": "\u4FBF\u651C\u5F0F\u6E90\u77F3\u7926\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_miner_1.png?v=34e9c9154c997a4ea6088376aae5c3c02fa726e02222fc85cc4b48f820f7189a",
+      "link": null
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_miner_2",
+      "name": "\u96FB\u9A45\u7926\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_miner_2.png?v=d56272876919939c1707403d6491895010605f75091509e2f45a49c8cdd19cb4",
+      "link": null
+    }
+  ],
+  "devices": []
+}

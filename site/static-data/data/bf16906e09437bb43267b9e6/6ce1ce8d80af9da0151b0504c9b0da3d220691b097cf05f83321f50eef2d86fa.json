@@ -1,0 +1,161 @@
+{
+  "sourceItemId": "item_quartz_sand",
+  "name": "\u7D2B\u6676\u7926",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_quartz_sand.png?v=d073d25b8047c469fcd35e9a894a2c8d0d8ee88ef893af58bd10fc658373608d",
+  "summary": "\u7D2B\u6676\u5728\u7CBE\u5BC6\u5DE5\u696D\u7B49\u9818\u57DF\u7684\u4F7F\u7528\u8F03\u70BA\u5EE3\u6CDB\uFF0C\u662F\u5854\u885B\u4E8C\u96FB\u5B50\u5DE5\u696D\u7684\u57FA\u790E\u6750\u6599\u4E4B\u4E00\u3002",
+  "description": "\u5167\u860A\u7D2B\u8272\u6676\u9AD4\u7684\u5CA9\u77F3\uFF0C\u53EF\u5728\u5DE5\u696D\u7CFB\u7D71\u4E2D\u9032\u884C\u52A0\u5DE5\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_quartz_sand",
+      "description": "\u7D2B\u6676\u7926\u7926\u9EDE\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_common_ore",
+      "description": "\u53EF\u4F7F\u7528\u7926\u6A5F\u9032\u884C\u81EA\u52D5\u5316\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_map01_lv001",
+      "description": "\u6A1E\u7D10\u5340\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_quartz_glass",
+      "name": "\u7D2B\u6676\u7E96\u7DAD",
+      "iconPath": "/media/wiki/catalogs/items/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_equip_script_1",
+      "name": "\u7D2B\u6676\u88DD\u5099\u539F\u4EF6",
+      "iconPath": "/media/wiki/catalogs/items/item_equip_script_1.png?v=80a755674b11125a28c819fe31b34c6d2fc036e1f3ca9297495cab6f89312bb0",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMinerTable/miner_2/\u63A1\u96C6\u4F86\u6E90/item_quartz_sand",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_2",
+          "name": "\u96FB\u9A45\u7926\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMinerTable/miner_3/\u63A1\u96C6\u4F86\u6E90/item_quartz_sand",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_3",
+          "name": "\u96FB\u9A45\u7926\u6A5FII",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_3",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMinerTable/miner_4/\u63A1\u96C6\u4F86\u6E90/item_quartz_sand",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_4",
+          "name": "\u6C34\u9A45\u7926\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_4",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_quartz_glass_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_sand",
+          "name": "\u7D2B\u6676\u7926",
+          "quantity": 1,
+          "path": "/items/item_quartz_sand",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_sand.png?v=d073d25b8047c469fcd35e9a894a2c8d0d8ee88ef893af58bd10fc658373608d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_glass",
+          "name": "\u7D2B\u6676\u7E96\u7DAD",
+          "quantity": 1,
+          "path": "/items/item_quartz_glass",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_quartz_glass_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

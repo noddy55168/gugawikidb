@@ -1,0 +1,141 @@
+{
+  "sourceItemId": "item_drop_agfly_1",
+  "name": "\u4E2D\u7A7A\u7570\u9999\u77F3",
+  "rarity": 1,
+  "category": "\u63A1\u96C6\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_drop_agfly_1.png?v=7053fdafbeb9c70c136c7f335b089f205324dbbf3324e78fda7643d4d000791f",
+  "summary": "\u5076\u723E\u80FD\u5728\u5929\u4F7F\u300C\u9798\u7FC5\u300D\u90E8\u4F4D\u63A1\u96C6\u5230\u7684\u7570\u9999\u77F3\uFF0C\u5473\u9053\u76F8\u8F03\u5176\u4ED6\u7570\u9999\u77F3\u6709\u4E9B\u8A31\u4E0D\u540C\u3002\u7D55\u5927\u90E8\u5206\u4EBA\u96E3\u4EE5\u63CF\u8FF0\u5B83\u7684\u5473\u9053\uFF0C\u300C\u6216\u8A31\u662F\u5929\u7A7A\u7684\u5473\u9053\u300D\u2014\u2014\u4ED6\u5011\u5927\u591A\u6703\u5F97\u51FA\u9019\u6A23\u7684\u7D50\u8AD6\u3002",
+  "description": "\u64CA\u6557\u4EFF\u751F\u7FC5\u5929\u4F7F\u7684\u6389\u843D\u7269\uFF0C\u53EF\u7528\u65BC\u7CBE\u88FD\u98DF\u85E5\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u4E2D\u64CA\u6557\u6575\u4EBA\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_eny_0076_agfly",
+      "description": "\u64CA\u6557\u4EFF\u751F\u7FC5\u5929\u4F7F\u6709\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_jlebm_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_agfly_1_agmelee_1_moss_2_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agfly_1",
+          "name": "\u4E2D\u7A7A\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agfly_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agfly_1.png?v=7053fdafbeb9c70c136c7f335b089f205324dbbf3324e78fda7643d4d000791f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agmelee_1",
+          "name": "\u5805\u786C\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agmelee_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agmelee_1.png?v=119554b900689bcbfa17bf9dc28585c71c770ea392e3fdfbb5bb23362b49193d",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_2",
+          "name": "\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_agfly_1_agmelee_1_moss_2_1",
+          "name": "\u661F\u878D\u679C\u51CD",
+          "quantity": 1,
+          "path": "/items/item_agfly_1_agmelee_1_moss_2_1",
+          "iconPath": "/media/wiki/catalogs/items/item_agfly_1_agmelee_1_moss_2_1.png?v=fdd01aa9168b277af7d6be6a9c4491830be5ff59252ce8bbee567ec4e8a742eb",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_agfly_1_agmelee_1_moss_2_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_slimeml_1_erhound_1_agfly_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_slimeml_1",
+          "name": "\u87F2\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_slimeml_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_erhound_1",
+          "name": "\u523A\u9F3B\u4E7E\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_erhound_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_erhound_1.png?v=f7f3f87308639a2aa672cc41b14d055577d327325839ff5c6ca484dcde721470",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agfly_1",
+          "name": "\u4E2D\u7A7A\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agfly_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agfly_1.png?v=7053fdafbeb9c70c136c7f335b089f205324dbbf3324e78fda7643d4d000791f",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_slimeml_1_erhound_1_agfly_1_1",
+          "name": "\u624B\u6495\u87F2\u8089",
+          "quantity": 1,
+          "path": "/items/item_slimeml_1_erhound_1_agfly_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_slimeml_1_erhound_1_agfly_1_1.png?v=04930abee6581d9c6412acd34dda94aad23fde28287bc55c8a61a2471b018322",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_slimeml_1_erhound_1_agfly_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_vaporizer_1",
+    "name": "\u6C23\u9AD4\u6563\u5E03\u6A5F",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_vaporizer_1.png?v=1749f02ae73a87805bc147204addb5a6d25e4666ce8feac0762d4c551976dd32",
+    "sortOrder": 12,
+    "path": "/industry/devices/wiki_item_port_vaporizer_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u4EE5\u5C07\u6301\u7E8C\u901A\u5165\u7684\u6C23\u9AD4\u6563\u5E03\u5230\u81EA\u8EAB\u5468\u570D\uFF0C\u5F9E\u800C\u6539\u8B8A\u5468\u570D\u74B0\u5883\u72C0\u614B\u7684\u8A2D\u5099\u3002",
+  "sourceId": "vaporizer_1",
+  "needPower": false,
+  "width": 3,
+  "depth": 3,
+  "height": 5,
+  "recipes": []
+}

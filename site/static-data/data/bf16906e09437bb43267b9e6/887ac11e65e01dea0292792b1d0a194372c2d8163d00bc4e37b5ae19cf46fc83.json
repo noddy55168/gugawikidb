@@ -1,0 +1,20 @@
+{
+  "sourceItemId": "item_device_buff_ink_3",
+  "name": "\u516D\u5C3A\u300A\u990A\u6C23\u5716\u300B",
+  "rarity": 5,
+  "category": "\u96A8\u8EAB\u88DD\u7F6E",
+  "iconPath": "/media/wiki/catalogs/items/item_device_buff_ink_3.png?v=77fd64636efe55147b9a7b9cfb1dc717ad9371f619ad8a05da3d37a3af7e274d",
+  "summary": "\u7940\u7684\u820A\u4F5C\uFF0C\u516D\u5C3A\u5168\u958B\u5927\u5C0F\u3002\u756B\u4E2D\u5929\u5149\u76DB\uFF0C\u8DB3\u4EE5\u6B63\u7CBE\u795E\u3002",
+  "description": "\u914D\u5099\u5728\u80CC\u5305\u96A8\u8EAB\u88DD\u7F6E\u683C\u5F8C\uFF0C\u5728\u6B66\u9675\u5730\u5340\u9032\u5165\u6230\u9B25\u5F8C\u6BCF\u79D2\u56DE\u5FA910\u9EDE\u6280\u529B\uFF0C\u6301\u7E8C5\u79D2\u3002",
+  "wikiDescription": "",
+  "itemType": "\u96A8\u8EAB\u88DD\u7F6E",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

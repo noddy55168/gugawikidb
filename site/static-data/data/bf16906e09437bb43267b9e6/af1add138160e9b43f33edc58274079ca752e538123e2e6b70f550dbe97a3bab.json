@@ -1,0 +1,99 @@
+{
+  "sourceItemId": "item_equip_t4_parts_wuling02_hand_03",
+  "name": "\u6D89\u6DF5\u88F9\u624B",
+  "rarity": 5,
+  "category": "\u8B77\u624B",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling02_hand_03.png?v=723a32dcbae990b9b64ca7f98e4e4bbe087ce35ea397d87960c77a805997a0d8",
+  "description": "\u9078\u528D\u5C40\u70BA\u983B\u7E41\u5F80\u8FD4\u5371\u96AA\u5340\u57DF\u7684\u4F5C\u6230\u4EBA\u54E1\u6240\u8A2D\u8A08\u7684\u7279\u6B8A\u88DD\u5099\u7D44\u3002\u300C\u543E\u63A9\u96D9\u76EE\uFF0C\u4EE5\u7D55\u6B78\u8DEF\u3002\u300D",
+  "lore": "\u672C\u88DD\u5099\u7531\u5B8F\u5C71\u9078\u528D\u5C40\u8A2D\u8A08\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 70,
+  "suitId": "",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 42,
+          "displayValue": "42"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u610F\u5FD7",
+      "values": [
+        {
+          "stage": 0,
+          "value": 86,
+          "displayValue": "86"
+        },
+        {
+          "stage": 1,
+          "value": 94,
+          "displayValue": "94"
+        },
+        {
+          "stage": 2,
+          "value": 103,
+          "displayValue": "103"
+        },
+        {
+          "stage": 3,
+          "value": 111,
+          "displayValue": "111"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u5BD2\u51B7\u548C\u96FB\u78C1\u50B7\u5BB3\u52A0\u6210",
+      "values": [
+        {
+          "stage": 0,
+          "value": 0.2,
+          "displayValue": "20.0%"
+        },
+        {
+          "stage": 1,
+          "value": 0.22,
+          "displayValue": "22.0%"
+        },
+        {
+          "stage": 2,
+          "value": 0.24,
+          "displayValue": "24.0%"
+        },
+        {
+          "stage": 3,
+          "value": 0.26,
+          "displayValue": "26.0%"
+        }
+      ]
+    }
+  ],
+  "effects": [],
+  "suitEquipment": [],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t4_parts_wuling02_hand_03",
+      "chainId": 4003,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 360,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "sourceItemId": "item_iron_ore",
+  "name": "\u85CD\u9435\u7926",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_iron_ore.png?v=a5af3a6fd122cdddeb27174e6468218db3608d0f21e643d99638d96d69b20999",
+  "summary": "\u85CD\u9435\u7684\u5F62\u6210\u539F\u56E0\u773E\u8AAA\u7D1B\u7D1C\uFF0C\u5728\u5DE5\u696D\u91D1\u5C6C\u5C1A\u672A\u51FA\u73FE\u7684\u6642\u4EE3\uFF0C\u5B83\u662F\u4EBA\u5011\u6700\u70BA\u4F9D\u8CF4\u7684\u91D1\u5C6C\u3002",
+  "description": "\u4E00\u7A2E\u5929\u7136\u5B58\u5728\u7684\u85CD\u8272\u5408\u91D1\uFF0C\u53EF\u5728\u5DE5\u696D\u7CFB\u7D71\u4E2D\u9032\u884C\u52A0\u5DE5\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_iron_ore",
+      "description": "\u85CD\u9435\u7926\u7926\u9EDE\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_common_ore",
+      "description": "\u53EF\u4F7F\u7528\u7926\u6A5F\u9032\u884C\u81EA\u52D5\u5316\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_map01_lv005",
+      "description": "\u6E90\u77F3\u7814\u7A76\u5712\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_iron_nugget",
+      "name": "\u85CD\u9435\u584A",
+      "iconPath": "/media/wiki/catalogs/items/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_iron_bottle",
+      "name": "\u85CD\u9435\u74F6",
+      "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_equip_script_2",
+      "name": "\u85CD\u9435\u88DD\u5099\u539F\u4EF6",
+      "iconPath": "/media/wiki/catalogs/items/item_equip_script_2.png?v=b09c21c9a56caf489236f1b017a307e152c3de0b626ff55b20ebc8271063a2d1",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMinerTable/miner_3/\u63A1\u96C6\u4F86\u6E90/item_iron_ore",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_3",
+          "name": "\u96FB\u9A45\u7926\u6A5FII",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_3",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMinerTable/miner_4/\u63A1\u96C6\u4F86\u6E90/item_iron_ore",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_4",
+          "name": "\u6C34\u9A45\u7926\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_4",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_iron_nugget_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_ore",
+          "name": "\u85CD\u9435\u7926",
+          "quantity": 1,
+          "path": "/items/item_iron_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_ore.png?v=a5af3a6fd122cdddeb27174e6468218db3608d0f21e643d99638d96d69b20999",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_nugget",
+          "name": "\u85CD\u9435\u584A",
+          "quantity": 1,
+          "path": "/items/item_iron_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_iron_nugget_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

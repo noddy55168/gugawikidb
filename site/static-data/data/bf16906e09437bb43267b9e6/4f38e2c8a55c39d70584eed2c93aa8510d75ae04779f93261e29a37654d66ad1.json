@@ -1,0 +1,996 @@
+{
+  "entry": {
+    "key": "wiki_item_port_dismantler_1",
+    "name": "\u62C6\u89E3\u6A5F",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_dismantler_1.png?v=e346a07da0b431494d74c4634a72539e92807d87da4ccc6e1b8a878126680f3d",
+    "sortOrder": 9,
+    "path": "/industry/devices/wiki_item_port_dismantler_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7528\u65BC\u7269\u7406\u62C6\u89E3\u7684\u8A2D\u5099\u3002",
+  "sourceId": "dismantler_1",
+  "needPower": true,
+  "width": 6,
+  "depth": 4,
+  "height": 5,
+  "recipes": [
+    {
+      "key": "machine:dismantler_copper_acid_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u6C89\u7A4D\u9178",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 57,
+      "path": "/industry/recipes/machine%3Adismantler_copper_acid_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u6C89\u7A4D\u9178 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_copper_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 65,
+      "path": "/industry/recipes/machine%3Adismantler_copper_copper_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u8D64\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_copper_enr_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u8D6B\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 66,
+      "path": "/industry/recipes/machine%3Adismantler_copper_copper_enr_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_grass_1_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u9326\u8349\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 59,
+      "path": "/industry/recipes/machine%3Adismantler_copper_grass_1_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u9326\u8349\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_grass_2_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 60,
+      "path": "/industry/recipes/machine%3Adismantler_copper_grass_2_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_sewage_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 58,
+      "path": "/industry/recipes/machine%3Adismantler_copper_sewage_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_water_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u6E05\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 56,
+      "path": "/industry/recipes/machine%3Adismantler_copper_water_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u6E05\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_xiranite_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 61,
+      "path": "/industry/recipes/machine%3Adismantler_copper_xiranite_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_xiranite_enr_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 62,
+      "path": "/industry/recipes/machine%3Adismantler_copper_xiranite_enr_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_xiranite_lowpoly_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 64,
+      "path": "/industry/recipes/machine%3Adismantler_copper_xiranite_lowpoly_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copper_xiranite_poly_1",
+      "name": "\u8D64\u9285\u74F6\u3001\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 63,
+      "path": "/industry/recipes/machine%3Adismantler_copper_xiranite_poly_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1\u3001\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_acid_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u6C89\u7A4D\u9178",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 68,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_acid_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u6C89\u7A4D\u9178 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_copper_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 76,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_copper_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u8D64\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_copper_enr_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u8D6B\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 77,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_copper_enr_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_grass_1_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u9326\u8349\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 70,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_grass_1_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u9326\u8349\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_grass_2_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 71,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_grass_2_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_sewage_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 69,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_sewage_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_water_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u6E05\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 67,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_water_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u6E05\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_xiranite_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 72,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_xiranite_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_xiranite_enr_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 73,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_xiranite_enr_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_xiranite_lowpoly_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 75,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_xiranite_lowpoly_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperenr_xiranite_poly_1",
+      "name": "\u8D6B\u9285\u74F6\u3001\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 74,
+      "path": "/industry/recipes/machine%3Adismantler_copperenr_xiranite_poly_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_acid_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u9178\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 12,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_acid_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u9178\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_copper_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u6C23\u614B\u8D64\u9285",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 16,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_copper_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u6C23\u614B\u8D64\u9285 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_copper_enr2_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u6C23\u614B\u707C\u9285",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 20,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_copper_enr2_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u6C23\u614B\u707C\u9285 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_copper_enr_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u6C23\u614B\u8D6B\u9285",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 17,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_copper_enr_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u6C23\u614B\u8D6B\u9285 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_inert_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u60F0\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 15,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_inert_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u60F0\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_water_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u6C34\u84B8\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 11,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_water_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u6C34\u84B8\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_xiranite_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u606F\u58E4\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 13,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_xiranite_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u606F\u58E4\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_copperjar_gas_xiranite_enr_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50\u3001\u91CD\u606F\u58E4\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 14,
+      "path": "/industry/recipes/machine%3Adismantler_copperjar_gas_xiranite_enr_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1\u3001\u91CD\u606F\u58E4\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_acid_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u6C89\u7A4D\u9178",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Adismantler_glass_acid_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6C89\u7A4D\u9178 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_copper_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 10,
+      "path": "/industry/recipes/machine%3Adismantler_glass_copper_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u8D64\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_copper_enr_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u8D6B\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 11,
+      "path": "/industry/recipes/machine%3Adismantler_glass_copper_enr_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_grass_1_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u9326\u8349\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Adismantler_glass_grass_1_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u9326\u8349\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_grass_2_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Adismantler_glass_grass_2_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_sewage_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Adismantler_glass_sewage_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_water_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u6E05\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Adismantler_glass_water_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6E05\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_xiranite_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Adismantler_glass_xiranite_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_xiranite_enr_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Adismantler_glass_xiranite_enr_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_xiranite_lowpoly_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Adismantler_glass_xiranite_lowpoly_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glass_xiranite_poly_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6\u3001\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Adismantler_glass_xiranite_poly_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1\u3001\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_acid_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u6C89\u7A4D\u9178",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 13,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_acid_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6C89\u7A4D\u9178 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_copper_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 21,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_copper_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u8D64\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_copper_enr_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u8D6B\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 22,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_copper_enr_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_grass_1_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u9326\u8349\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 15,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_grass_1_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u9326\u8349\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_grass_2_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 16,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_grass_2_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_sewage_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 14,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_sewage_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_water_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u6E05\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 12,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_water_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6E05\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_xiranite_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 17,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_xiranite_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_xiranite_enr_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 18,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_xiranite_enr_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_xiranite_lowpoly_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 20,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_xiranite_lowpoly_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_glassenr_xiranite_poly_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6\u3001\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 19,
+      "path": "/industry/recipes/machine%3Adismantler_glassenr_xiranite_poly_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1\u3001\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_acid_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u6C89\u7A4D\u9178",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 24,
+      "path": "/industry/recipes/machine%3Adismantler_iron_acid_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u6C89\u7A4D\u9178 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_copper_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 32,
+      "path": "/industry/recipes/machine%3Adismantler_iron_copper_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u8D64\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_copper_enr_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u8D6B\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 33,
+      "path": "/industry/recipes/machine%3Adismantler_iron_copper_enr_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_grass_1_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u9326\u8349\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 26,
+      "path": "/industry/recipes/machine%3Adismantler_iron_grass_1_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u9326\u8349\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_grass_2_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 27,
+      "path": "/industry/recipes/machine%3Adismantler_iron_grass_2_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_sewage_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 25,
+      "path": "/industry/recipes/machine%3Adismantler_iron_sewage_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_water_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u6E05\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 23,
+      "path": "/industry/recipes/machine%3Adismantler_iron_water_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u6E05\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_xiranite_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 28,
+      "path": "/industry/recipes/machine%3Adismantler_iron_xiranite_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_xiranite_enr_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 29,
+      "path": "/industry/recipes/machine%3Adismantler_iron_xiranite_enr_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_xiranite_lowpoly_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 31,
+      "path": "/industry/recipes/machine%3Adismantler_iron_xiranite_lowpoly_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_iron_xiranite_poly_1",
+      "name": "\u85CD\u9435\u74F6\u3001\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 30,
+      "path": "/industry/recipes/machine%3Adismantler_iron_xiranite_poly_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_acid_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u6C89\u7A4D\u9178",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 35,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_acid_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u6C89\u7A4D\u9178 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_copper_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 43,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_copper_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u8D64\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_copper_enr_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u8D6B\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 44,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_copper_enr_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_grass_1_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u9326\u8349\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 37,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_grass_1_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u9326\u8349\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_grass_2_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 38,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_grass_2_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_sewage_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 36,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_sewage_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_water_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u6E05\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 34,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_water_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u6E05\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_xiranite_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 39,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_xiranite_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_xiranite_enr_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 40,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_xiranite_enr_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_xiranite_lowpoly_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 42,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_xiranite_lowpoly_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_ironenr_xiranite_poly_1",
+      "name": "\u92FC\u8CEA\u74F6\u3001\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 41,
+      "path": "/industry/recipes/machine%3Adismantler_ironenr_xiranite_poly_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1\u3001\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:dismantler_xiranenr_grass_2_1",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+      "sortOrder": 78,
+      "path": "/industry/recipes/machine%3Adismantler_xiranenr_grass_2_1",
+      "outputSummary": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 5",
+      "deviceNames": [
+        "\u62C6\u89E3\u6A5F"
+      ]
+    }
+  ]
+}

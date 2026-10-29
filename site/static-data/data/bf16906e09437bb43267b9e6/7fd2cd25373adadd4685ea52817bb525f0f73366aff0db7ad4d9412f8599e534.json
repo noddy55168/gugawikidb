@@ -1,0 +1,3964 @@
+{
+  "sourceItemId": "item_equip_script_4",
+  "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+  "rarity": 4,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+  "summary": "\u8A72\u539F\u4EF6\u5168\u7A31\u70BA\u751F\u7269\u5F0F\u6838\u5FC3\u9069\u61C9\u578B\u55AE\u6B21\u9AD8\u900F\u660E\u606F\u58E4\u9444\u9020\u539F\u4EF6\uFF0C\u4E3B\u9AD4\u6750\u6599\u70BA\u5BC6\u88FD\u6676\u9AD4\u53CA\u606F\u58E4\u3002\u76F8\u8F03\u65BC\u666E\u901A\u7248\u672C\uFF0C\u64C1\u6709\u66F4\u512A\u826F\u7684\u8CC7\u6599\u50B3\u5C0E\u6027\u80FD\u3002",
+  "description": "\u900F\u904E\u591A\u7A2E\u6750\u6599\u52A0\u5DE5\u7372\u5F97\u7684\u88DD\u5099\u539F\u4EF6\uFF0C\u53EF\u7528\u65BC\u88DD\u5099\u88FD\u9020\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_winder",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u88DD\u5099\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_xiranite",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u606F\u58E4\u751F\u6210\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u88DD\u5099\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396",
+    "\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u89E3\u9396\u606F\u58E4\u5DE5\u696D"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_body_01",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_body_01.png?v=93dc12cc5951df6a11200b37815bca2e91927ae975bdc3f2f942ef4c2c31b3f0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_body_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_body_02",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u92FC\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_body_02.png?v=1f81cad39e948683bf35c90913885da8744a7536691369ca6a1825661983bb22",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_body_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_body_03",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u80F8\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_body_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_body_03.png?v=c6addc0aace50ac7fdfff798d8c7ae8ac6d41ce693de79138938afca0810a674",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_body_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_body_04",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u7A81\u8972\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_body_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_body_04.png?v=c3570185064a934d3b3041ebf91c5ed5815fc5308417c6f07a20baf1c4124d9b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_body_05/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_body_05",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u91AB\u7642\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_body_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_body_05.png?v=79238b2468e1d4aff5d8a9c7ac3aea0a9423fbd699d0b9ff54983a248dc750bd",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_body_06/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_body_06",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u5203\u88DD\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_body_06",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_body_06.png?v=c2d45246f1204d6e0162720d580f3d785e086f03c4343bf8aba98e4db117cad0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_edc_01",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u6392\u969C\u5200",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_edc_01.png?v=104f7846c9d59023acdff9f31a8ec3383b2895255fd29c765478a1d0a471f20b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_edc_02",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u706B\u7A2E\u77F3",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_edc_02.png?v=845788ca4daed3a8bc96b874b9660d04449ae9c81bbd3a69fc57e0eace18a092",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_edc_03",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u7167\u660E\u5668",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_edc_03.png?v=62460e37a213048f30331f78f9beedaff157b2166ccbd6ab7caa23a53eef2755",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_edc_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_edc_04",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u7A81\u8972\u523A\u5203",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_edc_04.png?v=3fa41dc0f670ef796e56c8b62cbd191c6c2651a820434971a843671ad70d8d69",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_edc_05/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_edc_05",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u4F9B\u80FD\u6813",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_edc_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_edc_05.png?v=2f06d9f5bae2378be893401cfcf082cf29ee71c3c260ef625d0b49821b765f53",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_edc_06/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_edc_06",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u5203\u88DD\u77ED\u92F8",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_edc_06",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_edc_06.png?v=cb8819ccfeae0ae0e1ea84cbcdc03212f6c5da5aa5b25390486c517ffd5f7c32",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_hand_01",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u624B\u5957",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_hand_01.png?v=3fe1ac285b8436754688780ea63b9281ee84421cd42bb0f4299a5d8a22dccf68",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_hand_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_hand_02",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_hand_02.png?v=9ce9f367b93dcfe2b2b29566147975ba0ee291879d4a7996b5c3b466ba2c7388",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_hand_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_hand_03",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u7E8F\u5E36",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_hand_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_hand_03.png?v=41df7d8429e7c83ddab891c25f8d28fc0a2f589b6e750f212b72d275cc9051ae",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_hand_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_hand_04",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u7A81\u8972\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_hand_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_hand_04.png?v=b634580a5e2c77c0836d481685f8fff3be14caaee6a285db224e3f321af4770f",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_hand_05/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_hand_05",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u91AB\u7642\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_hand_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_hand_05.png?v=38c2e4caceadc4c4fa106e838d4a8c18733144c2d9c7a608367024b34782c3e2",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling00_hand_06/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 3000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling00_hand_06",
+          "name": "\u96C6\u6210\u5BE6\u8A13\u5203\u88DD\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling00_hand_06",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling00_hand_06.png?v=7a317c14873a4409f568c3bbb688346a778151c332dcd0e95a5f2db86ff31c59",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling01_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling01_edc_01",
+          "name": "\u7D13\u96E3\u8B58\u5225\u8B49",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling01_edc_01.png?v=a16c8a9a6e8ae861d84ec9276d4dbd4f9ea899a092d6b3c4ba5b1b202f968d5b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling01_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling01_edc_02",
+          "name": "\u7D13\u96E3\u8B58\u5225\u8B49\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling01_edc_02.png?v=a16c8a9a6e8ae861d84ec9276d4dbd4f9ea899a092d6b3c4ba5b1b202f968d5b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling01_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling01_edc_03",
+          "name": "\u7D13\u96E3\u5370\u7AE0",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling01_edc_03.png?v=0c6aa5c04bab649c3c1bb8da36814356d8de32b9814d7e1d520cdeb15ff8a437",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_parts_wuling01_edc_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_parts_wuling01_edc_04",
+          "name": "\u7D13\u96E3\u5370\u7AE0\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_parts_wuling01_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling01_edc_04.png?v=0c6aa5c04bab649c3c1bb8da36814356d8de32b9814d7e1d520cdeb15ff8a437",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_body_01",
+          "name": "\u62D3\u8352\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_01.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_body_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_body_02",
+          "name": "\u62D3\u8352\u8B77\u7532\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_03.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_body_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_body_03",
+          "name": "\u62D3\u8352\u8B77\u7532\u00B7II",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_body_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_04.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_body_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_body_04",
+          "name": "\u62D3\u8352\u8B77\u7532III",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_body_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_02.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_edc_01",
+          "name": "\u62D3\u8352\u901A\u8A0A\u5668",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_01.png?v=985968fa092a6aef396d6fbb5cf2dab303998fa744f0a32e24930e029064a7e0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_edc_02",
+          "name": "\u62D3\u8352\u901A\u8A0A\u5668\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_02.png?v=985968fa092a6aef396d6fbb5cf2dab303998fa744f0a32e24930e029064a7e0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_edc_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_edc_04",
+          "name": "\u62D3\u8352\u589E\u91CF\u4F9B\u6C27\u6813",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_04.png?v=f258cd87a46da13d6bdcdeb9adbe2c3bc6d99cdc315973efdd9478d48c8ebf74",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atb01_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atb01_hand_01",
+          "name": "\u62D3\u8352\u8010\u8755\u624B\u5957",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atb01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_hand_01.png?v=e8abda549d007805ed3ca9ec338e6c46f5c2e411d95a4546ece5f7807a23e6bb",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atk02_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atk02_body_01",
+          "name": "50\u5F0F\u61C9\u9F8D\u91CD\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atk02_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atk02_body_01.png?v=3f535a6e6b0177d32422ee8770b64ca08115507f61eb55379b29d32286d6d06b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atk02_body_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atk02_body_04",
+          "name": "50\u5F0F\u61C9\u9F8D\u8F15\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atk02_body_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atk02_body_04.png?v=471f7572f4a7d66908505b80b0f95e0566241dd2b073c49a447310101f55b945",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atk02_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atk02_edc_01",
+          "name": "50\u5F0F\u61C9\u9F8D\u96F7\u9054",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atk02_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atk02_edc_01.png?v=72b64a995ed9d191a6a58539c2d65e037a8d3672acd1b911710d97da4f978800",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atk02_edc_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atk02_edc_04",
+          "name": "50\u5F0F\u61C9\u9F8D\u77ED\u5203",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atk02_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atk02_edc_04.png?v=93e6887557c3306d00d3d77eeb294414dac1c5e98e12cc69fd95ee85dced7185",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atk02_edc_05/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atk02_edc_05",
+          "name": "50\u5F0F\u61C9\u9F8D\u77ED\u5203\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atk02_edc_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atk02_edc_05.png?v=93e6887557c3306d00d3d77eeb294414dac1c5e98e12cc69fd95ee85dced7185",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atk02_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atk02_hand_01",
+          "name": "50\u5F0F\u61C9\u9F8D\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atk02_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atk02_hand_01.png?v=a09a7c6abdae1c0c6df6ee5f542a008475169315be4ebca2d428cc2d31e091aa",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_atk02_hand_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_atk02_hand_02",
+          "name": "50\u5F0F\u61C9\u9F8D\u8B77\u624B\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_atk02_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atk02_hand_01.png?v=a09a7c6abdae1c0c6df6ee5f542a008475169315be4ebca2d428cc2d31e091aa",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_body_01",
+          "name": "\u78BE\u9AA8\u91CD\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_body_01.png?v=2369660555a368cfa7984a9aca1c972557b73dc93244977991426012cce038d3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_body_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_body_02",
+          "name": "\u78BE\u9AA8\u91CD\u8B77\u7532\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_body_02.png?v=2369660555a368cfa7984a9aca1c972557b73dc93244977991426012cce038d3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_body_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_body_03",
+          "name": "\u78BE\u9AA8\u62AB\u5DFE",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_body_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_body_04.png?v=a8a74a1001483b589f013be822d6b815c8f05a7bc67c2ead6d37044a3d348e58",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_body_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_body_04",
+          "name": "\u78BE\u9AA8\u62AB\u5DFE\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_body_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_body_04.png?v=a8a74a1001483b589f013be822d6b815c8f05a7bc67c2ead6d37044a3d348e58",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_edc_03",
+          "name": "\u78BE\u9AA8\u5C0F\u96D5\u50CF",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_edc_06.png?v=c8656f3787b66cfb4e2f25426d3e2bdcc837b803e35bac0dcfe21b53f5a47013",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_edc_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_edc_04",
+          "name": "\u78BE\u9AA8\u9762\u5177",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_edc_04.png?v=64a3800183e9659728db3a0bd5523a989f6d259b26a5fc042db38ee632d12978",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_edc_05/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_edc_05",
+          "name": "\u78BE\u9AA8\u9762\u5177\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_edc_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_edc_05.png?v=64a3800183e9659728db3a0bd5523a989f6d259b26a5fc042db38ee632d12978",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_attri01_edc_06/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_attri01_edc_06",
+          "name": "\u78BE\u9AA8\u5C0F\u96D5\u50CF\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_attri01_edc_06",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_attri01_edc_06.png?v=c8656f3787b66cfb4e2f25426d3e2bdcc837b803e35bac0dcfe21b53f5a47013",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_burst01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_burst01_body_01",
+          "name": "\u843D\u6F6E\u8F15\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_burst01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_burst01_body_01.png?v=0be29df3799a69bf75ce86c8609669a1123af6be2efb8730626064c427f13fd0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_burst01_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_burst01_edc_01",
+          "name": "\u61F8\u6CB3\u4F9B\u6C27\u6813",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_burst01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_burst01_edc_01.png?v=97aa860be707d4cbef0536d07e8ca51bd30a1651c39082dd9fca6c1d430a0321",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_burst01_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_burst01_edc_02",
+          "name": "\u6FC1\u6D41\u5207\u5272\u70AC",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_burst01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_burst01_edc_02.png?v=31a14bea5ebe06d139a3fcdaa5ecba797d7d8d5b6de1cb98434e15bfe3b18fc9",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_burst01_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_burst01_hand_01",
+          "name": "\u6F6E\u6E67\u624B\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_burst01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_burst01_hand_01.png?v=3ee7a51724cd417ff2fc69b09c954a6a334f0f47c6597b027bcd78ad89cb263d",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_body_01",
+          "name": "M. I.\u8B66\u7528\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_body_01.png?v=277adb59114549ae741869ee1f1d3b33a8a5957f1099454bb0acbe7d52e60592",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_body_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_body_02",
+          "name": "M. I.\u8B66\u7528\u7F69\u8863",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_body_02.png?v=ff924b45fe3effb78c4c1d6bcdec68fbb5b861a8db6de94ac00539f91909b730",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_body_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_body_03",
+          "name": "M. I.\u8B66\u7528\u7F69\u8863\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_body_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_body_03.png?v=ff924b45fe3effb78c4c1d6bcdec68fbb5b861a8db6de94ac00539f91909b730",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_body_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_body_04",
+          "name": "M. I.\u8B66\u7528\u7F69\u8863\u00B7II",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_body_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_body_04.png?v=ff924b45fe3effb78c4c1d6bcdec68fbb5b861a8db6de94ac00539f91909b730",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_edc_01",
+          "name": "M. I.\u8B66\u7528\u81C2\u74B0",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_edc_01.png?v=6412ba06aee6c8a576fbabf893baa5429e392db3936a431a9bc6e07427d0d540",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_edc_02",
+          "name": "M. I.\u8B66\u7528\u7784\u5177",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_edc_02.png?v=f2620f4bb0a2b80efbc0ebce5b171d9b7d2fb5d0174c61eea2724a5e073d0d60",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_edc_03",
+          "name": "M. I.\u8B66\u7528\u5DE5\u5177\u7D44",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_edc_03.png?v=c34ff0b861c5d2c03057b1a61633ee7a2a49b3744cf964dcb4c3f5acca3d5443",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_edc_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_edc_04",
+          "name": "M. I.\u8B66\u7528\u523A\u5203",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_edc_04.png?v=ae1f55c9953a171a90ff3831e450ca5f1e51edaee9fb363eb84a95b0ab8ea6e3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_edc_05/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_edc_05",
+          "name": "M. I.\u8B66\u7528\u523A\u5203\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_edc_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_edc_05.png?v=ae1f55c9953a171a90ff3831e450ca5f1e51edaee9fb363eb84a95b0ab8ea6e3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_hand_01",
+          "name": "M. I.\u8B66\u7528\u624B\u5957",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_hand_01.png?v=7cdc3bbd0f8d9dd9483d7c74a2cf6160205b472a87a27583fddf3bbcdbf736bf",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_hand_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_hand_02",
+          "name": "M. I.\u8B66\u7528\u624B\u74B0",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_hand_02.png?v=a3231b92df789313978d766b05a8b31ea7e81a11ca0eca29fbd0c392b5204ba3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_criti01_hand_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_criti01_hand_03",
+          "name": "M. I.\u8B66\u7528\u624B\u74B0\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_criti01_hand_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_criti01_hand_03.png?v=a3231b92df789313978d766b05a8b31ea7e81a11ca0eca29fbd0c392b5204ba3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_fire_natr01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_fire_natr01_body_01",
+          "name": "\u52D5\u706B\u7528\u5916\u9AA8\u9ABC",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_fire_natr01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_fire_natr01_body_01.png?v=b413707c96cdd87fd2acc66ff5f268b3ce9d77e0723212c5824255654a405408",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_fire_natr01_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_fire_natr01_edc_01",
+          "name": "\u52D5\u706B\u7528\u5132\u80FD\u5323",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_fire_natr01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_fire_natr01_edc_01.png?v=49cc8db717e5386c7d871c86a12e3d6d4d74cd600a73372adde78a03995eb4fc",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_fire_natr01_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_fire_natr01_edc_02",
+          "name": "\u52D5\u706B\u7528\u6E2C\u6EAB\u93E1",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_fire_natr01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_fire_natr01_edc_02.png?v=fc47cd915c0a0f9ee54746da8071fb904de73190e2df099175e3dd7cd84b06df",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_fire_natr01_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_fire_natr01_edc_03",
+          "name": "\u52D5\u706B\u7528\u96FB\u529B\u5323",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_fire_natr01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_fire_natr01_edc_03.png?v=0333b0d546c77e9267ee2295c84672834a15eb8c351331be58cf9b67d0eda8fc",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_fire_natr01_hand_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_fire_natr01_hand_02",
+          "name": "\u52D5\u706B\u7528\u624B\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_fire_natr01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_fire_natr01_hand_02.png?v=44968026c0bdcd23dfb845f9968d97fb88d02139413eb4fb65ec9b6dc2409aed",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_fire_natr01_hand_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_fire_natr01_hand_03",
+          "name": "\u52D5\u706B\u7528\u624B\u7532\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_fire_natr01_hand_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_fire_natr01_hand_03.png?v=44968026c0bdcd23dfb845f9968d97fb88d02139413eb4fb65ec9b6dc2409aed",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_body_01",
+          "name": "\u751F\u7269\u8F14\u52A9\u91CD\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_body_01.png?v=17d03170ed6441903865ad71e08dae638e256d2a3733ac8c7a017237baa8e0ba",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_body_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_body_02",
+          "name": "\u751F\u7269\u8F14\u52A9\u80F8\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_body_02.png?v=839d326c571757006b6e85678f608a955b5b2664835cbe080725b226a41af3c9",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_edc_01",
+          "name": "\u751F\u7269\u8F14\u52A9\u63A5\u99C1\u5668",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_01.png?v=400f8d35ab8aeedfc854deaa31935755393944a494ba19c122cfd16395c839c4",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_edc_03",
+          "name": "\u751F\u7269\u8F14\u52A9\u8B77\u677F",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_03.png?v=5b7e1e5abe56446c015fa7507d94960d21da8a384de8d440d39a836cc2a1a631",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_edc_04/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_edc_04",
+          "name": "\u751F\u7269\u8F14\u52A9\u8B77\u76FE\u91DD",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_04.png?v=365d7fd363ed6bdee875bbb3fd68ca9ea1b221a9c678c604b59c7c20a799ba3b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_edc_05/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_edc_05",
+          "name": "\u751F\u7269\u8F14\u52A9\u63A5\u99C1\u5668\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_edc_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_01.png?v=400f8d35ab8aeedfc854deaa31935755393944a494ba19c122cfd16395c839c4",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_hand_01",
+          "name": "\u751F\u7269\u8F14\u52A9\u81C2\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_hand_01.png?v=d041ecf10ef29f969a26c2d05ae4fdc7d05eac6c71b3cf84b6f8bef27347166a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_heal01_hand_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_heal01_hand_02",
+          "name": "\u751F\u7269\u8F14\u52A9\u624B\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_heal01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_hand_02.png?v=499b579dea64b4f23a81e7ba84300ae4e7a89c5fd58cd0f5c995a490d76a29e2",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_phy01_body_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_phy01_body_02",
+          "name": "\u9EDE\u528D\u91CD\u88DD\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_phy01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_phy01_body_02.png?v=a34739d184dd01db3884e1418ae3246975c15a956e66dc66bf8f8a41b47b7359",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_phy01_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_phy01_edc_03",
+          "name": "\u9EDE\u528D\u706B\u77F3",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_phy01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_phy01_edc_03.png?v=596696eb30db8422c447cd4c319229bfb2eb3142a9e665536c0f989a12a8a9b2",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_phy01_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_phy01_hand_01",
+          "name": "\u9EDE\u528D\u6230\u8853\u624B\u5957",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_phy01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_phy01_hand_01.png?v=6bae1f22621ff1ed8dde5720d76a81064a45413ba5389f900b5f7b718ffbce43",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_phy01_hand_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_phy01_hand_02",
+          "name": "\u9EDE\u528D\u6230\u8853\u624B\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_phy01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_phy01_hand_02.png?v=f0ce6fd281900380fc8c14a02a0d6b44acb9fab07832af806750b35d341d0122",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_poise01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_poise01_body_01",
+          "name": "\u8F15\u8D85\u57DF\u8B77\u677F",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_poise01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_poise01_body_01.png?v=20e4ca232040ed34c5838d586ea75a2d1e4a43f64a0def1bb9f4cf625cf6ccfb",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_poise01_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_poise01_edc_01",
+          "name": "\u8F15\u8D85\u57DF\u5206\u6790\u74B0",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_poise01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_poise01_edc_01.png?v=cae8dd8555e305232b3c76fb190589a9deea44a745948b9f8f2804584f1d366b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_poise01_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_poise01_edc_02",
+          "name": "\u8F15\u8D85\u57DF\u7A69\u5B9A\u5668",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_poise01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_poise01_edc_02.png?v=59ddf8990c437e6742c0624679d7841a735b14d5cab245f1e2e2f0e4f9f2fd74",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_poise01_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_poise01_hand_01",
+          "name": "\u8F15\u8D85\u57DF\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_poise01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_poise01_hand_01.png?v=c454bc41661c06a3af9e4bf9556768d8d61afcdcdfae9dc44322e73508d697f3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_pulse_cryst01_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_pulse_cryst01_body_01",
+          "name": "\u8108\u885D\u5F0F\u5E72\u64FE\u670D",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_pulse_cryst01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_body_01.png?v=54090feb4c58c71a6fedacb558505e87b42eec3237d6e05052ae498f485ac5c1",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_pulse_cryst01_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_pulse_cryst01_edc_02",
+          "name": "\u8108\u885D\u5F0F\u6821\u6E96\u5668",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_pulse_cryst01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_edc_02.png?v=ecfcfa0fdf0b3d1ee2dc786913b13fbf43d2bf852359a397343421b0b9cab181",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_pulse_cryst01_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_pulse_cryst01_hand_01",
+          "name": "\u8108\u885D\u5F0F\u624B\u5957",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_pulse_cryst01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_hand_01.png?v=92ea6157aa56dc0cf4fb253257efb91db55624c657e75142dffe4eeb26a75724",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_usp02_body_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_usp02_body_01",
+          "name": "\u9577\u606F\u88DD\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_usp02_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_usp02_body_01.png?v=0272cb8cce89cd3c73bd3050d30d99ea846d3c87749938a0c274bd7b1c0095e8",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_usp02_edc_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_usp02_edc_01",
+          "name": "\u9577\u606F\u84C4\u96FB\u6838",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_usp02_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_usp02_edc_01.png?v=b3e7b2903b0587ebedd4d0bba7ca4dc3a6b7ee9a71481366cbdc2b03fb6c9dcc",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_usp02_edc_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_usp02_edc_02",
+          "name": "\u9577\u606F\u84C4\u96FB\u6838\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_usp02_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_usp02_edc_02.png?v=b3e7b2903b0587ebedd4d0bba7ca4dc3a6b7ee9a71481366cbdc2b03fb6c9dcc",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_usp02_edc_03/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_usp02_edc_03",
+          "name": "\u9577\u606F\u8F14\u52A9\u81C2",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_usp02_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_usp02_edc_03.png?v=293ec61339598f3dbd29aa8b6e2cf3f751de8a48e5a0cf1fd1fa12cfa9015d03",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_usp02_hand_01/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_usp02_hand_01",
+          "name": "\u9577\u606F\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_usp02_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_usp02_hand_01.png?v=34736430e4ae427a9d5dcb78e958d232620f5d4576aca1609a24978f84d0c603",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t4_suit_usp02_hand_02/\u6750\u6599\u7528\u9014/4000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "quantity": 8000,
+          "path": "/items/item_domain_jinlong_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t4_suit_usp02_hand_02",
+          "name": "\u9577\u606F\u8B77\u624B\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t4_suit_usp02_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_usp02_hand_01.png?v=34736430e4ae427a9d5dcb78e958d232620f5d4576aca1609a24978f84d0c603",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_4/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_enr",
+          "name": "\u5BC6\u88FD\u6676\u9AD4",
+          "quantity": 10,
+          "path": "/items/item_crystal_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_enr.png?v=498d7283180cd8a99a87f83e26af302536f5155d0f698559cd016da93a482bdd",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_powder",
+          "name": "\u606F\u58E4",
+          "quantity": 10,
+          "path": "/items/item_xiranite_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_4",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_4"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

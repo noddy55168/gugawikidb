@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:gas_reactor_gas_copper_enr2_1",
+    "name": "\u6C23\u614B\u707C\u9285",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_gas_copper_enr2.png?v=c9bc241963f17c49ee5d362c885c01617351ab2e3b2f30a1aee6c80574813a0d",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Agas_reactor_gas_copper_enr2_1",
+    "outputSummary": "\u6C23\u614B\u707C\u9285 \u00D7 1",
+    "deviceNames": [
+      "\u6C23\u9AD4\u53CD\u61C9\u7210"
+    ]
+  },
+  "description": "\u6C23\u614B\u707C\u9285\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_copper_enr",
+      "name": "\u6C23\u614B\u8D6B\u9285",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+      "link": "/items/item_gas_copper_enr"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_gas_xiranite",
+      "name": "\u606F\u58E4\u6C23",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_xiranite.png?v=64f2167c79b7445a70baf09d847c595a3aeadae697dab3939a4663c244ad0bfc",
+      "link": "/items/item_gas_xiranite"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_copper_enr2",
+      "name": "\u6C23\u614B\u707C\u9285",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_copper_enr2.png?v=c9bc241963f17c49ee5d362c885c01617351ab2e3b2f30a1aee6c80574813a0d",
+      "link": "/items/item_gas_copper_enr2"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_gas_reactor_1",
+      "name": "\u6C23\u9AD4\u53CD\u61C9\u7210",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_gas_reactor_1.png?v=d20f36b8ffb7800e0da0c80270afaf7a06e15f1fa05a1f256def0f339d5372e9",
+      "sortOrder": 13,
+      "path": "/industry/devices/wiki_item_port_gas_reactor_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

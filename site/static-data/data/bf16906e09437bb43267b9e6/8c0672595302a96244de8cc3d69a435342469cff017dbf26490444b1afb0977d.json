@@ -1,0 +1,102 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_map02_guide_004",
+    "name": "\u93AE\u7D8F\u8755\u6D77",
+    "description": "\u5728\u4ED8\u51FA\u6C89\u91CD\u7684\u72A7\u7272\u5F8C\uFF0C\u4EBA\u985E\u5728\u751A\u5927\u88C2\u9699\u4E0A\u91D8\u4E0B\u4E86\u6700\u521D\u7684\u9577\u91D8\u3002",
+    "sourceType": 13,
+    "sortOrder": 8002,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_guide_shoudun",
+    "tabImageId": "activity_tab_bg_guideshoudun",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/17 7:00:00",
+        "closeTimeRaw": "2026/5/14 4:00:00",
+        "openUnixSeconds": 1776380400,
+        "closeUnixSeconds": 1778702400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/17 7:00:00",
+        "closeTimeRaw": "2026/5/14 4:00:00",
+        "openUnixSeconds": 1776380400,
+        "closeUnixSeconds": 1778702400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/4/16 18:00:00",
+        "closeTimeRaw": "2026/5/14 4:00:00",
+        "openUnixSeconds": 1776380400,
+        "closeUnixSeconds": 1778749200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_guide",
+        "name": "\u5F15\u5165\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#3c9db5"
+  },
+  "instructionId": "activity_guide_shoudun",
+  "instructionTitle": "\u300C\u93AE\u7D8F\u8755\u6D77\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5728\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6IV - \u6C34\u706B\u4E0D\u5BB9\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u9032\u5165\u9996\u58A9\u5340\u57DF\u300D\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u8ACB\u7BA1\u7406\u54E1\u524D\u5F80\u6B66\u9675\u5730\u5340\u7684\u300C\u9996\u58A9\u300D\u5340\u57DF\uFF0C\u5B8C\u6210\u89E3\u9396\u5354\u8B70\u50B3\u9001\u9EDE\u3001\u958B\u555F\u5354\u8B70\u5132\u85CF\u7BB1\u7B49\u4EFB\u52D9\uFF0C\u5373\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_guide_shoudun_unlockmain",
+      "sourceType": 18,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5728\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6IV - \u6C34\u706B\u4E0D\u5BB9\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u9032\u5165\u9996\u58A9\u5340\u57DF\u300D",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_guide_shoudun_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 7,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 5,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 15000,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

@@ -1,0 +1,76 @@
+{
+  "sourceItemId": "item_slimeml_1_erhound_1_agfly_1_1",
+  "name": "\u624B\u6495\u87F2\u8089",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_slimeml_1_erhound_1_agfly_1_1.png?v=04930abee6581d9c6412acd34dda94aad23fde28287bc55c8a61a2471b018322",
+  "summary": "\u5E7E\u4E4E\u5B8C\u5168\u812B\u53BB\u6C34\u5206\u7684\u87F2\u8089\u4E7E\uFF0C\u5403\u8D77\u4F86\u5F88\u6709\u56BC\u52C1\u3002\u5728\u56DB\u865F\u8C37\u5730\uFF0C\u9019\u662F\u9935\u990A\u5BF5\u7269\u7684\u4E0A\u7B49\u98DF\u7269\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u6DE8\u5316\u6CD5\u8853\u9644\u8457\u8207\u6CD5\u8853\u7570\u5E38\uFF0C\u7136\u5F8C\u6BCF\u79D2\u56DE\u5FA9334\u9EDE\u751F\u547D\u503C\uFF0C\u6301\u7E8C6\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u87F2\u8089\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_slimeml_1_erhound_1_agfly_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_slimeml_1",
+          "name": "\u87F2\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_slimeml_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_erhound_1",
+          "name": "\u523A\u9F3B\u4E7E\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_erhound_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_erhound_1.png?v=f7f3f87308639a2aa672cc41b14d055577d327325839ff5c6ca484dcde721470",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agfly_1",
+          "name": "\u4E2D\u7A7A\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agfly_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agfly_1.png?v=7053fdafbeb9c70c136c7f335b089f205324dbbf3324e78fda7643d4d000791f",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_slimeml_1_erhound_1_agfly_1_1",
+          "name": "\u624B\u6495\u87F2\u8089",
+          "quantity": 1,
+          "path": "/items/item_slimeml_1_erhound_1_agfly_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_slimeml_1_erhound_1_agfly_1_1.png?v=04930abee6581d9c6412acd34dda94aad23fde28287bc55c8a61a2471b018322",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_slimeml_1_erhound_1_agfly_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_chubby_lung_stone_1",
+    "name": "\u9F8D\u6CE1\u6CE1\u77F3\u58A9",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_chubby_lung_stone_1.png?v=5752cfa1faa0935fd85df63263d34aef1a38f59e22d6cfa21738cd2a10a184c7",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_port_chubby_lung_stone_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "chubby_lung_stone_1",
+  "needPower": false,
+  "width": 2,
+  "depth": 2,
+  "height": 2,
+  "recipes": []
+}

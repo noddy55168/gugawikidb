@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:hdwk_plant_mushroom_1_2",
+    "name": "\u4E2D\u7D05\u67F1\u72C0\u83CC",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_plant_mushroom_1_2.png?v=4b3f35ac3c2456ab6b0c4e7b7311fe293d96f516976f7c12799036021444fc20",
+    "sortOrder": 301,
+    "path": "/industry/recipes/manual%3Ahdwk_plant_mushroom_1_2",
+    "outputSummary": "\u4E2D\u7D05\u67F1\u72C0\u83CC \u00D7 2",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_mushroom_1_3",
+      "name": "\u91CD\u7D05\u67F1\u72C0\u83CC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_mushroom_1_3.png?v=22af2b50610df09031e6b4c4b56ea498b1acbc51e089a931af74bed13590f331",
+      "link": "/items/item_plant_mushroom_1_3"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_mushroom_1_2",
+      "name": "\u4E2D\u7D05\u67F1\u72C0\u83CC",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_mushroom_1_2.png?v=4b3f35ac3c2456ab6b0c4e7b7311fe293d96f516976f7c12799036021444fc20",
+      "link": "/items/item_plant_mushroom_1_2"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_convert_40",
+      "name": "\u8F49\u5316\u6280\u8853\u518A\u03B2",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_formula_convert_40.png?v=87edac4561f4ca8957e1b8d17d9b3b79d39095a054eaacb7b7c9f183080c7f39",
+      "link": null
+    }
+  ],
+  "devices": []
+}

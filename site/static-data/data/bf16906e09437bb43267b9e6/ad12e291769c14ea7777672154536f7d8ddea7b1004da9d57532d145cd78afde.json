@@ -1,0 +1,212 @@
+{
+  "sourceItemId": "item_char_skill_specialize_6",
+  "name": "\u8E8D\u9077\u6F3F\u9AD4\u5857\u7247",
+  "rarity": 5,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_char_skill_specialize_6.png?v=ee15d58d9b9ae7f9b99c7d6c89c0e58de7332be6eba3484a7586e6faf739afe0",
+  "summary": "\u4EE5\u8FD1\u5341\u5E74\u5167\u5728\u5854\u885B\u4E8C\u767C\u73FE\u7684\u795E\u79D8\u6676\u72C0\u7269\u84B8\u993E\u3001\u5747\u5316\u51FA\u7684\u6F3F\u9AD4\u3002\u5176\u6676\u9AD4\u7D50\u69CB\u75315%~15%\u7684\u6CE1\u72C0\u6642\u7A7A\u66FF\u4EE3\u7269\u69CB\u6210\uFF0C\u5177\u6709\u7684\u6027\u8CEA\u76EE\u524D\u88AB\u5B78\u754C\u7A31\u70BA\u5B8F\u89C0\u8868\u5FB5\u5B58\u5728\u6027\u758A\u52A0\u3002\u900F\u904E\u8907\u96DC\u7684\u4EBA\u5DE5\u9078\u64C7\u5F8C\u88FD\u6210\u7684\u9019\u7A2E\u6F3F\u9AD4\uFF0C\u76EE\u524D\u4E3B\u8981\u7528\u65BC\u70BA\u6DF1\u5EA6\u9023\u7E8C\u6027\u5BE6\u9A57\u88FD\u4F5C\u5C0D\u7167\u7D44\u3002",
+  "description": "\u7528\u65BC\u5E79\u54E1\u7CBE\u82F1\u5316\u3001\u6B66\u5668\u7A81\u7834\u3001\u5E79\u54E1\u6280\u80FD\u5C08\u7CBE\u7684\u73CD\u7A00\u6750\u6599\u3002",
+  "wikiDescription": "",
+  "itemType": "\u73CD\u8CB4\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_case_bp_selfselect_skillsp_1_6",
+      "description": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1",
+      "condition": {
+        "sourceId": "condition_item_obtain_case_bp_selfselect_skillsp_2",
+        "kind": "leaf",
+        "text": "\u6301\u6709\u300C\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1II\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_ss06_untouched",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u9AD8\u5371\u96AA\u6750\u6599\u6EB6\u89E3\u6C60",
+      "condition": {
+        "sourceId": "condition_dung_group_ss06_untouched",
+        "kind": "leaf",
+        "text": "\u5C1A\u672A\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u9AD8\u968E\u57F9\u990AVI\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_ss06",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u9AD8\u5371\u96AA\u6750\u6599\u6EB6\u89E3\u6C60",
+      "condition": {
+        "sourceId": "condition_dung_group_ss06_touched",
+        "kind": "leaf",
+        "text": "\u5DF2\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u9AD8\u968E\u57F9\u990AVI\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dung02_bossrush04_03",
+      "description": "\u5371\u5883\u798D\u5F71\u00B7\u7940-\u6DF1\u6F5B\u6A21\u5F0F",
+      "condition": {
+        "sourceId": "condition_dung02_bossrush04_01",
+        "kind": "leaf",
+        "text": "\u89E3\u9396\u95DC\u5361\u300C\u5371\u5883\u907A\u5F71\u00B7\u7940\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_shop_greenticket_char_skill_specialize_6",
+      "description": "\u63A1\u8CFC\u4E2D\u5FC3-\u96C6\u6210\u914D\u984D\u4EA4\u6613",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_shop_yellowticket_char_skill_specialize_6",
+      "description": "\u63A1\u8CFC\u4E2D\u5FC3-\u4FDD\u969C\u914D\u984D\u4EA4\u6613",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_common",
+      "description": "\u90E8\u5206\u5354\u8B70\u7A7A\u9593\u00B7\u5371\u5883\u9810\u6F14\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_bossrush_common",
+      "description": "\u90E8\u5206\u5354\u8B70\u7A7A\u9593\u00B7\u5371\u5883\u518D\u73FE\u6DF1\u6F5B\u6A21\u5F0F\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "CharGrowthTable/chr_0036_jsspsi/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0036_jsspsi",
+          "name": "\u7940",
+          "quantity": null,
+          "path": "/operators/36",
+          "iconPath": "/media/wiki/operators/chr_0036_jsspsi/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "WeaponBreakThroughTemplateTable/weapon_breakthrough_456star_F_2/\u990A\u6210\u7528\u9014/wpn_claym_0018/80",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u6B66\u5668\u7A81\u7834",
+      "description": "\u7A81\u7834\u7B49\u7D1A 80",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_weapon_break_high",
+          "name": "\u91CD\u578B\u5F37\u56FA\u6A21\u5177",
+          "quantity": 30,
+          "path": "/items/item_weapon_break_high",
+          "iconPath": "/media/wiki/catalogs/items/item_weapon_break_high.png?v=36a35a6e7c27890570c4a42ef0bf3e65f6523c535084444c552acd2fc1a39c15",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_char_skill_specialize_6",
+          "name": "\u8E8D\u9077\u6F3F\u9AD4\u5857\u7247",
+          "quantity": 16,
+          "path": "/items/item_char_skill_specialize_6",
+          "iconPath": "/media/wiki/catalogs/items/item_char_skill_specialize_6.png?v=ee15d58d9b9ae7f9b99c7d6c89c0e58de7332be6eba3484a7586e6faf739afe0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_spcstone_2_2",
+          "name": "\u6B66\u9675\u77F3",
+          "quantity": 8,
+          "path": "/items/item_plant_spcstone_2_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_2_2.png?v=b4f20b2cc4ea474a9846f5d059108f584e267f4c2ee4682e8d1af12c1ddbdc76",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_claym_0018",
+          "name": "\u7389\u4E2D\u8EAB",
+          "quantity": null,
+          "path": "/weapons/wpn_claym_0018",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_claym_0018.png?v=5038c53ea55b732247a9ba6dedb4a587ca992a638b005618927a0989895c1460",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "WeaponBreakThroughTemplateTable/weapon_breakthrough_456star_F_3/\u990A\u6210\u7528\u9014/wpn_claym_0019/80",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u6B66\u5668\u7A81\u7834",
+      "description": "\u7A81\u7834\u7B49\u7D1A 80",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_weapon_break_high",
+          "name": "\u91CD\u578B\u5F37\u56FA\u6A21\u5177",
+          "quantity": 30,
+          "path": "/items/item_weapon_break_high",
+          "iconPath": "/media/wiki/catalogs/items/item_weapon_break_high.png?v=36a35a6e7c27890570c4a42ef0bf3e65f6523c535084444c552acd2fc1a39c15",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_char_skill_specialize_6",
+          "name": "\u8E8D\u9077\u6F3F\u9AD4\u5857\u7247",
+          "quantity": 16,
+          "path": "/items/item_char_skill_specialize_6",
+          "iconPath": "/media/wiki/catalogs/items/item_char_skill_specialize_6.png?v=ee15d58d9b9ae7f9b99c7d6c89c0e58de7332be6eba3484a7586e6faf739afe0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_spcstone_2_3",
+          "name": "\u5354\u8B70\u7D0B\u77F3",
+          "quantity": 8,
+          "path": "/items/item_plant_spcstone_2_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_2_3.png?v=8c1f70b7d40ece96018d06101a6bf0a84774ca9a210c252e04a20e9acf9f13ae",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_claym_0019",
+          "name": "\u60A0\u4E45\u50B3\u627F",
+          "quantity": null,
+          "path": "/weapons/wpn_claym_0019",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_claym_0019.png?v=20b506ff346660c7af00440aa8266fd0c2e78a08f1f8a233095d8c88fe394cb4",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

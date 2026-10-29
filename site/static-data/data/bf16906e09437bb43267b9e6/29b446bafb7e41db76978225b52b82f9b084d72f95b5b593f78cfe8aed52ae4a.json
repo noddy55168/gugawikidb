@@ -1,0 +1,1940 @@
+{
+  "sourceItemId": "item_equip_script_3",
+  "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+  "summary": "\u8A72\u539F\u4EF6\u5168\u7A31\u70BA\u751F\u7269\u5F0F\u6838\u5FC3\u9069\u61C9\u578B\u55AE\u6B21\u5354\u8B70\u9444\u9020\u539F\u4EF6\uFF0C\u4E3B\u9AD4\u6750\u6599\u70BA\u9AD8\u6676\uFF0C\u64CD\u4F5C\u8D77\u4F86\u66F4\u52A0\u4FBF\u5229\u3002",
+  "description": "\u900F\u904E\u591A\u7A2E\u6750\u6599\u52A0\u5DE5\u7372\u5F97\u7684\u88DD\u5099\u539F\u4EF6\uFF0C\u53EF\u7528\u65BC\u88DD\u5099\u88FD\u9020\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_winder",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u88DD\u5099\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u88DD\u5099\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_body_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_body_01",
+          "name": "\u7926\u5834\u8B77\u7532\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_body_01.png?v=6557c2b47609cc0fb399fe985aa956038ca3f7ae946a0425353288308f62e771",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_body_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_body_02",
+          "name": "\u7926\u5834\u9632\u8B77\u670D\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_body_02.png?v=f57d5d47b3ed0398455ef83ace10ef8136498c110ea0007aef6d46b791fa0c04",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_edc_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_edc_01",
+          "name": "\u7926\u5834\u589E\u58D3\u8F2A\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_edc_01.png?v=0d85e342857df0145883100d3bc27e79814244b61484ccf069fa9f5d9d08b63a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_edc_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_edc_02",
+          "name": "\u7926\u5834\u50B3\u52D5\u8F2A\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_edc_02.png?v=b80d911acdd7683e39a1671da455f38400f53d8b5349120b385421aa3d6e1ada",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_edc_03/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_edc_03",
+          "name": "\u7926\u5834\u58D3\u7E2E\u6838\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_edc_03.png?v=5ab00245589650803810c9937ab43e3eab2c97b0a213852330d86b59e6eafa2b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_edc_04/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_edc_04",
+          "name": "\u7926\u5834\u806F\u7D61\u5100\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_edc_04.png?v=ae9b36f6eedf664319427c3af1adfd502280bb939b65f0be0bddd0bb99256e49",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_hand_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_hand_01",
+          "name": "\u7926\u5834\u624B\u5957\u00B7II",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_hand_01.png?v=3f73c18c8615c094495310c867f47e15c4717afbb61e493007db01dfd34d3eb1",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_parts_tundra01_hand_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_parts_tundra01_hand_02",
+          "name": "\u7926\u5834\u8B77\u624B\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_parts_tundra01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_parts_tundra01_hand_02.png?v=0f37c64e3c0472fe32cec841721cdcbbf2e8ac229e89844707f8dacd0385551e",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_agi01_body_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_agi01_body_01",
+          "name": "\u5DE1\u884C\u4FE1\u4F7F\u593E\u514B\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_agi01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_agi01_body_01.png?v=98cfe3c8777126dd7fc982213ac34fc219cf88655b0f6cc86b7f7c2169ffb363",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_agi01_edc_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_agi01_edc_01",
+          "name": "\u5DE1\u884C\u4FE1\u4F7F\u624B\u96FB\u7B52\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_agi01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_agi01_edc_01.png?v=3a1595d733ed0e2aef784a638b04617d9562d7138d4915f358d62249cab9c1c0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_agi01_edc_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_agi01_edc_02",
+          "name": "\u5DE1\u884C\u4FE1\u4F7F\u624B\u96FB\u7B52\u00B7II",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_agi01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_agi01_edc_02.png?v=3a1595d733ed0e2aef784a638b04617d9562d7138d4915f358d62249cab9c1c0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_agi01_edc_03/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_agi01_edc_03",
+          "name": "\u5DE1\u884C\u4FE1\u4F7F\u9640\u87BA\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_agi01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_agi01_edc_03.png?v=fdf0b42f5c2cda7b4aec9ffc469d3ffd4326f1f07ff770dbd888a302e2f4bb2c",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_agi01_hand_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_agi01_hand_01",
+          "name": "\u5DE1\u884C\u4FE1\u4F7F\u624B\u5957\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_agi01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_agi01_hand_01.png?v=aa394db35495974a24e2ab93b1467c7d6964b99a02cedf80f06ac733f349a9e3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_body_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_body_01",
+          "name": "\u963F\u4F2F\u8389\u91CD\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_body_01.png?v=4bb703599ba789052cbf8ce16efde28c97e48d1e8a076cd94ade6f60f0f5a501",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_body_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_body_02",
+          "name": "\u963F\u4F2F\u8389\u91CD\u7532\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_body_02.png?v=9e9325d93aae34a372c27f330c68b727e3f1f1e4302a3754e8de0174427f7ef1",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_body_03/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_body_03",
+          "name": "\u963F\u4F2F\u8389\u8F15\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_body_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_body_03.png?v=c93c9de55020d3e4ed37a7ca8033306b7dd908445977f86b97fdf20a056481f8",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_body_04/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_body_04",
+          "name": "\u963F\u4F2F\u8389\u8F15\u7532\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_body_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_body_04.png?v=c93c9de55020d3e4ed37a7ca8033306b7dd908445977f86b97fdf20a056481f8",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_edc_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_edc_01",
+          "name": "\u963F\u4F2F\u8389\u7D2B\u5149\u71C8",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_edc_01.png?v=0195b3ab68b0d20862da59092886cfdaf29f72a2d056b28d2fc8b0fed016d602",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_edc_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_edc_02",
+          "name": "\u963F\u4F2F\u8389\u5075\u807D\u6676\u7247",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_edc_02.png?v=12e7aa022fe8ab7dc212b597ddb09b5e7276d7e67966ac880879906d8465f5cb",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_edc_03/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_edc_03",
+          "name": "\u963F\u4F2F\u8389\u5075\u807D\u6676\u7247\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_edc_03.png?v=12e7aa022fe8ab7dc212b597ddb09b5e7276d7e67966ac880879906d8465f5cb",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_edc_04/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_edc_04",
+          "name": "\u963F\u4F2F\u8389\u7167\u660E\u5668",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_edc_04",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_edc_04.png?v=7c7a62eac2d6dc7afd868aac80cb680fe453e88e40786dd04eae09bd55fdd8ab",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_edc_05/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_edc_05",
+          "name": "\u963F\u4F2F\u8389\u611F\u6E2C\u6676\u7247",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_edc_05",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_edc_05.png?v=fb0deb4f7857d69dcc29223da34bd18fbe0e3d1aa2c3d250d400d17ee42b1fce",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_edc_06/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_edc_06",
+          "name": "\u963F\u4F2F\u8389\u611F\u6E2C\u6676\u7247\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_edc_06",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_edc_06.png?v=fb0deb4f7857d69dcc29223da34bd18fbe0e3d1aa2c3d250d400d17ee42b1fce",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_atk01_hand_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_atk01_hand_01",
+          "name": "\u963F\u4F2F\u8389\u624B\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_atk01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_atk01_hand_01.png?v=14814674e4b98ed418fdbdd4cf5a8bcd50fd305e14b9e6e26e771fdf906c41d7",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_str01_body_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_str01_body_01",
+          "name": "\u91CD\u88DD\u4FE1\u4F7F\u593E\u514B\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_str01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_str01_body_01.png?v=eaf19a8cad0825de8a5d024a4f6dfd8b4701e6b810cdfb172821fa07d482193f",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_str01_edc_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_str01_edc_01",
+          "name": "\u91CD\u88DD\u4FE1\u4F7F\u9640\u87BA\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_str01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_str01_edc_01.png?v=8a4c1ea3485b4586893acbce6b4b2613bf0a0c8555efd1579ba45dba3c8a2f70",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_str01_edc_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_str01_edc_02",
+          "name": "\u91CD\u88DD\u4FE1\u4F7F\u624B\u96FB\u7B52\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_str01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_str01_edc_02.png?v=08c8c56d3dc6effaf7bf3a27feea103dbccb426e20b1b12afda93bd3cb2bc41a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_str01_hand_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_str01_hand_01",
+          "name": "\u91CD\u88DD\u4FE1\u4F7F\u624B\u5957\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_str01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_str01_hand_01.png?v=d1ec3192c851fd5d826791dac73ad02768295b0d95434fb85212ede118bd651a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_str01_hand_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_str01_hand_02",
+          "name": "\u91CD\u88DD\u4FE1\u4F7F\u624B\u5957\u00B7II",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_str01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_str01_hand_02.png?v=d1ec3192c851fd5d826791dac73ad02768295b0d95434fb85212ede118bd651a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_usp01_body_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_usp01_body_01",
+          "name": "\u5929\u707D\u9632\u8B77\u91CD\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_usp01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_usp01_body_01.png?v=fe618e2f0ed1fc46424c54d2567301818d728f83760586f6105f9498e906be07",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_usp01_body_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_usp01_body_02",
+          "name": "\u5929\u707D\u9632\u8B77\u91CD\u7532\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_usp01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_usp01_body_02.png?v=fe618e2f0ed1fc46424c54d2567301818d728f83760586f6105f9498e906be07",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_usp01_edc_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_usp01_edc_01",
+          "name": "\u5929\u707D\u9632\u8B77\u6DE8\u82AF",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_usp01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_usp01_edc_02.png?v=37bb665863933a365a8bb36276701931b77db8f14155316f9fbe14f955fa164d",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_usp01_edc_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_usp01_edc_02",
+          "name": "\u5929\u707D\u9632\u8B77\u6DE8\u82AF\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_usp01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_usp01_edc_02.png?v=37bb665863933a365a8bb36276701931b77db8f14155316f9fbe14f955fa164d",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_usp01_edc_03/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_usp01_edc_03",
+          "name": "\u5929\u707D\u9632\u8B77\u6FFE\u5FC3",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_usp01_edc_03",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_usp01_edc_03.png?v=591d3a5d3406bdd01f0c85d6bfd400da65e6c41f7f077720488b663f365e398e",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_usp01_hand_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_usp01_hand_01",
+          "name": "\u5929\u707D\u9632\u8B77\u624B\u5957",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_usp01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_usp01_hand_01.png?v=fb2a9bcb5f43906486c3c4f37be8a6491004025cd7a12d3d5023d3b56443d76b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_will01_body_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_will01_body_01",
+          "name": "\u8755\u96FB\u9632\u8B77\u80CC\u5FC3\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_will01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_will01_body_01.png?v=ec1f9de731f31991a0ab50da2b385742132132948034da568258ee40c9a36af6",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_will01_edc_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_will01_edc_01",
+          "name": "\u8755\u96FB\u9632\u8B77\u96FB\u6C60\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_will01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_will01_edc_01.png?v=57eab556fff8e6eeb324a78bcfe9ec1552b7e8c20c129edee0bce70ce6403733",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_will01_edc_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_will01_edc_02",
+          "name": "\u8755\u96FB\u9632\u8B77\u6273\u624B\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_will01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_will01_edc_02.png?v=75c3da09dc137cb28b5b96ca386d7ef833a9e07013766eaddf065ba7dd9c02c2",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_will01_hand_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_will01_hand_01",
+          "name": "\u8755\u96FB\u9632\u8B77\u624B\u5957\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_will01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_will01_hand_01.png?v=d117a6473db6c936014f5636f4f7b6498a3a9f8e185a3400f263af056749103e",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_wisd01_body_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_wisd01_body_01",
+          "name": "\u8755\u96FB\u7D55\u7DE3\u80CC\u5FC3\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_wisd01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_wisd01_body_01.png?v=2b45c00cfc461bc923b749f1c4dc0682e96bdeab775ca0c60b4b9fd2e7032812",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_wisd01_body_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_wisd01_body_02",
+          "name": "\u8755\u96FB\u7D55\u7DE3\u80CC\u5FC3\u00B7II",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_wisd01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_wisd01_body_02.png?v=2b45c00cfc461bc923b749f1c4dc0682e96bdeab775ca0c60b4b9fd2e7032812",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_wisd01_edc_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_wisd01_edc_01",
+          "name": "\u8755\u96FB\u7D55\u7DE3\u6273\u624B\u00B7II",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_wisd01_edc_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_wisd01_edc_01.png?v=7e8c8718ab5efadd6a5bdc2421b5f22c927f5a544f8ef13275d20cbac0ca24d8",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_wisd01_edc_02/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_wisd01_edc_02",
+          "name": "\u8755\u96FB\u7D55\u7DE3\u96FB\u6C60\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_wisd01_edc_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_wisd01_edc_02.png?v=22c74167214ff390d046f8f87f7b13cad17d630c5d38db927771167e4c07996b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t3_suit_wisd01_hand_01/\u6750\u6599\u7528\u9014/3000",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 50,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "quantity": 9600,
+          "path": "/items/item_domain_tundra_coupon",
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t3_suit_wisd01_hand_01",
+          "name": "\u8755\u96FB\u7D55\u7DE3\u624B\u5957\u00B7I",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t3_suit_wisd01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t3_suit_wisd01_hand_01.png?v=fdbcd28f269cabdd2d8706e154e22cafb5552e5b1ccd3920d13e2787957ef0d8",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_3/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_enr",
+          "name": "\u5BC6\u88FD\u6676\u9AD4",
+          "quantity": 10,
+          "path": "/items/item_crystal_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_enr.png?v=498d7283180cd8a99a87f83e26af302536f5155d0f698559cd016da93a482bdd",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr",
+          "name": "\u9AD8\u6676\u7E96\u7DAD",
+          "quantity": 10,
+          "path": "/items/item_quartz_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr.png?v=e08aa669b668645f4fa586f59c942843b790fa0634e2ae9fa4324684f6d19467",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_3",
+          "name": "\u9AD8\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_3.png?v=b9765adc53dc06e5173acc6e7790a25eef0efa19f959db86914d9ed11a8cf4e0",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_3"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

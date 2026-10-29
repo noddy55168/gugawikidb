@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:tools_proc_food_4_1",
+    "name": "\u9326\u8349\u98F2\u6599",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_bottled_food_4.png?v=e2608727bec0feb7061d9828b65131e47d62f032e0ea2ff51838cb923ed31d87",
+    "sortOrder": 7,
+    "path": "/industry/recipes/machine%3Atools_proc_food_4_1",
+    "outputSummary": "\u9326\u8349\u98F2\u6599 \u00D7 1",
+    "deviceNames": [
+      "\u5C01\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u9326\u8349\u98F2\u6599\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_cmpt",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "link": "/items/item_iron_cmpt"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_fbottle_iron_grass_1",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "link": "/items/item_fbottle_iron_grass_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_food_4",
+      "name": "\u9326\u8349\u98F2\u6599",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_food_4.png?v=e2608727bec0feb7061d9828b65131e47d62f032e0ea2ff51838cb923ed31d87",
+      "link": "/items/item_bottled_food_4"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_tools_asm_mc_1",
+      "name": "\u5C01\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

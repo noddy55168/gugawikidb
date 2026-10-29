@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:tools_proc_filter_core_2",
+    "name": "\u5206\u96E2\u82AF",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+    "sortOrder": 14,
+    "path": "/industry/recipes/machine%3Atools_proc_filter_core_2",
+    "outputSummary": "\u5206\u96E2\u82AF \u00D7 2",
+    "deviceNames": [
+      "\u5C01\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u5206\u96E2\u82AF\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_jar",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "link": "/items/item_copper_jar"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_filter_core",
+      "name": "\u5206\u96E2\u82AF",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+      "link": "/items/item_filter_core"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_tools_asm_mc_1",
+      "name": "\u5C01\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

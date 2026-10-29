@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_ethillu_1_wgslime_1_wgthorns_1_1",
+    "name": "\u8FF4\u97FF\u79D8\u5291",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_ethillu_1_wgslime_1_wgthorns_1_1.png?v=e2b9dd6353914514b84af7e2905efe85eca795865a1763a383da22534192e637",
+    "sortOrder": 39,
+    "path": "/industry/recipes/manual%3Ahdwk_ethillu_1_wgslime_1_wgthorns_1_1",
+    "outputSummary": "\u8FF4\u97FF\u79D8\u5291 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_ethillu_1",
+      "name": "\u8FF4\u97FF\u5875\u57C3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_ethillu_1.png?v=c6389ed3bb50574c76677b3d20b4b6494944988167a6a92faf49403bea6519cc",
+      "link": "/items/item_drop_ethillu_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_wgslime_1",
+      "name": "\u5805\u97CC\u7684\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+      "link": "/items/item_drop_wgslime_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_drop_wgthorns_1",
+      "name": "\u5929\u7136\u6C23\u6CE1\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_wgthorns_1.png?v=ae4b5da9c56c44e74971dd3ccdb8c801e4f854eefabfb6e0ed26e6a16230df85",
+      "link": "/items/item_drop_wgthorns_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_ethillu_1_wgslime_1_wgthorns_1_1",
+      "name": "\u8FF4\u97FF\u79D8\u5291",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_ethillu_1_wgslime_1_wgthorns_1_1.png?v=e2b9dd6353914514b84af7e2905efe85eca795865a1763a383da22534192e637",
+      "link": "/items/item_ethillu_1_wgslime_1_wgthorns_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_ethillu_1_wgslime_1_wgthorns_1_1",
+      "name": "\u8FF4\u97FF\u79D8\u5291\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_ethillu_1_wgslime_1_wgthorns_1_1.png?v=e2b9dd6353914514b84af7e2905efe85eca795865a1763a383da22534192e637",
+      "link": null
+    }
+  ],
+  "devices": []
+}

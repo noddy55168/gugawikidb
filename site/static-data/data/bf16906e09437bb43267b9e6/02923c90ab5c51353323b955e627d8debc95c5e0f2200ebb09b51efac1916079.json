@@ -1,0 +1,34 @@
+{
+  "sourceItemId": "item_drop_lbroshan_1",
+  "name": "\u7834\u57CE\u8005\u62F3\u7532",
+  "rarity": 4,
+  "category": "\u63A1\u96C6\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_drop_lbroshan_1.png?v=dd810737482236c6ba1bf2842cf4dba280e2210aab49890e807c3c4d34fce065",
+  "summary": "\u78BE\u9AA8\u7834\u57CE\u8005\u88DD\u5099\u7684\u5BE6\u9A57\u578B\u62F3\u7532\uFF0C\u672C\u4F86\u662F\u4E00\u7A2E\u5C0F\u578B\u653B\u57CE\u5175\u5668\u3002\u88C2\u5730\u8005\u986F\u7136\u4E0D\u6703\u5728\u610F\u300C\u7528\u6236\u9AD4\u9A57\u300D\uFF0C\u6B64\u7A2E\u62F3\u7532\u6703\u7262\u7262\u5D4C\u5165\u4F7F\u7528\u8005\u7684\u8840\u8089\uFF0C\u70BA\u4ED6\u5011\u5E36\u4F86\u6975\u5927\u7684\u75DB\u82E6\u3002",
+  "description": "\u64CA\u6557\u78BE\u9AA8\u7834\u57CE\u8005\u7684\u6389\u843D\u7269\uFF0C\u53EF\u7528\u65BC\u5009\u5132\u7BC0\u9EDE\u88DD\u7BB1\u904B\u9001\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u4E2D\u64CA\u6557\u6575\u4EBA\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_eny_0075_lbroshan",
+      "description": "\u64CA\u6557\u78BE\u9AA8\u7834\u57CE\u8005\u6709\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_jlebm_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

@@ -1,0 +1,422 @@
+{
+  "sourceItemId": "item_plant_grass_powder_1",
+  "name": "\u9326\u8349\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+  "summary": "\u5728\u7D93\u904E\u7C89\u788E\u8655\u7406\u5F8C\uFF0C\u9326\u8349\u7C89\u672B\u9700\u8981\u6EB6\u89E3\u4E26\u704C\u88DD\u5F8C\u624D\u80FD\u4F7F\u7528\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7ACB\u523B\u56DE\u5FA9874\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_grass_1",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u9326\u8349\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u7372\u5F97\u9326\u8349\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_liquid_plant_grass_1",
+      "name": "\u9326\u8349\u6EB6\u6DB2",
+      "iconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_jlebs_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_food_4",
+      "name": "\u9326\u8349\u98F2\u6599",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_food_4.png?v=e2608727bec0feb7061d9828b65131e47d62f032e0ea2ff51838cb923ed31d87",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/furnance_carbon_powder_4/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_powder",
+          "name": "\u78B3\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_carbon_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_powder.png?v=0dbcdd95b1f124b60785125a09c47ad67f8b8cf042bb86da16294bfe5afe68fe",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_carbon_powder_4"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_liquid_plant_grass_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_plant_grass_1",
+          "name": "\u9326\u8349\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_plant_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_liquid_plant_grass_1_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_liquid_plant_grass_1_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_plant_grass_1",
+          "name": "\u9326\u8349\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_plant_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_liquid_plant_grass_1_2"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_corp3_grass1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_3",
+          "name": "\u74CA\u8449\u8518",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_3.png?v=8db3ba1866255f35d711904d751a9cb6819dead719137045e5b04e1755552ee5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 8,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp3_grass1_1",
+          "name": "\u6B63\u672C\u88DC\u5143\u6E6F\u5291",
+          "quantity": 1,
+          "path": "/items/item_corp3_grass1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp3_grass1_1.png?v=1121430e8787716dbfc9a5db9013e3da2677fee6f3a5f3cc4654c21e8f1de534",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp3_grass1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_hscrane_1_hsmob_1_grass_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hscrane_1",
+          "name": "\u7AF9\u6797\u87F2\u86F9",
+          "quantity": 1,
+          "path": "/items/item_drop_hscrane_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hscrane_1.png?v=7f016f26c01607f6b0786dbce7bd74022d67f9d8b6b624182fac4012492eca0f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 1,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_hscrane_1_hsmob_1_grass_1_1",
+          "name": "\u6F58\u5E2B\u5085\u84B8\u86CB",
+          "quantity": 1,
+          "path": "/items/item_hscrane_1_hsmob_1_grass_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_hscrane_1_hsmob_1_grass_1_1.png?v=6dab3ae583e36326c58c3bdd3ce0e4991173f6382c6c77bf7def0035069ae3d5",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_hscrane_1_hsmob_1_grass_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_wgshoal_1_grass_1_grass_2_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgshoal_1",
+          "name": "\u751C\u81A9\u9ED1\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgshoal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgshoal_1.png?v=b551421f8881e29c2e4222bc413b812a07737ce6344b21122fb1a96da019ba24",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_2",
+          "name": "\u82BD\u91DD\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_wgshoal_1_grass_1_grass_2_1",
+          "name": "\u5C0F\u7CD6\u756B",
+          "quantity": 1,
+          "path": "/items/item_wgshoal_1_grass_1_grass_2_1",
+          "iconPath": "/media/wiki/catalogs/items/item_wgshoal_1_grass_1_grass_2_1.png?v=f084aadf50a712e4714d18c1c51b3e6f4c7828ade27616ae9da26df356fe7fd5",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_wgshoal_1_grass_1_grass_2_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_plant_grass_powder_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_1",
+          "name": "\u9326\u8349",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_1.png?v=6f13be316f253a7e5df2fe943dd3931c826791ad08180421e42a5873c0bc8087",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_plant_grass_powder_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_plant_grass_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_1",
+          "name": "\u9326\u8349",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_1.png?v=6f13be316f253a7e5df2fe943dd3931c826791ad08180421e42a5873c0bc8087",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_plant_grass_powder_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

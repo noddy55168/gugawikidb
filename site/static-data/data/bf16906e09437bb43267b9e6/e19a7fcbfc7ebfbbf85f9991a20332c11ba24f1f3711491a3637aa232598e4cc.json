@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:liquid_transmuter_1_liquid_liquid_acid_1",
+    "name": "\u6C89\u7A4D\u9178",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+    "sortOrder": 2,
+    "path": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_acid_1",
+    "outputSummary": "\u6C89\u7A4D\u9178 \u00D7 1",
+    "deviceNames": [
+      "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+    ]
+  },
+  "description": "\u6C89\u7A4D\u9178\u8F49\u5316",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_acid",
+      "name": "\u9178\u6C23",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_acid.png?v=c4af4d46e0c8eb79cbff980757c9a964011a10cda80a1a4a06a03a1526f8199a",
+      "link": "/items/item_gas_acid"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_acid",
+      "name": "\u6C89\u7A4D\u9178",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+      "link": "/items/item_liquid_acid"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_phase_trans_1",
+      "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_phase_trans_1.png?v=205b4d8e6e53d9ad860ad2bb1574e22f81ad7fa9c0ba34a40543f289e35e4ba0",
+      "sortOrder": 10,
+      "path": "/industry/devices/wiki_item_port_phase_trans_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

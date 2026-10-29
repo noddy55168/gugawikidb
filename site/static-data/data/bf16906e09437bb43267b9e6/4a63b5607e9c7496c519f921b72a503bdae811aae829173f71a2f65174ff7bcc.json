@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:handwork_bottled_moss_1_2_1",
+    "name": "\u610F\u4E82\u85E5\u5291",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_bottled_moss_1_2_1.png?v=fc3b5a8cec6185ba735cda79f6b1119c3119fde26acc675d5c2ddaba199f76eb",
+    "sortOrder": 26,
+    "path": "/industry/recipes/manual%3Ahandwork_bottled_moss_1_2_1",
+    "outputSummary": "\u610F\u4E82\u85E5\u5291 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_powder_1",
+      "name": "\u854E\u82B1\u7C89\u672B",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+      "link": "/items/item_plant_moss_powder_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_moss_spc_powder_2",
+      "name": "\u67D1\u5BE6\u6C96\u6CE1\u5291",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_moss_spc_powder_2.png?v=cf81f036c98184b38b781985c05752566c78cc1af092a44b294620c9814ebe2a",
+      "link": "/items/item_plant_moss_spc_powder_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_moss_1_2_1",
+      "name": "\u610F\u4E82\u85E5\u5291",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_moss_1_2_1.png?v=fc3b5a8cec6185ba735cda79f6b1119c3119fde26acc675d5c2ddaba199f76eb",
+      "link": "/items/item_bottled_moss_1_2_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_bottled_moss_1_2_1",
+      "name": "\u610F\u4E82\u85E5\u5291\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_bottled_moss_1_2_1.png?v=fc3b5a8cec6185ba735cda79f6b1119c3119fde26acc675d5c2ddaba199f76eb",
+      "link": null
+    }
+  ],
+  "devices": []
+}

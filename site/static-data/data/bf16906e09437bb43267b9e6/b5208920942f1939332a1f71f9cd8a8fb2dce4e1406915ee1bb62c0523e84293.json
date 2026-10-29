@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:liquid_purifier_gas_xiranite_enr_2",
+    "name": "\u91CD\u606F\u58E4\u6C23",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_gas_xiranite_enr.png?v=07f92b772698df9eeb38815afcb4cd6cb6381a6d9049c8501d0b05e8ee3bb15a",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Aliquid_purifier_gas_xiranite_enr_2",
+    "outputSummary": "\u91CD\u606F\u58E4\u6C23 \u00D7 1",
+    "deviceNames": [
+      "\u63D0\u7D14\u6A5F"
+    ]
+  },
+  "description": "\u91CD\u606F\u58E4\u6C23\u63D0\u7D14",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_xiranite",
+      "name": "\u606F\u58E4\u6C23",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_gas_xiranite.png?v=64f2167c79b7445a70baf09d847c595a3aeadae697dab3939a4663c244ad0bfc",
+      "link": "/items/item_gas_xiranite"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_filter_core",
+      "name": "\u5206\u96E2\u82AF",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+      "link": "/items/item_filter_core"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_xiranite_enr",
+      "name": "\u91CD\u606F\u58E4\u6C23",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_xiranite_enr.png?v=07f92b772698df9eeb38815afcb4cd6cb6381a6d9049c8501d0b05e8ee3bb15a",
+      "link": "/items/item_gas_xiranite_enr"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_liquid_purifier_1",
+      "name": "\u63D0\u7D14\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_liquid_purifier_1.png?v=1ff0e03a32804b09c3ba9c90fbe55e5820d73c30aa0e7920b6000d7f1d2e29ff",
+      "sortOrder": 8,
+      "path": "/industry/devices/wiki_item_port_liquid_purifier_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

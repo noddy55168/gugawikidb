@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_agrange_1_erhound_1_sp_1_1",
+    "name": "\u96C5\u5404\u5E03\u7684\u907A\u7522",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_agrange_1_erhound_1_sp_1_1.png?v=d745c5766fc1deb6280fd562f789ef6f8c471ab3927f395263848c3a63920fa4",
+    "sortOrder": 32,
+    "path": "/industry/recipes/manual%3Ahdwk_agrange_1_erhound_1_sp_1_1",
+    "outputSummary": "\u96C5\u5404\u5E03\u7684\u907A\u7522 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_agrange_1",
+      "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+      "link": "/items/item_drop_agrange_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_erhound_1",
+      "name": "\u523A\u9F3B\u4E7E\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_erhound_1.png?v=f7f3f87308639a2aa672cc41b14d055577d327325839ff5c6ca484dcde721470",
+      "link": "/items/item_drop_erhound_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_1",
+      "name": "\u7070\u8606\u9EA5",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+      "link": "/items/item_plant_sp_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_agrange_1_erhound_1_sp_1_1",
+      "name": "\u96C5\u5404\u5E03\u7684\u907A\u7522",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_agrange_1_erhound_1_sp_1_1.png?v=d745c5766fc1deb6280fd562f789ef6f8c471ab3927f395263848c3a63920fa4",
+      "link": "/items/item_agrange_1_erhound_1_sp_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_agrange_1_erhound_1_sp_1_1",
+      "name": "\u96C5\u5404\u5E03\u7684\u907A\u7522\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_agrange_1_erhound_1_sp_1_1.png?v=d745c5766fc1deb6280fd562f789ef6f8c471ab3927f395263848c3a63920fa4",
+      "link": null
+    }
+  ],
+  "devices": []
+}

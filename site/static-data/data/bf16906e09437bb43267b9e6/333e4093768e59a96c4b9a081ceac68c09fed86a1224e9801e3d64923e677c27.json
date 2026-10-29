@@ -1,0 +1,134 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_submit_food_1",
+    "name": "\u7269\u8CC7\u4F9B\u7D66\u00B7\u958B\u62D3\u7BC0",
+    "description": "\u70BA\u4E86\u8B93\u4EBA\u5011\u62FE\u8D77\u9762\u5C0D\u56F0\u5883\u7684\u52C7\u6C23\uFF0C\u7F85\u66FC\u8ACB\u6C42\u7BA1\u7406\u54E1\u5E6B\u5FD9\u6E96\u5099\u4E00\u4E9B\u98DF\u7269\uFF0C\u5206\u767C\u7D66\u773E\u4EBA\u3002",
+    "sourceType": 12,
+    "sortOrder": 6011,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_submit_food_1",
+    "tabImageId": "activity_tab_bg_materialsupply",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/19 12:00:00",
+        "closeTimeRaw": "2026/4/2 4:00:00",
+        "openUnixSeconds": 1773892800,
+        "closeUnixSeconds": 1775073600
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/19 12:00:00",
+        "closeTimeRaw": "2026/4/2 4:00:00",
+        "openUnixSeconds": 1773892800,
+        "closeUnixSeconds": 1775073600
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/3/19 12:00:00",
+        "closeTimeRaw": "2026/4/2 4:00:00",
+        "openUnixSeconds": 1773939600,
+        "closeUnixSeconds": 1775120400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_item_submission",
+        "name": "\u4F9B\u7D66\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#dbf121"
+  },
+  "instructionId": "activity_submit_food_1_info",
+  "instructionTitle": "\u300C\u7269\u8CC7\u4F9B\u7D66\u00B7\u958B\u62D3\u7BC0\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6III - \u8A6D\u6A13\u5C0B\u8E64\n\u00B7 \u5B8C\u6210\u63A2\u7D22\u4EFB\u52D9\uFF1A\u7A3C\u7A61\u4E0D\u6613\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u53EF\u4EE5\u524D\u5F80\u56DB\u865F\u8C37\u5730\u5730\u5340\u7684\u6E90\u77F3\u7814\u7A76\u5712\u53C3\u8207\u7269\u8CC7\u4F9B\u7D66\u6D3B\u52D5\u3002\n\u00B7 \u6D3B\u52D5\u5171\u67097\u500B\u7269\u8CC7\u4F9B\u7D66\u4EFB\u52D9\u3002\u6D3B\u52D5\u958B\u555F\u5F8C\uFF0C\u6BCF\u65E5\u5C07\u6703\u958B\u653E1\u500B\u65B0\u4EFB\u52D9\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u900F\u904E\u7C21\u6613\u88FD\u4F5C\u7CFB\u7D71\u88FD\u4F5C\u7269\u8CC7\u4F9B\u7D66\u4E2D\u6240\u9700\u8981\u7684\u7269\u54C1\u3002\u5982\u679C\u6240\u9700\u7269\u54C1\u7684\u88FD\u4F5C\u914D\u65B9\u5C1A\u672A\u89E3\u9396\uFF0C\u7BA1\u7406\u54E1\u53EF\u5229\u7528\u7A2E\u690D\u3001\u63A2\u7D22\u7B49\u9014\u5F91\uFF0C\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u539F\u6750\u6599\u5F8C\u5728\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_submit_food_1_unlock_condition_1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6III - \u8A6D\u6A13\u5C0B\u8E64",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    },
+    {
+      "sourceConditionId": "activity_submit_food_1_unlock_condition_2",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u63A2\u7D22\u4EFB\u52D9\uFF1A\u7A3C\u7A61\u4E0D\u6613",
+      "tips": "\u5B8C\u6210\u63A2\u7D22\u4EFB\u52D9\u300C\u64DA\u9EDE\u90E8\u7F72\u00B7\u57FA\u5EFA\u524D\u7AD9\u300D\u5F8C\u53EF\u63A5\u53D6"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_submit_food_a1_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_shot_sticker_activity_1",
+          "name": "\u8CBC\u7D19\u00B7\u958B\u62D3\u7BC0\u7F8E\u98DF",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 6,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

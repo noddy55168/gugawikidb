@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:handwork_bottled_flower1spc_2",
+    "name": "\u5927\u74F6\u854E\u5FA9\u9320\u5291",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_bottled_flower1spc_2.png?v=7b34b060243c10abe60bf371a8f483152da31eff20a93ffc37841849801f2955",
+    "sortOrder": 23,
+    "path": "/industry/recipes/manual%3Ahandwork_bottled_flower1spc_2",
+    "outputSummary": "\u5927\u74F6\u854E\u5FA9\u9320\u5291 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_spc_powder_1",
+      "name": "\u854E\u7652\u85E5\u7C89",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+      "link": "/items/item_plant_moss_spc_powder_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_iron_bottle",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "link": "/items/item_iron_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_flower1spc_2",
+      "name": "\u5927\u74F6\u854E\u5FA9\u9320\u5291",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_flower1spc_2.png?v=7b34b060243c10abe60bf371a8f483152da31eff20a93ffc37841849801f2955",
+      "link": "/items/item_bottled_flower1spc_2"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_bottled_flower1spc_2",
+      "name": "\u5927\u74F6\u854E\u5FA9\u9320\u5291\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_bottled_flower1spc_2.png?v=7b34b060243c10abe60bf371a8f483152da31eff20a93ffc37841849801f2955",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,52 @@
+{
+  "sourceItemId": "item_arrow_chip_frozen",
+  "name": "\u5BD2\u51B0\u4E4B\u7C07",
+  "rarity": 5,
+  "category": "\u96A8\u8EAB\u88DD\u7F6E",
+  "iconPath": "/media/wiki/catalogs/items/item_arrow_chip_frozen.png?v=8b023b73b3ddd83411d9aa35bc13e140f19e0094aa8041a628206580d82461c5",
+  "summary": "\u4E00\u679A\u7D42\u672B\u5730\u751F\u7522\u7684\u5C0F\u6676\u7247\uFF0C\u4E0A\u9762\u71D9\u5370\u4E86\u7279\u6B8A\u7684\u85A9\u7C73\u7B26\u6587\u3002",
+  "description": "\u914D\u5099\u5728\u80CC\u5305\u96A8\u8EAB\u88DD\u7F6E\u683C\u5F8C\uFF0C\u53EF\u4EE5\u6539\u8B8A\u63D0\u5F17\u6D1B\u65AF\u7684\u7BAD\u77E2\u5C04\u64CA\u80FD\u529B\uFF0C\u589E\u52A0\u5BD2\u51B0\u4E4B\u7C07\u7BAD\u77E2\u3002",
+  "wikiDescription": "",
+  "itemType": "\u96A8\u8EAB\u88DD\u7F6E",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/item_arrow_chip_frozen/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_arrow_chip_frozen",
+          "name": "\u5BD2\u51B0\u4E4B\u7C07",
+          "quantity": 1,
+          "path": "/items/item_arrow_chip_frozen",
+          "iconPath": "/media/wiki/catalogs/items/item_arrow_chip_frozen.png?v=8b023b73b3ddd83411d9aa35bc13e140f19e0094aa8041a628206580d82461c5",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_arrow_chip_frozen"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

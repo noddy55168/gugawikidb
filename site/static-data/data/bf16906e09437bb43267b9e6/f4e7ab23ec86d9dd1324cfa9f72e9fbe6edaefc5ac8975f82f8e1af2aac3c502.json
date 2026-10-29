@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:item_device_balloon_recycle_1",
+    "name": "\u6D6E\u7A7A\u56DE\u6536\u5668I",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_device_balloon_recycle_1.png?v=eb55337afefd6880ca594f85bb52163d51644cdf4079ec7d535264a8d349e70b",
+    "sortOrder": 204,
+    "path": "/industry/recipes/manual%3Aitem_device_balloon_recycle_1",
+    "outputSummary": "\u6D6E\u7A7A\u56DE\u6536\u5668I \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gasjar_copper_gas_inert",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "link": "/items/item_gasjar_copper_gas_inert"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_device_balloon_recycle_1",
+      "name": "\u6D6E\u7A7A\u56DE\u6536\u5668I",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_device_balloon_recycle_1.png?v=eb55337afefd6880ca594f85bb52163d51644cdf4079ec7d535264a8d349e70b",
+      "link": "/items/item_device_balloon_recycle_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_balloon_recycle_1",
+      "name": "\u6D6E\u7A7A\u56DE\u6536\u5668I\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_device_balloon_recycle_1.png?v=eb55337afefd6880ca594f85bb52163d51644cdf4079ec7d535264a8d349e70b",
+      "link": null
+    }
+  ],
+  "devices": []
+}

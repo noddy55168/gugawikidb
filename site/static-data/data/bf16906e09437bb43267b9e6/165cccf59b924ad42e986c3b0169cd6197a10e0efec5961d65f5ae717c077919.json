@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_battle_medic_1",
+    "name": "\u91AB\u7642\u5854",
+    "kind": "building",
+    "category": "\u6230\u9B25\u8F14\u52A9",
+    "iconPath": "/media/wiki/industry/item_port_battle_medic_1.png?v=5ac3726df4e63d05724a41d89f29a4f122e715ab5d4677fff62e851b4895274f",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_port_battle_medic_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u6700\u5C0F\u6CBB\u7642\u9593\u9694\uFF1A5\u79D2\n\u6CBB\u7642\u7BC4\u570D\uFF1A6m",
+  "sourceId": "battle_medic_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": []
+}

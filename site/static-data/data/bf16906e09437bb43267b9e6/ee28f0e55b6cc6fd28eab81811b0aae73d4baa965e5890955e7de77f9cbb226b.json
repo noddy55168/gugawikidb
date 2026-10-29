@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_corp_strawberry_1",
+    "name": "\u9752\u8449\u8393\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_strawberry_1.png?v=37ade6b42daa0e45db67228f1ec31867a6cb2efe0a63ce480576a78bdea69625",
+    "sortOrder": 116,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_corp_strawberry_1",
+    "outputSummary": "\u9752\u8449\u8393\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_strawberry_seed_1",
+      "name": "\u9752\u8449\u8393\u7A2E\u5B50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_strawberry_seed_1.png?v=89b8e8f3870503fecb13e636b3783405c9e6d9c14de3165f77b818941e255f83",
+      "link": "/items/item_corp_strawberry_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_corp_strawberry_1",
+      "name": "\u9752\u8449\u8393\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_strawberry_1.png?v=37ade6b42daa0e45db67228f1ec31867a6cb2efe0a63ce480576a78bdea69625",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_strawberry_1",
+      "name": "\u9752\u8449\u8393",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_strawberry_1.png?v=839eee60af7a319ac94de91695503a46df4453c0a25c9d08353a3e9e6275cebe",
+      "link": "/items/item_corp_strawberry_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_corp_strawberry_seed_1",
+      "name": "\u9752\u8449\u8393\u7A2E\u5B50",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_strawberry_seed_1.png?v=89b8e8f3870503fecb13e636b3783405c9e6d9c14de3165f77b818941e255f83",
+      "link": "/items/item_corp_strawberry_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_corp_strawberry_1",
+      "name": "\u9752\u8449\u8393\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_strawberry_1.png?v=37ade6b42daa0e45db67228f1ec31867a6cb2efe0a63ce480576a78bdea69625",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:hdwk_plant_crylplant_1_2",
+    "name": "\u7D14\u6676\u591A\u9F52\u8449",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_plant_crylplant_1_2.png?v=8deb553b8a0c44b54becc95b6a1b7bf6b070f9e0c8205204490f3406f6597320",
+    "sortOrder": 305,
+    "path": "/industry/recipes/manual%3Ahdwk_plant_crylplant_1_2",
+    "outputSummary": "\u7D14\u6676\u591A\u9F52\u8449 \u00D7 2",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_crylplant_1_3",
+      "name": "\u81F3\u6676\u591A\u9F52\u8449",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_crylplant_1_3.png?v=e69861007c25877ba06378d2919774f75a519a95d8f9097f8dc3d17223462feb",
+      "link": "/items/item_plant_crylplant_1_3"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_crylplant_1_2",
+      "name": "\u7D14\u6676\u591A\u9F52\u8449",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_crylplant_1_2.png?v=8deb553b8a0c44b54becc95b6a1b7bf6b070f9e0c8205204490f3406f6597320",
+      "link": "/items/item_plant_crylplant_1_2"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_convert_40",
+      "name": "\u8F49\u5316\u6280\u8853\u518A\u03B2",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_formula_convert_40.png?v=87edac4561f4ca8957e1b8d17d9b3b79d39095a054eaacb7b7c9f183080c7f39",
+      "link": null
+    }
+  ],
+  "devices": []
+}

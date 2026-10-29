@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_stock_board_1",
+    "name": "\u8ABF\u5EA6\u7684\u5177\u8C61",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_stock_board_1.png?v=d2f1cba526f17d73baabab919a87b4db0237642c9a27b4fef9e26339918c1968",
+    "sortOrder": 19,
+    "path": "/industry/devices/wiki_item_port_stock_board_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "stock_board_1",
+  "needPower": false,
+  "width": 3,
+  "depth": 1,
+  "height": 3,
+  "recipes": []
+}

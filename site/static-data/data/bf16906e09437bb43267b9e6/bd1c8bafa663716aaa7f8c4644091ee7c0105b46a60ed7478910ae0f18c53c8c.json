@@ -1,0 +1,1454 @@
+{
+  "sourceItemId": "item_char_skill_level_1_6",
+  "name": "\u5354\u8B70\u7A1C\u67F1",
+  "rarity": 3,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_char_skill_level_1_6.png?v=ce0f3f8c8253e5eb877c2429e0d435d08f0884c104ca301ba5700a3974a10300",
+  "summary": "\u4EE5\u5354\u8B70\u6280\u8853\u7279\u88FD\u7684\u6676\u9AD4\u7A1C\u67F1\uFF0C\u4F7F\u7528\u4E86\u666E\u901A\u7D50\u6676\u6CD5\uFF0C\u914D\u5408\u5176\u4ED6\u8A2D\u5099\u53EF\u4EE5\u63D0\u9AD8\u4EBA\u9AD4\u5C0D\u5F37\u5316\u7269\u8CEA\u7684\u5438\u6536\u6BD4\u7387\u3002",
+  "description": "\u7528\u65BC\u5E79\u54E1\u6280\u80FD\u7B49\u7D1A\u63D0\u5347\u7684\u6750\u6599\u3002",
+  "wikiDescription": "",
+  "itemType": "\u5E79\u54E1\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_dungeon_0006_untouched",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u6280\u80FD\u63D0\u5347",
+      "condition": {
+        "sourceId": "condition_dung01_group_skill01_untouched",
+        "kind": "leaf",
+        "text": "\u5C1A\u672A\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u6280\u80FD\u63D0\u5347\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_0006",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u6280\u80FD\u63D0\u5347",
+      "condition": {
+        "sourceId": "condition_dung01_group_skill01_touched",
+        "kind": "leaf",
+        "text": "\u5DF2\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u6280\u80FD\u63D0\u5347\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_shop_greenticket_char_skill_level_1_6",
+      "description": "\u63A1\u8CFC\u4E2D\u5FC3-\u96C6\u6210\u914D\u984D\u4EA4\u6613",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_explore",
+      "description": "\u5192\u96AA\u63A2\u7D22\u7372\u5F97",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "CharGrowthTable/chr_0002_endminm/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0002_endminm",
+          "name": "\u7BA1\u7406\u54E1",
+          "quantity": null,
+          "path": "/operators/2",
+          "iconPath": "/media/wiki/operators/chr_0002_endminm/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0002_endminm/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0002_endminm",
+          "name": "\u7BA1\u7406\u54E1",
+          "quantity": null,
+          "path": "/operators/2",
+          "iconPath": "/media/wiki/operators/chr_0002_endminm/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0003_endminf/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0003_endminf",
+          "name": "\u7BA1\u7406\u54E1",
+          "quantity": null,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0003_endminf/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0003_endminf",
+          "name": "\u7BA1\u7406\u54E1",
+          "quantity": null,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0004_pelica/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0004_pelica",
+          "name": "\u4F69\u9E97\u5361",
+          "quantity": null,
+          "path": "/operators/4",
+          "iconPath": "/media/wiki/operators/chr_0004_pelica/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0004_pelica/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0004_pelica",
+          "name": "\u4F69\u9E97\u5361",
+          "quantity": null,
+          "path": "/operators/4",
+          "iconPath": "/media/wiki/operators/chr_0004_pelica/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0005_chen/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0005_chen",
+          "name": "\u9673\u5343\u8A9E",
+          "quantity": null,
+          "path": "/operators/5",
+          "iconPath": "/media/wiki/operators/chr_0005_chen/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0005_chen/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0005_chen",
+          "name": "\u9673\u5343\u8A9E",
+          "quantity": null,
+          "path": "/operators/5",
+          "iconPath": "/media/wiki/operators/chr_0005_chen/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0006_wolfgd/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0006_wolfgd",
+          "name": "\u72FC\u885B",
+          "quantity": null,
+          "path": "/operators/6",
+          "iconPath": "/media/wiki/operators/chr_0006_wolfgd/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0006_wolfgd/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0006_wolfgd",
+          "name": "\u72FC\u885B",
+          "quantity": null,
+          "path": "/operators/6",
+          "iconPath": "/media/wiki/operators/chr_0006_wolfgd/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0007_ikut/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0007_ikut",
+          "name": "\u5F27\u5149",
+          "quantity": null,
+          "path": "/operators/7",
+          "iconPath": "/media/wiki/operators/chr_0007_ikut/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0007_ikut/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0007_ikut",
+          "name": "\u5F27\u5149",
+          "quantity": null,
+          "path": "/operators/7",
+          "iconPath": "/media/wiki/operators/chr_0007_ikut/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0009_azrila/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0009_azrila",
+          "name": "\u9918\u71FC",
+          "quantity": null,
+          "path": "/operators/9",
+          "iconPath": "/media/wiki/operators/chr_0009_azrila/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0009_azrila/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0009_azrila",
+          "name": "\u9918\u71FC",
+          "quantity": null,
+          "path": "/operators/9",
+          "iconPath": "/media/wiki/operators/chr_0009_azrila/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0011_seraph/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0011_seraph",
+          "name": "\u8CFD\u5E0C",
+          "quantity": null,
+          "path": "/operators/11",
+          "iconPath": "/media/wiki/operators/chr_0011_seraph/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0011_seraph/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0011_seraph",
+          "name": "\u8CFD\u5E0C",
+          "quantity": null,
+          "path": "/operators/11",
+          "iconPath": "/media/wiki/operators/chr_0011_seraph/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0012_avywen/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0012_avywen",
+          "name": "\u827E\u7DAD\u6587\u5A1C",
+          "quantity": null,
+          "path": "/operators/12",
+          "iconPath": "/media/wiki/operators/chr_0012_avywen/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0012_avywen/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0012_avywen",
+          "name": "\u827E\u7DAD\u6587\u5A1C",
+          "quantity": null,
+          "path": "/operators/12",
+          "iconPath": "/media/wiki/operators/chr_0012_avywen/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0013_aglina/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0013_aglina",
+          "name": "\u6F54\u723E\u4F69\u5854",
+          "quantity": null,
+          "path": "/operators/13",
+          "iconPath": "/media/wiki/operators/chr_0013_aglina/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0013_aglina/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0013_aglina",
+          "name": "\u6F54\u723E\u4F69\u5854",
+          "quantity": null,
+          "path": "/operators/13",
+          "iconPath": "/media/wiki/operators/chr_0013_aglina/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0014_aurora/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0014_aurora",
+          "name": "\u665D\u96EA",
+          "quantity": null,
+          "path": "/operators/14",
+          "iconPath": "/media/wiki/operators/chr_0014_aurora/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0014_aurora/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0014_aurora",
+          "name": "\u665D\u96EA",
+          "quantity": null,
+          "path": "/operators/14",
+          "iconPath": "/media/wiki/operators/chr_0014_aurora/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0015_lifeng/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0015_lifeng",
+          "name": "\u9ECE\u98A8",
+          "quantity": null,
+          "path": "/operators/15",
+          "iconPath": "/media/wiki/operators/chr_0015_lifeng/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0015_lifeng/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0015_lifeng",
+          "name": "\u9ECE\u98A8",
+          "quantity": null,
+          "path": "/operators/15",
+          "iconPath": "/media/wiki/operators/chr_0015_lifeng/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0016_laevat/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0016_laevat",
+          "name": "\u840A\u842C\u6C40",
+          "quantity": null,
+          "path": "/operators/16",
+          "iconPath": "/media/wiki/operators/chr_0016_laevat/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0016_laevat/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0016_laevat",
+          "name": "\u840A\u842C\u6C40",
+          "quantity": null,
+          "path": "/operators/16",
+          "iconPath": "/media/wiki/operators/chr_0016_laevat/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0017_yvonne/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0017_yvonne",
+          "name": "\u4F0A\u99AE",
+          "quantity": null,
+          "path": "/operators/17",
+          "iconPath": "/media/wiki/operators/chr_0017_yvonne/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0017_yvonne/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0017_yvonne",
+          "name": "\u4F0A\u99AE",
+          "quantity": null,
+          "path": "/operators/17",
+          "iconPath": "/media/wiki/operators/chr_0017_yvonne/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0018_dapan/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0018_dapan",
+          "name": "\u5927\u6F58",
+          "quantity": null,
+          "path": "/operators/18",
+          "iconPath": "/media/wiki/operators/chr_0018_dapan/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0018_dapan/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0018_dapan",
+          "name": "\u5927\u6F58",
+          "quantity": null,
+          "path": "/operators/18",
+          "iconPath": "/media/wiki/operators/chr_0018_dapan/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0019_karin/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0019_karin",
+          "name": "\u79CB\u6817",
+          "quantity": null,
+          "path": "/operators/19",
+          "iconPath": "/media/wiki/operators/chr_0019_karin/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0019_karin/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0019_karin",
+          "name": "\u79CB\u6817",
+          "quantity": null,
+          "path": "/operators/19",
+          "iconPath": "/media/wiki/operators/chr_0019_karin/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0035_liino/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0035_liino",
+          "name": "\u68A8\u8AFE",
+          "quantity": null,
+          "path": "/operators/35",
+          "iconPath": "/media/wiki/operators/chr_0035_liino/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0035_liino/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0035_liino",
+          "name": "\u68A8\u8AFE",
+          "quantity": null,
+          "path": "/operators/35",
+          "iconPath": "/media/wiki/operators/chr_0035_liino/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0020_meurs/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0020_meurs",
+          "name": "\u5361\u5951\u723E",
+          "quantity": null,
+          "path": "/operators/20",
+          "iconPath": "/media/wiki/operators/chr_0020_meurs/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0020_meurs/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0020_meurs",
+          "name": "\u5361\u5951\u723E",
+          "quantity": null,
+          "path": "/operators/20",
+          "iconPath": "/media/wiki/operators/chr_0020_meurs/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0021_whiten/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0021_whiten",
+          "name": "\u57C3\u7279\u62C9",
+          "quantity": null,
+          "path": "/operators/21",
+          "iconPath": "/media/wiki/operators/chr_0021_whiten/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0021_whiten/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0021_whiten",
+          "name": "\u57C3\u7279\u62C9",
+          "quantity": null,
+          "path": "/operators/21",
+          "iconPath": "/media/wiki/operators/chr_0021_whiten/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0022_bounda/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0022_bounda",
+          "name": "\u87A2\u77F3",
+          "quantity": null,
+          "path": "/operators/22",
+          "iconPath": "/media/wiki/operators/chr_0022_bounda/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0022_bounda/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0022_bounda",
+          "name": "\u87A2\u77F3",
+          "quantity": null,
+          "path": "/operators/22",
+          "iconPath": "/media/wiki/operators/chr_0022_bounda/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0023_antal/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0023_antal",
+          "name": "\u5B89\u5854\u723E",
+          "quantity": null,
+          "path": "/operators/23",
+          "iconPath": "/media/wiki/operators/chr_0023_antal/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0023_antal/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0023_antal",
+          "name": "\u5B89\u5854\u723E",
+          "quantity": null,
+          "path": "/operators/23",
+          "iconPath": "/media/wiki/operators/chr_0023_antal/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0024_deepfin/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0024_deepfin",
+          "name": "\u963F\u5217\u4EC0",
+          "quantity": null,
+          "path": "/operators/24",
+          "iconPath": "/media/wiki/operators/chr_0024_deepfin/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0024_deepfin/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0024_deepfin",
+          "name": "\u963F\u5217\u4EC0",
+          "quantity": null,
+          "path": "/operators/24",
+          "iconPath": "/media/wiki/operators/chr_0024_deepfin/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0025_ardelia/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0025_ardelia",
+          "name": "\u827E\u723E\u9EDB\u62C9",
+          "quantity": null,
+          "path": "/operators/25",
+          "iconPath": "/media/wiki/operators/chr_0025_ardelia/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0025_ardelia/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0025_ardelia",
+          "name": "\u827E\u723E\u9EDB\u62C9",
+          "quantity": null,
+          "path": "/operators/25",
+          "iconPath": "/media/wiki/operators/chr_0025_ardelia/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0026_lastrite/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0026_lastrite",
+          "name": "\u5225\u79AE",
+          "quantity": null,
+          "path": "/operators/26",
+          "iconPath": "/media/wiki/operators/chr_0026_lastrite/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0026_lastrite/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0026_lastrite",
+          "name": "\u5225\u79AE",
+          "quantity": null,
+          "path": "/operators/26",
+          "iconPath": "/media/wiki/operators/chr_0026_lastrite/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0027_tangtang/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0027_tangtang",
+          "name": "\u6E6F\u6E6F",
+          "quantity": null,
+          "path": "/operators/27",
+          "iconPath": "/media/wiki/operators/chr_0027_tangtang/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0027_tangtang/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0027_tangtang",
+          "name": "\u6E6F\u6E6F",
+          "quantity": null,
+          "path": "/operators/27",
+          "iconPath": "/media/wiki/operators/chr_0027_tangtang/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0028_wulfa/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0028_wulfa",
+          "name": "\u6D1B\u897F",
+          "quantity": null,
+          "path": "/operators/28",
+          "iconPath": "/media/wiki/operators/chr_0028_wulfa/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0028_wulfa/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0028_wulfa",
+          "name": "\u6D1B\u897F",
+          "quantity": null,
+          "path": "/operators/28",
+          "iconPath": "/media/wiki/operators/chr_0028_wulfa/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0029_pograni/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0029_pograni",
+          "name": "\u99FF\u885B",
+          "quantity": null,
+          "path": "/operators/29",
+          "iconPath": "/media/wiki/operators/chr_0029_pograni/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0029_pograni/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0029_pograni",
+          "name": "\u99FF\u885B",
+          "quantity": null,
+          "path": "/operators/29",
+          "iconPath": "/media/wiki/operators/chr_0029_pograni/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0030_zhuangfy/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0030_zhuangfy",
+          "name": "\u838A\u65B9\u5B9C",
+          "quantity": null,
+          "path": "/operators/30",
+          "iconPath": "/media/wiki/operators/chr_0030_zhuangfy/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0030_zhuangfy/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0030_zhuangfy",
+          "name": "\u838A\u65B9\u5B9C",
+          "quantity": null,
+          "path": "/operators/30",
+          "iconPath": "/media/wiki/operators/chr_0030_zhuangfy/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0031_mifu/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0031_mifu",
+          "name": "\u5F2D\u5F17",
+          "quantity": null,
+          "path": "/operators/31",
+          "iconPath": "/media/wiki/operators/chr_0031_mifu/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0031_mifu/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0031_mifu",
+          "name": "\u5F2D\u5F17",
+          "quantity": null,
+          "path": "/operators/31",
+          "iconPath": "/media/wiki/operators/chr_0031_mifu/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0032_lizhiyan/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0032_lizhiyan",
+          "name": "\u8A23",
+          "quantity": null,
+          "path": "/operators/32",
+          "iconPath": "/media/wiki/operators/chr_0032_lizhiyan/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0032_lizhiyan/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0032_lizhiyan",
+          "name": "\u8A23",
+          "quantity": null,
+          "path": "/operators/32",
+          "iconPath": "/media/wiki/operators/chr_0032_lizhiyan/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0033_camille/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0033_camille",
+          "name": "\u5361\u7E46",
+          "quantity": null,
+          "path": "/operators/33",
+          "iconPath": "/media/wiki/operators/chr_0033_camille/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0033_camille/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0033_camille",
+          "name": "\u5361\u7E46",
+          "quantity": null,
+          "path": "/operators/33",
+          "iconPath": "/media/wiki/operators/chr_0033_camille/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0034_typhoea/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0034_typhoea",
+          "name": "\u63D0\u5F17\u6D1B\u65AF",
+          "quantity": null,
+          "path": "/operators/34",
+          "iconPath": "/media/wiki/operators/chr_0034_typhoea/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0034_typhoea/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0034_typhoea",
+          "name": "\u63D0\u5F17\u6D1B\u65AF",
+          "quantity": null,
+          "path": "/operators/34",
+          "iconPath": "/media/wiki/operators/chr_0034_typhoea/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0036_jsspsi/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0036_jsspsi",
+          "name": "\u7940",
+          "quantity": null,
+          "path": "/operators/36",
+          "iconPath": "/media/wiki/operators/chr_0036_jsspsi/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0036_jsspsi/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0036_jsspsi",
+          "name": "\u7940",
+          "quantity": null,
+          "path": "/operators/36",
+          "iconPath": "/media/wiki/operators/chr_0036_jsspsi/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0038_purrche/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0038_purrche",
+          "name": "\u5657\u5207\u5A1C",
+          "quantity": null,
+          "path": "/operators/38",
+          "iconPath": "/media/wiki/operators/chr_0038_purrche/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_0038_purrche/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0038_purrche",
+          "name": "\u5657\u5207\u5A1C",
+          "quantity": null,
+          "path": "/operators/38",
+          "iconPath": "/media/wiki/operators/chr_0038_purrche/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_9000_endmin/\u990A\u6210\u7528\u9014/itemBundle",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u6280\u80FD\u990A\u6210",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_9000_endmin",
+          "name": "\u7BA1\u7406\u54E1",
+          "quantity": null,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "CharGrowthTable/chr_9000_endmin/\u990A\u6210\u7528\u9014/requiredItem",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u5E79\u54E1\u7A81\u7834",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_9000_endmin",
+          "name": "\u7BA1\u7406\u54E1",
+          "quantity": null,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

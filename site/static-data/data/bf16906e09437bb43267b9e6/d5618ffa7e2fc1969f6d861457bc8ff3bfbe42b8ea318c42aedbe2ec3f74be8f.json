@@ -1,0 +1,71 @@
+{
+  "entry": {
+    "key": "machine:pool_xiranite_poly_2",
+    "name": "\u58E4\u6676\u3001\u6C59\u6C34",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_xiranite_poly.png?v=7dbeaf5457271bb11121a9435b80f42ba20c18cb8bf50617112f6e86cc882c01",
+    "sortOrder": 7,
+    "path": "/industry/recipes/machine%3Apool_xiranite_poly_2",
+    "outputSummary": "\u58E4\u6676 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+    "deviceNames": [
+      "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+    ]
+  },
+  "description": "\u58E4\u6676\u5408\u6210\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_xiranite_poly",
+      "name": "\u58E4\u6676\u5EE2\u6DB2",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+      "link": "/items/item_liquid_xiranite_poly"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_iron_powder",
+      "name": "\u85CD\u9435\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+      "link": "/items/item_iron_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_poly",
+      "name": "\u58E4\u6676",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_xiranite_poly.png?v=7dbeaf5457271bb11121a9435b80f42ba20c18cb8bf50617112f6e86cc882c01",
+      "link": "/items/item_xiranite_poly"
+    },
+    {
+      "role": "output",
+      "group": 1,
+      "order": 0,
+      "itemId": "item_liquid_sewage",
+      "name": "\u6C59\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+      "link": "/items/item_liquid_sewage"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_mix_pool_2",
+      "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_2.png?v=579c5a452f1a2b8ac42e19ac448d31b19dbe9fd34074f5e98dd565a91bf0f536",
+      "sortOrder": 6,
+      "path": "/industry/devices/wiki_item_port_mix_pool_2",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

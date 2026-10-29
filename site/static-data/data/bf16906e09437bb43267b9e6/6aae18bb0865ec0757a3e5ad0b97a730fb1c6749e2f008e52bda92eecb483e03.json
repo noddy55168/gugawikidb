@@ -1,0 +1,137 @@
+{
+  "sourceItemId": "item_equip_t4_parts_wuling01_body_01",
+  "name": "\u7D13\u96E3\u91CD\u7532",
+  "rarity": 5,
+  "category": "\u8B77\u7532",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling01_body_01.png?v=179150bf7d69f2a93bb076abd0af4e960c6a3e1df1dbce8c9c19af407940df76",
+  "description": "\u8C61\u5FB5\u8457\u8271\u8F9B\u524D\u8DEF\u7684\u88DD\u5099\u3002\u300C\u4E8B\u672A\u7ADF\uFF0C\u8DEF\u7336\u9577\u3002\u300D",
+  "lore": "\u672C\u88DD\u5099\u7531\u5B8F\u5C71\u9078\u528D\u5C40\u8A2D\u8A08\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 70,
+  "suitId": "",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 56,
+          "displayValue": "56"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u654F\u6377",
+      "values": [
+        {
+          "stage": 0,
+          "value": 115,
+          "displayValue": "115"
+        },
+        {
+          "stage": 1,
+          "value": 126,
+          "displayValue": "126"
+        },
+        {
+          "stage": 2,
+          "value": 138,
+          "displayValue": "138"
+        },
+        {
+          "stage": 3,
+          "value": 149,
+          "displayValue": "149"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u666E\u901A\u653B\u64CA\u50B7\u5BB3\u52A0\u6210",
+      "values": [
+        {
+          "stage": 0,
+          "value": 0.144,
+          "displayValue": "14.4%"
+        },
+        {
+          "stage": 1,
+          "value": 0.1584,
+          "displayValue": "15.8%"
+        },
+        {
+          "stage": 2,
+          "value": 0.1728,
+          "displayValue": "17.3%"
+        },
+        {
+          "stage": 3,
+          "value": 0.1872,
+          "displayValue": "18.7%"
+        }
+      ]
+    }
+  ],
+  "effects": [],
+  "suitEquipment": [],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t4_parts_wuling01_body_01",
+      "chainId": 4001,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_1",
+          "name": "\u8D64\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_1.png?v=30b1a3aa22ed1cefdfafa77dce32abe359d267b9923bf898f08063f5a234dd7b"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 16000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_parts_wuling01_body_01",
+      "chainId": 4002,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_2",
+          "name": "\u8D6B\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 10,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_2.png?v=e645fdd08a1fe2b30cea822f323f711c7ed73183ca398083eda1aa2be379972a"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 16000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_parts_wuling01_body_01",
+      "chainId": 4003,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 5,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 160,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    }
+  ]
+}

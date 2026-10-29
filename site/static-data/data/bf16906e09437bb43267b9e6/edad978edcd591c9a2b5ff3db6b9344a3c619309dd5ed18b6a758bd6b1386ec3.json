@@ -1,0 +1,63 @@
+{
+  "sourceItemId": "item_gift_jinlong_8",
+  "name": "\u7FBD\u7378\u526A\u7D19\u98A8\u7B8F",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_jinlong_8.png?v=c74594ca29a412879fee1656fe31c2c9669b3d9f71284beeea4b3a34f000d0e5",
+  "summary": "\u6B66\u9675\u57CE\u6700\u53D7\u6B61\u8FCE\u7684\u7FBD\u7378\u98A8\u7B8F\uFF0C\u7531\u526A\u7D19\u5927\u5E2B\u8A2D\u8A08\u3002\u8A2D\u8A08\u5E2B\u81F4\u529B\u65BC\u5C07\u6536\u5165\u5206\u6210\u7528\u65BC\u990A\u8001\u9662\u5EFA\u8A2D\u548C\u6B98\u969C\u4EBA\u58EB\u5EB7\u5FA9\u4E8B\u696D\u3002",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u516C\u76CA]  [\u81EA\u7136] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_2",
+      "description": "\u6B66\u9675-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_jinlong_8/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0032_lizhiyan",
+          "name": "\u8A23",
+          "quantity": null,
+          "path": "/operators/32",
+          "iconPath": "/media/wiki/operators/chr_0032_lizhiyan/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0035_liino",
+          "name": "\u68A8\u8AFE",
+          "quantity": null,
+          "path": "/operators/35",
+          "iconPath": "/media/wiki/operators/chr_0035_liino/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

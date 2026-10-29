@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:liquid_transmuter_2_solid_xiranite_powder_1",
+    "name": "\u606F\u58E4",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Aliquid_transmuter_2_solid_xiranite_powder_1",
+    "outputSummary": "\u606F\u58E4 \u00D7 1",
+    "deviceNames": [
+      "\u56FA\u6C23\u8F49\u5316\u6A5F"
+    ]
+  },
+  "description": "\u606F\u58E4\u8F49\u5316",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_xiranite",
+      "name": "\u606F\u58E4\u6C23",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_xiranite.png?v=64f2167c79b7445a70baf09d847c595a3aeadae697dab3939a4663c244ad0bfc",
+      "link": "/items/item_gas_xiranite"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_phase_trans_2",
+      "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_phase_trans_2.png?v=b2f3f3b76646e0a99e021f2e72230d4c4e1a8c022665775b6f14a60a37c40390",
+      "sortOrder": 11,
+      "path": "/industry/devices/wiki_item_port_phase_trans_2",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

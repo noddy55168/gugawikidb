@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:item_arrow_chip_multiple",
+    "name": "\u904A\u8569\u4E4B\u8072",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_arrow_chip_multiple.png?v=064a68c6501323206cf373d075cc659f09536fe5d86827830806f63629b441b3",
+    "sortOrder": 207,
+    "path": "/industry/recipes/manual%3Aitem_arrow_chip_multiple",
+    "outputSummary": "\u904A\u8569\u4E4B\u8072 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_arrow_chip_multiple",
+      "name": "\u904A\u8569\u4E4B\u8072",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_arrow_chip_multiple.png?v=064a68c6501323206cf373d075cc659f09536fe5d86827830806f63629b441b3",
+      "link": "/items/item_arrow_chip_multiple"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_arrow_chip_multiple",
+      "name": "\u904A\u8569\u4E4B\u8072\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_arrow_chip_multiple.png?v=064a68c6501323206cf373d075cc659f09536fe5d86827830806f63629b441b3",
+      "link": null
+    }
+  ],
+  "devices": []
+}

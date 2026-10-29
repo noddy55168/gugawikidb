@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:liquid_transmuter_1_gas_gas_copper_enr_1",
+    "name": "\u6C23\u614B\u8D6B\u9285",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+    "sortOrder": 8,
+    "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_copper_enr_1",
+    "outputSummary": "\u6C23\u614B\u8D6B\u9285 \u00D7 1",
+    "deviceNames": [
+      "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+    ]
+  },
+  "description": "\u6C23\u614B\u8D6B\u9285\u8F49\u5316",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_copper_enr",
+      "name": "\u8D6B\u9285\u6EB6\u6DB2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_copper_enr.png?v=d32c141984f23c8aea871b72e7340e3af9547f471de5ecd248a962b22ceec17a",
+      "link": "/items/item_liquid_copper_enr"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_copper_enr",
+      "name": "\u6C23\u614B\u8D6B\u9285",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+      "link": "/items/item_gas_copper_enr"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_phase_trans_1",
+      "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_phase_trans_1.png?v=205b4d8e6e53d9ad860ad2bb1574e22f81ad7fa9c0ba34a40543f289e35e4ba0",
+      "sortOrder": 10,
+      "path": "/industry/devices/wiki_item_port_phase_trans_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

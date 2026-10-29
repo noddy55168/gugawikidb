@@ -1,0 +1,151 @@
+{
+  "entry": {
+    "key": "wiki_item_port_cmpt_mc_1",
+    "name": "\u914D\u4EF6\u6A5F",
+    "kind": "building",
+    "category": "\u57FA\u790E\u751F\u7522",
+    "iconPath": "/media/wiki/industry/item_port_cmpt_mc_1.png?v=50e0cd6f0541699b31cf921cde2def09a0f2fb1850433b536cc7437613af9c9e",
+    "sortOrder": 3,
+    "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u80FD\u5920\u52A0\u5DE5\u5404\u7A2E\u96F6\u4EF6\u7684\u5E73\u53F0\u3002",
+  "sourceId": "component_mc_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": [
+    {
+      "key": "machine:component_activity_copper_poly_cmpt",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly_cmpt.png?v=a025f63c244da8eb3a92be1a395ff34a3038affd0d68ac8049b9a0dcbe983279",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Acomponent_activity_copper_poly_cmpt",
+      "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_activity_xiranite_cmpt_1",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_cmpt.png?v=787087011a36a719308d906b907adc33d222e0bd7c844708b28e9191e3830b54",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Acomponent_activity_xiranite_cmpt_1",
+      "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_activity_xiranite_enr_cmpt_1",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_cmpt.png?v=3232825a7bf35c3167c4dab8d6dc0f07ada6ef73b0e346f7ec1fc56f18d36602",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Acomponent_activity_xiranite_enr_cmpt_1",
+      "outputSummary": "\u5BE6\u9A57\u91CD\u606F\u58E4\u96F6\u4EF6 \u00D7 2",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_copper_cmpt_1",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Acomponent_copper_cmpt_1",
+      "outputSummary": "\u8D64\u9285\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_copper_enr2_cmpt_1",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Acomponent_copper_enr2_cmpt_1",
+      "outputSummary": "\u707C\u9285\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_copper_enr_cmpt_1",
+      "name": "\u8D6B\u9285\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_cmpt.png?v=477f384f9d78611ea1dd3844b08bac7936025d5988a8f9ac92783f8a0847340e",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Acomponent_copper_enr_cmpt_1",
+      "outputSummary": "\u8D6B\u9285\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_glass_cmpt_1",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Acomponent_glass_cmpt_1",
+      "outputSummary": "\u7D2B\u6676\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_glass_enr_cmpt_1",
+      "name": "\u9AD8\u6676\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_cmpt.png?v=c574408eca07480101e9231a749abc3de4c140157363d01f3b85e0a5cac169dd",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Acomponent_glass_enr_cmpt_1",
+      "outputSummary": "\u9AD8\u6676\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_iron_cmpt_1",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Acomponent_iron_cmpt_1",
+      "outputSummary": "\u9435\u88FD\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:component_iron_enr_cmpt_1",
+      "name": "\u92FC\u88FD\u96F6\u4EF6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Acomponent_iron_enr_cmpt_1",
+      "outputSummary": "\u92FC\u88FD\u96F6\u4EF6 \u00D7 1",
+      "deviceNames": [
+        "\u914D\u4EF6\u6A5F"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "sourceItemId": "item_proc_battery_2",
+  "name": "\u4E2D\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_proc_battery_2.png?v=c30b3bcd7ea1a0dc28cd6f5d5a45e4fa370c022988275bf46c4dc18becbd154e",
+  "summary": "\u300C\u80FD\u5DE5\u5DE7\u5320\u300D\u5728\u5FC5\u8981\u6642\u80FD\u5920\u5C07\u4E2D\u5BB9\u91CF\u96FB\u6C60\u6539\u9020\u70BA\u7206\u7834\u6027\u6B66\u5668\u3002",
+  "description": "\u900F\u904E\u8A2D\u5099\u5C01\u88DD\u7372\u5F97\u7684\u96FB\u6C60\uFF0C\u53EF\u7528\u65BC\u767C\u96FB\u3001\u6062\u5FA9\u8A2D\u5099\u80FD\u91CF\u6216\u8207\u64DA\u9EDE\u9032\u884C\u4EA4\u6613\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_asm",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u5C01\u88DD\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u5C01\u88DD\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_battery_2_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_cmpt",
+          "name": "\u9435\u88FD\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_iron_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 15,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_proc_battery_2",
+          "name": "\u4E2D\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+          "quantity": 1,
+          "path": "/items/item_proc_battery_2",
+          "iconPath": "/media/wiki/catalogs/items/item_proc_battery_2.png?v=c30b3bcd7ea1a0dc28cd6f5d5a45e4fa370c022988275bf46c4dc18becbd154e",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_battery_2_1"
+    },
+    {
+      "key": "FactoryBatteryItemTable/item_proc_battery_2/\u8A2D\u5099\u7528\u9014/",
+      "category": "\u8A2D\u5099\u7528\u9014",
+      "title": "\u96FB\u6C60\u5132\u80FD",
+      "description": "",
+      "participants": [],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryFuelItemTable/item_proc_battery_2/\u8A2D\u5099\u7528\u9014/",
+      "category": "\u8A2D\u5099\u7528\u9014",
+      "title": "\u767C\u96FB\u71C3\u6599",
+      "description": "",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

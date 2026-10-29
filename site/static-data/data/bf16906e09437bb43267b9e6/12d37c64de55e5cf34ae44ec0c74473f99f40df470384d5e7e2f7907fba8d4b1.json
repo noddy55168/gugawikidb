@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_wgthorns_1_hshog_1_hsmob_1_1",
+    "name": "\u6CB9\u7206\u300C\u96D9\u8106\u300D",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_wgthorns_1_hshog_1_hsmob_1_1.png?v=4cc2218280b70d78c223bda0397694a47c2b78d4e90f59520802d421336ad974",
+    "sortOrder": 14,
+    "path": "/industry/recipes/manual%3Ahdwk_wgthorns_1_hshog_1_hsmob_1_1",
+    "outputSummary": "\u6CB9\u7206\u300C\u96D9\u8106\u300D \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_wgthorns_1",
+      "name": "\u5929\u7136\u6C23\u6CE1\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_wgthorns_1.png?v=ae4b5da9c56c44e74971dd3ccdb8c801e4f854eefabfb6e0ed26e6a16230df85",
+      "link": "/items/item_drop_wgthorns_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_hshog_1",
+      "name": "\u7403\u523A\u7378\u7684\u809D\u81DF",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_hshog_1.png?v=61992f6c8b962b8a2ce0a72a00d32dc881b53e0ee29b9678f428798e26d77517",
+      "link": "/items/item_drop_hshog_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_drop_hsmob_1",
+      "name": "\u65B0\u7B4D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+      "link": "/items/item_drop_hsmob_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_wgthorns_1_hshog_1_hsmob_1_1",
+      "name": "\u6CB9\u7206\u300C\u96D9\u8106\u300D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_wgthorns_1_hshog_1_hsmob_1_1.png?v=4cc2218280b70d78c223bda0397694a47c2b78d4e90f59520802d421336ad974",
+      "link": "/items/item_wgthorns_1_hshog_1_hsmob_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_wgthorns_1_hshog_1_hsmob_1_1",
+      "name": "\u6CB9\u7206\u300C\u96D9\u8106\u300D\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_wgthorns_1_hshog_1_hsmob_1_1.png?v=4cc2218280b70d78c223bda0397694a47c2b78d4e90f59520802d421336ad974",
+      "link": null
+    }
+  ],
+  "devices": []
+}

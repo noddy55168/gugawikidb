@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_bottled_grass1spc_2",
+  "name": "\u5927\u7897\u9326\u8349\u6DBC\u8336",
+  "rarity": 5,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_bottled_grass1spc_2.png?v=988ce801723c51b29823f0d34bbbd7c7a45f33ed11b8100b85d12b78d1601ef9",
+  "summary": "\u7C21\u55AE\u71AC\u716E\u88FD\u6210\u7684\u6DBC\u8336\uFF0C\u80FD\u4E00\u98F2\u800C\u76E1\u7684\u4EBA\u53EF\u4EE5\u88AB\u7A31\u70BA\u300C\u82F1\u96C4\u300D\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7ACB\u523B\u56DE\u5FA920%\u6700\u5927\u751F\u547D\u503C\uFF0C\u518D\u56DE\u5FA91648\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u84EC\u8338\u9326\u8349\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_grass1spc_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_spc_powder_1",
+          "name": "\u84EC\u8338\u9326\u8349\u7C89\u672B",
+          "quantity": 5,
+          "path": "/items/item_plant_grass_spc_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_spc_powder_1.png?v=3d1f08eae0d5e112688798ad07fdaf5a6f441b622164e47116b32a51ec3a0295",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_bottle",
+          "name": "\u92FC\u8CEA\u74F6",
+          "quantity": 10,
+          "path": "/items/item_iron_enr_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_grass1spc_2",
+          "name": "\u5927\u7897\u9326\u8349\u6DBC\u8336",
+          "quantity": 1,
+          "path": "/items/item_bottled_grass1spc_2",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_grass1spc_2.png?v=988ce801723c51b29823f0d34bbbd7c7a45f33ed11b8100b85d12b78d1601ef9",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_grass1spc_2"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:handwork_bottled_flower2spc_1",
+    "name": "\u5C0F\u74F6\u67D1\u5BE6\u6C96\u6CE1\u5291",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_bottled_flower2spc_1.png?v=f1d979437e5de24a1aacfa22d63cf16c5a7c334f107b160e82ae182b5198f3db",
+    "sortOrder": 24,
+    "path": "/industry/recipes/manual%3Ahandwork_bottled_flower2spc_1",
+    "outputSummary": "\u5C0F\u74F6\u67D1\u5BE6\u6C96\u6CE1\u5291 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_spc_powder_2",
+      "name": "\u67D1\u5BE6\u6C96\u6CE1\u5291",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_plant_moss_spc_powder_2.png?v=cf81f036c98184b38b781985c05752566c78cc1af092a44b294620c9814ebe2a",
+      "link": "/items/item_plant_moss_spc_powder_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_flower2spc_1",
+      "name": "\u5C0F\u74F6\u67D1\u5BE6\u6C96\u6CE1\u5291",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_flower2spc_1.png?v=f1d979437e5de24a1aacfa22d63cf16c5a7c334f107b160e82ae182b5198f3db",
+      "link": "/items/item_bottled_flower2spc_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_bottled_flower2spc_1",
+      "name": "\u5C0F\u74F6\u67D1\u5BE6\u6C96\u6CE1\u5291\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_bottled_flower2spc_1.png?v=f1d979437e5de24a1aacfa22d63cf16c5a7c334f107b160e82ae182b5198f3db",
+      "link": null
+    }
+  ],
+  "devices": []
+}

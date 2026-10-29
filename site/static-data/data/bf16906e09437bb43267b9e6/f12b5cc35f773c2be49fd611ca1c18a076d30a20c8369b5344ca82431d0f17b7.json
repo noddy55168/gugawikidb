@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:item_device_xiranite_radar_1",
+    "name": "\u4FB5\u8755\u7634\u6383\u63CF\u96F6\u4EF6",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_device_xiranite_radar_1.png?v=43df5d611995485ff138be13eda3b545bf35b8cc376918e83508cc1e0187f901",
+    "sortOrder": 203,
+    "path": "/industry/recipes/manual%3Aitem_device_xiranite_radar_1",
+    "outputSummary": "\u4FB5\u8755\u7634\u6383\u63CF\u96F6\u4EF6 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gasjar_copper_gas_inert",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "link": "/items/item_gasjar_copper_gas_inert"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_device_xiranite_radar_1",
+      "name": "\u4FB5\u8755\u7634\u6383\u63CF\u96F6\u4EF6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_device_xiranite_radar_1.png?v=43df5d611995485ff138be13eda3b545bf35b8cc376918e83508cc1e0187f901",
+      "link": "/items/item_device_xiranite_radar_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_xiranite_radar_1",
+      "name": "\u4FB5\u8755\u7634\u6383\u63CF\u96F6\u4EF6\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_device_xiranite_radar_1.png?v=43df5d611995485ff138be13eda3b545bf35b8cc376918e83508cc1e0187f901",
+      "link": null
+    }
+  ],
+  "devices": []
+}

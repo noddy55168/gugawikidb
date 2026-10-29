@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_lbmob_1_moss_2_bottled_1",
+    "name": "\u79D8\u65B9\u9192\u795E\u8336",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_lbmob_1_moss_2_bottled_1.png?v=4e517969aa9c13d4ed25e41dfd2b8cd89490e710b29e3b92d9da3943da8fc2ba",
+    "sortOrder": 60,
+    "path": "/industry/recipes/manual%3Ahdwk_lbmob_1_moss_2_bottled_1",
+    "outputSummary": "\u79D8\u65B9\u9192\u795E\u8336 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_lbmob_1",
+      "name": "\u8349\u7C7D\u4E7E\u7C89",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_lbmob_1.png?v=fef01c9a46a227dc6fa1e2af05ab8ee171aac1c4117b7bcc7d9f85327eab7f7f",
+      "link": "/items/item_drop_lbmob_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_moss_powder_2",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "link": "/items/item_plant_moss_powder_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_lbmob_1_moss_2_bottled_1",
+      "name": "\u79D8\u65B9\u9192\u795E\u8336",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_lbmob_1_moss_2_bottled_1.png?v=4e517969aa9c13d4ed25e41dfd2b8cd89490e710b29e3b92d9da3943da8fc2ba",
+      "link": "/items/item_lbmob_1_moss_2_bottled_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_lbmob_1_moss_2_bottled_1_1",
+      "name": "\u79D8\u65B9\u9192\u795E\u8336\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_lbmob_1_moss_2_bottled_1.png?v=4e517969aa9c13d4ed25e41dfd2b8cd89490e710b29e3b92d9da3943da8fc2ba",
+      "link": null
+    }
+  ],
+  "devices": []
+}

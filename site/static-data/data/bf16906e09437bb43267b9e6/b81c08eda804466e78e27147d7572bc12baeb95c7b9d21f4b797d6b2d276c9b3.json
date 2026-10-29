@@ -1,0 +1,288 @@
+{
+  "sourceItemId": "item_equip_t4_suit_atb01_body_03",
+  "name": "\u62D3\u8352\u8B77\u7532\u00B7II",
+  "rarity": 5,
+  "category": "\u8B77\u7532",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_04.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+  "description": "\u62D3\u8352\u8005\u7CFB\u5217\u8B77\u7532\u91CD\u6846\u9AD4\u578B\u865F\u2014\u2014\u70BA\u4E86\u80FD\u5920\u5728\u80A9\u90E8\u914D\u5099\u91CD\u706B\u70AE\u800C\u984D\u5916\u52A0\u88DD\u4E86\u4EBA\u9020\u810A\u690E\u69CB\u9020\u3002",
+  "lore": "\u672C\u88DD\u5099\u7531\u5317\u9032\u91CD\u5DE5\u652F\u63F4\u6240\u8A2D\u8A08\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 70,
+  "suitId": "suit_atb01",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 56,
+          "displayValue": "56"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u654F\u6377",
+      "values": [
+        {
+          "stage": 0,
+          "value": 87,
+          "displayValue": "87"
+        },
+        {
+          "stage": 1,
+          "value": 95,
+          "displayValue": "95"
+        },
+        {
+          "stage": 2,
+          "value": 104,
+          "displayValue": "104"
+        },
+        {
+          "stage": 3,
+          "value": 113,
+          "displayValue": "113"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "\u667A\u8B58",
+      "values": [
+        {
+          "stage": 0,
+          "value": 58,
+          "displayValue": "58"
+        },
+        {
+          "stage": 1,
+          "value": 63,
+          "displayValue": "63"
+        },
+        {
+          "stage": 2,
+          "value": 69,
+          "displayValue": "69"
+        },
+        {
+          "stage": 3,
+          "value": 75,
+          "displayValue": "75"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u6230\u6280\u50B7\u5BB3\u52A0\u6210",
+      "values": [
+        {
+          "stage": 0,
+          "value": 0.207,
+          "displayValue": "20.7%"
+        },
+        {
+          "stage": 1,
+          "value": 0.2277,
+          "displayValue": "22.8%"
+        },
+        {
+          "stage": 2,
+          "value": 0.2484,
+          "displayValue": "24.8%"
+        },
+        {
+          "stage": 3,
+          "value": 0.2691,
+          "displayValue": "26.9%"
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "requiredCount": 3,
+      "name": "\u62D3\u8352",
+      "description": "3\u4EF6\u5957\u88DD\u6548\u679C\uFF1A\u88DD\u5099\u8005\u9023\u651C\u6280\u51B7\u537B\u7E2E\u6E1B\u002B15%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6280\u80FD\u56DE\u5FA9\u6280\u529B\u5F8C\uFF0C\u5168\u968A\u9020\u6210\u7684\u50B7\u5BB3\u002B16%\uFF0C\u6301\u7E8C15\u79D2\uFF0C\u8A72\u6548\u679C\u7121\u6CD5\u758A\u52A0\u3002",
+      "bindingStatus": "bound"
+    }
+  ],
+  "suitEquipment": [
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_hand_01",
+      "name": "\u62D3\u8352\u8010\u8755\u624B\u5957",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_hand_01.png?v=e8abda549d007805ed3ca9ec338e6c46f5c2e411d95a4546ece5f7807a23e6bb",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_hand_02",
+      "name": "\u62D3\u8352\u7E96\u7DAD\u624B\u5957",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_hand_02.png?v=045dfc137e067d205cd8f9661ffa69a86e76dfac6b6ed0c2001c4ac65f6ceca7",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_hand_03",
+      "name": "\u62D3\u8352\u7E96\u7DAD\u624B\u5957\u00B7I",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_hand_03.png?v=7ce575280980e43c66a6da452319595a4c19fc0ad3f2b55f0d28c0d9926bfd7a",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_body_01",
+      "name": "\u62D3\u8352\u8B77\u7532",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_01.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_body_02",
+      "name": "\u62D3\u8352\u8B77\u7532\u00B7I",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_03.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_body_03",
+      "name": "\u62D3\u8352\u8B77\u7532\u00B7II",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_04.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_body_04",
+      "name": "\u62D3\u8352\u8B77\u7532III",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_02.png?v=a30a170b8ce768a68bc45734025837833b921168e6ed7a906c70ccef4bcac04d",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_body_05",
+      "name": "\u62D3\u8352\u8B77\u670D",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_body_05.png?v=64bffbd4f2031705b56d5f2042dad0f352572af4442c21298949598a470ab8bd",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_edc_01",
+      "name": "\u62D3\u8352\u901A\u8A0A\u5668",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_01.png?v=985968fa092a6aef396d6fbb5cf2dab303998fa744f0a32e24930e029064a7e0",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_edc_02",
+      "name": "\u62D3\u8352\u901A\u8A0A\u5668\u00B7I",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_02.png?v=985968fa092a6aef396d6fbb5cf2dab303998fa744f0a32e24930e029064a7e0",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_edc_03",
+      "name": "\u62D3\u8352\u5206\u6790\u5100",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_03.png?v=2c2c1367aa48c0ac2cbb82331556551b79d4f852ae8ae114e09e0bf0e4fe5bdd",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_edc_04",
+      "name": "\u62D3\u8352\u589E\u91CF\u4F9B\u6C27\u6813",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_04.png?v=f258cd87a46da13d6bdcdeb9adbe2c3bc6d99cdc315973efdd9478d48c8ebf74",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_edc_06",
+      "name": "\u62D3\u8352\u589E\u91CF\u4F9B\u6C27\u6813\u00B7I",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_06.png?v=cdb2eff39494d9851015c383d42729b2d02d7c4e7108f178980bbb6622ef2575",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_atb01_edc_05",
+      "name": "\u62D3\u8352\u4F9B\u6C27\u6813",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_atb01_edc_05.png?v=12a3836e7523be64fb0b483b40c604eaa2bdd55f0b9b29e5d6db5698021e4f26",
+      "hasDetail": true
+    }
+  ],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t4_suit_atb01_body_03",
+      "chainId": 4000,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 8000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_suit_atb01_body_03",
+      "chainId": 4001,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_1",
+          "name": "\u8D64\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_1.png?v=30b1a3aa22ed1cefdfafa77dce32abe359d267b9923bf898f08063f5a234dd7b"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 8000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_suit_atb01_body_03",
+      "chainId": 4002,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_2",
+          "name": "\u8D6B\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 10,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_2.png?v=e645fdd08a1fe2b30cea822f323f711c7ed73183ca398083eda1aa2be379972a"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 8000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_suit_atb01_body_03",
+      "chainId": 4003,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 5,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 80,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    }
+  ]
+}

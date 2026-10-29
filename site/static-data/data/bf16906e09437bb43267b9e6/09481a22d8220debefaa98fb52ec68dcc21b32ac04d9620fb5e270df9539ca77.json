@@ -1,0 +1,249 @@
+{
+  "sourceItemId": "item_gas_inert",
+  "name": "\u60F0\u6C23",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823",
+  "summary": "\u5728\u5354\u8B70\u74B0\u5883\u4E0B\u63D0\u7D14\u51FA\u7684\u7279\u6B8A\u6C23\u9AD4\uFF0C\u6027\u8CEA\u7A69\u5B9A\uFF0C\u64DA\u8AAA\u6700\u65E9\u88AB\u61C9\u7528\u65BC\u5E1D\u6C5F\u865F\u767C\u5C04\u74B0\u7BC0\u6240\u4F7F\u7528\u7684\u6C23\u52D5\u95A5\u4E2D\u3002",
+  "description": "\u6027\u8CEA\u7A69\u5B9A\u7684\u6C23\u9AD4\uFF0C\u5728\u5DE5\u696D\u7CFB\u7D71\u4E2D\u6709\u8C50\u5BCC\u7684\u4F7F\u7528\u5834\u666F\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_gas_inert",
+      "description": "\u60F0\u6C23\u7926\u9EDE\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_common_gas",
+      "description": "\u53EF\u4F7F\u7528\u6C23\u9AD4\u6536\u96C6\u6CF5\u9032\u884C\u81EA\u52D5\u5316\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_map02_lv007",
+      "description": "\u61C9\u9F8D\u95DC\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/filling_copperjar_gas_inert_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_jar",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+          "quantity": 1,
+          "path": "/items/item_copper_jar",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_inert",
+          "name": "\u60F0\u6C23",
+          "quantity": 1,
+          "path": "/items/item_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gasjar_copper_gas_inert",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50\uFF08\u60F0\u6C23\uFF09",
+          "quantity": 1,
+          "path": "/items/item_gasjar_copper_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+          "contentIconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823"
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_copperjar_gas_inert_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_gas_activity_xiranite_enr_box_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_enr_nugget",
+          "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u584A",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_enr_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_enr_nugget.png?v=ac51293fa532d40e1811587af6a9c54c4762eb87e2bd6543de9656d63d3193d6",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_inert",
+          "name": "\u60F0\u6C23",
+          "quantity": 5,
+          "path": "/items/item_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_enr_box",
+          "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u91CD\u6BBC",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_enr_box",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_enr_box.png?v=dcd37a4f8e18e548a8ed93db6b6c8536bc6365101d622b350e53a3df55be9149",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_gas_activity_xiranite_enr_box_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_gas_copper_jar_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 2,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_inert",
+          "name": "\u60F0\u6C23",
+          "quantity": 1,
+          "path": "/items/item_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_jar",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+          "quantity": 1,
+          "path": "/items/item_copper_jar",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_gas_copper_jar_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/dismantler_copperjar_gas_inert_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gasjar_copper_gas_inert",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50\uFF08\u60F0\u6C23\uFF09",
+          "quantity": 1,
+          "path": "/items/item_gasjar_copper_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+          "contentIconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_jar",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+          "quantity": 1,
+          "path": "/items/item_copper_jar",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_inert",
+          "name": "\u60F0\u6C23",
+          "quantity": 1,
+          "path": "/items/item_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "dismantler_1",
+          "name": "\u62C6\u89E3\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_dismantler_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Adismantler_copperjar_gas_inert_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

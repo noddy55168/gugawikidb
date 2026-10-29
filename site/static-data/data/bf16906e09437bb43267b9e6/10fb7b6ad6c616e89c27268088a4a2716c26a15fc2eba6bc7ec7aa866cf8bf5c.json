@@ -1,0 +1,77 @@
+{
+  "activity": {
+    "sourceActivityId": "web_web_activity_v1d1_fest_01",
+    "name": "\u9577\u8033\u7378\u4E4B\u65C5",
+    "description": "\u591A\u9EBC\u5049\u5927\u7684\u65C5\u7A0B\uFF0C\u60A8\u5DF2\u662F\u88AB\u9078\u4E2D\u7684\u9577\u8033\u7378\uFF0C\u842C\u773E\u77DA\u76EE\uFF0C\u5189\u5189\u5347\u8D77\u7684\u65B0\u661F\u3002",
+    "sourceType": 1,
+    "sortOrder": 1001,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_webfool",
+    "tabImageId": "activity_tab_fool",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/1 12:00:00",
+        "closeTimeRaw": "2026/4/8 4:00:00",
+        "openUnixSeconds": 1775016000,
+        "closeUnixSeconds": 1775592000
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/1 12:00:00",
+        "closeTimeRaw": "2026/4/8 4:00:00",
+        "openUnixSeconds": 1775016000,
+        "closeUnixSeconds": 1775592000
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/4/1 12:00:00",
+        "closeTimeRaw": "2026/4/8 4:00:00",
+        "openUnixSeconds": 1775062800,
+        "closeUnixSeconds": 1775638800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_webfool",
+        "name": "\u540C\u6176\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#85b9e8"
+  },
+  "instructionId": "instru_webfool",
+  "instructionTitle": "\u300C\u9577\u8033\u7378\u4E4B\u65C5\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u8E0F\u4E0A\u65C5\u7A0B\uFF0C\u5728\u65C5\u7A0B\u4E2D\u6536\u96C6\u300C\u898B\u805E\u300D\u548C\u300C\u7D00\u5FF5\u54C1\u300D\uFF0C\u5B8C\u6210\u6307\u5B9A\u4EFB\u52D9\uFF0C\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002\n\u00B7 \u5B8C\u6210\u6307\u5B9A\u4EFB\u52D9\u5F8C\uFF0C\u734E\u52F5\u5C07\u7ACB\u5373\u900F\u904E\u904A\u6232\u5167\u4FE1\u4EF6\u767C\u653E\uFF0C\u4FE1\u4EF6\u6709\u6548\u671F\u9650\u70BA30\u5929\uFF0C\u8ACB\u7BA1\u7406\u54E1\u53CA\u6642\u9818\u53D6\u3002",
+  "conditions": [],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_web_activity_webfool_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

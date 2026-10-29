@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:pool_liquid_liquid_xiranite_2",
+    "name": "\u6DB2\u5316\u606F\u58E4",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_liquid_xiranite.png?v=c0b55927ac780b77e09d8118302e93c0f9d8bda81a8aad6f339d1a8e6800918f",
+    "sortOrder": 3,
+    "path": "/industry/recipes/machine%3Apool_liquid_liquid_xiranite_2",
+    "outputSummary": "\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+    "deviceNames": [
+      "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+    ]
+  },
+  "description": "\u6DB2\u5316\u606F\u58E4\u5408\u6210\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_water",
+      "name": "\u6E05\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "link": "/items/item_liquid_water"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_xiranite",
+      "name": "\u6DB2\u5316\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite.png?v=c0b55927ac780b77e09d8118302e93c0f9d8bda81a8aad6f339d1a8e6800918f",
+      "link": "/items/item_liquid_xiranite"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_mix_pool_2",
+      "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_2.png?v=579c5a452f1a2b8ac42e19ac448d31b19dbe9fd34074f5e98dd565a91bf0f536",
+      "sortOrder": 6,
+      "path": "/industry/devices/wiki_item_port_mix_pool_2",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

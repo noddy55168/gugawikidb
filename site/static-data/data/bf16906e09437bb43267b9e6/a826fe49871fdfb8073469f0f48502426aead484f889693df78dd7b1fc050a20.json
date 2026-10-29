@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "sourceActivityId": "CharacterGuide_wulfa",
+    "name": "\u7D05\u9A0E\u58EB",
+    "description": "\u8207\u8D64\u7D05\u8272\u7684\u5973\u5B69\u4E00\u8D77\u5C0B\u627E\u907A\u5931\u7684\u6A23\u672C\uFF0C\u9084\u6709\u88AB\u907A\u5FD8\u7684\u7AE5\u5FC3\u3002",
+    "sourceType": 10,
+    "sortOrder": 3005,
+    "detailCoverage": "basic",
+    "timeId": "time_CharacterGuide_wulfa",
+    "tabImageId": "bg_activity_tab_char_guide_wulfa",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/29 12:00:00",
+        "closeTimeRaw": "2026/4/17 6:00:00",
+        "openUnixSeconds": 1774756800,
+        "closeUnixSeconds": 1776376800
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/29 12:00:00",
+        "closeTimeRaw": "2026/4/17 6:00:00",
+        "openUnixSeconds": 1774756800,
+        "closeUnixSeconds": 1776376800
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/3/29 12:00:00",
+        "closeTimeRaw": "2026/4/16 17:00:00",
+        "openUnixSeconds": 1774803600,
+        "closeUnixSeconds": 1776376800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_story",
+        "name": "\u6558\u4E8B\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#cc0e1b"
+  },
+  "instructionId": "CharacterGuide_wulfa",
+  "instructionTitle": "\u300C\u7D05\u9A0E\u58EB\u300D\u4EFB\u52D9\u8AAA\u660E",
+  "instructionContent": "- \u63A5\u53D6\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6III - \u4E16\u4EE3\u6416\u7C43\n\n- \u4EFB\u52D9\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u5B8C\u6210\u652F\u7DDA\u4EFB\u52D9\u300C\u7D05\u9A0E\u58EB\u300D\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "CharacterGuide_wulfa_unlock1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6III - \u4E16\u4EE3\u6416\u7C43",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_CharacterGuide_wulfa",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_expcard_stage2_low",
+          "name": "\u521D\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

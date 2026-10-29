@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_corp_sugarcane_1",
+    "name": "\u8106\u8517\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_sugarcane_1.png?v=fa96f7e3973125b691d8a496f11b86b6a2182fe9f3185637e81227bcdc0be06e",
+    "sortOrder": 113,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_corp_sugarcane_1",
+    "outputSummary": "\u8106\u8517\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_sugarcane_seed_1",
+      "name": "\u8106\u8517\u7A2E\u5B50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_sugarcane_seed_1.png?v=41cbadb61a123fb404d28884c64aa39465a8ace7dd1238671df0554fd2fda8b2",
+      "link": "/items/item_corp_sugarcane_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_corp_sugarcane_1",
+      "name": "\u8106\u8517\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_sugarcane_1.png?v=fa96f7e3973125b691d8a496f11b86b6a2182fe9f3185637e81227bcdc0be06e",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_sugarcane_1",
+      "name": "\u8106\u8517",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+      "link": "/items/item_corp_sugarcane_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_corp_sugarcane_seed_1",
+      "name": "\u8106\u8517\u7A2E\u5B50",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_sugarcane_seed_1.png?v=41cbadb61a123fb404d28884c64aa39465a8ace7dd1238671df0554fd2fda8b2",
+      "link": "/items/item_corp_sugarcane_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_corp_sugarcane_1",
+      "name": "\u8106\u8517\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_sugarcane_1.png?v=fa96f7e3973125b691d8a496f11b86b6a2182fe9f3185637e81227bcdc0be06e",
+      "link": null
+    }
+  ],
+  "devices": []
+}

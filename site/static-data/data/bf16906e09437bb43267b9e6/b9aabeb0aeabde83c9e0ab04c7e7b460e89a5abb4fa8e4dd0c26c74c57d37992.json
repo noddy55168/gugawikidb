@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_corp4_spc",
+    "name": "\u7F85\u5FB7\u5CF6\u7279\u88FD\u53E3\u7CE7",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_corp4_spc.png?v=ac140542470b3a2a1a0d753a2df3a6bcfab46cfb92c3caff27da996f71247568",
+    "sortOrder": 9,
+    "path": "/industry/recipes/manual%3Ahdwk_corp4_spc",
+    "outputSummary": "\u7F85\u5FB7\u5CF6\u7279\u88FD\u53E3\u7CE7 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_wgslime_1",
+      "name": "\u5805\u97CC\u7684\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+      "link": "/items/item_drop_wgslime_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_sp_4",
+      "name": "\u91D1\u77F3\u7A3B",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+      "link": "/items/item_plant_sp_4"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_drop_dog_1",
+      "name": "\u7378\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+      "link": "/items/item_drop_dog_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp4_spc",
+      "name": "\u7F85\u5FB7\u5CF6\u7279\u88FD\u53E3\u7CE7",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp4_spc.png?v=ac140542470b3a2a1a0d753a2df3a6bcfab46cfb92c3caff27da996f71247568",
+      "link": "/items/item_corp4_spc"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_corp4_spc",
+      "name": "\u7F85\u5FB7\u5CF6\u7279\u88FD\u53E3\u7CE7\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp4_spc.png?v=ac140542470b3a2a1a0d753a2df3a6bcfab46cfb92c3caff27da996f71247568",
+      "link": null
+    }
+  ],
+  "devices": []
+}

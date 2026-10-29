@@ -1,0 +1,69 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_stamina_reduce_1",
+    "name": "\u7406\u667A\u6E1B\u8017",
+    "description": "\u85E5\u5291\u3001\u6309\u6469\uFF0C\u751A\u81F3\u4E00\u9813\u5927\u9910\u2026\u2026\u5E6B\u52A9\u60A8\u8212\u7DE9\u7CBE\u795E\u58D3\u529B\u7684\u65B9\u5F0F\u5404\u5F0F\u5404\u6A23\u3002",
+    "sourceType": 5,
+    "sortOrder": 4000,
+    "detailCoverage": "basic",
+    "timeId": "time_stamina_reduce_1",
+    "tabImageId": "activity_tab_stamina_discount",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/2 12:00:00",
+        "closeTimeRaw": "2026/3/12 4:00:00",
+        "openUnixSeconds": 1772424000,
+        "closeUnixSeconds": 1773259200
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/2 12:00:00",
+        "closeTimeRaw": "2026/3/12 4:00:00",
+        "openUnixSeconds": 1772424000,
+        "closeUnixSeconds": 1773259200
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/3/2 12:00:00",
+        "closeTimeRaw": "2026/3/11 17:00:00",
+        "openUnixSeconds": 1772470800,
+        "closeUnixSeconds": 1773266400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_stamina",
+        "name": "\u6E1B\u8017\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff078"
+  },
+  "instructionId": "Stamina_Discount",
+  "instructionTitle": "\u300C\u7406\u667A\u6E1B\u8017\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u958B\u62D3\u524D\u8DEF\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u5728\u901A\u95DC\u6307\u5B9A\u95DC\u5361\u5F8C\uFF0C\u7372\u5F97\u734E\u52F5\u6240\u9700\u6D88\u8017\u7684\u7406\u667A\u5C07\u6E1B\u5C1140\u9EDE\u3002\u6BCF\u65E5\u53EF\u4EAB\u53D73\u6B21\u7406\u667A\u6E1B\u8017\u6A5F\u6703\u3002\n\u00B7 \u6BCF\u65E5\u4F3A\u670D\u5668\u6642\u959304:00\u66F4\u65B0\u5F8C\uFF0C\u7BA1\u7406\u54E1\u64C1\u6709\u7684\u7406\u667A\u6E1B\u8017\u6A5F\u6703\u5C07\u91CD\u7F6E\u3002\n\u00B7 \u5728\u901A\u95DC\u6307\u5B9A\u95DC\u5361\uFF0C\u9818\u53D6\u734E\u52F5\u6642\uFF0C\u82E5\u6709\u7406\u667A\u6E1B\u8017\u6A5F\u6703\uFF0C\u5247\u3010\u7406\u667A\u6D88\u8017\u8A31\u53EF\u3011\u66AB\u4E0D\u53EF\u7528\u3002",
+  "conditions": [],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_doodad_crylplant_1_1",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_plant_crylplant_1_1",
+          "name": "\u6676\u5316\u591A\u9F52\u8449",
+          "sourceCount": 3,
+          "visibilityCode": null
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

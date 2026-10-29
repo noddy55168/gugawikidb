@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_slwood_1_hshog_1_1",
+  "name": "\u9999\u7117\u7378\u809D",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_slwood_1_hshog_1_1.png?v=c5049a22275bfdf137a2a6595231b33592c64b88494f5a10dfb97eb339c15eea",
+  "summary": "\u7C21\u55AE\u6613\u505A\u7684\u83DC\u991A\uFF0C\u9817\u53D7\u958B\u62D3\u5340\u5C45\u6C11\u7684\u6B61\u8FCE\u3002\u5C07\u7378\u809D\u9E7D\u7117\u5F8C\uFF0C\u61F8\u639B\u5230\u6728\u67B6\u4E0A\uFF0C\u4F7F\u7528\u5AE9\u679D\u71FB\u88FD\uFF0C\u5F62\u6210\u7D55\u5999\u98A8\u5473\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u6DE8\u5316\u6CD5\u8853\u9644\u8457\u8207\u6CD5\u8853\u7570\u5E38\uFF0C\u7136\u5F8C\u7ACB\u523B\u56DE\u5FA910%\u6700\u5927\u751F\u547D\u503C\uFF0C\u518D\u56DE\u5FA91480\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u87F2\u89D2\u5AE9\u679D\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_slwood_1_hshog_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_slwood_1",
+          "name": "\u87F2\u89D2\u5AE9\u679D",
+          "quantity": 2,
+          "path": "/items/item_drop_slwood_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_slwood_1.png?v=4c29ae62bd145496eae45fe9ea23d4d4d0212882e5a8ffdf9b2b0953b00e36d8",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hshog_1",
+          "name": "\u7403\u523A\u7378\u7684\u809D\u81DF",
+          "quantity": 1,
+          "path": "/items/item_drop_hshog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hshog_1.png?v=61992f6c8b962b8a2ce0a72a00d32dc881b53e0ee29b9678f428798e26d77517",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_slwood_1_hshog_1_1",
+          "name": "\u9999\u7117\u7378\u809D",
+          "quantity": 1,
+          "path": "/items/item_slwood_1_hshog_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_slwood_1_hshog_1_1.png?v=c5049a22275bfdf137a2a6595231b33592c64b88494f5a10dfb97eb339c15eea",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_slwood_1_hshog_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

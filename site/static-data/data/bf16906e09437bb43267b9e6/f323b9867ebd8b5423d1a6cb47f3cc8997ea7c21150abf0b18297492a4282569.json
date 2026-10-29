@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_log_connector",
+    "name": "\u7269\u6D41\u6A4B",
+    "kind": "logistic",
+    "category": "\u7269\u6D41\u8A2D\u5099",
+    "iconPath": "/media/wiki/industry/item_log_connector.png?v=0013304f0ea6bf9eb22ed702b6d03732673af1a0c10d06bbc875a2d52f68e165",
+    "sortOrder": 3,
+    "path": "/industry/devices/wiki_item_log_connector",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7269\u6D41\u6A4B\u53EF\u4EE5\u4F7F\u5F97\u5169\u689D\u76F8\u4EA4\u7684\u50B3\u9001\u5E36\u5404\u81EA\u7368\u7ACB\u5730\u904B\u8F38\u7269\u54C1\u800C\u4E92\u4E0D\u5F71\u97FF\u3002",
+  "sourceId": "log_connector",
+  "needPower": null,
+  "width": null,
+  "depth": null,
+  "height": null,
+  "recipes": []
+}

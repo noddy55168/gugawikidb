@@ -1,0 +1,116 @@
+{
+  "sourceItemId": "item_equip_t1_suit_wisdwill01_hand_01",
+  "name": "\u6574\u5408\u5316\u6230\u8853\u624B\u5957",
+  "rarity": 2,
+  "category": "\u8B77\u624B",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t1_suit_wisdwill01_hand_01.png?v=04134b2e0e0192725b7cc75298542a6ddb369a53404b475daecadbb2aef4a99c",
+  "description": "\u7D50\u69CB\u7C21\u55AE\u7684\u6A21\u7D44\u5316\u8F15\u578B\u9632\u8B77\u88DD\u5099\u3002\n\u96D6\u7136\u4E0D\u80FD\u63D0\u4F9B\u6700\u9802\u7D1A\u7684\u9632\u8B77\uFF0C\u4F46\u5B83\u81F3\u5C11\u4FBF\u65BC\u7A7F\u6234\u3002",
+  "lore": "\u672C\u88DD\u5099\u7531\u7D42\u672B\u5730\u5DE5\u696D\u81EA\u7814\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 28,
+  "suitId": "suit_wisdwill01",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 16.8,
+          "displayValue": "16.8"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u667A\u8B58",
+      "values": [
+        {
+          "stage": 0,
+          "value": 23,
+          "displayValue": "23"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "\u654F\u6377",
+      "values": [
+        {
+          "stage": 0,
+          "value": 23,
+          "displayValue": "23"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u9023\u651C\u6280\u50B7\u5BB3\u52A0\u6210",
+      "values": [
+        {
+          "stage": 0,
+          "value": 0.135,
+          "displayValue": "13.5%"
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "requiredCount": 3,
+      "name": "\u6574\u5408\u8F15\u578B",
+      "description": "3\u4EF6\u5957\u88DD\u6548\u679C\uFF1A\u88DD\u5099\u8005\u751F\u547D\u503C\u002B500\u3002\n\u7576\u88DD\u5099\u8005\u64CA\u6557\u6575\u4EBA\u5F8C\uFF0C\u653B\u64CA\u529B\u002B20\uFF0C\u6301\u7E8C5\u79D2\u3002",
+      "bindingStatus": "bound"
+    }
+  ],
+  "suitEquipment": [
+    {
+      "sourceItemId": "item_equip_t1_suit_wisdwill01_hand_01",
+      "name": "\u6574\u5408\u5316\u6230\u8853\u624B\u5957",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t1_suit_wisdwill01_hand_01.png?v=04134b2e0e0192725b7cc75298542a6ddb369a53404b475daecadbb2aef4a99c",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t1_suit_wisdwill01_body_01",
+      "name": "\u6574\u5408\u5316\u8F15\u7532",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t1_suit_wisdwill01_body_01.png?v=92f974f5d9d044c8de096abc296f487cb9764b7acbab71622d50c7b907c43488",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t1_suit_wisdwill01_edc_01",
+      "name": "\u6574\u5408\u5316\u8F15\u7532\u7247",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t1_suit_wisdwill01_edc_01.png?v=564c87fe80f7b265cbd75c4e33a7129cc5f648099c94b43828e138e3321c9e03",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t1_suit_wisdwill01_edc_02",
+      "name": "\u6574\u5408\u5316\u9676\u74F7\u677F",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t1_suit_wisdwill01_edc_02.png?v=921db12b5f9a8563123edf36a8e02afc187322176d23b5750fadcf8c57de2f2a",
+      "hasDetail": true
+    }
+  ],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t1_suit_wisdwill01_hand_01",
+      "chainId": 1011,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_1",
+          "name": "\u7D2B\u6676\u88DD\u5099\u539F\u4EF6",
+          "count": 20,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_1.png?v=80a755674b11125a28c819fe31b34c6d2fc036e1f3ca9297495cab6f89312bb0"
+        },
+        {
+          "sourceItemId": "item_domain_tundra_coupon",
+          "name": "\u8C37\u5730\u8ABF\u5EA6\u5238",
+          "count": 160,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_tundra_coupon.png?v=5d24f09b61b2ed5d614abf86137e98519ae6143b4133d15695cf4dcf331035ba"
+        }
+      ]
+    }
+  ]
+}

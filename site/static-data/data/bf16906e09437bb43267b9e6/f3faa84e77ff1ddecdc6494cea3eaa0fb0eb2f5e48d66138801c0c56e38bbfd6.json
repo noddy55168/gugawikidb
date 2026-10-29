@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:liquid_purifier_copper_enr_1",
+    "name": "\u8D6B\u9285\u6EB6\u6DB2\u3001\u6C89\u7A4D\u9178",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_liquid_copper_enr.png?v=d32c141984f23c8aea871b72e7340e3af9547f471de5ecd248a962b22ceec17a",
+    "sortOrder": 2,
+    "path": "/industry/recipes/machine%3Aliquid_purifier_copper_enr_1",
+    "outputSummary": "\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1\u3001\u6C89\u7A4D\u9178 \u00D7 1",
+    "deviceNames": [
+      "\u63D0\u7D14\u6A5F"
+    ]
+  },
+  "description": "\u8D6B\u9285\u6EB6\u6DB2\u63D0\u7D14",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_copper",
+      "name": "\u8D64\u9285\u6EB6\u6DB2",
+      "quantity": 4,
+      "iconPath": "/media/wiki/industry/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+      "link": "/items/item_liquid_copper"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_copper_enr",
+      "name": "\u8D6B\u9285\u6EB6\u6DB2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_copper_enr.png?v=d32c141984f23c8aea871b72e7340e3af9547f471de5ecd248a962b22ceec17a",
+      "link": "/items/item_liquid_copper_enr"
+    },
+    {
+      "role": "output",
+      "group": 1,
+      "order": 0,
+      "itemId": "item_liquid_acid",
+      "name": "\u6C89\u7A4D\u9178",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+      "link": "/items/item_liquid_acid"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_liquid_purifier_1",
+      "name": "\u63D0\u7D14\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_liquid_purifier_1.png?v=1ff0e03a32804b09c3ba9c90fbe55e5820d73c30aa0e7920b6000d7f1d2e29ff",
+      "sortOrder": 8,
+      "path": "/industry/devices/wiki_item_port_liquid_purifier_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

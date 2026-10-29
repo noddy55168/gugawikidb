@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_Ingredient_flour_1",
+    "name": "\u9EB5\u7C89",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_Ingredient_flour_1.png?v=b325b5438fc41ae1b3ad3d545fb83f576c8517ffad6fe62a8d051d5e9aae7157",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Agrinder_Ingredient_flour_1",
+    "outputSummary": "\u9EB5\u7C89 \u00D7 3",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u9EB5\u7C89\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_sp_1",
+      "name": "\u7070\u8606\u9EA5",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+      "link": "/items/item_plant_sp_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_Ingredient_flour_1",
+      "name": "\u9EB5\u7C89",
+      "quantity": 3,
+      "iconPath": "/media/wiki/industry/item_Ingredient_flour_1.png?v=b325b5438fc41ae1b3ad3d545fb83f576c8517ffad6fe62a8d051d5e9aae7157",
+      "link": "/items/item_Ingredient_flour_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

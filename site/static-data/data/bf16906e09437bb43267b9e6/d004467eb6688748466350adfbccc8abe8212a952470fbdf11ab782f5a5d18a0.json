@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:filling_bottled_food_2_1",
+    "name": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_bottled_food_2.png?v=9e480c6fb10d648e22abd403a4ed1ed84693b32311454db3e0d74c4904b070fe",
+    "sortOrder": 2,
+    "path": "/industry/recipes/machine%3Afilling_bottled_food_2_1",
+    "outputSummary": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D \u00D7 1",
+    "deviceNames": [
+      "\u704C\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_bottle",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "link": "/items/item_iron_bottle"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_moss_powder_2",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "link": "/items/item_plant_moss_powder_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_food_2",
+      "name": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_food_2.png?v=9e480c6fb10d648e22abd403a4ed1ed84693b32311454db3e0d74c4904b070fe",
+      "link": "/items/item_bottled_food_2"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_filling_pd_mc_1",
+      "name": "\u704C\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_filling_pd_mc_1.png?v=45b74bdfae4b744bd94bc624b5fc1b026472a17ea3e4dfa6b957d8544cac338f",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

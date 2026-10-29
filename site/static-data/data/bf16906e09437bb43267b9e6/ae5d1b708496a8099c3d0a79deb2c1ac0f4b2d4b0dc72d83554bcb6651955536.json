@@ -1,0 +1,32 @@
+{
+  "sourceItemId": "item_muck_inn_4",
+  "name": "\u81FB\u54C1\u81A8\u5730\u556A",
+  "rarity": 5,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_muck_inn_4.png?v=96c3b9533eb581059e1764dfc7a567cd061994f8d3e96ba586947cbaa3785e05",
+  "summary": "\u65B0\u6B3E\u81A8\u5730\u556A\uFF0C\u6BCF\u4E00\u6EF4\u6BCF\u4E00\u7C92\u90FD\u662F\u5DE5\u4F5C\u4EBA\u54E1\u7684\u5FC3\u8840\uFF0C\u8DDD\u96E2\u842C\u80A5\u4E4B\u771F\u738B\u50C5\u5DEE\u4E00\u6B65\u3002",
+  "description": "\u53EF\u4EE5\u5728\u751F\u9577\u671F\u7684\u7530\u584A\u65BD\u80A5\u6642\u4F5C\u70BA\u80A5\u6599\uFF0C\u5927\u5E45\u589E\u52A0\u7530\u584A\u6536\u7A6B\u6642\u7684\u7522\u7269\u6578\u91CF\uFF0C\u540C\u6642\u660E\u986F\u7E2E\u77ED\u7530\u584A\u751F\u9577\u671F\u6642\u9593\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

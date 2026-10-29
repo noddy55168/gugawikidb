@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:handwork_plant_moss_spc_powder_1",
+    "name": "\u854E\u7652\u85E5\u7C89",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+    "sortOrder": 49,
+    "path": "/industry/recipes/manual%3Ahandwork_plant_moss_spc_powder_1",
+    "outputSummary": "\u854E\u7652\u85E5\u7C89 \u00D7 2",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_spc_1",
+      "name": "\u6620\u706B\u854E\u82B1",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_spc_1.png?v=607dfb9f6fe64754589f8f70a838542675e51d2a7f562cd0e3a3515ebbd01dc7",
+      "link": "/items/item_plant_moss_spc_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_spc_powder_1",
+      "name": "\u854E\u7652\u85E5\u7C89",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+      "link": "/items/item_plant_moss_spc_powder_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_plant_moss_spc_powder_1",
+      "name": "\u854E\u7652\u85E5\u7C89\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+      "link": null
+    }
+  ],
+  "devices": []
+}

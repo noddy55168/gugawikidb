@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:shaper_copper_bottle_1",
+    "name": "\u8D64\u9285\u74F6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+    "sortOrder": 5,
+    "path": "/industry/recipes/machine%3Ashaper_copper_bottle_1",
+    "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+    "deviceNames": [
+      "\u5851\u5F62\u6A5F"
+    ]
+  },
+  "description": "\u8D64\u9285\u74F6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_nugget",
+      "name": "\u8D64\u9285\u584A",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+      "link": "/items/item_copper_nugget"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_bottle",
+      "name": "\u8D64\u9285\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "link": "/items/item_copper_bottle"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_shaper_1",
+      "name": "\u5851\u5F62\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_shaper_1.png?v=e2566298e52a05123bbad144c04a47c370a8dedfa59df9366d89a5f707aa805e",
+      "sortOrder": 4,
+      "path": "/industry/devices/wiki_item_port_shaper_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

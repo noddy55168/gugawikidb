@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_slimeml_1_agrange_1_moss_2_1",
+    "name": "\u5C0F\u871C\u87F2\u5E03\u4E01",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_slimeml_1_agrange_1_moss_2_1.png?v=e4bb81ad6787d863ffe41263c9cd8f7442d56cfb0e95708205eac81894b8d64a",
+    "sortOrder": 71,
+    "path": "/industry/recipes/manual%3Ahdwk_slimeml_1_agrange_1_moss_2_1",
+    "outputSummary": "\u5C0F\u871C\u87F2\u5E03\u4E01 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_slimeml_1",
+      "name": "\u87F2\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+      "link": "/items/item_drop_slimeml_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_agrange_1",
+      "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+      "link": "/items/item_drop_agrange_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_moss_powder_2",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "link": "/items/item_plant_moss_powder_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_slimeml_1_agrange_1_moss_2_1",
+      "name": "\u5C0F\u871C\u87F2\u5E03\u4E01",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_slimeml_1_agrange_1_moss_2_1.png?v=e4bb81ad6787d863ffe41263c9cd8f7442d56cfb0e95708205eac81894b8d64a",
+      "link": "/items/item_slimeml_1_agrange_1_moss_2_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_slimeml_1_agrange_1_moss_2_1",
+      "name": "\u5C0F\u871C\u87F2\u5E03\u4E01\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_slimeml_1_agrange_1_moss_2_1.png?v=e4bb81ad6787d863ffe41263c9cd8f7442d56cfb0e95708205eac81894b8d64a",
+      "link": null
+    }
+  ],
+  "devices": []
+}

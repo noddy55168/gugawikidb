@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:pool_Ingredient_oil_1",
+    "name": "\u83DC\u7C7D\u6CB9",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_Ingredient_oil_1.png?v=a59fdda13d36bb65392ac3f66a96815e2759f56f14e96983039d40181ffd69bf",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Apool_Ingredient_oil_1",
+    "outputSummary": "\u83DC\u7C7D\u6CB9 \u00D7 1",
+    "deviceNames": [
+      "\u53CD\u61C9\u6C60"
+    ]
+  },
+  "description": "\u83DC\u7C7D\u6CB9\u751F\u7522\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_canolaflower_1",
+      "name": "\u7C7D\u6CB9\u82B1",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_canolaflower_1.png?v=886faa402ae5b39249ab21670475884ac8741f96f49614eee7db9d9f6d4fbed2",
+      "link": "/items/item_corp_canolaflower_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_water",
+      "name": "\u6E05\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "link": "/items/item_liquid_water"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_Ingredient_oil_1",
+      "name": "\u83DC\u7C7D\u6CB9",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_Ingredient_oil_1.png?v=a59fdda13d36bb65392ac3f66a96815e2759f56f14e96983039d40181ffd69bf",
+      "link": "/items/item_Ingredient_oil_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_mix_pool_1",
+      "name": "\u53CD\u61C9\u6C60",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_1.png?v=531a16ed1a42c703e31aaec8f676cf038585e364c7f69b0c1c8a1196b581b65b",
+      "sortOrder": 5,
+      "path": "/industry/devices/wiki_item_port_mix_pool_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "sourceItemId": "item_wpnpotentialup_bp",
+  "name": "\u5354\u8B70\u5316\u6B66\u5668\u539F\u578B",
+  "rarity": 6,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_wpnpotentialup_bp.png?v=6284c86db9d32543f21e4c52addc6a915dd3377bdcbdca71989e7f6cdd44e688",
+  "summary": "\u8A18\u9304\u66F4\u591A\u5E79\u54E1\u4F7F\u7528\u6B66\u5668\u7684\u504F\u597D\uFF0C\u8046\u807D\u4ED6\u5011\u6709\u95DC\u6B66\u5668\u7684\u671F\u5F85\u2026\u2026\u6B66\u5EAB\u5DE5\u7A0B\u5E2B\u5011\u5617\u8A66\u4F7F\u7528\u901A\u884C\u8B49\u9019\u7A2E\u65B9\u5F0F\uFF0C\u8B93\u7D42\u672B\u5730\u7684\u6B66\u5668\u7814\u767C\u6548\u7387\u66F4\u4E0A\u4E00\u5C64\u6A13\u3002",
+  "description": "\u53EF\u70BA\u6240\u6709\u5354\u8B70\u901A\u884C\u8B49\u7684\u6B66\u5668\u88DC\u7D66\u6240\u5305\u542B\u7684\u6B66\u5668\u63D0\u5347\u6F5B\u80FD\uFF0C\u5C0D\u65BC\u672A\u4F86\u5354\u8B70\u901A\u884C\u8B49\u7684\u6B66\u5668\u88DC\u7D66\u4E2D\u65B0\u589E\u7684\u6B66\u5668\u540C\u6A23\u6709\u6548\u3002\n\uFF08\u9069\u7528\u6B66\u5668\u8A73\u60C5\u53EF\u524D\u5F80\u767E\u79D1\u67E5\u770B\uFF09",
+  "wikiDescription": "",
+  "itemType": "\u6B66\u5668\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_bp_pay",
+      "description": "\u5354\u8B70\u901A\u884C\u8B49-\u5354\u8B70\u5BA2\u88FD\u5316",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "WeaponPotentialUpItemTable/item_wpnpotentialup_bp/\u990A\u6210\u7528\u9014/",
+      "category": "\u990A\u6210\u7528\u9014",
+      "title": "\u6B66\u5668\u6F5B\u80FD\u9069\u7528\u5C0D\u8C61",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_sword_0010",
+          "name": "\u9EEF\u8272\u706B\u70AC",
+          "quantity": null,
+          "path": "/weapons/wpn_sword_0010",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_sword_0010.png?v=c871e21a9b6ccca074880b70f31caf15260dcc263ce1828f944c9313243f593c",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_funnel_0006",
+          "name": "\u4F5C\u54C1\uFF1A\u8755\u8DE1",
+          "quantity": null,
+          "path": "/weapons/wpn_funnel_0006",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_funnel_0006.png?v=03e2ace806f667af922f37bb5b4a7f63b2cacf8a6f7577f70dfc71ab1fef0f3d",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_pistol_0005",
+          "name": "\u9818\u822A\u8005",
+          "quantity": null,
+          "path": "/weapons/wpn_pistol_0005",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_pistol_0005.png?v=03dbf9a23a19259a3141d546d2d4bbaf81de96d786cc6235b51e417bad012fbb",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_sword_0017",
+          "name": "\u5149\u69AE\u8A18\u61B6",
+          "quantity": null,
+          "path": "/weapons/wpn_sword_0017",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_sword_0017.png?v=244b0ff52e643056f28d2cab0f47c60ceeff13b125d7ec2ebfeaed9ae3d023bd",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_pistol_0007",
+          "name": "\u671B\u9109",
+          "quantity": null,
+          "path": "/weapons/wpn_pistol_0007",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_pistol_0007.png?v=1edde7e4618c3fcb35ab73964cc728fb8eff881c1409d28e4e11454dec27db1a",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_funnel_0017",
+          "name": "\u9727\u4E2D\u5FAE\u5149",
+          "quantity": null,
+          "path": "/weapons/wpn_funnel_0017",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_funnel_0017.png?v=4e049a189e8daec1e8b15fc04f74f3284ded26bfe1924b47dcafd338c5a0b47b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_claym_0016",
+          "name": "\u5E7B\u60F3\u82E6\u75DB",
+          "quantity": null,
+          "path": "/weapons/wpn_claym_0016",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_claym_0016.png?v=0c6b957add4e13a2f119057e6e13481e78e403ffee360fc7cf9537f7bc3f1798",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_lance_0007",
+          "name": "\u71C8\u706B\u4F7F\u547D",
+          "quantity": null,
+          "path": "/weapons/wpn_lance_0007",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_lance_0007.png?v=554f90a5b10a3f143de5f5c9606481f894d45cc171c98d0fd3cd26359a9ba2c5",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_funnel_0018",
+          "name": "\u806F\u7D50\u9EDE",
+          "quantity": null,
+          "path": "/weapons/wpn_funnel_0018",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_funnel_0018.png?v=f8832febe214425d7ffa6ccb5b1d893951508b893d47888158cccc6547334bf1",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_lance_0016",
+          "name": "\u9EC3\u91D1\u6642\u4EE3",
+          "quantity": null,
+          "path": "/weapons/wpn_lance_0016",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_lance_0016.png?v=7f9f05d218f1b91df91f56141428334bbca94b5d2f49a47a9426b962f0c874e1",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_funnel_0020",
+          "name": "\u82E6\u96E3\u7684\u76E1\u982D",
+          "quantity": null,
+          "path": "/weapons/wpn_funnel_0020",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_funnel_0020.png?v=0746ae2d303cbe7c8d0607bd2aaae44966c749308ad3c2568d9bd0341a9ffd64",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_claym_0019",
+          "name": "\u60A0\u4E45\u50B3\u627F",
+          "quantity": null,
+          "path": "/weapons/wpn_claym_0019",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_claym_0019.png?v=20b506ff346660c7af00440aa8266fd0c2e78a08f1f8a233095d8c88fe394cb4",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "wpn_sword_0024",
+          "name": "\u805A\u5408\u5DE5\u696D",
+          "quantity": null,
+          "path": "/weapons/wpn_sword_0024",
+          "iconPath": "/media/wiki/catalogs/weapons/wpn_sword_0024.png?v=7b76254af8bcc1a2ebd05ee65d70567fcd7c05e1dd7c9bfe6a540579ed696aca",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

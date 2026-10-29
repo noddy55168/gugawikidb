@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:log_hongs_bus_source",
+    "name": "\u5009\u5EAB\u5B58\u53D6\u7DDA\u6E90\u6A01",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_log_hongs_bus_source.png?v=d767a6243a001d30e1466569db03ba1825efbf6684f45abafb27e665947b913f",
+    "sortOrder": 116,
+    "path": "/industry/recipes/hub%3Alog_hongs_bus_source",
+    "outputSummary": "\u5009\u5EAB\u5B58\u53D6\u7DDA\u6E90\u6A01 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 50,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_log_hongs_bus_source",
+      "name": "\u5009\u5EAB\u5B58\u53D6\u7DDA\u6E90\u6A01",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_log_hongs_bus_source.png?v=d767a6243a001d30e1466569db03ba1825efbf6684f45abafb27e665947b913f",
+      "link": null
+    }
+  ],
+  "devices": []
+}

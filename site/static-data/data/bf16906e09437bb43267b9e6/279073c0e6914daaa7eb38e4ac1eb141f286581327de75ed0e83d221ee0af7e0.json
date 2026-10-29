@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:storager_1",
+    "name": "\u5354\u8B70\u5132\u5B58\u7BB1",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_storager_1.png?v=69b1c95a52a6f603248fc608fa83dc6ad1f3c03ecb3f0fbb7582c8d8242a3043",
+    "sortOrder": 19,
+    "path": "/industry/recipes/hub%3Astorager_1",
+    "outputSummary": "\u5354\u8B70\u5132\u5B58\u7BB1 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_storager_1",
+      "name": "\u5354\u8B70\u5132\u5B58\u7BB1",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_storager_1.png?v=69b1c95a52a6f603248fc608fa83dc6ad1f3c03ecb3f0fbb7582c8d8242a3043",
+      "link": null
+    }
+  ],
+  "devices": []
+}

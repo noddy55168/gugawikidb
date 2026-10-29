@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_sp_1_moss_1_agmelee_1_1",
+    "name": "\u6A1E\u7D10\u5340\u7DCA\u6025\u9910",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_sp_1_moss_1_agmelee_1_1.png?v=c85e1a99f91720d60f31b97857274dd31d59b0f57b1e20fcad2cd711a0cf6010",
+    "sortOrder": 30,
+    "path": "/industry/recipes/manual%3Ahdwk_sp_1_moss_1_agmelee_1_1",
+    "outputSummary": "\u6A1E\u7D10\u5340\u7DCA\u6025\u9910 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_powder_1",
+      "name": "\u854E\u82B1\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+      "link": "/items/item_plant_moss_powder_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_agmelee_1",
+      "name": "\u5805\u786C\u7570\u9999\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_agmelee_1.png?v=119554b900689bcbfa17bf9dc28585c71c770ea392e3fdfbb5bb23362b49193d",
+      "link": "/items/item_drop_agmelee_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_1",
+      "name": "\u7070\u8606\u9EA5",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+      "link": "/items/item_plant_sp_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_sp_1_moss_1_agmelee_1_1",
+      "name": "\u6A1E\u7D10\u5340\u7DCA\u6025\u9910",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_sp_1_moss_1_agmelee_1_1.png?v=c85e1a99f91720d60f31b97857274dd31d59b0f57b1e20fcad2cd711a0cf6010",
+      "link": "/items/item_sp_1_moss_1_agmelee_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_sp_1_moss_1_agmelee_1_1",
+      "name": "\u6A1E\u7D10\u5340\u7DCA\u6025\u9910\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_sp_1_moss_1_agmelee_1_1.png?v=c85e1a99f91720d60f31b97857274dd31d59b0f57b1e20fcad2cd711a0cf6010",
+      "link": null
+    }
+  ],
+  "devices": []
+}

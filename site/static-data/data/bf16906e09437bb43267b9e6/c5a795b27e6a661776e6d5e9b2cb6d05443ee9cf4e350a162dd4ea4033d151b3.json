@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_bbflower_1",
+    "name": "\u916E\u5316\u704C\u6728\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_bbflower_1.png?v=03495988a31be2713675e4a64287de4e9fd49b41343b00cb6f6086ea2b2ae5a1",
+    "sortOrder": 103,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_bbflower_1",
+    "outputSummary": "\u916E\u5316\u704C\u6728\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_bbflower_seed_1",
+      "name": "\u916E\u5316\u6A39\u7A2E",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+      "link": "/items/item_plant_bbflower_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_bbflower_1",
+      "name": "\u916E\u5316\u704C\u6728\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_bbflower_1.png?v=03495988a31be2713675e4a64287de4e9fd49b41343b00cb6f6086ea2b2ae5a1",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_bbflower_1",
+      "name": "\u916E\u5316\u704C\u6728",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+      "link": "/items/item_plant_bbflower_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_bbflower_seed_1",
+      "name": "\u916E\u5316\u6A39\u7A2E",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+      "link": "/items/item_plant_bbflower_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_bbflower_1",
+      "name": "\u916E\u5316\u704C\u6728\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_bbflower_1.png?v=03495988a31be2713675e4a64287de4e9fd49b41343b00cb6f6086ea2b2ae5a1",
+      "link": null
+    }
+  ],
+  "devices": []
+}

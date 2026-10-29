@@ -1,0 +1,112 @@
+{
+  "sourceItemId": "item_plant_mushroom_seed_2_2",
+  "name": "\u661F\u9580\u83CC\u584A",
+  "rarity": 5,
+  "category": "\u73CD\u8CB4\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_mushroom_seed_2_2.png?v=d52efc76948728606b24682321da795ae977dd9649b25f941e99d150e853f3f4",
+  "summary": "\u7D93\u56B4\u683C\u7BE9\u9078\u7684\u661F\u9580\u83CC\uFF0C\u5176\u83CC\u584A\u6D3B\u6027\u5341\u8DB3\u3002",
+  "description": "\u661F\u9580\u83CC\u7684\u83CC\u584A\uFF0C\u53EF\u4EE5\u7528\u65BC\u57F9\u990A\u5168\u65B0\u7684\u500B\u9AD4\u3002\n\u661F\u9580\u83CC\u53EF\u5728\u90E8\u5206\u5E79\u54E180\u7D1A\u53CA\u4EE5\u4E0A\u6649\u5347\u6642\u4F7F\u7528\u3002",
+  "wikiDescription": "",
+  "itemType": "\u57F9\u990A\u57FA\u6838",
+  "useEffect": "",
+  "obtainHint": "\u89E3\u9396\u5E1D\u6C5F\u865F\u4E26\u5EFA\u9020\u5C0D\u61C9\u8259\u5BA4\u5F8C\u751F\u7522",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u89E3\u9396\u5E1D\u6C5F\u865F\u4E26\u5EFA\u9020\u5C0D\u61C9\u8259\u5BA4\u5F8C\u751F\u7522"
+  ],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_spaceship_plant_seed_mushroom_2_2",
+      "description": "\u5E1D\u6C5F\u865F-\u57F9\u990A\u8259\u63D0\u53D6\u57FA\u6838",
+      "condition": {
+        "sourceId": "condition_plant_item_plant_mushroom_2_2",
+        "kind": "all",
+        "text": "\u9808\u540C\u6642\u7B26\u5408\u4EE5\u4E0B\u689D\u4EF6",
+        "resolved": true,
+        "children": [
+          {
+            "sourceId": "condition_spaceship_plant_build",
+            "kind": "leaf",
+            "text": "\u5EFA\u9020\u300C\u57F9\u990A\u8259\u300D",
+            "resolved": true,
+            "children": []
+          },
+          {
+            "sourceId": "condition_item_plant_mushroom_2_2",
+            "kind": "leaf",
+            "text": "\u89E3\u9396\u300C\u661F\u9580\u83CC\u300D\u5716\u9451",
+            "resolved": true,
+            "children": []
+          }
+        ]
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipGrowCabinFormulaTable/growcabin_plant_mushroom_2_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u57F9\u990A\u8259\u7A2E\u690D",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_mushroom_seed_2_2",
+          "name": "\u661F\u9580\u83CC\u584A",
+          "quantity": 1,
+          "path": "/items/item_plant_mushroom_seed_2_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_mushroom_seed_2_2.png?v=d52efc76948728606b24682321da795ae977dd9649b25f941e99d150e853f3f4",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_mushroom_2_2",
+          "name": "\u661F\u9580\u83CC",
+          "quantity": 1,
+          "path": "/items/item_plant_mushroom_2_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_mushroom_2_2.png?v=1ea82c91b0ce72e48b22bf6f73f86cebbd0d8f97014b313fc49e86c2e3e7ea80",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipGrowCabinSeedFormulaTable/growcabin_extract_mushroom_2_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u57F9\u990A\u8259\u88FD\u7A2E",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_mushroom_2_2",
+          "name": "\u661F\u9580\u83CC",
+          "quantity": 1,
+          "path": "/items/item_plant_mushroom_2_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_mushroom_2_2.png?v=1ea82c91b0ce72e48b22bf6f73f86cebbd0d8f97014b313fc49e86c2e3e7ea80",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_mushroom_seed_2_2",
+          "name": "\u661F\u9580\u83CC\u584A",
+          "quantity": 3,
+          "path": "/items/item_plant_mushroom_seed_2_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_mushroom_seed_2_2.png?v=d52efc76948728606b24682321da795ae977dd9649b25f941e99d150e853f3f4",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

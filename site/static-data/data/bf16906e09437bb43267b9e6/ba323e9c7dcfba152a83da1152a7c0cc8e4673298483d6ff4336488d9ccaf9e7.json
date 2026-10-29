@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:seedcollector_1",
+    "name": "\u63A1\u7A2E\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+    "sortOrder": 16,
+    "path": "/industry/recipes/hub%3Aseedcollector_1",
+    "outputSummary": "\u63A1\u7A2E\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_seedcol_1",
+      "name": "\u63A1\u7A2E\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+      "link": null
+    }
+  ],
+  "devices": []
+}

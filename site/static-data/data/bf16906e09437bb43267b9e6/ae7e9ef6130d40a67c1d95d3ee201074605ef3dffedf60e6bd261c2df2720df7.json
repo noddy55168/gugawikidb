@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:gas_storager_1",
+    "name": "\u5132\u6C23\u7F50",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_gas_storager_1.png?v=4c9ce9ab744bc8fc5287c9e745bd5f748d3565dca53ee0d9ca5b6a419c349fdf",
+    "sortOrder": 117,
+    "path": "/industry/recipes/hub%3Agas_storager_1",
+    "outputSummary": "\u5132\u6C23\u7F50 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_gas_storager_1",
+      "name": "\u5132\u6C23\u7F50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_gas_storager_1.png?v=4c9ce9ab744bc8fc5287c9e745bd5f748d3565dca53ee0d9ca5b6a419c349fdf",
+      "link": null
+    }
+  ],
+  "devices": []
+}

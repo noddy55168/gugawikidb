@@ -1,0 +1,164 @@
+{
+  "entry": {
+    "key": "wiki_item_port_mix_pool_2",
+    "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_mix_pool_2.png?v=579c5a452f1a2b8ac42e19ac448d31b19dbe9fd34074f5e98dd565a91bf0f536",
+    "sortOrder": 6,
+    "path": "/industry/devices/wiki_item_port_mix_pool_2",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u9032\u884C\u56FA\u6DB2\u9AD4\u5316\u5B78\u53CD\u61C9\u7684\u8A2D\u5099\uFF0C\u64C1\u6709\u66F4\u591A\u7684\u9023\u63A5\u53E3\u4E26\u53EF\u540C\u6642\u9032\u884C\u66F4\u591A\u5316\u5B78\u53CD\u61C9\u3002",
+  "sourceId": "mix_pool_2",
+  "needPower": true,
+  "width": 6,
+  "depth": 5,
+  "height": 5,
+  "recipes": [
+    {
+      "key": "machine:pool_Ingredient_oil_1_2",
+      "name": "\u83DC\u7C7D\u6CB9",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_Ingredient_oil_1.png?v=a59fdda13d36bb65392ac3f66a96815e2759f56f14e96983039d40181ffd69bf",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Apool_Ingredient_oil_1_2",
+      "outputSummary": "\u83DC\u7C7D\u6CB9 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_copper_enr_2",
+      "name": "\u8D6B\u9285\u584A\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr.png?v=f603ee5905cd15e3ed5956affdd40b0bf3635409837b259b0d6bcecd6e9ca9b3",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Apool_copper_enr_2",
+      "outputSummary": "\u8D6B\u9285\u584A \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_liquid_copper_2",
+      "name": "\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Apool_liquid_copper_2",
+      "outputSummary": "\u8D64\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_liquid_liquid_xiranite_2",
+      "name": "\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite.png?v=c0b55927ac780b77e09d8118302e93c0f9d8bda81a8aad6f339d1a8e6800918f",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Apool_liquid_liquid_xiranite_2",
+      "outputSummary": "\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_liquid_plant_grass_1_2",
+      "name": "\u9326\u8349\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Apool_liquid_plant_grass_1_2",
+      "outputSummary": "\u9326\u8349\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_liquid_plant_grass_2_2",
+      "name": "\u82BD\u91DD\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_plant_grass_2.png?v=ba7b7a3ae5d770d3f425f556e0f0509fc42adefa04e460167da58070dfdee377",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Apool_liquid_plant_grass_2_2",
+      "outputSummary": "\u82BD\u91DD\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_liquid_xiranite_enr_2",
+      "name": "\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_enr.png?v=a217f392cfbc921f54e5ad3a1740d868eb45359ee192c0d6d6a35238edd5d073",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Apool_liquid_xiranite_enr_2",
+      "outputSummary": "\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_liquid_xiranite_poly_2",
+      "name": "\u58E4\u6676\u5EE2\u6DB2\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Apool_liquid_xiranite_poly_2",
+      "outputSummary": "\u58E4\u6676\u5EE2\u6DB2 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_ranch_fodder_1_2",
+      "name": "\u98FD\u98DF\u98FC\u6599",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_ranch_fodder_1.png?v=eb1357c9d41bb318ebf96c119fcda3b3a6751496b32ba3fb1b0547a92bc6f5d7",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Apool_ranch_fodder_1_2",
+      "outputSummary": "\u98FD\u98DF\u98FC\u6599 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_ranch_fodder_2_2",
+      "name": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_ranch_fodder_2.png?v=5d553d35d30deb2c75ad0f4520b9b79ff46ab7b690025320701764f4a779eae4",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Apool_ranch_fodder_2_2",
+      "outputSummary": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    },
+    {
+      "key": "machine:pool_xiranite_poly_2",
+      "name": "\u58E4\u6676\u3001\u6C59\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_xiranite_poly.png?v=7dbeaf5457271bb11121a9435b80f42ba20c18cb8bf50617112f6e86cc882c01",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Apool_xiranite_poly_2",
+      "outputSummary": "\u58E4\u6676 \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u64F4\u5BB9\u53CD\u61C9\u6C60"
+      ]
+    }
+  ]
+}

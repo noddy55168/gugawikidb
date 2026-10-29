@@ -1,0 +1,32 @@
+{
+  "sourceItemId": "item_inn_drink_8",
+  "name": "\u9673\u91C0\u8461\u8404\u9732",
+  "rarity": 5,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_inn_drink_8.png?v=58eed3bac2cdc85669b2742c82d7fc3a1120cdb65eed4439668353e848c4da9f",
+  "summary": "\u4E00\u6EF4\u4EE4\u4EBA\u5507\u9F52\u7559\u9999\u7684\u8461\u8404\u9732\uFF0C\u53EF\u5426\u8B93\u60A8\u60F3\u8D77\u6545\u9109\u7684\u98A8\u6C99\u96E8\u96EA\uFF0C\u722D\u6BBA\u8207\u8A69\u6587\uFF1F",
+  "description": "\u53EF\u5728\u5BA2\u68E7\u7D93\u71DF\u4E2D\u8CA9\u552E\u7684\u98F2\u54C1\uFF0C\u4F7F\u7528\u5F8C\u53EF\u4EE5\u7372\u5F97\u4E00\u5B9A\u6548\u679C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u9020\u6210\u7684\u7269\u7406\u50B7\u5BB3\u589E\u52A033%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

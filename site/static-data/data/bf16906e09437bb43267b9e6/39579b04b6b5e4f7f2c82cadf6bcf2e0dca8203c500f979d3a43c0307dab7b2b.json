@@ -1,0 +1,215 @@
+{
+  "sourceItemId": "item_plant_bbflower_1",
+  "name": "\u916E\u5316\u704C\u6728",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+  "summary": "\u916E\u5316\u704C\u6728\u662F\u5854\u885B\u4E8C\u7684\u672C\u571F\u690D\u7269\uFF0C\u5B83\u5F80\u5F80\u751F\u9577\u65BC\u571F\u58E4\u6210\u5206\u8F03\u70BA\u7279\u6B8A\u7684\u74B0\u5883\u4E2D\u3002",
+  "description": "\u53EF\u5728\u91CE\u5916\u63A1\u96C6\u6216\u5728\u5DE5\u5EE0\u57F9\u80B2\u51FA\u7684\u690D\u7269\uFF0C\u5167\u542B\u6613\u71C3\u6613\u7206\u6210\u5206\uFF0C\u5E38\u7528\u65BC\u88FD\u9020\u5DE5\u696D\u7206\u70B8\u7269\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_map01_lv002_1",
+      "description": "\u8C37\u5730\u901A\u9053-\u5EE2\u68C4\u5C0F\u5F91\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_plant",
+      "description": "\u751F\u614B\u7A2E\u690D\u5340\u9032\u884C\u7A2E\u690D\u57F9\u80B2",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_plant_bbflower_powder_1",
+      "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_proc_bomb_1",
+      "name": "\u5DE5\u696D\u7206\u70B8\u7269",
+      "iconPath": "/media/wiki/catalogs/items/item_proc_bomb_1.png?v=f35878fe2c5fe672f2b3306c20b8fa860beeb06162923182c04cd3d84ff64691",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/grinder_plant_bbflower_powder_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_1",
+          "name": "\u916E\u5316\u704C\u6728",
+          "quantity": 1,
+          "path": "/items/item_plant_bbflower_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_powder_1",
+          "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_bbflower_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_plant_bbflower_powder_1_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/seedcollector_plant_bbflower_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_1",
+          "name": "\u916E\u5316\u704C\u6728",
+          "quantity": 1,
+          "path": "/items/item_plant_bbflower_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_seed_1",
+          "name": "\u916E\u5316\u6A39\u7A2E",
+          "quantity": 2,
+          "path": "/items/item_plant_bbflower_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "seedcollector_1",
+          "name": "\u63A1\u7A2E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_seedcol_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aseedcollector_plant_bbflower_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/planter_plant_bbflower_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_seed_1",
+          "name": "\u916E\u5316\u6A39\u7A2E",
+          "quantity": 1,
+          "path": "/items/item_plant_bbflower_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_1",
+          "name": "\u916E\u5316\u704C\u6728",
+          "quantity": 1,
+          "path": "/items/item_plant_bbflower_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "planter_1",
+          "name": "\u7A2E\u690D\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_planter_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aplanter_plant_bbflower_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_bbflower_1/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_seed_1",
+          "name": "\u916E\u5316\u6A39\u7A2E",
+          "quantity": 1,
+          "path": "/items/item_plant_bbflower_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_bbflower_1",
+          "name": "\u916E\u5316\u704C\u6728\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_bbflower_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

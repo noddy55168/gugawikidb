@@ -1,0 +1,200 @@
+{
+  "sourceItemId": "item_plant_moss_spc_powder_1",
+  "name": "\u854E\u7652\u85E5\u7C89",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+  "summary": "\u7C21\u55AE\u8ABF\u88FD\u7684\u6620\u706B\u854E\u82B1\u85E5\u7C89\u3002\u7DCA\u6025\u6642\u4F7F\u7528\u554F\u984C\u4E0D\u5927\uFF0C\u4F46\u591A\u5C11\u6709\u9EDE\u6D6A\u8CBB\u85E5\u6027\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7ACB\u523B\u56DE\u5FA920%\u6700\u5927\u751F\u547D\u503C\uFF0C\u518D\u56DE\u5FA9470\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_bottled_flower1spc_1",
+      "name": "\u5C0F\u74F6\u854E\u5FA9\u9320\u5291",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_1.png?v=04eecb33bd7920f80e983ab50ff913b2bc4062f0b2c327bdbfcfe9e811d31ae6",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_flower1spc_2",
+      "name": "\u5927\u74F6\u854E\u5FA9\u9320\u5291",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_2.png?v=7b34b060243c10abe60bf371a8f483152da31eff20a93ffc37841849801f2955",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_flower1spc_3",
+      "name": "\u7CBE\u9078\u854E\u5FA9\u9320\u5291",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_3.png?v=7d7008133a503454beff42cfd3f54e80a9a009aa6125bfcdaa7976d9a3a4728b",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_flower1spc_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_spc_powder_1",
+          "name": "\u854E\u7652\u85E5\u7C89",
+          "quantity": 5,
+          "path": "/items/item_plant_moss_spc_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_bottle",
+          "name": "\u7D2B\u6676\u8CEA\u74F6",
+          "quantity": 5,
+          "path": "/items/item_glass_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_flower1spc_1",
+          "name": "\u5C0F\u74F6\u854E\u5FA9\u9320\u5291",
+          "quantity": 1,
+          "path": "/items/item_bottled_flower1spc_1",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_1.png?v=04eecb33bd7920f80e983ab50ff913b2bc4062f0b2c327bdbfcfe9e811d31ae6",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_flower1spc_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_flower1spc_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_spc_powder_1",
+          "name": "\u854E\u7652\u85E5\u7C89",
+          "quantity": 10,
+          "path": "/items/item_plant_moss_spc_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 10,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_flower1spc_2",
+          "name": "\u5927\u74F6\u854E\u5FA9\u9320\u5291",
+          "quantity": 1,
+          "path": "/items/item_bottled_flower1spc_2",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_2.png?v=7b34b060243c10abe60bf371a8f483152da31eff20a93ffc37841849801f2955",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_flower1spc_2"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_flower1spc_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_spc_powder_1",
+          "name": "\u854E\u7652\u85E5\u7C89",
+          "quantity": 10,
+          "path": "/items/item_plant_moss_spc_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_bottle",
+          "name": "\u92FC\u8CEA\u74F6",
+          "quantity": 10,
+          "path": "/items/item_iron_enr_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_flower1spc_3",
+          "name": "\u7CBE\u9078\u854E\u5FA9\u9320\u5291",
+          "quantity": 1,
+          "path": "/items/item_bottled_flower1spc_3",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_3.png?v=7d7008133a503454beff42cfd3f54e80a9a009aa6125bfcdaa7976d9a3a4728b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_flower1spc_3"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_plant_moss_spc_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_spc_1",
+          "name": "\u6620\u706B\u854E\u82B1",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_spc_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_spc_1.png?v=607dfb9f6fe64754589f8f70a838542675e51d2a7f562cd0e3a3515ebbd01dc7",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_spc_powder_1",
+          "name": "\u854E\u7652\u85E5\u7C89",
+          "quantity": 2,
+          "path": "/items/item_plant_moss_spc_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_plant_moss_spc_powder_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

@@ -1,0 +1,52 @@
+{
+  "sourceItemId": "item_device_xiranite_radar_1",
+  "name": "\u4FB5\u8755\u7634\u6383\u63CF\u96F6\u4EF6",
+  "rarity": 4,
+  "category": "\u96A8\u8EAB\u88DD\u7F6E",
+  "iconPath": "/media/wiki/catalogs/items/item_device_xiranite_radar_1.png?v=43df5d611995485ff138be13eda3b545bf35b8cc376918e83508cc1e0187f901",
+  "summary": "\u6A1E\u58E4\u5100\u7684\u5C08\u7528\u96F6\u4EF6\u3002\u8A31\u591A\u6642\u5019\uFF0C\u4E94\u611F\u6703\u6B3A\u9A19\u4EBA\u985E\uFF0C\u4F46\u7D55\u5C0D\u51B0\u51B7\u7684\u6578\u64DA\u537B\u4E0D\u6703\u3002",
+  "description": "\u914D\u5099\u5728\u80CC\u5305\u96A8\u8EAB\u88DD\u7F6E\u683C\u5F8C\uFF0C\u53EF\u64F4\u5927\u6A1E\u58E4\u5100\u6383\u63CF\u7684\u7BC4\u570D\uFF0C\u4E26\u63D0\u5347\u6383\u63CF\u901F\u5EA6\u3002",
+  "wikiDescription": "",
+  "itemType": "\u96A8\u8EAB\u88DD\u7F6E",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/item_device_xiranite_radar_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gasjar_copper_gas_inert",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50\uFF08\u60F0\u6C23\uFF09",
+          "quantity": 20,
+          "path": "/items/item_gasjar_copper_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+          "contentIconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_xiranite_radar_1",
+          "name": "\u4FB5\u8755\u7634\u6383\u63CF\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_device_xiranite_radar_1",
+          "iconPath": "/media/wiki/catalogs/items/item_device_xiranite_radar_1.png?v=43df5d611995485ff138be13eda3b545bf35b8cc376918e83508cc1e0187f901",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_device_xiranite_radar_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

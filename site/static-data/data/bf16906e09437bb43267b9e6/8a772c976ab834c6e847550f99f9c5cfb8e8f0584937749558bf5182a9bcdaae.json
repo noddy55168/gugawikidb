@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_laser_2",
+    "name": "\u9AD8\u80FD\u5C04\u7DDA\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_laser_2.png?v=c42a0f7508c2fec8dde4760c9f18a625b41580cbc7953bdfacd5a922bdac5075",
+    "sortOrder": 34,
+    "path": "/industry/recipes/hub%3Abattle_laser_2",
+    "outputSummary": "\u9AD8\u80FD\u5C04\u7DDA\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr_cmpt",
+      "name": "\u8D6B\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_enr_cmpt.png?v=477f384f9d78611ea1dd3844b08bac7936025d5988a8f9ac92783f8a0847340e",
+      "link": "/items/item_copper_enr_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_laser_2",
+      "name": "\u9AD8\u80FD\u5C04\u7DDA\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_laser_2.png?v=c42a0f7508c2fec8dde4760c9f18a625b41580cbc7953bdfacd5a922bdac5075",
+      "link": null
+    }
+  ],
+  "devices": []
+}

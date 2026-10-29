@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_signboard_1",
+    "name": "\u9707\u64BC\u7F8E\u5473\uFF01",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_signboard_1.png?v=6b08b8ba21de0248098e412ebb71c0f0fde4e60a2a36304d9e804067c6a71cd6",
+    "sortOrder": 7,
+    "path": "/industry/devices/wiki_item_port_signboard_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "signboard_1",
+  "needPower": false,
+  "width": 2,
+  "depth": 2,
+  "height": 2,
+  "recipes": []
+}

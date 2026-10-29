@@ -1,0 +1,43 @@
+{
+  "sourceItemId": "item_corp_cabbage_2",
+  "name": "\u512A\u8CEA\u9752\u83DC",
+  "rarity": 4,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_corp_cabbage_2.png?v=a47b34167badbdc4f06a80c9d201230282061188897cdf96424c172b43602f68",
+  "summary": "\u54C1\u8CEA\u63A5\u8FD1\u5B8C\u7F8E\u7684\u9752\u83DC\u3002\u6B66\u9675\u7684\u5929\u5E2B\u5011\u4E00\u76F4\u76F8\u4FE1\u606F\u58E4\u5728\u8FB2\u696D\u4E0A\u53EF\u4EE5\u5927\u6709\u4F5C\u70BA\uFF0C\u6B64\u5373\u662F\u6210\u679C\u3002",
+  "description": "\u9752\u83DC\u7530\u584A\u5728\u606F\u58E4\u74B0\u5883\u4E2D\u512A\u8CEA\u57F9\u80B2\u7372\u5F97\u7684\u4F5C\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002\u7121\u6CD5\u88AB\u63A1\u7A2E\uFF0C\u6240\u4EE5\u5341\u5206\u7A00\u6709\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_food_box_crop_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

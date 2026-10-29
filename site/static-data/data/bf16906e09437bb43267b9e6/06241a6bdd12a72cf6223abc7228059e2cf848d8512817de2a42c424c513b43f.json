@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_lbshield_1_slimeml_1_dog_1_1",
+    "name": "\u7D04\u7FF0\u8001\u7239\u6F22\u5821",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_lbshield_1_slimeml_1_dog_1_1.png?v=9aa4571c0848ad33d68b9d16439335e7d5807214baea0a7a417fef2566b0f5f5",
+    "sortOrder": 57,
+    "path": "/industry/recipes/manual%3Ahdwk_lbshield_1_slimeml_1_dog_1_1",
+    "outputSummary": "\u7D04\u7FF0\u8001\u7239\u6F22\u5821 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_lbshield_1",
+      "name": "\u82E6\u6F80\u9EA5\u7C89",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_lbshield_1.png?v=3cc43850821600fbd53969e142a5de73abc881f2f1bdd5da4195f002de3901ba",
+      "link": "/items/item_drop_lbshield_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_slimeml_1",
+      "name": "\u87F2\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+      "link": "/items/item_drop_slimeml_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_drop_dog_1",
+      "name": "\u7378\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+      "link": "/items/item_drop_dog_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_lbshield_1_slimeml_1_dog_1_1",
+      "name": "\u7D04\u7FF0\u8001\u7239\u6F22\u5821",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_lbshield_1_slimeml_1_dog_1_1.png?v=9aa4571c0848ad33d68b9d16439335e7d5807214baea0a7a417fef2566b0f5f5",
+      "link": "/items/item_lbshield_1_slimeml_1_dog_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_lbshield_1_slimeml_1_dog_1_1",
+      "name": "\u7D04\u7FF0\u8001\u7239\u6F22\u5821\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_lbshield_1_slimeml_1_dog_1_1.png?v=9aa4571c0848ad33d68b9d16439335e7d5807214baea0a7a417fef2566b0f5f5",
+      "link": null
+    }
+  ],
+  "devices": []
+}

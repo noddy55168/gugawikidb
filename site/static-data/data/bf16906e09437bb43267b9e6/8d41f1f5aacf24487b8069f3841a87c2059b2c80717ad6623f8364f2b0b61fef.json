@@ -1,0 +1,85 @@
+{
+  "sourceItemId": "item_gift_jinlong_2",
+  "name": "\u61C9\u9F8D\u555E\u9234",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_jinlong_2.png?v=33c5468729001a074c86e2c0af74f5cc163390f9c794f491ca1fe6c32f36ed37",
+  "summary": "\u61C9\u9F8D\u8A13\u7DF4\u555E\u9234\u7684\u6C11\u7528\u7248\u672C\uFF0C\u5167\u5EFA\u4E86\u91CD\u529B\u63A7\u5236\u6A21\u7D44\uFF0C\u80FD\u5920\u6839\u64DA\u9700\u8981\u81EA\u52D5\u8ABF\u7BC0\u91CD\u91CF\u3002",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u904B\u52D5]  [\u81EA\u7136] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_2",
+      "description": "\u6B66\u9675-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_jinlong_2/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0005_chen",
+          "name": "\u9673\u5343\u8A9E",
+          "quantity": null,
+          "path": "/operators/5",
+          "iconPath": "/media/wiki/operators/chr_0005_chen/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0015_lifeng",
+          "name": "\u9ECE\u98A8",
+          "quantity": null,
+          "path": "/operators/15",
+          "iconPath": "/media/wiki/operators/chr_0015_lifeng/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0018_dapan",
+          "name": "\u5927\u6F58",
+          "quantity": null,
+          "path": "/operators/18",
+          "iconPath": "/media/wiki/operators/chr_0018_dapan/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0029_pograni",
+          "name": "\u99FF\u885B",
+          "quantity": null,
+          "path": "/operators/29",
+          "iconPath": "/media/wiki/operators/chr_0029_pograni/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

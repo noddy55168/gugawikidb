@@ -1,0 +1,186 @@
+{
+  "sourceItemId": "item_activity_copper_poly_tool",
+  "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9AA8\u9ABC",
+  "rarity": 4,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_activity_copper_poly_tool.png?v=28b4cbb471d7b8c79865ceb9cf68fc6fc8b85d50ae836d45c5f85c4ec33fd5ee",
+  "summary": "\u652F\u63F4\u5049\u5927\u9F8D\u6CE1\u6CE1\u8A95\u751F\u7684\u5FC5\u8981\u6027\u9AA8\u67B6\uFF01\u539A\u91CD\u578B\uFF01",
+  "description": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6\u548C\u91CD\u606F\u58E4\u5728\u7279\u6B8A\u6642\u9593\u9EDE\u4E0B\u52A0\u5DE5\u6210\u578B\u7684\u5F37\u5316\u652F\u6490\u9AA8\u67B6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_xiranite_enr",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u64F4\u5BB9\u8207\u91CD\u606F\u58E4\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_gas_inert",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u60F0\u6C23\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_liquid_acid",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u6C89\u7A4D\u9178\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_liquid_purifier",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u63D0\u7D14\u6280\u8853\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_gas_reactor_1",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6C23\u9AD4\u53CD\u61C9\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u4E26\u89E3\u9396\u64F4\u5BB9\u8207\u91CD\u606F\u58E4\u5DE5\u696D\u6280\u8853",
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u61C9\u9F8D\u95DC\u7B49\u5730\u7372\u5F97\u60F0\u6C23\u5F8C\u89E3\u9396",
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u9996\u58A9\u7B49\u5730\u7372\u5F97\u6C89\u7A4D\u9178\u5F8C\u89E3\u9396",
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853",
+    "\u89E3\u9396\u63D0\u7D14\u6280\u8853\u5DE5\u696D\u6280\u8853",
+    "\u89E3\u9396\u6C23\u9AD4\u53CD\u61C9\u5DE5\u696D\u6280\u8853",
+    "\u6D3B\u52D5\u9650\u6642\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_activity_xiranite_enr_lung/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_enr_box",
+          "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u91CD\u6BBC",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_enr_box",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_enr_box.png?v=dcd37a4f8e18e548a8ed93db6b6c8536bc6365101d622b350e53a3df55be9149",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_poly_tool",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9AA8\u9ABC",
+          "quantity": 1,
+          "path": "/items/item_activity_copper_poly_tool",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_poly_tool.png?v=28b4cbb471d7b8c79865ceb9cf68fc6fc8b85d50ae836d45c5f85c4ec33fd5ee",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_enr_lung",
+          "name": "\u91CD\u606F\u58E4\u9F8D\u6CE1\u6CE1",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_enr_lung",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_enr_lung.png?v=d6050c57f49a9c8d0d6a82bcb75d8d4b9071ec7ff44c115687157983e472f322",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_activity_xiranite_enr_lung"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_activity_copper_poly_tool_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_poly_cmpt",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_activity_copper_poly_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_poly_cmpt.png?v=a025f63c244da8eb3a92be1a395ff34a3038affd0d68ac8049b9a0dcbe983279",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_poly_tool",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9AA8\u9ABC",
+          "quantity": 1,
+          "path": "/items/item_activity_copper_poly_tool",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_poly_tool.png?v=28b4cbb471d7b8c79865ceb9cf68fc6fc8b85d50ae836d45c5f85c4ec33fd5ee",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_activity_copper_poly_tool_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

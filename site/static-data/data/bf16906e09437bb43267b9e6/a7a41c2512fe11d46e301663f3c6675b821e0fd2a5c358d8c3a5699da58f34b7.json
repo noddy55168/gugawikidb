@@ -1,0 +1,63 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_high_difficulty_v1d5",
+    "name": "\u8C50\u7891\u7559\u540D\u00B7\u523B\u5F71",
+    "description": "",
+    "sourceType": 8,
+    "sortOrder": 6010,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_high_difficulty_v1d5",
+    "tabImageId": "activity_tab_bg_highdifficulty_v1d5",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/5 12:00:00",
+        "closeTimeRaw": "2026/10/19 4:00:00",
+        "openUnixSeconds": 1791172800,
+        "closeUnixSeconds": 1792353600
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/5 12:00:00",
+        "closeTimeRaw": "2026/10/19 4:00:00",
+        "openUnixSeconds": 1791172800,
+        "closeUnixSeconds": 1792353600
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/10/5 12:00:00",
+        "closeTimeRaw": "2026/10/19 4:00:00",
+        "openUnixSeconds": 1791219600,
+        "closeUnixSeconds": 1792400400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_high_difficulty",
+        "name": "\u6311\u6230\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#ff3632"
+  },
+  "instructionId": "activity_high_difficulty",
+  "instructionTitle": "\u300C\u8C50\u7891\u7559\u540D\u300D\u7CFB\u5217\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u958B\u62D3\u524D\u8DEF\n\u00B7 \u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u226530\u7D1A\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u7576\u7BA1\u7406\u54E1\u9054\u5230\u6307\u5B9A\u6B0A\u9650\u7B49\u968E\u5F8C\uFF0C\u5373\u53EF\u89E3\u9396\u300C\u5F71\u62D3\u8C50\u7891\u300D\u7CFB\u5217\u95DC\u5361\u3002\n\u00B7 \u5728\u300C\u5F71\u62D3\u8C50\u7891\u300D\u4E2D\u5B8C\u6210\u5C0D\u61C9\u6311\u6230\uFF0C\u5373\u53EF\u9818\u53D6\u300C\u8C50\u7891\u7559\u540D\u300D\u6D3B\u52D5\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_high_difficulty_unlock_condition_v1d5",
+      "sourceType": 5023,
+      "compareOperator": 3,
+      "target": 30,
+      "description": "\u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u9054\u523030\u7D1A",
+      "tips": "\u76EE\u524D\u6B0A\u9650\u7B49\u968E%d\u7D1A\uFF08\u53EF\u6839\u64DA\u884C\u52D5\u624B\u518A\u6307\u5F15\u5B8C\u6210\u5404\u9805\u4EFB\u52D9\uFF0C\u7372\u5F97\u884C\u52D5\u8CC7\u6B77\uFF0C\u63D0\u5347\u6B0A\u9650\u7B49\u968E\uFF09"
+    }
+  ],
+  "rewards": [],
+  "stages": []
+}

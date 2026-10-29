@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_agmelee_1_sp_2_slimeml_1_1",
+    "name": "\u7206\u8FA3\u7117\u70E4\u6E90\u77F3\u87F2",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_agmelee_1_sp_2_slimeml_1_1.png?v=226ec90a9137e4a1c167a1f79c1978df901ee11f36b94189196e6aafcb816b94",
+    "sortOrder": 59,
+    "path": "/industry/recipes/manual%3Ahdwk_agmelee_1_sp_2_slimeml_1_1",
+    "outputSummary": "\u7206\u8FA3\u7117\u70E4\u6E90\u77F3\u87F2 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_agmelee_1",
+      "name": "\u5805\u786C\u7570\u9999\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_agmelee_1.png?v=119554b900689bcbfa17bf9dc28585c71c770ea392e3fdfbb5bb23362b49193d",
+      "link": "/items/item_drop_agmelee_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_slimeml_1",
+      "name": "\u87F2\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+      "link": "/items/item_drop_slimeml_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_2",
+      "name": "\u82E6\u8449\u6912",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_2.png?v=1e3cf160955a0dd0047765d725fbc301da53617c965a19eb45587a13061d2f7f",
+      "link": "/items/item_plant_sp_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_agmelee_1_sp_2_slimeml_1_1",
+      "name": "\u7206\u8FA3\u7117\u70E4\u6E90\u77F3\u87F2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_agmelee_1_sp_2_slimeml_1_1.png?v=226ec90a9137e4a1c167a1f79c1978df901ee11f36b94189196e6aafcb816b94",
+      "link": "/items/item_agmelee_1_sp_2_slimeml_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_agmelee_1_sp_2_slimeml_1_1",
+      "name": "\u7206\u8FA3\u7117\u70E4\u6E90\u77F3\u87F2\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_agmelee_1_sp_2_slimeml_1_1.png?v=226ec90a9137e4a1c167a1f79c1978df901ee11f36b94189196e6aafcb816b94",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:hdwk_plant_spcstone_1_1",
+    "name": "\u8F15\u9EEF\u77F3",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_plant_spcstone_1_1.png?v=fc6255aa2bccc9914b3635b2f0ba08d9bdd23d3dc36d5289e3eddd35794c0f4c",
+    "sortOrder": 311,
+    "path": "/industry/recipes/manual%3Ahdwk_plant_spcstone_1_1",
+    "outputSummary": "\u8F15\u9EEF\u77F3 \u00D7 2",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_spcstone_1_3",
+      "name": "\u91CD\u9EEF\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_spcstone_1_3.png?v=6a5f631d1362a4dca75afe8b0d382bb5069514967765a86cc81620c8aa49b7b2",
+      "link": "/items/item_plant_spcstone_1_3"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_spcstone_1_1",
+      "name": "\u8F15\u9EEF\u77F3",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_spcstone_1_1.png?v=fc6255aa2bccc9914b3635b2f0ba08d9bdd23d3dc36d5289e3eddd35794c0f4c",
+      "link": "/items/item_plant_spcstone_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_convert_20",
+      "name": "\u8F49\u5316\u6280\u8853\u518A\u03B1",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_formula_convert_20.png?v=0c336a4f46d3b3a5c04df76ff85639ffc1a578de8e36509301f282f755b20ed7",
+      "link": null
+    }
+  ],
+  "devices": []
+}

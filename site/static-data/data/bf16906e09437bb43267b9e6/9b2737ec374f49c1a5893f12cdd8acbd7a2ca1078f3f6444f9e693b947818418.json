@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_inkbiter_1_wgshoal_1_1",
+  "name": "\u8349\u672C\u6E05\u6DBC\u98F2",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_inkbiter_1_wgshoal_1_1.png?v=2b17ef3615bb05dee509d2d48b560cf89ea9494d7057f2866988b89d568426be",
+  "summary": "\u5E36\u6709\u82B1\u8349\u9999\u6C23\uFF0C\u6E05\u65B0\u89E3\u6691\u7684\u6E05\u6DBC\u98F2\u6599\u3002\u5728\u52A0\u5165\u4E0A\u597D\u7684\u58A8\u5718\u5F8C\uFF0C\u9019\u98F2\u54C1\u751A\u81F3\u6709\u4E86\u88DC\u5145\u5143\u6C23\u3001\u990A\u8EAB\u990A\u5FC3\u7684\u529F\u6548\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u7D42\u7D50\u6280\u80FD\u91CF\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7ACB\u523B\u56DE\u5FA940%\u7D42\u7D50\u6280\u80FD\u91CF\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u5C0F\u58A8\u5718\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_inkbiter_1_wgshoal_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_inkbiter_1",
+          "name": "\u5C0F\u58A8\u5718",
+          "quantity": 1,
+          "path": "/items/item_drop_inkbiter_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_inkbiter_1.png?v=0ab4bceb7e76975e4d1500afc7634143c8e926cc1fa3ed730d47a28f295c29df",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgshoal_1",
+          "name": "\u751C\u81A9\u9ED1\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgshoal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgshoal_1.png?v=b551421f8881e29c2e4222bc413b812a07737ce6344b21122fb1a96da019ba24",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_inkbiter_1_wgshoal_1_1",
+          "name": "\u8349\u672C\u6E05\u6DBC\u98F2",
+          "quantity": 1,
+          "path": "/items/item_inkbiter_1_wgshoal_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_inkbiter_1_wgshoal_1_1.png?v=2b17ef3615bb05dee509d2d48b560cf89ea9494d7057f2866988b89d568426be",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_inkbiter_1_wgshoal_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:carrier_1",
+    "name": "\u4FBF\u5229\u5B58\u53D6\u7AD9",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_carrier_1.png?v=69093a314549ee677d805af1f2429e8067d9034a7cbe27ed0b15a75d74234f44",
+    "sortOrder": 22,
+    "path": "/industry/recipes/hub%3Acarrier_1",
+    "outputSummary": "\u4FBF\u5229\u5B58\u53D6\u7AD9 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_carrier_1",
+      "name": "\u4FBF\u5229\u5B58\u53D6\u7AD9",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_carrier_1.png?v=69093a314549ee677d805af1f2429e8067d9034a7cbe27ed0b15a75d74234f44",
+      "link": null
+    }
+  ],
+  "devices": []
+}

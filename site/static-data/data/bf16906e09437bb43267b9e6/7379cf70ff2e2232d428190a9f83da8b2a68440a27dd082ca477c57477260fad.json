@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:shaper_gas_copper_jar_1",
+    "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Ashaper_gas_copper_jar_1",
+    "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+    "deviceNames": [
+      "\u5851\u5F62\u6A5F"
+    ]
+  },
+  "description": "\u8D64\u9285\u8010\u58D3\u7F50\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_nugget",
+      "name": "\u8D64\u9285\u584A",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+      "link": "/items/item_copper_nugget"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_gas_inert",
+      "name": "\u60F0\u6C23",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823",
+      "link": "/items/item_gas_inert"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_jar",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "link": "/items/item_copper_jar"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_shaper_1",
+      "name": "\u5851\u5F62\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_shaper_1.png?v=e2566298e52a05123bbad144c04a47c370a8dedfa59df9366d89a5f707aa805e",
+      "sortOrder": 4,
+      "path": "/industry/devices/wiki_item_port_shaper_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

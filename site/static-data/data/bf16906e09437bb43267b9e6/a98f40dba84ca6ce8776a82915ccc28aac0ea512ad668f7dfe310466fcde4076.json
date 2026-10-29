@@ -1,0 +1,134 @@
+{
+  "sourceItemId": "item_carbon_enr",
+  "name": "\u7A69\u5B9A\u78B3\u584A",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_carbon_enr.png?v=7ce0e061e1958f043c9365d90ee0f85cf1e292fd9ed0a1e8a8aa47a4bd0ae4df",
+  "summary": "\u591A\u7D1A\u52A0\u5DE5\u5F8C\uFF0C\u78B3\u584A\u5728\u78B3\u5143\u7D20\u72C0\u614B\u4E0A\u7372\u5F97\u4E86\u5FAE\u5999\u4E14\u7A69\u5B9A\u7684\u5E73\u8861\u3002",
+  "description": "\u7DFB\u5BC6\u78B3\u7C89\u672B\u7CBE\u7149\u878D\u5408\u5F8C\u7684\u9AD8\u7D1A\u6750\u6599\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_thickener",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7814\u78E8\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u7814\u78E8\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/xiranite_oven_xiranite_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_enr",
+          "name": "\u7A69\u5B9A\u78B3\u584A",
+          "quantity": 2,
+          "path": "/items/item_carbon_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_enr.png?v=7ce0e061e1958f043c9365d90ee0f85cf1e292fd9ed0a1e8a8aa47a4bd0ae4df",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_powder",
+          "name": "\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "xiranite_oven_1",
+          "name": "\u5929\u6709\u6D2A\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_xiranite_oven_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Axiranite_oven_xiranite_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_carbon_enr_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_enr_powder",
+          "name": "\u7DFB\u5BC6\u78B3\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_carbon_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_enr_powder.png?v=d741d5d0c94039801ed092e9d7584a88c676812af231c3e913ed6b65f8df1d94",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_enr",
+          "name": "\u7A69\u5B9A\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_enr.png?v=7ce0e061e1958f043c9365d90ee0f85cf1e292fd9ed0a1e8a8aa47a4bd0ae4df",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_carbon_enr_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

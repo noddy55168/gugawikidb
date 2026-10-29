@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:component_activity_copper_poly_cmpt",
+    "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_copper_poly_cmpt.png?v=a025f63c244da8eb3a92be1a395ff34a3038affd0d68ac8049b9a0dcbe983279",
+    "sortOrder": 9,
+    "path": "/industry/recipes/machine%3Acomponent_activity_copper_poly_cmpt",
+    "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6 \u00D7 1",
+    "deviceNames": [
+      "\u914D\u4EF6\u6A5F"
+    ]
+  },
+  "description": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_copper_poly",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9320",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly.png?v=53bceed81dd633b53050fe617ee60ee32a48652e6c38e4c1672c9942d8c796e2",
+      "link": "/items/item_activity_copper_poly"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_copper_poly_cmpt",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly_cmpt.png?v=a025f63c244da8eb3a92be1a395ff34a3038affd0d68ac8049b9a0dcbe983279",
+      "link": "/items/item_activity_copper_poly_cmpt"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_cmpt_mc_1",
+      "name": "\u914D\u4EF6\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_cmpt_mc_1.png?v=50e0cd6f0541699b31cf921cde2def09a0f2fb1850433b536cc7437613af9c9e",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

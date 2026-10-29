@@ -1,0 +1,424 @@
+{
+  "sourceItemId": "item_iron_powder",
+  "name": "\u85CD\u9435\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+  "summary": "\u5728\u7D93\u904E\u7C89\u788E\u8655\u7406\u5F8C\uFF0C\u85CD\u9435\u4E8C\u7D1A\u52A0\u5DE5\u54C1\u7684\u8CEA\u5730\u66F4\u52A0\u5747\u52FB\u3002",
+  "description": "\u85CD\u9435\u584A\u7C89\u788E\u5F8C\u7684\u7C89\u672B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/furnance_iron_nugget_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_nugget",
+          "name": "\u85CD\u9435\u584A",
+          "quantity": 1,
+          "path": "/items/item_iron_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_iron_nugget_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_copper_enr_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper_enr",
+          "name": "\u8D6B\u9285\u6EB6\u6DB2",
+          "quantity": 2,
+          "path": "/items/item_liquid_copper_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper_enr.png?v=d32c141984f23c8aea871b72e7340e3af9547f471de5ecd248a962b22ceec17a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr",
+          "name": "\u8D6B\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr.png?v=f603ee5905cd15e3ed5956affdd40b0bf3635409837b259b0d6bcecd6e9ca9b3",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 1,
+          "targetKind": "item",
+          "sourceId": "item_liquid_sewage",
+          "name": "\u6C59\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_sewage",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_copper_enr_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_copper_enr_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper_enr",
+          "name": "\u8D6B\u9285\u6EB6\u6DB2",
+          "quantity": 2,
+          "path": "/items/item_liquid_copper_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper_enr.png?v=d32c141984f23c8aea871b72e7340e3af9547f471de5ecd248a962b22ceec17a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr",
+          "name": "\u8D6B\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr.png?v=f603ee5905cd15e3ed5956affdd40b0bf3635409837b259b0d6bcecd6e9ca9b3",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 1,
+          "targetKind": "item",
+          "sourceId": "item_liquid_sewage",
+          "name": "\u6C59\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_sewage",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_copper_enr_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_xiranite_poly_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_xiranite_poly",
+          "name": "\u58E4\u6676\u5EE2\u6DB2",
+          "quantity": 2,
+          "path": "/items/item_liquid_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_poly",
+          "name": "\u58E4\u6676",
+          "quantity": 1,
+          "path": "/items/item_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_poly.png?v=7dbeaf5457271bb11121a9435b80f42ba20c18cb8bf50617112f6e86cc882c01",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 1,
+          "targetKind": "item",
+          "sourceId": "item_liquid_sewage",
+          "name": "\u6C59\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_sewage",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_xiranite_poly_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_xiranite_poly_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_xiranite_poly",
+          "name": "\u58E4\u6676\u5EE2\u6DB2",
+          "quantity": 2,
+          "path": "/items/item_liquid_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_poly",
+          "name": "\u58E4\u6676",
+          "quantity": 1,
+          "path": "/items/item_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_poly.png?v=7dbeaf5457271bb11121a9435b80f42ba20c18cb8bf50617112f6e86cc882c01",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 1,
+          "targetKind": "item",
+          "sourceId": "item_liquid_sewage",
+          "name": "\u6C59\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_sewage",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_xiranite_poly_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_iron_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_powder",
+          "name": "\u7DFB\u5BC6\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_powder.png?v=0655888c4a128de336dd80b10572d093bbeab3cd4837d55ae899027cf24aea23",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_iron_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_iron_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_nugget",
+          "name": "\u85CD\u9435\u584A",
+          "quantity": 1,
+          "path": "/items/item_iron_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_iron_powder_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

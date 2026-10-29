@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_doll_1",
+    "name": "\u966A\u4F34\u6B3E\u300C\u6668\u661F\u300D\u73A9\u5076",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_doll_1.png?v=60be2aaf8a4ab38c77a6ef67f79fe186804b5250e94796cdca1781976cf976d4",
+    "sortOrder": 11,
+    "path": "/industry/devices/wiki_item_port_doll_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "doll_1",
+  "needPower": false,
+  "width": 1,
+  "depth": 1,
+  "height": 2,
+  "recipes": []
+}

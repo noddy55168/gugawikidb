@@ -1,0 +1,160 @@
+{
+  "sourceItemId": "item_quartz_powder",
+  "name": "\u7D2B\u6676\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_quartz_powder.png?v=5594e80efa29e391601288ad43d5ec174fcea9662384a1d2ffd62e965a7f73f5",
+  "summary": "\u5728\u7D93\u904E\u7C89\u788E\u8655\u7406\u5F8C\uFF0C\u7D2B\u6676\u4E8C\u7D1A\u52A0\u5DE5\u54C1\u7684\u8CEA\u5730\u66F4\u52A0\u5747\u52FB\u3002",
+  "description": "\u7D2B\u6676\u7E96\u7DAD\u7C89\u788E\u5F8C\u7684\u7C89\u672B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/furnance_quartz_glass_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_powder",
+          "name": "\u7D2B\u6676\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_quartz_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_powder.png?v=5594e80efa29e391601288ad43d5ec174fcea9662384a1d2ffd62e965a7f73f5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_glass",
+          "name": "\u7D2B\u6676\u7E96\u7DAD",
+          "quantity": 1,
+          "path": "/items/item_quartz_glass",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_quartz_glass_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_quartz_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_powder",
+          "name": "\u7D2B\u6676\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_quartz_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_powder.png?v=5594e80efa29e391601288ad43d5ec174fcea9662384a1d2ffd62e965a7f73f5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr_powder",
+          "name": "\u9AD8\u6676\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_quartz_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr_powder.png?v=97b6981e01200cee2b6eadbb02128ebbfc07e755ee1111ce227fcf9a0a3c402b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_quartz_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_quartz_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_glass",
+          "name": "\u7D2B\u6676\u7E96\u7DAD",
+          "quantity": 1,
+          "path": "/items/item_quartz_glass",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_powder",
+          "name": "\u7D2B\u6676\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_quartz_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_powder.png?v=5594e80efa29e391601288ad43d5ec174fcea9662384a1d2ffd62e965a7f73f5",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_quartz_powder_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

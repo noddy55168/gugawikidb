@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_newplayer_mission_reward",
+    "name": "\u65B0\u624B\u7279\u8A31\u8D08\u79AE",
+    "description": "",
+    "sourceType": 19,
+    "sortOrder": 10098,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_newplayer_mission_reward",
+    "tabImageId": "activity_tab_bg_mission_reward",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/12 7:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1773270000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/12 7:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1773270000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/3/11 18:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1773270000,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_novice",
+        "name": "\u65B0\u624B\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff100"
+  },
+  "instructionId": "instru_newplayer_mission_reward",
+  "instructionTitle": "\u300C\u65B0\u624B\u7279\u8A31\u8D08\u79AE\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u4E3B\u7DDA\u4EFB\u52D9\u9054\u5230\u7279\u5B9A\u9032\u5EA6\u5F8C\uFF0C\u5373\u53EF\u7372\u5F97\u3010\u7279\u8A31\u5C0B\u8A2A\u6191\u8B49\u3011\u3002\n\u00B7 \u7BA1\u7406\u54E1\u53EF\u7D2F\u8A08\u7372\u5F97\u3010\u7279\u8A31\u5C0B\u8A2A\u6191\u8B49\u3011\u00D710\u3002\n\u00B7 \u7576\u9818\u53D6\u5B8C\u6240\u6709\u734E\u52F5\u5F8C\uFF0C\u672C\u6D3B\u52D5\u4ECB\u9762\u5C07\u5728\u6B21\u65E5\u4F3A\u670D\u5668\u6642\u959304:00\u95DC\u9589\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

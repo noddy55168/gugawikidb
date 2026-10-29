@@ -1,0 +1,92 @@
+{
+  "sourceItemId": "item_bottled_rec_hp_4",
+  "name": "\u82BD\u91DD\u91DD\u5291",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_4.png?v=f4570b8234a95a3c3fd0a878831394454bdb8b6995c507aa530bef05f2e52424",
+  "summary": "\u672C\u91DD\u5291\u50C5\u53EF\u4F7F\u7528\u65BC\u76AE\u4E0B\u6CE8\u5C04\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u6BCF\u79D2\u56DE\u5FA9320\u9EDE\u751F\u547D\u503C\uFF0C\u6301\u7E8C6\u79D2\u3002",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_grass_2",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u82BD\u91DD\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_filling_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u9AD4\u704C\u88DD\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u7372\u5F97\u82BD\u91DD\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u9AD4\u704C\u88DD\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_rec_hp_4_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_cmpt",
+          "name": "\u9435\u88FD\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_iron_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_iron_grass_2",
+          "name": "\u85CD\u9435\u74F6\uFF08\u82BD\u91DD\u6EB6\u6DB2\uFF09",
+          "quantity": 5,
+          "path": "/items/item_fbottle_iron_grass_2",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_2.png?v=ba7b7a3ae5d770d3f425f556e0f0509fc42adefa04e460167da58070dfdee377"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_rec_hp_4",
+          "name": "\u82BD\u91DD\u91DD\u5291",
+          "quantity": 1,
+          "path": "/items/item_bottled_rec_hp_4",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_4.png?v=f4570b8234a95a3c3fd0a878831394454bdb8b6995c507aa530bef05f2e52424",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_rec_hp_4_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

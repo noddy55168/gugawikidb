@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_liquid_cleaner_1",
+    "name": "\u5EE2\u6C34\u8655\u7406\u6A5F",
+    "kind": "building",
+    "category": "\u57FA\u790E\u751F\u7522",
+    "iconPath": "/media/wiki/industry/item_port_liquid_cleaner_1.png?v=792adf12a05a213eb17c2217e422fcb67064543c5b0c423cfb1cc2f31c4b0489",
+    "sortOrder": 7,
+    "path": "/industry/devices/wiki_item_port_liquid_cleaner_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7528\u65BC\u8655\u7406\u6C59\u6C34\u7684\u8A2D\u5099\uFF0C\u4E5F\u53EF\u4F4E\u6548\u8655\u7406\u58E4\u6676\u5EE2\u6DB2\u8207\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2\u3002",
+  "sourceId": "liquid_cleaner_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 5,
+  "recipes": []
+}

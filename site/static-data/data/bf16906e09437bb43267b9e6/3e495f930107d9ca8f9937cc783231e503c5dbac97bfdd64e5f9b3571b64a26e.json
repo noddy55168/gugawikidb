@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:hdwk_dog_1_slimeml_1_1",
+    "name": "\u71C9\u8089\u6703\u8B70",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_dog_1_slimeml_1_1.png?v=045f1a8ed6b88a5b13434cc0c2bd95d6baffed9d7887c740d41a27f613e3e90e",
+    "sortOrder": 70,
+    "path": "/industry/recipes/manual%3Ahdwk_dog_1_slimeml_1_1",
+    "outputSummary": "\u71C9\u8089\u6703\u8B70 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_dog_1",
+      "name": "\u7378\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+      "link": "/items/item_drop_dog_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_slimeml_1",
+      "name": "\u87F2\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+      "link": "/items/item_drop_slimeml_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_dog_1_slimeml_1_1",
+      "name": "\u71C9\u8089\u6703\u8B70",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_dog_1_slimeml_1_1.png?v=045f1a8ed6b88a5b13434cc0c2bd95d6baffed9d7887c740d41a27f613e3e90e",
+      "link": "/items/item_dog_1_slimeml_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_dog_1_slimeml_1_1",
+      "name": "\u71C9\u8089\u6703\u8B70\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_dog_1_slimeml_1_1.png?v=045f1a8ed6b88a5b13434cc0c2bd95d6baffed9d7887c740d41a27f613e3e90e",
+      "link": null
+    }
+  ],
+  "devices": []
+}

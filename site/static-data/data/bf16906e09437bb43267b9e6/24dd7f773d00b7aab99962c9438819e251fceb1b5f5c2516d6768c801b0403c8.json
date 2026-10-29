@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:hdwk_klbuds_1_hsfly_1_1",
+    "name": "\u6D17\u707D\u79D8\u5291",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_klbuds_1_hsfly_1_1.png?v=7a1c6cf03fa6db310f53681d6f67aa7b2a56cd1362c004047f8a7fd38077c105",
+    "sortOrder": 36,
+    "path": "/industry/recipes/manual%3Ahdwk_klbuds_1_hsfly_1_1",
+    "outputSummary": "\u6D17\u707D\u79D8\u5291 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_klbuds_1",
+      "name": "\u6B98\u5F71\u9732\u6EF4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_klbuds_1.png?v=32c9468ba14703b69af1f2e0372fdcab0a5f711467ba404d43809c9cb543de7e",
+      "link": "/items/item_drop_klbuds_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_hsfly_1",
+      "name": "\u6C34\u71C8\u87F2\u7684\u71C8\u589C",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_hsfly_1.png?v=17f50124ec00c54c7e9c829dc6c47636f3cda3c63e62a60d9a3b161829e4ed44",
+      "link": "/items/item_drop_hsfly_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_klbuds_1_hsfly_1_1",
+      "name": "\u6D17\u707D\u79D8\u5291",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_klbuds_1_hsfly_1_1.png?v=7a1c6cf03fa6db310f53681d6f67aa7b2a56cd1362c004047f8a7fd38077c105",
+      "link": "/items/item_klbuds_1_hsfly_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_klbuds_1_hsfly_1_1",
+      "name": "\u6D17\u707D\u79D8\u5291\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_klbuds_1_hsfly_1_1.png?v=7a1c6cf03fa6db310f53681d6f67aa7b2a56cd1362c004047f8a7fd38077c105",
+      "link": null
+    }
+  ],
+  "devices": []
+}

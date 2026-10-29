@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_soil_bbflower_1",
+    "name": "\u916E\u5316\u704C\u6728\u7530\u584A",
+    "kind": "building",
+    "category": "\u7A2E\u690D\u8ABF\u914D",
+    "iconPath": "/media/wiki/industry/item_port_soil_bbflower_1.png?v=03495988a31be2713675e4a64287de4e9fd49b41343b00cb6f6086ea2b2ae5a1",
+    "sortOrder": 4,
+    "path": "/industry/devices/wiki_item_port_soil_bbflower_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u6F86\u6C34\u3001\u6210\u9577\u3001\u6536\u7A6B\u916E\u5316\u704C\u6728\u3002",
+  "sourceId": "soil_bbflower_1",
+  "needPower": false,
+  "width": 4,
+  "depth": 4,
+  "height": 1,
+  "recipes": []
+}

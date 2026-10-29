@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_slimeml_1_erhound_1_agfly_1_1",
+    "name": "\u624B\u6495\u87F2\u8089",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_slimeml_1_erhound_1_agfly_1_1.png?v=04930abee6581d9c6412acd34dda94aad23fde28287bc55c8a61a2471b018322",
+    "sortOrder": 33,
+    "path": "/industry/recipes/manual%3Ahdwk_slimeml_1_erhound_1_agfly_1_1",
+    "outputSummary": "\u624B\u6495\u87F2\u8089 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_slimeml_1",
+      "name": "\u87F2\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+      "link": "/items/item_drop_slimeml_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_erhound_1",
+      "name": "\u523A\u9F3B\u4E7E\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_erhound_1.png?v=f7f3f87308639a2aa672cc41b14d055577d327325839ff5c6ca484dcde721470",
+      "link": "/items/item_drop_erhound_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_drop_agfly_1",
+      "name": "\u4E2D\u7A7A\u7570\u9999\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_agfly_1.png?v=7053fdafbeb9c70c136c7f335b089f205324dbbf3324e78fda7643d4d000791f",
+      "link": "/items/item_drop_agfly_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_slimeml_1_erhound_1_agfly_1_1",
+      "name": "\u624B\u6495\u87F2\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_slimeml_1_erhound_1_agfly_1_1.png?v=04930abee6581d9c6412acd34dda94aad23fde28287bc55c8a61a2471b018322",
+      "link": "/items/item_slimeml_1_erhound_1_agfly_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_slimeml_1_erhound_1_agfly_1_1",
+      "name": "\u624B\u6495\u87F2\u8089\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_slimeml_1_erhound_1_agfly_1_1.png?v=04930abee6581d9c6412acd34dda94aad23fde28287bc55c8a61a2471b018322",
+      "link": null
+    }
+  ],
+  "devices": []
+}

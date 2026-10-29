@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_turret_1",
+    "name": "\u9283\u68B0\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_turret_1.png?v=d5b8236d2b473a095cb1a955735e2f6ce6f68c01f54e40865f9c6fc6323ae0fd",
+    "sortOrder": 24,
+    "path": "/industry/recipes/hub%3Abattle_turret_1",
+    "outputSummary": "\u9283\u68B0\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_turret_1",
+      "name": "\u9283\u68B0\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_turret_1.png?v=d5b8236d2b473a095cb1a955735e2f6ce6f68c01f54e40865f9c6fc6323ae0fd",
+      "link": null
+    }
+  ],
+  "devices": []
+}

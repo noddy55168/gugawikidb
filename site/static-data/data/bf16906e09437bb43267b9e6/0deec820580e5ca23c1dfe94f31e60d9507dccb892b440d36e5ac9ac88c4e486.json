@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_air_dancer_1",
+    "name": "\u5145\u6C23\u6559\u6388",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_air_dancer_1.png?v=ac63ac5831dede0bc6ac5420c38886b0f9e83a594a9f1fe00a1ada3d283cd0ff",
+    "sortOrder": 1,
+    "path": "/industry/devices/wiki_item_port_air_dancer_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "air_dancer_1",
+  "needPower": false,
+  "width": 2,
+  "depth": 2,
+  "height": 7,
+  "recipes": []
+}

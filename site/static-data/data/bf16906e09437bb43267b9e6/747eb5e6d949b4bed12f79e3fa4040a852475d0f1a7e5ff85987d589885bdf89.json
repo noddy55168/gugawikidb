@@ -1,0 +1,76 @@
+{
+  "sourceItemId": "item_hsfly_1_slimeml_1_hsmob_1_1",
+  "name": "\u6E05\u71C9\u606F\u58E4\u7403",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_hsfly_1_slimeml_1_hsmob_1_1.png?v=6740dba3b99e754d4db0de3f05888c727af39c4c3c03f346bebe17ee816b99ba",
+  "summary": "\u88AB\u67D3\u6210\u606F\u58E4\u8272\u7684\u8089\u4E38\u3002\u96D6\u7136\u5B83\u5E7E\u4E4E\u4E00\u6A23\u7684\u5916\u89C0\u6703\u8B93\u4EBA\u5728\u4E0B\u624B\u593E\u524D\u7336\u8C6B\u5F88\u4E45\uFF0C\u4F46\u662F\u5B83\u7684\u9B06\u8EDF\u9BAE\u9999\u7E3D\u80FD\u5F81\u670D\u98DF\u5BA2\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u589E\u52A021%\u66B4\u64CA\u7387\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u6C34\u71C8\u87F2\u7684\u71C8\u589C\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_hsfly_1_slimeml_1_hsmob_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsfly_1",
+          "name": "\u6C34\u71C8\u87F2\u7684\u71C8\u589C",
+          "quantity": 1,
+          "path": "/items/item_drop_hsfly_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsfly_1.png?v=17f50124ec00c54c7e9c829dc6c47636f3cda3c63e62a60d9a3b161829e4ed44",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 1,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_slimeml_1",
+          "name": "\u87F2\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_slimeml_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_hsfly_1_slimeml_1_hsmob_1_1",
+          "name": "\u6E05\u71C9\u606F\u58E4\u7403",
+          "quantity": 1,
+          "path": "/items/item_hsfly_1_slimeml_1_hsmob_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_hsfly_1_slimeml_1_hsmob_1_1.png?v=6740dba3b99e754d4db0de3f05888c727af39c4c3c03f346bebe17ee816b99ba",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_hsfly_1_slimeml_1_hsmob_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

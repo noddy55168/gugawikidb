@@ -1,0 +1,170 @@
+{
+  "sourceItemId": "item_corp_potato_1",
+  "name": "\u5E73\u85AF",
+  "rarity": 2,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_corp_potato_1.png?v=60091b89c49a713b10e5ff53eefebdd9b404611b2ccd156e185823bbd1b9637f",
+  "summary": "\u5728\u5854\u885B\u4E8C\u96DC\u4EA4\u57F9\u80B2\u51FA\u7684\u7279\u6B8A\u85AF\u985E\uFF0C\u672A\u7D93\u8655\u7406\u5B58\u5728\u4E00\u5B9A\u6BD2\u6027\u3002",
+  "description": "\u900F\u904E\u7CBE\u7D30\u7A2E\u690D\u624D\u80FD\u57F9\u80B2\u7684\u4F5C\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_food_box_crop_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/grinder_Ingredient_starch_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_potato_1",
+          "name": "\u5E73\u85AF",
+          "quantity": 1,
+          "path": "/items/item_corp_potato_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_potato_1.png?v=60091b89c49a713b10e5ff53eefebdd9b404611b2ccd156e185823bbd1b9637f",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_Ingredient_starch_1",
+          "name": "\u6FB1\u7C89",
+          "quantity": 3,
+          "path": "/items/item_Ingredient_starch_1",
+          "iconPath": "/media/wiki/catalogs/items/item_Ingredient_starch_1.png?v=0ee2baeb0f36ce3a1289666482be3467c0422c2e9202f1da5a79ae4ddd1fc66c",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_Ingredient_starch_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/seedcollector_plant_potato_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_potato_1",
+          "name": "\u5E73\u85AF",
+          "quantity": 1,
+          "path": "/items/item_corp_potato_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_potato_1.png?v=60091b89c49a713b10e5ff53eefebdd9b404611b2ccd156e185823bbd1b9637f",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_potato_seed_1",
+          "name": "\u5E73\u85AF\u584A\u8396",
+          "quantity": 2,
+          "path": "/items/item_corp_potato_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_potato_seed_1.png?v=05697f1539cfe0d6f37852e315c53f1bf05becfef662bddcd338edef5fa87a86",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "seedcollector_1",
+          "name": "\u63A1\u7A2E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_seedcol_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aseedcollector_plant_potato_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_corp_potato_1/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_potato_seed_1",
+          "name": "\u5E73\u85AF\u584A\u8396",
+          "quantity": 1,
+          "path": "/items/item_corp_potato_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_potato_seed_1.png?v=05697f1539cfe0d6f37852e315c53f1bf05becfef662bddcd338edef5fa87a86",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_corp_potato_1",
+          "name": "\u5E73\u85AF\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_corp_potato_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

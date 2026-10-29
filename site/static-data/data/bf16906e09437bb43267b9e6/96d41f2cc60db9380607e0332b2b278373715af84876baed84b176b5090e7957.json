@@ -1,0 +1,1126 @@
+{
+  "entry": {
+    "key": "wiki_item_port_filling_pd_mc_1",
+    "name": "\u704C\u88DD\u6A5F",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_filling_pd_mc_1.png?v=45b74bdfae4b744bd94bc624b5fc1b026472a17ea3e4dfa6b957d8544cac338f",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u80FD\u5920\u5C07\u539F\u6599\u704C\u88DD\u5230\u5BB9\u5668\u7684\u8A2D\u5099\u3002",
+  "sourceId": "filling_powder_mc_1",
+  "needPower": true,
+  "width": 6,
+  "depth": 4,
+  "height": 4,
+  "recipes": [
+    {
+      "key": "machine:filling_bottled_copper_acid",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 57,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_acid",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_copper",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 65,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_copper",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_copper_enr",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 66,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_copper_enr",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_grass_1",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 59,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_grass_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_grass_2",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 60,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_grass_2",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_sewage",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 58,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_sewage",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_water",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 56,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_water",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_xiranite",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 61,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_xiranite",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_xiranite_enr",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 62,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_xiranite_enr",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_xiranite_lowpoly",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 64,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_xiranite_lowpoly",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copper_xiranite_poly",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "sortOrder": 63,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copper_xiranite_poly",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_acid",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 68,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_acid",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_copper",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 76,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_copper",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_copper_enr",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 77,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_copper_enr",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_grass_1",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 70,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_grass_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_grass_2",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 71,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_grass_2",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_sewage",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 69,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_sewage",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_water",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 67,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_water",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_xiranite",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 72,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_xiranite",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_xiranite_enr",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 73,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_xiranite_enr",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_xiranite_lowpoly",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 75,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_xiranite_lowpoly",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_copperenr_xiranite_poly",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "sortOrder": 74,
+      "path": "/industry/recipes/machine%3Afilling_bottled_copperenr_xiranite_poly",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_drink_10_1",
+      "name": "\u74F6\u88DD\u971E\u8393\u98F2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_inn_drink_10.png?v=e501002d2d588eee8f43678e7f1459f97c3b0cc47e1d8b6d1eeb28897157a376",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Afilling_bottled_drink_10_1",
+      "outputSummary": "\u74F6\u88DD\u971E\u8393\u98F2 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_drink_2_1",
+      "name": "\u74F6\u88DD\u7378\u5976",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_inn_drink_2.png?v=e27082e9ff5d9f0d39155b929dd60dbceba4dd378df00a6b72670b30f069b71c",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Afilling_bottled_drink_2_1",
+      "outputSummary": "\u74F6\u88DD\u7378\u5976 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_drink_4_1",
+      "name": "\u74F6\u88DD\u8106\u8517\u6C41",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_inn_drink_4.png?v=52f4481364343c466d71caaa85ad562dd128880eada7776de2538403af675b47",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Afilling_bottled_drink_4_1",
+      "outputSummary": "\u74F6\u88DD\u8106\u8517\u6C41 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_drink_7_1",
+      "name": "\u74F6\u88DD\u512A\u8CEA\u7378\u5976",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_inn_drink_7.png?v=2fa479ed49c867ebaa1b221844e2f7713a846afbcb53b3de428256e2cdbab198",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Afilling_bottled_drink_7_1",
+      "outputSummary": "\u74F6\u88DD\u512A\u8CEA\u7378\u5976 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_food_1_1",
+      "name": "\u67D1\u5BE6\u7F50\u982D",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Afilling_bottled_food_1_1",
+      "outputSummary": "\u67D1\u5BE6\u7F50\u982D \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_food_2_1",
+      "name": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_food_2.png?v=9e480c6fb10d648e22abd403a4ed1ed84693b32311454db3e0d74c4904b070fe",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Afilling_bottled_food_2_1",
+      "outputSummary": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_food_3_1",
+      "name": "\u7CBE\u9078\u67D1\u5BE6\u7F50\u982D",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_food_3.png?v=d2bbc463c52ce1e89c167f733b232b3d8a650fceff224c1684fa32795dc12ecf",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Afilling_bottled_food_3_1",
+      "outputSummary": "\u7CBE\u9078\u67D1\u5BE6\u7F50\u982D \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_acid",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_acid",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_copper",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 10,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_copper",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_copper_enr",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 11,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_copper_enr",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_grass_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_grass_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_grass_2",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_grass_2",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_sewage",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_sewage",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_water",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_water",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_xiranite",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_xiranite",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_xiranite_enr",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_xiranite_enr",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_xiranite_lowpoly",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_xiranite_lowpoly",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glass_xiranite_poly",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glass_xiranite_poly",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_acid",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 13,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_acid",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_copper",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 21,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_copper",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_copper_enr",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 22,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_copper_enr",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_grass_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 15,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_grass_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_grass_2",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 16,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_grass_2",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_sewage",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 14,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_sewage",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_water",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 12,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_water",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_xiranite",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 17,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_xiranite",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_xiranite_enr",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 18,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_xiranite_enr",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_xiranite_lowpoly",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 20,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_xiranite_lowpoly",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_glassenr_xiranite_poly",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_galss_enr_bottle_liquid.png?v=d27705ad776a68dda92b7789d34ccbabe28b775b5f0dee12a3d8fbf9eb39f22a",
+      "sortOrder": 19,
+      "path": "/industry/recipes/machine%3Afilling_bottled_glassenr_xiranite_poly",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_acid",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 24,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_acid",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_copper",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 32,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_copper",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_copper_enr",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 33,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_copper_enr",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_grass_1",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 26,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_grass_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_grass_2",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 27,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_grass_2",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_sewage",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 25,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_sewage",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_water",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 23,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_water",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_xiranite",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 28,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_xiranite",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_xiranite_enr",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 29,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_xiranite_enr",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_xiranite_lowpoly",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 31,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_xiranite_lowpoly",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_iron_xiranite_poly",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "sortOrder": 30,
+      "path": "/industry/recipes/machine%3Afilling_bottled_iron_xiranite_poly",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_acid",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 35,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_acid",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_copper",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 43,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_copper",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_copper_enr",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 44,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_copper_enr",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_grass_1",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 37,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_grass_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_grass_2",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 38,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_grass_2",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_sewage",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 36,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_sewage",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_water",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 34,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_water",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_xiranite",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 39,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_xiranite",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_xiranite_enr",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 40,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_xiranite_enr",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_xiranite_lowpoly",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 42,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_xiranite_lowpoly",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_ironenr_xiranite_poly",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "sortOrder": 41,
+      "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_xiranite_poly",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_rec_hp_1_1",
+      "name": "\u854E\u7652\u81A0\u56CA",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_rec_hp_1.png?v=312fb32ddfab289eee4b54dce3f3f800aac8147dac1f10262fd8da43a174fc0e",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Afilling_bottled_rec_hp_1_1",
+      "outputSummary": "\u854E\u7652\u81A0\u56CA \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_rec_hp_2_1",
+      "name": "\u512A\u8CEA\u854E\u7652\u81A0\u56CA",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_rec_hp_2.png?v=d87c4976cf8e18a014843f70d861e6c8674196040f5a7e642a71d65e28f9eaa8",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Afilling_bottled_rec_hp_2_1",
+      "outputSummary": "\u512A\u8CEA\u854E\u7652\u81A0\u56CA \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_rec_hp_3_1",
+      "name": "\u7CBE\u9078\u854E\u7652\u81A0\u56CA",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_rec_hp_3.png?v=7dcabf9439a318eeefed3268b7e528050fc7579368342f5764e2e693e1fad888",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Afilling_bottled_rec_hp_3_1",
+      "outputSummary": "\u7CBE\u9078\u854E\u7652\u81A0\u56CA \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_bottled_xiranenr_grass_2",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+      "sortOrder": 78,
+      "path": "/industry/recipes/machine%3Afilling_bottled_xiranenr_grass_2",
+      "outputSummary": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_copper_enr2_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 20,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_copper_enr2_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_gas_acid_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 12,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_gas_acid_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_gas_copper_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 16,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_gas_copper_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_gas_copper_enr_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 17,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_gas_copper_enr_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_gas_inert_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 15,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_gas_inert_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_gas_water_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 11,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_gas_water_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_gas_xiranite_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 13,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_gas_xiranite_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:filling_copperjar_gas_xiranite_enr_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "sortOrder": 14,
+      "path": "/industry/recipes/machine%3Afilling_copperjar_gas_xiranite_enr_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u704C\u88DD\u6A5F"
+      ]
+    }
+  ]
+}

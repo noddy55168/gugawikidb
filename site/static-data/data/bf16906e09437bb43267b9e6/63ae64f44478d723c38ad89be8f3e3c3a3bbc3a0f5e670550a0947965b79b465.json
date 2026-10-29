@@ -1,0 +1,63 @@
+{
+  "sourceItemId": "item_device_xiranite_nexus_1",
+  "name": "\u6A1E\u58E4\u5100",
+  "rarity": 5,
+  "category": "\u96A8\u8EAB\u88DD\u7F6E",
+  "iconPath": "/media/wiki/catalogs/items/item_device_xiranite_nexus_1.png?v=34e723fac72ba0e676e7a0140f0d38d116a6bb142079561c06e09b6bf45f9569",
+  "summary": "\u7528\u4F86\u5C0D\u6297\u4FB5\u8755\u8207\u88C2\u9699\u7684\u5100\u5668\uFF0C\u662F\u6B66\u9675\u591A\u5E74\u7814\u7A76\u7684\u6280\u8853\u7D50\u6676\u3002",
+  "description": "\u914D\u5099\u5728\u80CC\u5305\u96A8\u8EAB\u88DD\u7F6E\u683C\u4E2D\u53EF\u4EE5\u62B5\u79A6\u5317\u90E8\u7981\u5340\u7684\u4FB5\u8755\u7634\u3002",
+  "wikiDescription": "",
+  "itemType": "\u96A8\u8EAB\u88DD\u7F6E",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/item_device_xiranite_nexus_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_xiranite_nexus_1",
+          "name": "\u6A1E\u58E4\u5100",
+          "quantity": 1,
+          "path": "/items/item_device_xiranite_nexus_1",
+          "iconPath": "/media/wiki/catalogs/items/item_device_xiranite_nexus_1.png?v=34e723fac72ba0e676e7a0140f0d38d116a6bb142079561c06e09b6bf45f9569",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gasjar_copper_gas_inert",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50\uFF08\u60F0\u6C23\uFF09",
+          "quantity": 20,
+          "path": "/items/item_gasjar_copper_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+          "contentIconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_xiranite_nexus_2",
+          "name": "\u6A1E\u58E4\u5100\u00B7\u64F4\u5BB9I\u578B",
+          "quantity": 1,
+          "path": "/items/item_device_xiranite_nexus_2",
+          "iconPath": "/media/wiki/catalogs/items/item_device_xiranite_nexus_2.png?v=58dc7c3f0043bbed13da2f2f37f01a3a43521ec8118a48e09d0ddb5db0b8a948",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_device_xiranite_nexus_2"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_barbecue_1",
+    "name": "\u71BE\u71B1\u5BB4\u6703",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_barbecue_1.png?v=6584477d6da1b226f12139ef0e9eefb2fb0a2f6f803bd282d85963d7e79a74c4",
+    "sortOrder": 13,
+    "path": "/industry/devices/wiki_item_port_barbecue_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "barbecue_1",
+  "needPower": false,
+  "width": 2,
+  "depth": 1,
+  "height": 1,
+  "recipes": []
+}

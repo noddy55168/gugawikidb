@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:liquid_transmuter_1_gas_gas_water_1",
+    "name": "\u6C34\u84B8\u6C23",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_gas_water.png?v=c30b18f31678390d82e3922b7a8041607dd05cc643da485e092de3642c9a8d3e",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_water_1",
+    "outputSummary": "\u6C34\u84B8\u6C23 \u00D7 1",
+    "deviceNames": [
+      "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+    ]
+  },
+  "description": "\u6C34\u84B8\u6C23\u8F49\u5316",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_water",
+      "name": "\u6E05\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "link": "/items/item_liquid_water"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_water",
+      "name": "\u6C34\u84B8\u6C23",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_water.png?v=c30b18f31678390d82e3922b7a8041607dd05cc643da485e092de3642c9a8d3e",
+      "link": "/items/item_gas_water"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_phase_trans_1",
+      "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_phase_trans_1.png?v=205b4d8e6e53d9ad860ad2bb1574e22f81ad7fa9c0ba34a40543f289e35e4ba0",
+      "sortOrder": 10,
+      "path": "/industry/devices/wiki_item_port_phase_trans_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

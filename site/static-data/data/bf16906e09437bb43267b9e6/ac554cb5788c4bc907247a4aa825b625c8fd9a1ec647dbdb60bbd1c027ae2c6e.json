@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:furnance_quartz_glass_2",
+    "name": "\u7D2B\u6676\u7E96\u7DAD",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+    "sortOrder": 4,
+    "path": "/industry/recipes/machine%3Afurnance_quartz_glass_2",
+    "outputSummary": "\u7D2B\u6676\u7E96\u7DAD \u00D7 1",
+    "deviceNames": [
+      "\u7CBE\u7149\u7210"
+    ]
+  },
+  "description": "\u7D2B\u6676\u7E96\u7DAD\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_quartz_powder",
+      "name": "\u7D2B\u6676\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_quartz_powder.png?v=5594e80efa29e391601288ad43d5ec174fcea9662384a1d2ffd62e965a7f73f5",
+      "link": "/items/item_quartz_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_quartz_glass",
+      "name": "\u7D2B\u6676\u7E96\u7DAD",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+      "link": "/items/item_quartz_glass"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_furnance_1",
+      "name": "\u7CBE\u7149\u7210",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_furnance_1.png?v=fe587cb85015af4f97013b92155ea4862e0addbaa04835879626a070d92c35a9",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_furnance_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

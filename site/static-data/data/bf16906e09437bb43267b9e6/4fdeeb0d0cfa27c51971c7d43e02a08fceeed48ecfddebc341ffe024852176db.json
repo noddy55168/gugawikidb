@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_burger_1",
+    "name": "\u6F22\u5821\u4E4B\u738B",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_burger_1.png?v=c41e4a06787861c51736fa6d86eea1f3770891315f370de2885c4ef9dcd97363",
+    "sortOrder": 16,
+    "path": "/industry/devices/wiki_item_port_burger_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "burger_1",
+  "needPower": false,
+  "width": 3,
+  "depth": 3,
+  "height": 5,
+  "recipes": []
+}

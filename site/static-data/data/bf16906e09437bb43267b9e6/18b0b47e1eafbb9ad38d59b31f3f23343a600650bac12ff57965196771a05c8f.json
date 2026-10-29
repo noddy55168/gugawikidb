@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:seedcollector_plant_sp_4",
+    "name": "\u91D1\u77F3\u7A3B\u7A2E\u5B50",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_plant_sp_seed_4.png?v=77b24f6dfeb2aa816b9b4d68566e1d0deb873320726ed2b8657b55650f86a428",
+    "sortOrder": 10,
+    "path": "/industry/recipes/machine%3Aseedcollector_plant_sp_4",
+    "outputSummary": "\u91D1\u77F3\u7A3B\u7A2E\u5B50 \u00D7 2",
+    "deviceNames": [
+      "\u63A1\u7A2E\u6A5F"
+    ]
+  },
+  "description": "\u91D1\u77F3\u7A3B\u7A2E\u5B50\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_sp_4",
+      "name": "\u91D1\u77F3\u7A3B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+      "link": "/items/item_plant_sp_4"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_sp_seed_4",
+      "name": "\u91D1\u77F3\u7A3B\u7A2E\u5B50",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_sp_seed_4.png?v=77b24f6dfeb2aa816b9b4d68566e1d0deb873320726ed2b8657b55650f86a428",
+      "link": "/items/item_plant_sp_seed_4"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_seedcol_1",
+      "name": "\u63A1\u7A2E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+      "sortOrder": 6,
+      "path": "/industry/devices/wiki_item_port_seedcol_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

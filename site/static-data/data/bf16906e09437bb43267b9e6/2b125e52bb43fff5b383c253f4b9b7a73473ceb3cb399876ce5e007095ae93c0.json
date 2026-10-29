@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:power_diffuser_1",
+    "name": "\u4F9B\u96FB\u6A01",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_power_diffuser_1.png?v=5321b8732f786a48fb1590281d43c670fa1a34956f6bd1ea205f81950cf16e30",
+    "sortOrder": 5,
+    "path": "/industry/recipes/hub%3Apower_diffuser_1",
+    "outputSummary": "\u4F9B\u96FB\u6A01 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_originium_ore",
+      "name": "\u6E90\u7926",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+      "link": "/items/item_originium_ore"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_power_diffuser_1",
+      "name": "\u4F9B\u96FB\u6A01",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_power_diffuser_1.png?v=5321b8732f786a48fb1590281d43c670fa1a34956f6bd1ea205f81950cf16e30",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,63 @@
+{
+  "sourceItemId": "item_gift_jinlong_11",
+  "name": "\u5947\u8E5F\u86CB\u7CD5",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_jinlong_11.png?v=2d92ac2c14a64609e6fd06d522bb9d17956f9788d4da804aac3cba7b87b59c7c",
+  "summary": "\u770B\u8D77\u4F86\u505A\u5DE5\u7C21\u55AE\u7684\u70D8\u7119\u86CB\u7CD5\uFF0C\u4F46\u7528\u6599\u8B1B\u7A76\uFF0C\u53E3\u611F\u76F8\u7576\u4E0D\u932F\uFF0C\u5E38\u4F5C\u70BA\u5546\u54C1\u51FA\u73FE\u5728\u74B0\u5854\u5546\u6703\u8209\u8FA6\u7684\u6148\u5584\u7FA9\u8CE3\u6D3B\u52D5\u4E2D\u3002",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u516C\u76CA]  [\u85DD\u8853] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_2",
+      "description": "\u6B66\u9675-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_jinlong_11/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0034_typhoea",
+          "name": "\u63D0\u5F17\u6D1B\u65AF",
+          "quantity": null,
+          "path": "/operators/34",
+          "iconPath": "/media/wiki/operators/chr_0034_typhoea/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0038_purrche",
+          "name": "\u5657\u5207\u5A1C",
+          "quantity": null,
+          "path": "/operators/38",
+          "iconPath": "/media/wiki/operators/chr_0038_purrche/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

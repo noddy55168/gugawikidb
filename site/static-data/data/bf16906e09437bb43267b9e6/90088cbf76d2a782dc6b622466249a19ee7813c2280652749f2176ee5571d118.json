@@ -1,0 +1,74 @@
+{
+  "sourceItemId": "item_corp3_grass1_1",
+  "name": "\u6B63\u672C\u88DC\u5143\u6E6F\u5291",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_corp3_grass1_1.png?v=1121430e8787716dbfc9a5db9013e3da2677fee6f3a5f3cc4654c21e8f1de534",
+  "summary": "\u4EE5\u74CA\u8449\u8518\u3001\u9326\u8349\u714E\u88FD\u800C\u6210\u7684\u6E6F\u5291\uFF0C\u901A\u5E38\u88AB\u7528\u4EE5\u6EAB\u88DC\u6C23\u8840\u3002\u8A31\u591A\u66FE\u53D7\u91CD\u50B7\u7684\u6230\u58EB\u9760\u8457\u5B83\u8ABF\u7406\u597D\u4E86\u81EA\u8EAB\u6697\u75BE\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u589E\u52A09%\u66B4\u64CA\u7387\uFF0C\u9020\u6210\u7684\u6240\u6709\u50B7\u5BB3\u589E\u52A018%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_plant_sp_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u74CA\u8449\u8518\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u6B66\u9675\u57CE-\u5BE6\u9A57\u4F5C\u7269\u6E2C\u8A66\u5340\u7B49\u5730\u63A1\u96C6\u74CA\u8449\u8518",
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u74CA\u8449\u8518\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/handwork_corp3_grass1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_3",
+          "name": "\u74CA\u8449\u8518",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_3.png?v=8db3ba1866255f35d711904d751a9cb6819dead719137045e5b04e1755552ee5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_1",
+          "name": "\u9326\u8349\u7C89\u672B",
+          "quantity": 8,
+          "path": "/items/item_plant_grass_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp3_grass1_1",
+          "name": "\u6B63\u672C\u88DC\u5143\u6E6F\u5291",
+          "quantity": 1,
+          "path": "/items/item_corp3_grass1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp3_grass1_1.png?v=1121430e8787716dbfc9a5db9013e3da2677fee6f3a5f3cc4654c21e8f1de534",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp3_grass1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_plant_bbflower_powder_1_1",
+    "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+    "sortOrder": 10,
+    "path": "/industry/recipes/machine%3Agrinder_plant_bbflower_powder_1_1",
+    "outputSummary": "\u916E\u5316\u704C\u6728\u7C89\u672B \u00D7 2",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u916E\u5316\u704C\u6728\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_bbflower_1",
+      "name": "\u916E\u5316\u704C\u6728",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+      "link": "/items/item_plant_bbflower_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_bbflower_powder_1",
+      "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+      "link": "/items/item_plant_bbflower_powder_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

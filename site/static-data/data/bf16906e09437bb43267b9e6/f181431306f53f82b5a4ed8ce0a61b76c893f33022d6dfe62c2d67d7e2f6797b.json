@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_originium_powder_1",
+    "name": "\u6E90\u77F3\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+    "sortOrder": 4,
+    "path": "/industry/recipes/machine%3Agrinder_originium_powder_1",
+    "outputSummary": "\u6E90\u77F3\u7C89\u672B \u00D7 1",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u6E90\u77F3\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_originium_ore",
+      "name": "\u6E90\u7926",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+      "link": "/items/item_originium_ore"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_originium_powder",
+      "name": "\u6E90\u77F3\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+      "link": "/items/item_originium_powder"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

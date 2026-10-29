@@ -1,0 +1,198 @@
+{
+  "sourceItemId": "item_fbottle_copper_grass_1",
+  "name": "\u8D64\u9285\u74F6\uFF08\u9326\u8349\u6EB6\u6DB2\uFF09",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+  "summary": "\u5E02\u9762\u4E0A\u4E0D\u7B97\u5E38\u898B\u7684\u9285\u74F6\u3002\u76F8\u8F03\u65BC\u85CD\u9435\uFF0C\u8D64\u9285\u50F9\u683C\u901A\u5E38\u66F4\u9AD8\u3002",
+  "description": "\u7531\u8D64\u9285\u584A\u52A0\u5DE5\u5F8C\u5F97\u4F86\u7684\u91D1\u5C6C\u74F6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002\u5E38\u7528\u65BC\u6DB2\u9AD4\u76DB\u88DD\u3002",
+  "wikiDescription": "\u76DB\u88DD\u6709\u9326\u8349\u6EB6\u6DB2",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/dismantler_copper_grass_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_copper_grass_1",
+          "name": "\u8D64\u9285\u74F6\uFF08\u9326\u8349\u6EB6\u6DB2\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_copper_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_bottle",
+          "name": "\u8D64\u9285\u74F6",
+          "quantity": 1,
+          "path": "/items/item_copper_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_plant_grass_1",
+          "name": "\u9326\u8349\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_plant_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "dismantler_1",
+          "name": "\u62C6\u89E3\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_dismantler_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Adismantler_copper_grass_1_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_food_5_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_copper_grass_1",
+          "name": "\u8D64\u9285\u74F6\uFF08\u9326\u8349\u6EB6\u6DB2\uFF09",
+          "quantity": 5,
+          "path": "/items/item_fbottle_copper_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_food_5",
+          "name": "\u512A\u8CEA\u9326\u8349\u98F2\u6599",
+          "quantity": 1,
+          "path": "/items/item_bottled_food_5",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_food_5.png?v=5842f775ddde46301895b5d0bf4cd40b32c877faffd4a044e997e6f6ce15ed69",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_food_5_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_copper_grass_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_bottle",
+          "name": "\u8D64\u9285\u74F6",
+          "quantity": 1,
+          "path": "/items/item_copper_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_plant_grass_1",
+          "name": "\u9326\u8349\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_plant_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_copper_grass_1",
+          "name": "\u8D64\u9285\u74F6\uFF08\u9326\u8349\u6EB6\u6DB2\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_copper_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698"
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_copper_grass_1"
+    }
+  ],
+  "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698",
+  "bindingStatus": "unbound"
+}

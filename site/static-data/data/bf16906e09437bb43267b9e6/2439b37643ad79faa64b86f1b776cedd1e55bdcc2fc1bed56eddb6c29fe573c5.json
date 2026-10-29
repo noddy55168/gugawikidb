@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_checkin_parkour",
+    "name": "\u9675\u6C34\u6E21\u79CB\u7C3D\u5230",
+    "description": "\u53C3\u8207\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u982D\u50CF\u00B7\u8DD1\u52D5\u884C\u9032\u3001\u5D4C\u6676\u7389\u00D71500\u7B49\u8C50\u5BCC\u734E\u52F5\u3002",
+    "sourceType": 2,
+    "sortOrder": 8317,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_wuling_racing",
+    "tabImageId": "bg_activity_tab_sign_parkour",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/1 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1790827200,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/1 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1790827200,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/10/1 12:00:00",
+        "closeTimeRaw": "2026/10/14 17:00:00",
+        "openUnixSeconds": 1790874000,
+        "closeUnixSeconds": 1792015200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_checkin_time",
+        "name": "\u9650\u6642\u7C3D\u5230"
+      }
+    ],
+    "themeColor": "#33b178"
+  },
+  "instructionId": "instru_checkin_parkour",
+  "instructionTitle": "\u300C\u9675\u6C34\u6E21\u79CB\u7C3D\u5230\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n \n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6BCF\u65E5\u767B\u5165\u904A\u6232\u5373\u53EF\u9818\u53D6\u7C3D\u5230\u734E\u52F5\u3002\n\u00B7 \u5B8C\u62107\u65E5\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u3010\u982D\u50CF\u00B7\u8DD1\u52D5\u884C\u9032\u3011\u3001\u3010\u5D4C\u6676\u7389\u3011\u00D71500\u7B49\u8C50\u5BCC\u734E\u52F5\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

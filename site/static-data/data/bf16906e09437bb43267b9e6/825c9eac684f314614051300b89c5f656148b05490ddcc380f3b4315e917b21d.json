@@ -1,0 +1,31 @@
+{
+  "sourceItemId": "item_gem_stable_energy_point_tundra",
+  "name": "\u8C37\u5730\u523B\u5BEB\u5238",
+  "rarity": 5,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_gem_stable_energy_point_tundra.png?v=84f205839b3f9e4c16a810a6915b00601fafd1813ad78ba4b049933f2b6a0240",
+  "summary": "\u4EE3\u8868\u8457\u64F4\u5BB9\u523B\u5BEB\u8CC7\u683C\u7684\u7968\u5238\uFF0C\u7522\u81EA\u56DB\u865F\u8C37\u5730\u3002\u70BA\u4E86\u907F\u514D\u57FA\u8CEA\u4E4B\u9593\u767C\u751F\u4E0D\u53EF\u63A7\u7684\u6C59\u67D3\uFF0C\u523B\u5BEB\u74B0\u5883\u9700\u8981\u56B4\u683C\u5C01\u9589\u3002",
+  "description": "\u5728\u56DB\u865F\u8C37\u5730\u91CD\u5EA6\u80FD\u91CF\u6DE4\u7A4D\u9EDE\u4F7F\u7528\uFF0C\u53EF\u7528\u65BC\u9810\u523B\u5BEB\u7372\u5F97\u7684\u6B66\u5668\u57FA\u8CEA\u7684\u5C6C\u6027\u3002",
+  "wikiDescription": "",
+  "itemType": "\u523B\u5BEB\u5238",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_1",
+      "description": "\u56DB\u865F\u8C37\u5730-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

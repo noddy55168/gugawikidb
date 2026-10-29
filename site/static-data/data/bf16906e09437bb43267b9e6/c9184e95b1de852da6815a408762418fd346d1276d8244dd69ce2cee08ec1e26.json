@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_lbmob_1_lbshamman_1_sp_1_1",
+    "name": "\u8EDF\u9AA8\u9905\u4E7E",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_lbmob_1_lbshamman_1_sp_1_1.png?v=2a273473e7bc5948484c8c1167eb5a74884a8536e090596931e55efcecf57600",
+    "sortOrder": 52,
+    "path": "/industry/recipes/manual%3Ahdwk_lbmob_1_lbshamman_1_sp_1_1",
+    "outputSummary": "\u8EDF\u9AA8\u9905\u4E7E \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_lbmob_1",
+      "name": "\u8349\u7C7D\u4E7E\u7C89",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_lbmob_1.png?v=fef01c9a46a227dc6fa1e2af05ab8ee171aac1c4117b7bcc7d9f85327eab7f7f",
+      "link": "/items/item_drop_lbmob_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_lbshamman_1",
+      "name": "\u8EDF\u9AA8\u788E\u5C51",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_lbshamman_1.png?v=b04db58770a408bd2b6d045be464bf9ee17ab188876cb6285e4b6446149c3f64",
+      "link": "/items/item_drop_lbshamman_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_1",
+      "name": "\u7070\u8606\u9EA5",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+      "link": "/items/item_plant_sp_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_lbmob_1_lbshamman_1_sp_1_1",
+      "name": "\u8EDF\u9AA8\u9905\u4E7E",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_lbmob_1_lbshamman_1_sp_1_1.png?v=2a273473e7bc5948484c8c1167eb5a74884a8536e090596931e55efcecf57600",
+      "link": "/items/item_lbmob_1_lbshamman_1_sp_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_lbmob_1_lbshamman_1_sp_1_1",
+      "name": "\u8EDF\u9AA8\u9905\u4E7E\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_lbmob_1_lbshamman_1_sp_1_1.png?v=2a273473e7bc5948484c8c1167eb5a74884a8536e090596931e55efcecf57600",
+      "link": null
+    }
+  ],
+  "devices": []
+}

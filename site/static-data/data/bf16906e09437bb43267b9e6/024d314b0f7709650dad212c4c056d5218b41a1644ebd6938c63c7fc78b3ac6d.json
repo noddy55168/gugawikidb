@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_v1d4_01_returnback_new_2",
+    "name": "\u5354\u8B70\u91CD\u9023",
+    "description": "\u6B61\u8FCE\u56DE\u6B78\u5854\u885B\u4E8C\uFF0C\u7BA1\u7406\u54E1\u3002",
+    "sourceType": 42,
+    "sortOrder": 20000,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_return",
+    "tabImageId": "activity_tab_bg_webreflow",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765270800,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_return",
+        "name": "\u56DE\u6B78\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff078"
+  },
+  "instructionId": "instru_returnback_new",
+  "instructionTitle": "\u300C\u5354\u8B70\u91CD\u9023\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u22653\u7D1A\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6I - \u8C37\u5730\u91CD\u555F\n\u00B7 \u9023\u7E8C\u672A\u767B\u5165\u904A\u6232\u5929\u6578\u226521\u5929\n\u00B7 \u8DDD\u96E2\u4E0A\u4E00\u6B21\u53C3\u8207\u300C\u5354\u8B70\u91CD\u9023\u300D\u6D3B\u52D5\u226542\u5929\n\u00B7 \u7BA1\u7406\u54E1\u7684\u56DE\u6B78\u72C0\u614B\u6301\u7E8C\u6642\u9593\uFF0C\u8207\u300C\u5354\u8B70\u91CD\u9023\u300D\u6D3B\u52D5\u958B\u555F\u6642\u9593\u4FDD\u6301\u4E00\u81F4\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u89F8\u767C\u56DE\u6B78\u8EAB\u5206\u5F8C\uFF0C\u767B\u5165\u5373\u53EF\u9818\u53D6\u4E00\u6B21\u5354\u8B70\u91CD\u9023\u734E\u52F5\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u5728\u300C\u91CD\u9023\u7C3D\u5230\u300D\u4E2D\u5B8C\u6210\u6BCF\u65E5\u7C3D\u5230\uFF0C\u5373\u53EF\u9818\u53D6\u7C3D\u5230\u734E\u52F5\uFF0C\u5171\u53EF\u7C3D\u52307\u6B21\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u5728\u300C\u91CD\u9023\u4EFB\u52D9\u300D\u4E2D\u5B8C\u6210\u5C0D\u61C9\u4EFB\u52D9\u5F8C\uFF0C\u53EF\u7372\u5F97\u6D3B\u52D5\u7A4D\u5206\u4EE5\u53CA\u734E\u52F5\uFF0C\u7A4D\u5206\u9054\u5230\u4E00\u5B9A\u6578\u91CF\uFF0C\u9084\u53EF\u4EE5\u7372\u5F97\u984D\u5916\u734E\u52F5\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u5354\u8B70\u901A\u884C\u8B49\u6703\u958B\u555F\u300C\u56DE\u6B78\u4EFB\u52D9\u300D\uFF0C\u5B8C\u6210\u4EFB\u52D9\u53EF\u9818\u53D6\u984D\u5916\u901A\u884C\u8B49\u7D93\u9A57\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u6B61\u8FCE\u7BA1\u7406\u54E1\u7A4D\u6975\u53C3\u8207\u300C\u56DE\u6B78\u554F\u5377\u300D\u8ABF\u67E5\uFF0C\u5B8C\u6210\u5F8C\u53EF\u7372\u5F97\u554F\u5377\u734E\u52F5\u3002\n\u00B7 \u6D3B\u52D5\u5C07\u5728\u7BA1\u7406\u54E1\u53C3\u820714\u5929\u5F8C\uFF0C\u65BC\u4F3A\u670D\u5668\u6642\u95934:00\u95DC\u9589\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

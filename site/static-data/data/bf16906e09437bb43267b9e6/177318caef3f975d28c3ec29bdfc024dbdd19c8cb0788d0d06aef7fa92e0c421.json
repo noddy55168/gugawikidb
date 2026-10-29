@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_corp_potato_1",
+    "name": "\u5E73\u85AF\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_potato_1.png?v=b371cebdbf39fffc10f5d5e0218466608f665654b3af7d330d4b65285953ae85",
+    "sortOrder": 110,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_corp_potato_1",
+    "outputSummary": "\u5E73\u85AF\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_potato_seed_1",
+      "name": "\u5E73\u85AF\u584A\u8396",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_potato_seed_1.png?v=05697f1539cfe0d6f37852e315c53f1bf05becfef662bddcd338edef5fa87a86",
+      "link": "/items/item_corp_potato_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_corp_potato_1",
+      "name": "\u5E73\u85AF\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_potato_1.png?v=b371cebdbf39fffc10f5d5e0218466608f665654b3af7d330d4b65285953ae85",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_potato_1",
+      "name": "\u5E73\u85AF",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_potato_1.png?v=60091b89c49a713b10e5ff53eefebdd9b404611b2ccd156e185823bbd1b9637f",
+      "link": "/items/item_corp_potato_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_corp_potato_seed_1",
+      "name": "\u5E73\u85AF\u584A\u8396",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_potato_seed_1.png?v=05697f1539cfe0d6f37852e315c53f1bf05becfef662bddcd338edef5fa87a86",
+      "link": "/items/item_corp_potato_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_corp_potato_1",
+      "name": "\u5E73\u85AF\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_potato_1.png?v=b371cebdbf39fffc10f5d5e0218466608f665654b3af7d330d4b65285953ae85",
+      "link": null
+    }
+  ],
+  "devices": []
+}

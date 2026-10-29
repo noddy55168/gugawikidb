@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_trap_1",
+    "name": "AF1\u300C\u7194\u7532\u8005\u300D",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_trap_1.png?v=2828603ce873a1a21eed20746a04019c5b0c5a6a0622d0ae73f1de7e7d7c31e5",
+    "sortOrder": 37,
+    "path": "/industry/recipes/hub%3Abattle_trap_1",
+    "outputSummary": "AF1\u300C\u7194\u7532\u8005\u300D \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_trap_1",
+      "name": "AF1\u300C\u7194\u7532\u8005\u300D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_trap_1.png?v=2828603ce873a1a21eed20746a04019c5b0c5a6a0622d0ae73f1de7e7d7c31e5",
+      "link": null
+    }
+  ],
+  "devices": []
+}

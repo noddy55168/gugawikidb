@@ -1,0 +1,77 @@
+{
+  "activity": {
+    "sourceActivityId": "web_activity_v1d0_02_springfest",
+    "name": "\u6696\u7B8B\u8CC0\u6625",
+    "description": "\u6B64\u6642\u6B64\u523B\uFF0C\u5E79\u54E1\u5011\u70BA\u60A8\u9001\u4E0A\u4E86\u795D\u798F\u3002\u9019\u4E9B\u559C\u6085\u8207\u6EAB\u6696\uFF0C\u95DC\u61F7\u8207\u6CE8\u8996\uFF0C\u8ACB\u60A8\u898B\u8B49\u3002",
+    "sourceType": 1,
+    "sortOrder": 1000,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_springfest",
+    "tabImageId": "activity_tab_bg_springfestival",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/2/15 12:00:00",
+        "closeTimeRaw": "2026/3/4 4:00:00",
+        "openUnixSeconds": 1771128000,
+        "closeUnixSeconds": 1772568000
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/2/15 12:00:00",
+        "closeTimeRaw": "2026/3/4 4:00:00",
+        "openUnixSeconds": 1771128000,
+        "closeUnixSeconds": 1772568000
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/2/15 12:00:00",
+        "closeTimeRaw": "2026/3/4 4:00:00",
+        "openUnixSeconds": 1771174800,
+        "closeUnixSeconds": 1772614800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_springfest",
+        "name": "\u5206\u4EAB\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#a52b17"
+  },
+  "instructionId": "instru_springfest",
+  "instructionTitle": "\u300C\u6696\u7B8B\u8CC0\u6625\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u4EE5\u6839\u64DA\u5E79\u54E1\u5011\u7684\u559C\u597D\u70BA\u4ED6\u5011\u88FD\u4F5C\u5FC3\u5100\u7684\u8CC0\u5361\uFF0C\u5B8C\u6210\u95DC\u5361\u6311\u6230\uFF0C\u4E26\u7372\u5F97\u5E79\u54E1\u5011\u7684\u65B0\u6625\u795D\u798F\u3002\n\u00B7 \u6D3B\u52D5\u5167\u5171\u67097\u500B\u5C0D\u61C9\u95DC\u5361\uFF0C\u5F8C4\u500B\u95DC\u5361\u5C07\u5728\u6D3B\u52D5\u958B\u555F\u5F8C\u7684\u6307\u5B9A\u6642\u9593\u89E3\u9396\u3002\n\u00B7 \u5B8C\u6210\u6D3B\u52D5\u5167\u6307\u5B9A\u4EFB\u52D9\u5373\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002\n\u00B7 \u5B8C\u6210\u6307\u5B9A\u4EFB\u52D9\u5F8C\uFF0C\u734E\u52F5\u5C07\u7ACB\u5373\u900F\u904E\u904A\u6232\u5167\u4FE1\u4EF6\u767C\u653E\uFF0C\u4FE1\u4EF6\u6709\u6548\u671F\u9650\u70BA30\u5929\uFF0C\u8ACB\u7BA1\u7406\u54E1\u53CA\u6642\u9818\u53D6\u3002\n\u00B7 \u5B8C\u6210\u4EFB\u610F3\u500B\u95DC\u5361\u5F8C\uFF0C\u5373\u53EF\u958B\u555F\u300C\u81EA\u7531\u5275\u4F5C\u300D\u95DC\u5361\uFF0C\u5206\u4EAB\u5275\u4F5C\u7684\u8CC0\u5361\u53EF\u7372\u5F97\u734E\u52F5\u3002\n\n\u203B \u9000\u51FA\u300C\u81EA\u7531\u5275\u4F5C\u300D\u95DC\u5361\u5F8C\uFF0C\u8CC0\u5361\u7121\u6CD5\u81EA\u52D5\u5132\u5B58\uFF0C\u8ACB\u7BA1\u7406\u54E1\u6CE8\u610F\u8A18\u5F97\u5132\u5B58\u5275\u4F5C\u7684\u8CC0\u5361\u4F5C\u54C1\u3002",
+  "conditions": [],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_web_activity_spring01",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

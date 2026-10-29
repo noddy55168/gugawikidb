@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_dog_hsmob_corp_1",
+    "name": "\u721B\u8089\u9EB5",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_dog_hsmob_corp_1.png?v=4d377c265ae8175950101638040d2ad504b7866c7d745ce3bad9a660d7c3206c",
+    "sortOrder": 10,
+    "path": "/industry/recipes/manual%3Ahdwk_dog_hsmob_corp_1",
+    "outputSummary": "\u7530\u5BB6\u7279\u8272\u721B\u8089\u9EB5 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_dog_1",
+      "name": "\u7378\u8089",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+      "link": "/items/item_drop_dog_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_hsmob_1",
+      "name": "\u65B0\u7B4D",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+      "link": "/items/item_drop_hsmob_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_1",
+      "name": "\u7070\u8606\u9EA5",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+      "link": "/items/item_plant_sp_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_dog_hsmob_corp_1",
+      "name": "\u7530\u5BB6\u7279\u8272\u721B\u8089\u9EB5",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_dog_hsmob_corp_1.png?v=4d377c265ae8175950101638040d2ad504b7866c7d745ce3bad9a660d7c3206c",
+      "link": "/items/item_dog_hsmob_corp_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_dog_hsmob_corp_1",
+      "name": "\u7530\u5BB6\u7279\u8272\u721B\u8089\u9EB5\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_dog_hsmob_corp_1.png?v=4d377c265ae8175950101638040d2ad504b7866c7d745ce3bad9a660d7c3206c",
+      "link": null
+    }
+  ],
+  "devices": []
+}

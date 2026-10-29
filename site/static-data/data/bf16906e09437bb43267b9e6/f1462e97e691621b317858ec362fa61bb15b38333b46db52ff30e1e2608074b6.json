@@ -1,0 +1,135 @@
+{
+  "sourceItemId": "item_activity_xiranite_cmpt",
+  "name": "\u5BE6\u9A57\u606F\u58E4\u96F6\u4EF6",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_cmpt.png?v=787087011a36a719308d906b907adc33d222e0bd7c844708b28e9191e3830b54",
+  "summary": "\u6CDB\u7528\u6027\u8F03\u5DEE\u7684\u5BE6\u9A57\u578B\u606F\u58E4\u96F6\u4EF6\u3002",
+  "description": "\u606F\u58E4\u5728\u7279\u6B8A\u6642\u9593\u9EDE\u4E0B\u52A0\u5DE5\u6210\u578B\u7684\u96F6\u4EF6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_xiranite",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u606F\u58E4\u751F\u6210\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_cmpt",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u96F6\u4EF6\u88FD\u9020\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u89E3\u9396\u606F\u58E4\u5DE5\u696D",
+    "\u89E3\u9396\u96F6\u4EF6\u88FD\u9020\u5DE5\u696D\u6280\u8853",
+    "\u6D3B\u52D5\u9650\u6642\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_activity_xiranite_hulu_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_bottle",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u74F6",
+          "quantity": 5,
+          "path": "/items/item_activity_xiranite_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_bottle.png?v=3cfb0632ecbebc60e91901d87b7d05e94b4ba49db4fce47e6f9eb49453eca3c5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_cmpt",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u96F6\u4EF6",
+          "quantity": 5,
+          "path": "/items/item_activity_xiranite_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_cmpt.png?v=787087011a36a719308d906b907adc33d222e0bd7c844708b28e9191e3830b54",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_hulu",
+          "name": "\u606F\u58E4\u846B\u8606",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_hulu",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_hulu.png?v=1344205e5fc264f451670a354c34fed535a9faeff83fa173a1090ff1be89982b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_activity_xiranite_hulu_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/component_activity_xiranite_cmpt_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_powder",
+          "name": "\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_cmpt",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_cmpt.png?v=787087011a36a719308d906b907adc33d222e0bd7c844708b28e9191e3830b54",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_activity_xiranite_cmpt_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

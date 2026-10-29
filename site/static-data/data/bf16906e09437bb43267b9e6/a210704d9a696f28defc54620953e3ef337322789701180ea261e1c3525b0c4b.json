@@ -1,0 +1,54 @@
+{
+  "sourceItemId": "item_ranch_meat_2",
+  "name": "\u512A\u8CEA\u8089\u584A",
+  "rarity": 4,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_ranch_meat_2.png?v=995c653ab2a9bcdf3d730d7f95dee8f460aec640172762ac04c4798a30050745",
+  "summary": "\u8089\u8207\u8102\u80AA\u6BD4\u4F8B\u5B8C\u7F8E\u7684\u8089\u584A\uFF0C\u8ACB\u52D9\u5FC5\u8A8D\u771F\u70F9\u98EA\uFF0C\u4E0D\u8981\u66B4\u6B84\u5929\u7269\u3002",
+  "description": "\u900F\u904E\u7267\u5834\u990A\u6B96\u7372\u5F97\u7684\u7522\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_ranch_1",
+      "description": "\u7267\u5834\u990A\u6B96\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_food_box_meat_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

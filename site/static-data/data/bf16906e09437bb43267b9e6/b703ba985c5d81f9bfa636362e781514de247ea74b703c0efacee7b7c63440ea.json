@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:udpipe_loader_2",
+    "name": "\u591A\u53E3\u6697\u7BA1\u5165\u53E3",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_udpipe_loader_2.png?v=884906632ca476cdebe145eb7cb00489599735e306af334b36d6e4942c111160",
+    "sortOrder": 118,
+    "path": "/industry/recipes/hub%3Audpipe_loader_2",
+    "outputSummary": "\u591A\u53E3\u6697\u7BA1\u5165\u53E3 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 40,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_udpipe_loader_2",
+      "name": "\u591A\u53E3\u6697\u7BA1\u5165\u53E3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_udpipe_loader_2.png?v=884906632ca476cdebe145eb7cb00489599735e306af334b36d6e4942c111160",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,121 @@
+{
+  "sourceItemId": "item_copper_ore",
+  "name": "\u8D64\u9285\u7926",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_copper_ore.png?v=2916d492a2191a3d2f23bd443e02e11139eadbc3095b93668fedb13cd5388722",
+  "summary": "\u6B66\u9675\u5730\u5340\u7279\u6709\u7684\u7926\u7269\uFF0C\u662F\u4E00\u7A2E\u5929\u7136\u5408\u91D1\uFF0C\u4EBA\u5011\u5F9E\u5176\u4E2D\u51B6\u7149\u51FA\u7684\u91D1\u5C6C\u6750\u6599\u662F\u8A72\u5730\u5340\u5DE5\u696D\u751F\u7522\u7684\u57FA\u790E\u3002",
+  "description": "\u4E00\u7A2E\u7D05\u8272\u91D1\u5C6C\uFF0C\u53EF\u5728\u5DE5\u696D\u7CFB\u7D71\u4E2D\u9032\u884C\u52A0\u5DE5\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_copper_ore",
+      "description": "\u8D64\u9285\u7926\u7926\u9EDE\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_common_ore",
+      "description": "\u53EF\u4F7F\u7528\u7926\u6A5F\u9032\u884C\u81EA\u52D5\u5316\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_map02_lv003",
+      "description": "\u6E05\u6CE2\u5BE8\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMinerTable/miner_4/\u63A1\u96C6\u4F86\u6E90/item_copper_ore",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_4",
+          "name": "\u6C34\u9A45\u7926\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_4",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_copper_nugget_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_ore",
+          "name": "\u8D64\u9285\u7926",
+          "quantity": 1,
+          "path": "/items/item_copper_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_ore.png?v=2916d492a2191a3d2f23bd443e02e11139eadbc3095b93668fedb13cd5388722",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_sewage",
+          "name": "\u6C59\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_sewage",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_copper_nugget_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

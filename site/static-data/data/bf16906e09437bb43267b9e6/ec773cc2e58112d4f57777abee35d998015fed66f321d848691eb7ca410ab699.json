@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "hub:power_station_1",
+    "name": "\u71B1\u80FD\u6C60",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_power_sta_1.png?v=b350b910477ae4275f641e802d6953369aeebd9a86f7ec5e77b1471ea6c38e19",
+    "sortOrder": 4,
+    "path": "/industry/recipes/hub%3Apower_station_1",
+    "outputSummary": "\u71B1\u80FD\u6C60 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_power_sta_1",
+      "name": "\u71B1\u80FD\u6C60",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_power_sta_1.png?v=b350b910477ae4275f641e802d6953369aeebd9a86f7ec5e77b1471ea6c38e19",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,71 @@
+{
+  "entry": {
+    "key": "machine:pool_copper_enr_1",
+    "name": "\u8D6B\u9285\u584A\u3001\u6C59\u6C34",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_enr.png?v=f603ee5905cd15e3ed5956affdd40b0bf3635409837b259b0d6bcecd6e9ca9b3",
+    "sortOrder": 8,
+    "path": "/industry/recipes/machine%3Apool_copper_enr_1",
+    "outputSummary": "\u8D6B\u9285\u584A \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+    "deviceNames": [
+      "\u53CD\u61C9\u6C60"
+    ]
+  },
+  "description": "\u8D6B\u9285\u584A\u5408\u6210\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_copper_enr",
+      "name": "\u8D6B\u9285\u6EB6\u6DB2",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_liquid_copper_enr.png?v=d32c141984f23c8aea871b72e7340e3af9547f471de5ecd248a962b22ceec17a",
+      "link": "/items/item_liquid_copper_enr"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_iron_powder",
+      "name": "\u85CD\u9435\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+      "link": "/items/item_iron_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr",
+      "name": "\u8D6B\u9285\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_enr.png?v=f603ee5905cd15e3ed5956affdd40b0bf3635409837b259b0d6bcecd6e9ca9b3",
+      "link": "/items/item_copper_enr"
+    },
+    {
+      "role": "output",
+      "group": 1,
+      "order": 0,
+      "itemId": "item_liquid_sewage",
+      "name": "\u6C59\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+      "link": "/items/item_liquid_sewage"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_mix_pool_1",
+      "name": "\u53CD\u61C9\u6C60",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_1.png?v=531a16ed1a42c703e31aaec8f676cf038585e364c7f69b0c1c8a1196b581b65b",
+      "sortOrder": 5,
+      "path": "/industry/devices/wiki_item_port_mix_pool_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

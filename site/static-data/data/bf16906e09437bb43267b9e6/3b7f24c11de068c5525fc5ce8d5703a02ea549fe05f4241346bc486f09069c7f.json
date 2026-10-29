@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_soil_sp_2",
+    "name": "\u82E6\u8449\u6912\u7530\u584A",
+    "kind": "building",
+    "category": "\u7A2E\u690D\u8ABF\u914D",
+    "iconPath": "/media/wiki/industry/item_port_soil_sp_2.png?v=70864488af77f3c5c6c760dcc4bc320c3104aacb2f3eb8342720a2003830631b",
+    "sortOrder": 8,
+    "path": "/industry/devices/wiki_item_port_soil_sp_2",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u6F86\u6C34\u3001\u6210\u9577\u3001\u6536\u7A6B\u82E6\u8449\u6912\u3002",
+  "sourceId": "soil_sp_2",
+  "needPower": false,
+  "width": 4,
+  "depth": 4,
+  "height": 1,
+  "recipes": []
+}

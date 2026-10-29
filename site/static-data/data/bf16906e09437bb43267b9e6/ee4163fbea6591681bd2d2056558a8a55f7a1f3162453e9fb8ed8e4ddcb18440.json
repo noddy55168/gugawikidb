@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_pristine_access_v1d2",
+    "name": "\u7165\u65B0\u6708\u5361\u8D08\u79AE",
+    "description": "",
+    "sourceType": 28,
+    "sortOrder": 8306,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_pristine_access",
+    "tabImageId": "activity_tab_bg_freemonthlypass",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/17 7:00:00",
+        "closeTimeRaw": "2026/5/18 4:00:00",
+        "openUnixSeconds": 1776380400,
+        "closeUnixSeconds": 1779048000
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/17 7:00:00",
+        "closeTimeRaw": "2026/5/18 4:00:00",
+        "openUnixSeconds": 1776380400,
+        "closeUnixSeconds": 1779048000
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/4/16 18:00:00",
+        "closeTimeRaw": "2026/5/18 4:00:00",
+        "openUnixSeconds": 1776380400,
+        "closeUnixSeconds": 1779094800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_pristine_access",
+        "name": "\u8D08\u79AE\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#ff5400"
+  },
+  "instructionId": "instru_activity_pristine_access",
+  "instructionTitle": "\u300C\u7165\u65B0\u6708\u5361\u8D08\u79AE\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u958B\u555F\u6642\uFF0C\u7BA1\u7406\u54E1\u6703\u7ACB\u5373\u7372\u5F97\u300C\u7165\u65B0\u6708\u5361\u300D\u6B0A\u76CA\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u6BCF\u65E5\u767B\u5165\u5373\u53EF\u7372\u5F97\u3010\u5D4C\u6676\u7389\u3011\u00D7200\u3001\u3010\u7406\u667A\u6D88\u8017\u8A31\u53EF\u3011\u00D74\u548C\u3010\u7DCA\u6025\u7406\u667A\u52A0\u5F37\u5291\u3011\u00D71\uFF08\u4F7F\u7528\u5F8C\u53EF\u4EE5\u6062\u5FA9\u7406\u667A\uFF0C\u6709\u4F7F\u7528\u6642\u9593\u9650\u5236\uFF09\u3002 \n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u6BCF\u65E5\u767B\u5165\u734E\u52F5\u6700\u591A\u53EF\u7D2F\u8A08\u9818\u53D630\u6B21\u3002\n\u00B7 \u7165\u65B0\u6708\u5361\u7684\u6BCF\u65E5\u767B\u5165\u734E\u52F5\u5C07\u5728\u6BCF\u65E5\u4F3A\u670D\u5668\u6642\u959304:00\u66F4\u65B0\u3002\n\n- \u7279\u6B8A\u63D0\u793A -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u56E0\u672A\u767B\u5165\u800C\u5C0E\u81F4\u672A\u80FD\u9818\u53D6\u7684\u734E\u52F5\uFF0C\u5C07\u4E0D\u4E88\u88DC\u767C\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

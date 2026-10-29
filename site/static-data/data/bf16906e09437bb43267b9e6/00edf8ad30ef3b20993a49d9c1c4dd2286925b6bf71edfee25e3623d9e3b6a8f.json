@@ -1,0 +1,118 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_skipchapter_1",
+    "name": "\u4E3B\u7DDA\u5148\u884C\u89E3\u9396\uFF1A\u6B66\u9675",
+    "description": "\u56DB\u865F\u8C37\u5730\u4E8B\u7562\uFF0C\u6B66\u9675\u537B\u6709\u98A8\u6CE2\uFF0C\u8076\u83F2\u65AF\u518D\u5EA6\u73FE\u8EAB\uFF0C\u610F\u6307\u751A\u5927\u88C2\u9699\u3002\u8ACB\u963B\u6B62\u5979\u5427\uFF0C\u7BA1\u7406\u54E1\u3002",
+    "sourceType": 44,
+    "sortOrder": 10081,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_skipchapter_1",
+    "tabImageId": "bg_activity_tab_skip_level",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/7/15 18:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_skip_chapter",
+        "name": "\u5148\u884C\u89E3\u9396\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#00e2ba"
+  },
+  "instructionId": "instru_activity_skipchapter_1",
+  "instructionTitle": "\u300C\u4E3B\u7DDA\u5148\u884C\u89E3\u9396\uFF1A\u6B66\u9675\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u4FEE\u7E55\u9032\u5C55\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u53EF\u5728\u6D3B\u52D5\u4ECB\u9762\u63D0\u524D\u89E3\u9396\u7B2C\u4E8C\u7AE0\u4E3B\u7DDA\u4EFB\u52D9\uFF0C\u4E26\u63A5\u53D6\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6I - \u521D\u63A2\u6B66\u9675\u3002\n\u00B7 \u63D0\u524D\u89E3\u9396\u7B2C\u4E8C\u7AE0\u4E3B\u7DDA\u4EFB\u52D9\u5F8C\uFF0C\u7BA1\u7406\u54E1\u53EF\u6B63\u5E38\u8DDF\u96A8\u4EFB\u52D9\u6307\u5F15\u524D\u5F80\u6B66\u9675\u5730\u5340\u3002\n\u00B7 \u4E0D\u540C\u7AE0\u7BC0\u7684\u4E3B\u7DDA\u4EFB\u52D9\u53EF\u4EE5\u4E26\u5B58\uFF0C\u63D0\u524D\u89E3\u9396\u5F8C\u7E8C\u7AE0\u7BC0\u7684\u4E3B\u7DDA\u4EFB\u52D9\u4E0D\u6703\u5F71\u97FF\u539F\u6709\u4E3B\u7DDA\u4EFB\u52D9\u7684\u9032\u5EA6\u3002\n\u00B7 \u63D0\u524D\u89E3\u9396\u5F8C\u7E8C\u7AE0\u7BC0\u7684\u4E3B\u7DDA\u4EFB\u52D9\u5F8C\uFF0C\u53EF\u80FD\u6703\u5F71\u97FF\u90E8\u5206\u7CFB\u7D71\u8207\u529F\u80FD\u7684\u89E3\u9396\u6642\u6A5F\u3002\n\u00B7 \u5728\u63D0\u524D\u9AD4\u9A57\u81F3\u5C0D\u61C9\u4E3B\u7DDA\u4EFB\u52D9\u7BC0\u9EDE\u6642\uFF0C\u6703\u958B\u653E\u4E00\u6279\u5148\u884C\u89E3\u9396\u8A2D\u5099\uFF0C\u4EE5\u652F\u63F4\u9AD4\u9A57\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u3002\n\u00B7 \u5F8C\u7E8C\u7AE0\u7BC0\u7684\u4E3B\u7DDA\u4EFB\u52D9\u53EF\u80FD\u5B58\u5728\u5C1A\u672A\u77AD\u89E3\u7684\u89D2\u8272\u8207\u4EBA\u7269\u95DC\u4FC2\uFF0C\u5B8C\u6574\u9AD4\u9A57\u7B2C\u4E00\u7AE0\u4E3B\u7DDA\u4EFB\u52D9\u53EF\u7372\u5F97\u6700\u4F73\u5287\u60C5\u9AD4\u9A57\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_skipchapter_1_unlock_condtion_1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u4FEE\u7E55\u9032\u5C55",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_skip_chapter_1",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_originium_recharge",
+          "name": "\u884D\u8CEA\u6E90\u77F3",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_charpotentialup_chr_9000_endmin",
+          "name": "\u7BA1\u7406\u54E1\u7684\u4FE1\u7269",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_adventureexp",
+          "name": "\u884C\u52D5\u8CC7\u6B77",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_formula_convert_20",
+          "name": "\u8F49\u5316\u6280\u8853\u518A\u03B1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_formula_skipchapter_building",
+          "name": "\u8A2D\u5099\u89E3\u9396\u6191\u8B49",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

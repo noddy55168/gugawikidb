@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:tools_proc_activity_xiranite_enr_hulu_1",
+    "name": "\u606F\u58E4\u7389\u846B\u8606",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_hulu.png?v=490dad0bda292eebf4efc87cfc7e381d14f6f3bcfb6b62b4370d1f87b38a0938",
+    "sortOrder": 13,
+    "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_enr_hulu_1",
+    "outputSummary": "\u606F\u58E4\u7389\u846B\u8606 \u00D7 1",
+    "deviceNames": [
+      "\u5C01\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u606F\u58E4\u7389\u846B\u8606\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_fbottle_xiranenr_grass_2",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+      "link": "/items/item_fbottle_xiranenr_grass_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_activity_xiranite_enr_tool",
+      "name": "\u5BE6\u9A57\u7389\u9285\u767C\u6563\u5668",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_tool.png?v=70d2750dba0e8c52806566008aa00d6012b738c63551eb713eaf0193d747b3a0",
+      "link": "/items/item_activity_xiranite_enr_tool"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_enr_hulu",
+      "name": "\u606F\u58E4\u7389\u846B\u8606",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_hulu.png?v=490dad0bda292eebf4efc87cfc7e381d14f6f3bcfb6b62b4370d1f87b38a0938",
+      "link": "/items/item_activity_xiranite_enr_hulu"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_tools_asm_mc_1",
+      "name": "\u5C01\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:seedcollector_plant_bbflower_1",
+    "name": "\u916E\u5316\u6A39\u7A2E",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+    "sortOrder": 4,
+    "path": "/industry/recipes/machine%3Aseedcollector_plant_bbflower_1",
+    "outputSummary": "\u916E\u5316\u6A39\u7A2E \u00D7 2",
+    "deviceNames": [
+      "\u63A1\u7A2E\u6A5F"
+    ]
+  },
+  "description": "\u916E\u5316\u6A39\u7A2E\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_bbflower_1",
+      "name": "\u916E\u5316\u704C\u6728",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+      "link": "/items/item_plant_bbflower_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_bbflower_seed_1",
+      "name": "\u916E\u5316\u6A39\u7A2E",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+      "link": "/items/item_plant_bbflower_seed_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_seedcol_1",
+      "name": "\u63A1\u7A2E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+      "sortOrder": 6,
+      "path": "/industry/devices/wiki_item_port_seedcol_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

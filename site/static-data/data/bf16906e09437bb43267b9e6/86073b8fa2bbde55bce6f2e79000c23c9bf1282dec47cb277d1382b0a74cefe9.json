@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_laser_1",
+    "name": "\u5C04\u7DDA\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_laser_1.png?v=5aad4285a65c785a955c2afa6485d727712aa2e122e62830a003a3509499ad27",
+    "sortOrder": 33,
+    "path": "/industry/recipes/hub%3Abattle_laser_1",
+    "outputSummary": "\u5C04\u7DDA\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_enr_cmpt",
+      "name": "\u92FC\u88FD\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+      "link": "/items/item_iron_enr_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_laser_1",
+      "name": "\u5C04\u7DDA\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_laser_1.png?v=5aad4285a65c785a955c2afa6485d727712aa2e122e62830a003a3509499ad27",
+      "link": null
+    }
+  ],
+  "devices": []
+}

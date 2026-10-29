@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:tools_proc_activity_xiranite_copper_tool_1",
+    "name": "\u5BE6\u9A57\u9285\u9AA8\u9ABC",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_copper_xiranite_tool.png?v=8e1758948827e77bc87495b52c7b7e7e262ba9ccdeeb7d24e88415b807289ef5",
+    "sortOrder": 15,
+    "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_copper_tool_1",
+    "outputSummary": "\u5BE6\u9A57\u9285\u9AA8\u9ABC \u00D7 1",
+    "deviceNames": [
+      "\u5C01\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u5BE6\u9A57\u9285\u9AA8\u9ABC\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 4,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_copper_xiranite_tool",
+      "name": "\u5BE6\u9A57\u9285\u9AA8\u9ABC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_copper_xiranite_tool.png?v=8e1758948827e77bc87495b52c7b7e7e262ba9ccdeeb7d24e88415b807289ef5",
+      "link": "/items/item_activity_copper_xiranite_tool"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_tools_asm_mc_1",
+      "name": "\u5C01\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

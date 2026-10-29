@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:seedcollector_plant_canolaflower_1",
+    "name": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_corp_canolaflower_seed_1.png?v=b59ba38ed9a139ee23759e1f1ad833fa11681efd9580a1942de8633e3c257b85",
+    "sortOrder": 19,
+    "path": "/industry/recipes/machine%3Aseedcollector_plant_canolaflower_1",
+    "outputSummary": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50 \u00D7 2",
+    "deviceNames": [
+      "\u63A1\u7A2E\u6A5F"
+    ]
+  },
+  "description": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_canolaflower_1",
+      "name": "\u7C7D\u6CB9\u82B1",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_canolaflower_1.png?v=886faa402ae5b39249ab21670475884ac8741f96f49614eee7db9d9f6d4fbed2",
+      "link": "/items/item_corp_canolaflower_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_canolaflower_seed_1",
+      "name": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_corp_canolaflower_seed_1.png?v=b59ba38ed9a139ee23759e1f1ad833fa11681efd9580a1942de8633e3c257b85",
+      "link": "/items/item_corp_canolaflower_seed_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_seedcol_1",
+      "name": "\u63A1\u7A2E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+      "sortOrder": 6,
+      "path": "/industry/devices/wiki_item_port_seedcol_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

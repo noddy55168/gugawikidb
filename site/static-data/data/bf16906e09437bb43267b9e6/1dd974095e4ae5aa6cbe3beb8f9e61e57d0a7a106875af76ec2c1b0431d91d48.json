@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_gas_storager_1",
+    "name": "\u5132\u6C23\u7F50",
+    "kind": "building",
+    "category": "\u5009\u5132\u5B58\u53D6",
+    "iconPath": "/media/wiki/industry/item_port_gas_storager_1.png?v=4c9ce9ab744bc8fc5287c9e745bd5f748d3565dca53ee0d9ca5b6a419c349fdf",
+    "sortOrder": 11,
+    "path": "/industry/devices/wiki_item_port_gas_storager_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5132\u6C23\u7F50\u53EF\u4EE5\u5132\u5B58\u55AE\u4E00\u985E\u578B\u7684\u6C23\u9AD4\u3002",
+  "sourceId": "gas_storager_1",
+  "needPower": false,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": []
+}

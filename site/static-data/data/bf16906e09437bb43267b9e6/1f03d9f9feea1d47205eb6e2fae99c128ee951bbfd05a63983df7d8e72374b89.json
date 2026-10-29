@@ -1,0 +1,77 @@
+{
+  "activity": {
+    "sourceActivityId": "web_activity_v1d6_ghost",
+    "name": "\u4E88\u773E\u9B42\u7684\u65B0\u5149\u5F71",
+    "description": "\u50B3\u7D71\u5728\u6211\u5011\u7684\u56DE\u61B6\u4E2D\u8E8D\u52D5\u3002\u53C8\u4E00\u6B21\u7684\u5B89\u9B42\u7BC0\uFF0C\u4E88\u773E\u9B42\uFF0C\u4E88\u6211\u5011\u7684\u65B0\u5149\u5F71\u3002",
+    "sourceType": 1,
+    "sortOrder": 1004,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_ghost",
+    "tabImageId": "activity_tab_bg_ghost",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/31 12:00:00",
+        "closeTimeRaw": "2026/11/14 4:00:00",
+        "openUnixSeconds": 1793419200,
+        "closeUnixSeconds": 1794600000
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/31 12:00:00",
+        "closeTimeRaw": "2026/11/14 4:00:00",
+        "openUnixSeconds": 1793419200,
+        "closeUnixSeconds": 1794600000
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/10/31 12:00:00",
+        "closeTimeRaw": "2026/11/14 4:00:00",
+        "openUnixSeconds": 1793466000,
+        "closeUnixSeconds": 1794646800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_cleaning",
+        "name": "\u8DA3\u5473\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#0ee698"
+  },
+  "instructionId": "instru_webhalloween",
+  "instructionTitle": "\u300C\u4E88\u773E\u9B42\u7684\u65B0\u5149\u5F71\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u9032\u5165\u9801\u9762\uFF0C\u900F\u904E\u642D\u914D\u6F14\u54E1\u8207\u9053\u5177\u5B8C\u6210\u6545\u4E8B\u62CD\u651D\uFF0C\u89E3\u9396\u4E0D\u540C\u7D50\u5C40\uFF0C\u9818\u53D6\u8C50\u539A\u734E\u52F5\u3002\n\n- \u7279\u6B8A\u63D0\u793A -\n\u00B7 \u5B8C\u6210\u4EFB\u52D9\u4E26\u9818\u53D6\u734E\u52F5\u5F8C\uFF0C\u734E\u52F5\u5C07\u900F\u904E\u904A\u6232\u5167\u4FE1\u4EF6\u767C\u653E\u3002\u4FE1\u4EF6\u6709\u6548\u671F\u9650\u70BA30\u5929\uFF0C\u8ACB\u53CA\u6642\u9818\u53D6\u3002",
+  "conditions": [],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_web_activity_spring01",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

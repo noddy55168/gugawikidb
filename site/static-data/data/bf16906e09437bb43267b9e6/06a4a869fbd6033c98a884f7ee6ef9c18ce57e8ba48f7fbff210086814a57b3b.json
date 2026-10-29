@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_klcreatures_1_wgthorns_1_1",
+  "name": "\u84C4\u77F3\u79D8\u5291",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_klcreatures_1_wgthorns_1_1.png?v=c9cb72ec6a78a7ffb43a122ebf1d467528fd7495191476b69cd2378685ad32e0",
+  "summary": "\u81EA\u67D0\u7A2E\u53E4\u8001\u914D\u65B9\u6539\u826F\u800C\u4F86\u7684\u795E\u79D8\u85E5\u5291\uFF0C\u80FD\u589E\u5F37\u4EBA\u9AD4\u9AA8\u9ABC\u50B3\u5C0E\u80FD\u91CF\u7684\u6548\u7387\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7D42\u7D50\u6280\u84C4\u80FD\u6548\u7387\u589E\u52A049%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u5F71\u7378\u929C\u77F3\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_klcreatures_1_wgthorns_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_klcreatures_1",
+          "name": "\u5F71\u7378\u929C\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_klcreatures_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_klcreatures_1.png?v=7870b62fc9db941bb8efba9419ba8fd14cc3e099544042cc885a4b0461d2b832",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgthorns_1",
+          "name": "\u5929\u7136\u6C23\u6CE1\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgthorns_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgthorns_1.png?v=ae4b5da9c56c44e74971dd3ccdb8c801e4f854eefabfb6e0ed26e6a16230df85",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_klcreatures_1_wgthorns_1_1",
+          "name": "\u84C4\u77F3\u79D8\u5291",
+          "quantity": 1,
+          "path": "/items/item_klcreatures_1_wgthorns_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_klcreatures_1_wgthorns_1_1.png?v=c9cb72ec6a78a7ffb43a122ebf1d467528fd7495191476b69cd2378685ad32e0",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_klcreatures_1_wgthorns_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

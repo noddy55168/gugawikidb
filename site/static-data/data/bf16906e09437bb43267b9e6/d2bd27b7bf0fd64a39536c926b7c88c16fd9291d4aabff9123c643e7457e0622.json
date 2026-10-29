@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_pump_2",
+    "name": "\u8010\u9178\u6C34\u6CF5II",
+    "kind": "building",
+    "category": "\u8CC7\u6E90\u958B\u63A1",
+    "iconPath": "/media/wiki/industry/item_port_pump_2.png?v=504373375d2a1e90489903ad39774be2fec59b2e9e22aa908475cf06beaddc55",
+    "sortOrder": 6,
+    "path": "/industry/devices/wiki_item_port_pump_2",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5728\u901A\u96FB\u72C0\u614B\u4E0B\uFF0C\u7528\u65BC\u62BD\u53D6\u6DB2\u9AD4\u7684\u8A2D\u5099\uFF0C\u53EF\u4EE5\u7528\u4F86\u62BD\u53D6\u8150\u8755\u6027\u6DB2\u9AD4\u3002",
+  "sourceId": "pump_2",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 5,
+  "recipes": []
+}

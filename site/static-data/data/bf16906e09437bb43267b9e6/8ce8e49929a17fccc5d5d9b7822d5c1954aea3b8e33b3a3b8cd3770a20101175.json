@@ -1,0 +1,357 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_map02_guide_009",
+    "name": "\u96EA\u964D\u6DF1\u6797",
+    "description": "\u61C9\u9F8D\u95DC\u65C1\uFF0C\u8DEF\u5F91\u5EF6\u5411\u68EE\u51B7\u5E7D\u666F\u3002\u67AF\u679D\u4F4E\u8A9E\uFF0C\u6728\u77F3\u533F\u8E64\u2026\u2026\u96EA\u677E\u6797\u975C\u975C\u7B49\u5F85\u3002",
+    "sourceType": 13,
+    "sortOrder": 8006,
+    "detailCoverage": "guide",
+    "timeId": "time_activity_guide_cedarforest",
+    "tabImageId": "activity_tab_bg_cedarforest",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/2 7:00:00",
+        "closeTimeRaw": "2026/9/30 12:00:00",
+        "openUnixSeconds": 1788303600,
+        "closeUnixSeconds": 1790740800
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/2 7:00:00",
+        "closeTimeRaw": "2026/9/30 12:00:00",
+        "openUnixSeconds": 1788303600,
+        "closeUnixSeconds": 1790740800
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/9/1 18:00:00",
+        "closeTimeRaw": "2026/9/30 12:00:00",
+        "openUnixSeconds": 1788303600,
+        "closeUnixSeconds": 1790787600
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_guide",
+        "name": "\u5F15\u5165\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#3545bc"
+  },
+  "instructionId": "activity_guide_cedarforest",
+  "instructionTitle": "\u300C\u96EA\u964D\u6DF1\u6797\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5728\u4EFB\u52D9\u300C\u8FF7\u9727\u85CF\u8D77\u677E\u6797\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u524D\u5F80\u6797\u5730\u5165\u53E3\u300D\uFF08\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6VII - \u9918\u6689\u672A\u537B\u300D\u5F8C\u53EF\u958B\u555F\u5C0D\u61C9\u4EFB\u52D9\uFF09\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u8ACB\u7BA1\u7406\u54E1\u524D\u5F80\u6B66\u9675\u5730\u5340\u7684\u300C\u96EA\u677E\u6797\u300D\u5340\u57DF\uFF0C\u5B8C\u6210\u89E3\u9396\u5354\u8B70\u50B3\u9001\u9EDE\u3001\u958B\u555F\u5354\u8B70\u5132\u85CF\u7BB1\u7B49\u4EFB\u52D9\uFF0C\u5373\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_guide_cedarforest_unlockmain",
+      "sourceType": 18,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5728\u4EFB\u52D9\u300C\u8FF7\u9727\u85CF\u8D77\u677E\u6797\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u524D\u5F80\u6797\u5730\u5165\u53E3\u300D\uFF08\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6VII - \u9918\u6689\u672A\u537B\u300D\u5F8C\u53EF\u958B\u555F\u5C0D\u61C9\u4EFB\u52D9\uFF09",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_guide_cedarforest_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 7,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stageKey": "guide/activity_guide_cedarforest_stage_1",
+      "kind": "guide",
+      "sourceStageId": "activity_guide_cedarforest_stage_1",
+      "sortOrder": 1,
+      "name": "\u5728\u300C\u9727\u96B1\u51AC\u5922\u6DF1\u6797\u4E2D\u300D\uFF0C\u5B8C\u6210\u4EFB\u52D9\u300C\u8FF7\u9727\u85CF\u8D77\u677E\u6797\u300D",
+      "description": "\u5728\u300C\u9727\u96B1\u51AC\u5922\u6DF1\u6797\u4E2D\u300D\uFF0C\u5B8C\u6210\u4EFB\u52D9\u300C\u8FF7\u9727\u85CF\u8D77\u677E\u6797\u300D",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [
+        {
+          "sourceConditionId": "activity_guide_cedarforest_con_1",
+          "sourceType": 19,
+          "compareOperator": 3,
+          "target": 1,
+          "description": "",
+          "tips": ""
+        }
+      ],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_guide_cedarforest1",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 600,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_char_skill_crown",
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "sourceCount": 3,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "guide/activity_guide_cedarforest_stage_2",
+      "kind": "guide",
+      "sourceStageId": "activity_guide_cedarforest_stage_2",
+      "sortOrder": 2,
+      "name": "\u5728\u300C\u9727\u96B1\u51AC\u5922\u6DF1\u6797\u4E2D\u300D\uFF0C\u5B8C\u6210\u4EFB\u52D9\u300C\u9577\u7BAD\u5283\u7834\u5922\u5883\u300D",
+      "description": "\u5728\u300C\u9727\u96B1\u51AC\u5922\u6DF1\u6797\u4E2D\u300D\uFF0C\u5B8C\u6210\u4EFB\u52D9\u300C\u9577\u7BAD\u5283\u7834\u5922\u5883\u300D",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [
+        {
+          "sourceConditionId": "activity_guide_cedarforest_con_2",
+          "sourceType": 19,
+          "compareOperator": 3,
+          "target": 1,
+          "description": "",
+          "tips": ""
+        }
+      ],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_guide_cedarforest2",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 150,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_char_skill_crown",
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "guide/activity_guide_cedarforest_stage_3",
+      "kind": "guide",
+      "sourceStageId": "activity_guide_cedarforest_stage_3",
+      "sortOrder": 3,
+      "name": "\u65BC\u96EA\u677E\u6797\u5340\u57DF\u7D2F\u8A08\u56DE\u65362\u500B\u88DD\u5099\u6A21\u677F\u7BB1",
+      "description": "\u65BC\u96EA\u677E\u6797\u5340\u57DF\u7D2F\u8A08\u56DE\u65362\u500B\u88DD\u5099\u6A21\u677F\u7BB1",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [
+        {
+          "sourceConditionId": "activity_guide_cedarforest_con_3",
+          "sourceType": 6006,
+          "compareOperator": 3,
+          "target": 2,
+          "description": "",
+          "tips": ""
+        }
+      ],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_guide_cedarforest3",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 150,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_char_skill_crown",
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "guide/activity_guide_cedarforest_stage_4",
+      "kind": "guide",
+      "sourceStageId": "activity_guide_cedarforest_stage_4",
+      "sortOrder": 4,
+      "name": "\u65BC\u96EA\u677E\u6797\u5340\u57DF\u7D2F\u8A08\u89E3\u93964\u500B\u5354\u8B70\u50B3\u9001\u9EDE",
+      "description": "\u65BC\u96EA\u677E\u6797\u5340\u57DF\u7D2F\u8A08\u89E3\u93964\u500B\u5354\u8B70\u50B3\u9001\u9EDE",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [
+        {
+          "sourceConditionId": "activity_guide_cedarforest_con_4",
+          "sourceType": 6006,
+          "compareOperator": 3,
+          "target": 4,
+          "description": "",
+          "tips": ""
+        }
+      ],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_guide_cedarforest4",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 150,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_char_skill_crown",
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "guide/activity_guide_cedarforest_stage_5",
+      "kind": "guide",
+      "sourceStageId": "activity_guide_cedarforest_stage_5",
+      "sortOrder": 5,
+      "name": "\u65BC\u96EA\u677E\u6797\u5340\u57DF\u7D2F\u8A08\u958B\u555F\u4EFB\u610F3\u500B\u5354\u8B70\u5132\u85CF\u7BB1",
+      "description": "\u65BC\u96EA\u677E\u6797\u5340\u57DF\u7D2F\u8A08\u958B\u555F\u4EFB\u610F3\u500B\u5354\u8B70\u5132\u85CF\u7BB1",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [
+        {
+          "sourceConditionId": "activity_guide_cedarforest_con_5",
+          "sourceType": 6006,
+          "compareOperator": 3,
+          "target": 3,
+          "description": "",
+          "tips": ""
+        }
+      ],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_guide_cedarforest5",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 150,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_char_skill_crown",
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    }
+  ]
+}

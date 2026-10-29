@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_log_splitter",
+    "name": "\u5206\u6D41\u5668",
+    "kind": "logistic",
+    "category": "\u7269\u6D41\u8A2D\u5099",
+    "iconPath": "/media/wiki/industry/item_log_splitter.png?v=069c174bcff430f31035ac996c645f396dc372821f0e95ea063ca8f5ab1a17b2",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_log_splitter",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5206\u6D41\u5668\u53EF\u4EE5\u5C07\u4E00\u689D\u50B3\u9001\u5E36\u4E0A\u7684\u7269\u54C1\u5E73\u5747\u5206\u63C0\u5230\u591A\u689D\u50B3\u9001\u5E36\u4E0A\uFF0C\u6700\u591A\u652F\u63F4\u5206\u6D41\u6210\u4E09\u689D\u50B3\u9001\u5E36\u3002",
+  "sourceId": "log_splitter",
+  "needPower": null,
+  "width": null,
+  "depth": null,
+  "height": null,
+  "recipes": []
+}

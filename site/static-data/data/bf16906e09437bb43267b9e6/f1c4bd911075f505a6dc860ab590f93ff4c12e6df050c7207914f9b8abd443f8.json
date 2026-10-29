@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:winder_equip_script_2",
+    "name": "\u85CD\u9435\u88DD\u5099\u539F\u4EF6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_equip_script_2.png?v=b09c21c9a56caf489236f1b017a307e152c3de0b626ff55b20ebc8271063a2d1",
+    "sortOrder": 2,
+    "path": "/industry/recipes/machine%3Awinder_equip_script_2",
+    "outputSummary": "\u85CD\u9435\u88DD\u5099\u539F\u4EF6 \u00D7 1",
+    "deviceNames": [
+      "\u88DD\u5099\u539F\u4EF6\u6A5F"
+    ]
+  },
+  "description": "\u85CD\u9435\u88DD\u5099\u539F\u4EF6\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_iron_nugget",
+      "name": "\u85CD\u9435\u584A",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+      "link": "/items/item_iron_nugget"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_equip_script_2",
+      "name": "\u85CD\u9435\u88DD\u5099\u539F\u4EF6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_equip_script_2.png?v=b09c21c9a56caf489236f1b017a307e152c3de0b626ff55b20ebc8271063a2d1",
+      "link": "/items/item_equip_script_2"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_winder_1",
+      "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_winder_1.png?v=fce079f524b8ae7a26311ec9beb60bc365715a6ed9c15b14bebe24ef6a0632f3",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_winder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

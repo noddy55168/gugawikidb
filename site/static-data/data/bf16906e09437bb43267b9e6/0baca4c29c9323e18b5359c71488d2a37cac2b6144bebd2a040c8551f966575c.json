@@ -1,0 +1,293 @@
+{
+  "sourceItemId": "item_originium_ore",
+  "name": "\u6E90\u7926",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+  "summary": "\u5DE5\u696D\u751F\u7522\u6D3B\u52D5\u6240\u5FC5\u9700\u7684\u57FA\u790E\u578B\u7926\u7269\u3002",
+  "description": "\u4EE5\u6700\u7C97\u7CD9\u7684\u72C0\u614B\u88AB\u6316\u6398\u51FA\u4F86\u7684\u6E90\u77F3\uFF0C\u53EF\u5728\u5DE5\u696D\u7CFB\u7D71\u4E2D\u9032\u884C\u52A0\u5DE5\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_originium_ore",
+      "description": "\u6E90\u7926\u7926\u9EDE\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_common_ore",
+      "description": "\u53EF\u4F7F\u7528\u7926\u6A5F\u9032\u884C\u81EA\u52D5\u5316\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_gather_map01_lv001",
+      "description": "\u6A1E\u7D10\u5340\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_originium_powder",
+      "name": "\u6E90\u77F3\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_crystal_powder",
+      "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMinerTable/miner_1/\u63A1\u96C6\u4F86\u6E90/item_originium_ore",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_1",
+          "name": "\u4FBF\u651C\u5F0F\u6E90\u77F3\u7926\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMinerTable/miner_2/\u63A1\u96C6\u4F86\u6E90/item_originium_ore",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_2",
+          "name": "\u96FB\u9A45\u7926\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMinerTable/miner_3/\u63A1\u96C6\u4F86\u6E90/item_originium_ore",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_3",
+          "name": "\u96FB\u9A45\u7926\u6A5FII",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_3",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMinerTable/miner_4/\u63A1\u96C6\u4F86\u6E90/item_originium_ore",
+      "category": "\u63A1\u96C6\u4F86\u6E90",
+      "title": "\u63A1\u7926\u8A2D\u5099",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "miner_4",
+          "name": "\u6C34\u9A45\u7926\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_miner_4",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryHubCraftTable/furnance_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_ore",
+          "name": "\u6E90\u7926",
+          "quantity": 5,
+          "path": "/items/item_originium_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Afurnance_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/power_diffuser_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_ore",
+          "name": "\u6E90\u7926",
+          "quantity": 5,
+          "path": "/items/item_originium_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_power_diffuser_1",
+          "name": "\u4F9B\u96FB\u6A01",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Apower_diffuser_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_crystal_shell_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_ore",
+          "name": "\u6E90\u7926",
+          "quantity": 1,
+          "path": "/items/item_originium_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 1,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_crystal_shell_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_originium_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_ore",
+          "name": "\u6E90\u7926",
+          "quantity": 1,
+          "path": "/items/item_originium_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_originium_powder_1"
+    },
+    {
+      "key": "FactoryFuelItemTable/item_originium_ore/\u8A2D\u5099\u7528\u9014/",
+      "category": "\u8A2D\u5099\u7528\u9014",
+      "title": "\u767C\u96FB\u71C3\u6599",
+      "description": "",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

@@ -1,0 +1,32 @@
+{
+  "sourceItemId": "item_muck_inn_1",
+  "name": "\u589E\u901F\u81A8\u5730\u556A",
+  "rarity": 4,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_muck_inn_1.png?v=8e94f2ae241ffa4ba9b28035fb3e7cb576528f3021ca9e7277fd066e2f682e41",
+  "summary": "\u65B0\u6B3E\u81A8\u5730\u556A\uFF0C\u8ABF\u6574\u4E86\u7CDE\u542B\u91CF\uFF0C\u80FD\u6709\u6548\u7E2E\u77ED\u4F5C\u7269\u57F9\u80B2\u6642\u9593\u3002",
+  "description": "\u53EF\u4EE5\u5728\u751F\u9577\u671F\u7684\u7530\u584A\u65BD\u80A5\u6642\u4F5C\u70BA\u80A5\u6599\uFF0C\u6709\u7E2E\u77ED\u7530\u584A\u751F\u9577\u671F\u6642\u9593\u7684\u6548\u679C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

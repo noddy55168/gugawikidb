@@ -1,0 +1,63 @@
+{
+  "sourceItemId": "item_gift_jinlong_6",
+  "name": "\u70B8\u9C57\u85AF\u689D",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_jinlong_6.png?v=8e76eb950779ba0f8590abe1af7b79f71106a8a1fda7b317608a03b3caf8b8eb",
+  "summary": "\u300C\u6709\u6A5F\u99AC\u9234\u85AF\uFF0C\u65B0\u9BAE\u597D\u9C57\uFF0C\u79D8\u65B9\u9183\u88FD\uFF0C\u73FE\u70B8\u73FE\u8CE3\u2014\u2014\u7DAD\u591A\u5229\u4E9E\u50B3\u7D71\u7F8E\u98DF\u6B66\u9675\u9996\u5E97\uFF0C\u9707\u64BC\u767B\u9678\u65B9\u8208\u8862\uFF01\u300D",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u751F\u6D3B]  [\u6587\u5316] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_2",
+      "description": "\u6B66\u9675-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_jinlong_6/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0031_mifu",
+          "name": "\u5F2D\u5F17",
+          "quantity": null,
+          "path": "/operators/31",
+          "iconPath": "/media/wiki/operators/chr_0031_mifu/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0033_camille",
+          "name": "\u5361\u7E46",
+          "quantity": null,
+          "path": "/operators/33",
+          "iconPath": "/media/wiki/operators/chr_0033_camille/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

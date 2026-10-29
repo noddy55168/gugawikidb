@@ -1,0 +1,76 @@
+{
+  "sourceItemId": "item_erhound_1_agmelee_1_moss_1_1",
+  "name": "\u9727\u706B\u4E4B\u82B1",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_erhound_1_agmelee_1_moss_1_1.png?v=8174e73c1a79708f50368738197292713932a51a41c618995877a2df538c2348",
+  "summary": "\u5F77\u5F7F\u662F\u98DF\u7269\u7684\u7269\u54C1\uFF0C\u5F37\u70C8\u4E0D\u5EFA\u8B70\u98DF\u7528\u3002\u4EE5\u53D7\u9727\u706B\u5F71\u97FF\u7684\u8089\u4E7E\u4EE3\u66FF\u6728\u5C51\uFF0C\u4EE5\u7279\u6B8A\u7570\u9999\u77F3\u4EE3\u66FF\u7802\u7CD6\uFF0C\u5982\u6B64\u71FB\u88FD\u51FA\u4F86\u7684\u852C\u83DC\u53EA\u6709\u771F\u6B63\u7684\u300C\u5F37\u8005\u300D\u624D\u6562\u5617\u8A66\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u53D7\u5230\u6240\u6709\u985E\u578B\u7684\u50B7\u5BB3\u964D\u4F4E17%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u523A\u9F3B\u4E7E\u8089\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_erhound_1_agmelee_1_moss_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_erhound_1",
+          "name": "\u523A\u9F3B\u4E7E\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_erhound_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_erhound_1.png?v=f7f3f87308639a2aa672cc41b14d055577d327325839ff5c6ca484dcde721470",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agmelee_1",
+          "name": "\u5805\u786C\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agmelee_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agmelee_1.png?v=119554b900689bcbfa17bf9dc28585c71c770ea392e3fdfbb5bb23362b49193d",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_1",
+          "name": "\u854E\u82B1\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_erhound_1_agmelee_1_moss_1_1",
+          "name": "\u9727\u706B\u4E4B\u82B1",
+          "quantity": 1,
+          "path": "/items/item_erhound_1_agmelee_1_moss_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_erhound_1_agmelee_1_moss_1_1.png?v=8174e73c1a79708f50368738197292713932a51a41c618995877a2df538c2348",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_erhound_1_agmelee_1_moss_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

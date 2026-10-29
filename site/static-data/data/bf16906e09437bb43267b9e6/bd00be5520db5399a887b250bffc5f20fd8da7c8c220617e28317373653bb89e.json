@@ -1,0 +1,268 @@
+{
+  "entry": {
+    "key": "wiki_item_port_seedcol_1",
+    "name": "\u63A1\u7A2E\u6A5F",
+    "kind": "building",
+    "category": "\u57FA\u790E\u751F\u7522",
+    "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+    "sortOrder": 6,
+    "path": "/industry/devices/wiki_item_port_seedcol_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u80FD\u5920\u63A1\u96C6\u666E\u901A\u690D\u7269\u7A2E\u5B50\u7684\u8A2D\u5099\u3002",
+  "sourceId": "seedcollector_1",
+  "needPower": true,
+  "width": 5,
+  "depth": 5,
+  "height": 4,
+  "recipes": [
+    {
+      "key": "machine:seedcollector_plant_bbflower_1",
+      "name": "\u916E\u5316\u6A39\u7A2E",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_bbflower_seed_1.png?v=a2fcd5b19819a963ae3f8d5b57d619b54c0fd85e38856d583a910bc5c5124ab6",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_bbflower_1",
+      "outputSummary": "\u916E\u5316\u6A39\u7A2E \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_bean_1",
+      "name": "\u7403\u8C46\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_bean_seed_1.png?v=0012c567b590ef3c78a433a32920706df37c3c29306b856fe49d45bcf73db570",
+      "sortOrder": 15,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_bean_1",
+      "outputSummary": "\u7403\u8C46\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_cabbage_1",
+      "name": "\u9752\u83DC\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_cabbage_seed_1.png?v=3b1af018be18b4f05945e77237a1b0868b76c50e500d9a7ed5a9397ef7ce3cd3",
+      "sortOrder": 13,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_cabbage_1",
+      "outputSummary": "\u9752\u83DC\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_canolaflower_1",
+      "name": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_canolaflower_seed_1.png?v=b59ba38ed9a139ee23759e1f1ad833fa11681efd9580a1942de8633e3c257b85",
+      "sortOrder": 19,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_canolaflower_1",
+      "outputSummary": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_grass_1_1",
+      "name": "\u9326\u8349\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_grass_seed_1.png?v=642f75383c59ea3e12c5efa0401b70b9a3ea0b7b6f06017e96e5beb4047b24ba",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_grass_1_1",
+      "outputSummary": "\u9326\u8349\u7A2E\u5B50 \u00D7 1",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_grass_2_1",
+      "name": "\u82BD\u91DD\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_grass_seed_2.png?v=cafa84b5ebf9cfadaad808b0766bd8432f426e562d5784177febb04b4646e67d",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_grass_2_1",
+      "outputSummary": "\u82BD\u91DD\u7A2E\u5B50 \u00D7 1",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_moss_1_1",
+      "name": "\u854E\u82B1\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_moss_seed_1.png?v=852ea48f76b08c09c70665ce6d214d0b60a257d7046ead96086f300d9a038bc1",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_moss_1_1",
+      "outputSummary": "\u854E\u82B1\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_moss_2_1",
+      "name": "\u67D1\u5BE6\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_moss_seed_2.png?v=0d55ced80e470ec140c83866c944cdef61717761d214d8b225c2421098759447",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_moss_2_1",
+      "outputSummary": "\u67D1\u5BE6\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_moss_3_1",
+      "name": "\u7802\u8449\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_moss_seed_3.png?v=b2bf285218614b70863d7aa8abbc9d5b0199fbe83efe794a28394c309b364b11",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_moss_3_1",
+      "outputSummary": "\u7802\u8449\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_mushroom_1",
+      "name": "\u591A\u5473\u83C7\u5B62\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_mushroom_seed_1.png?v=fc6f146a00052287b04744b94f8630c755f5b4aec82c94d1c303506653d0cbcd",
+      "sortOrder": 16,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_mushroom_1",
+      "outputSummary": "\u591A\u5473\u83C7\u5B62\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_potato_1",
+      "name": "\u5E73\u85AF\u584A\u8396",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_potato_seed_1.png?v=05697f1539cfe0d6f37852e315c53f1bf05becfef662bddcd338edef5fa87a86",
+      "sortOrder": 11,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_potato_1",
+      "outputSummary": "\u5E73\u85AF\u584A\u8396 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_sp_1",
+      "name": "\u7070\u8606\u9EA5\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_sp_seed_1.png?v=14302a618b2b1cf7b31bcf869c2ae4db6ed84c1c6ac3ad5a988f1ff2288eaee0",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_sp_1",
+      "outputSummary": "\u7070\u8606\u9EA5\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_sp_2",
+      "name": "\u82E6\u8449\u6912\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_sp_seed_2.png?v=66d23a4f265b4e36cc914c6b20c49b51efe5cb810bf8735256c17b630875f6fb",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_sp_2",
+      "outputSummary": "\u82E6\u8449\u6912\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_sp_3",
+      "name": "\u74CA\u8449\u8518\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_sp_seed_3.png?v=9c2fae1dc4d4b0afcdde958858da0fabcf30fd5404fd4d90ab3833d08827c08c",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_sp_3",
+      "outputSummary": "\u74CA\u8449\u8518\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_sp_4",
+      "name": "\u91D1\u77F3\u7A3B\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_plant_sp_seed_4.png?v=77b24f6dfeb2aa816b9b4d68566e1d0deb873320726ed2b8657b55650f86a428",
+      "sortOrder": 10,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_sp_4",
+      "outputSummary": "\u91D1\u77F3\u7A3B\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_strawberry_1",
+      "name": "\u9752\u8449\u8393\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_strawberry_seed_1.png?v=89b8e8f3870503fecb13e636b3783405c9e6d9c14de3165f77b818941e255f83",
+      "sortOrder": 17,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_strawberry_1",
+      "outputSummary": "\u9752\u8449\u8393\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_sugarcane_1",
+      "name": "\u8106\u8517\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_sugarcane_seed_1.png?v=41cbadb61a123fb404d28884c64aa39465a8ace7dd1238671df0554fd2fda8b2",
+      "sortOrder": 14,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_sugarcane_1",
+      "outputSummary": "\u8106\u8517\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_tomato_1",
+      "name": "\u8304\u679C\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_tomato_seed_1.png?v=617cb8fca8c9d74a42bb06169ef2681d8e46bddad405516f44998a6d310be179",
+      "sortOrder": 12,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_tomato_1",
+      "outputSummary": "\u8304\u679C\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:seedcollector_plant_whitegourd_1",
+      "name": "\u767D\u74DC\u7A2E\u5B50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_corp_whitegourd_seed_1.png?v=68b5db89a0172cae24a2b048fbf36d4ae61d705ce4b3d3225d2b4cfc90b4e270",
+      "sortOrder": 18,
+      "path": "/industry/recipes/machine%3Aseedcollector_plant_whitegourd_1",
+      "outputSummary": "\u767D\u74DC\u7A2E\u5B50 \u00D7 2",
+      "deviceNames": [
+        "\u63A1\u7A2E\u6A5F"
+      ]
+    }
+  ]
+}

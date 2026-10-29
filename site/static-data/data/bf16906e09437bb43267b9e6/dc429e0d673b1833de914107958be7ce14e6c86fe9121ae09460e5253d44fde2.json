@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:pump_2",
+    "name": "\u8010\u9178\u6C34\u6CF5II",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_pump_2.png?v=504373375d2a1e90489903ad39774be2fec59b2e9e22aa908475cf06beaddc55",
+    "sortOrder": 103,
+    "path": "/industry/recipes/hub%3Apump_2",
+    "outputSummary": "\u8010\u9178\u6C34\u6CF5II \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_pump_2",
+      "name": "\u8010\u9178\u6C34\u6CF5II",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_pump_2.png?v=504373375d2a1e90489903ad39774be2fec59b2e9e22aa908475cf06beaddc55",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_byproduct_bean_moss_1",
+    "name": "\u7403\u8C46\u6BBC\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_byproduct_bean_moss_1.png?v=792ce64f1ab3c36560827e89c2ff9f93d5b5c94e5d07766b9b9fc7eca710451f",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Agrinder_byproduct_bean_moss_1",
+    "outputSummary": "\u7403\u8C46\u6BBC\u7C89\u672B \u00D7 3",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u7403\u8C46\u6BBC\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_byproduct_bean_1",
+      "name": "\u7403\u8C46\u6BBC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_byproduct_bean_1.png?v=1e2bb4f33920993d0af3553b466eb6dfa6adcd6c8a216e9b3f0ae4733d1c5840",
+      "link": "/items/item_byproduct_bean_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_byproduct_bean_moss_1",
+      "name": "\u7403\u8C46\u6BBC\u7C89\u672B",
+      "quantity": 3,
+      "iconPath": "/media/wiki/industry/item_byproduct_bean_moss_1.png?v=792ce64f1ab3c36560827e89c2ff9f93d5b5c94e5d07766b9b9fc7eca710451f",
+      "link": "/items/item_byproduct_bean_moss_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

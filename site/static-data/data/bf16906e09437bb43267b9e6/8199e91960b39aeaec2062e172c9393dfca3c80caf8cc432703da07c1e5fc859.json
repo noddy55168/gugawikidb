@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:gas_reactor_1",
+    "name": "\u6C23\u9AD4\u53CD\u61C9\u7210",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_gas_reactor_1.png?v=d20f36b8ffb7800e0da0c80270afaf7a06e15f1fa05a1f256def0f339d5372e9",
+    "sortOrder": 120,
+    "path": "/industry/recipes/hub%3Agas_reactor_1",
+    "outputSummary": "\u6C23\u9AD4\u53CD\u61C9\u7210 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 40,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_gas_reactor_1",
+      "name": "\u6C23\u9AD4\u53CD\u61C9\u7210",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_gas_reactor_1.png?v=d20f36b8ffb7800e0da0c80270afaf7a06e15f1fa05a1f256def0f339d5372e9",
+      "link": null
+    }
+  ],
+  "devices": []
+}

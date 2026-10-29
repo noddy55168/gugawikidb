@@ -1,0 +1,259 @@
+{
+  "sourceItemId": "item_plant_tundra_wood",
+  "name": "\u539F\u6728",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+  "summary": "\u7E3D\u4E4B\uFF0C\u5148\u780D\u6A39\u5427\u3002",
+  "description": "\u5728\u91CE\u5916\u53EF\u63A1\u96C6\u7684\u666E\u901A\u6728\u6750\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather",
+      "description": "\u4E16\u754C\u4E2D\u63A1\u96C6",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_unit_t05_hand_01_parts_spe",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_unit_t05_body_01_parts_spe",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_body_01/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_body_01",
+          "name": "\u7C21\u6613\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_body_01.png?v=404bd6189fd35b71dc6e4f28a4b4e1bbfe183231b8af61d94f06925b4fb1dec9",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_body_02/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_body_02",
+          "name": "\u7C21\u6613\u8B77\u670D",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_body_02.png?v=098b14e1c5ba993415cd2aad10bacdc654709df87a9eee30c38d4e2d9763916c",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_hand_01/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_hand_01",
+          "name": "\u7C21\u6613\u624B\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_hand_01.png?v=e922c52e0e1af7ba7d760461a63772646889af17d24f55de8212fd26830e29ce",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_hand_02/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_hand_02",
+          "name": "\u7C21\u6613\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_hand_02.png?v=b5643cd02f667b68ecdc593d14df2c0548a7ca0607ce889a1bc6a85f96a2e870",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_carbon_material_4/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 1,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_carbon_material_4"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

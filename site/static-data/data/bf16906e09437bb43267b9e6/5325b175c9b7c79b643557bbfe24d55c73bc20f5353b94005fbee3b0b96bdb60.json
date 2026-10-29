@@ -1,0 +1,99 @@
+{
+  "sourceItemId": "item_equip_t4_parts_wuling02_edc_02",
+  "name": "\u6D89\u6DF5\u767D\u5203",
+  "rarity": 5,
+  "category": "\u914D\u4EF6",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_parts_wuling02_edc_02.png?v=59b8d6f98da053555e1065913d63950868d09e1bd686a025787a8c05649d4d5a",
+  "description": "\u9078\u528D\u5C40\u70BA\u983B\u7E41\u5F80\u8FD4\u5371\u96AA\u5340\u57DF\u7684\u4F5C\u6230\u4EBA\u54E1\u6240\u8A2D\u8A08\u7684\u7279\u6B8A\u88DD\u5099\u7D44\u3002\u300C\u543E\u9444\u767D\u5203\uFF0C\u4EE5\u9A45\u60E1\u5F71\u3002\u300D",
+  "lore": "\u672C\u88DD\u5099\u7531\u5B8F\u5C71\u9078\u528D\u5C40\u8A2D\u8A08\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 70,
+  "suitId": "",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 21,
+          "displayValue": "21"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u654F\u6377",
+      "values": [
+        {
+          "stage": 0,
+          "value": 43,
+          "displayValue": "43"
+        },
+        {
+          "stage": 1,
+          "value": 47,
+          "displayValue": "47"
+        },
+        {
+          "stage": 2,
+          "value": 51,
+          "displayValue": "51"
+        },
+        {
+          "stage": 3,
+          "value": 55,
+          "displayValue": "55"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u7D42\u7D50\u6280\u84C4\u80FD\u6548\u7387",
+      "values": [
+        {
+          "stage": 0,
+          "value": 0.257143,
+          "displayValue": "25.7%"
+        },
+        {
+          "stage": 1,
+          "value": 0.282857,
+          "displayValue": "28.3%"
+        },
+        {
+          "stage": 2,
+          "value": 0.308571,
+          "displayValue": "30.9%"
+        },
+        {
+          "stage": 3,
+          "value": 0.334286,
+          "displayValue": "33.4%"
+        }
+      ]
+    }
+  ],
+  "effects": [],
+  "suitEquipment": [],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t4_parts_wuling02_edc_02",
+      "chainId": 4003,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 360,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    }
+  ]
+}

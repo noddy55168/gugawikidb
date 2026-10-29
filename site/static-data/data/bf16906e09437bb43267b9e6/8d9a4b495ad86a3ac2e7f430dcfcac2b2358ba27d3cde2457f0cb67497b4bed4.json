@@ -1,0 +1,92 @@
+{
+  "sourceItemId": "item_bottled_food_4",
+  "name": "\u9326\u8349\u98F2\u6599",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_bottled_food_4.png?v=e2608727bec0feb7061d9828b65131e47d62f032e0ea2ff51838cb923ed31d87",
+  "summary": "\u50C5\u542B\u5C11\u91CF\u9326\u8349\u63D0\u53D6\u7269\u7684\u78B3\u9178\u98F2\u6599\uFF0C\u56E0\u5176\u6E05\u9999\u7684\u6C23\u5473\u800C\u5099\u53D7\u6B61\u8FCE\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7ACB\u523B\u56DE\u5FA91278\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_grass_1",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u9326\u8349\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_filling_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u9AD4\u704C\u88DD\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u7372\u5F97\u9326\u8349\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u9AD4\u704C\u88DD\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_food_4_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_cmpt",
+          "name": "\u9435\u88FD\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_iron_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_iron_grass_1",
+          "name": "\u85CD\u9435\u74F6\uFF08\u9326\u8349\u6EB6\u6DB2\uFF09",
+          "quantity": 5,
+          "path": "/items/item_fbottle_iron_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_food_4",
+          "name": "\u9326\u8349\u98F2\u6599",
+          "quantity": 1,
+          "path": "/items/item_bottled_food_4",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_food_4.png?v=e2608727bec0feb7061d9828b65131e47d62f032e0ea2ff51838cb923ed31d87",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_food_4_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

@@ -1,0 +1,167 @@
+{
+  "sourceItemId": "item_fbottle_iron_water",
+  "name": "\u85CD\u9435\u74F6\uFF08\u6E05\u6C34\uFF09",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+  "summary": "\u5E02\u9762\u4E0A\u8F03\u70BA\u5C11\u898B\u7684\u9435\u74F6\uFF0C\u5373\u4FBF\u8207\u7570\u9435\u6975\u5EA6\u8FD1\u4F3C\u7684\u85CD\u9435\u5177\u5099\u8F03\u5F37\u7684\u6297\u6C27\u5316\u6027\uFF0C\u4F46\u4EBA\u5011\u4F9D\u820A\u559C\u611B\u4F7F\u7528\u92FC\u88FD\u5BB9\u5668\u3002",
+  "description": "\u7531\u85CD\u9435\u584A\u52A0\u5DE5\u5F8C\u5F97\u4F86\u7684\u91D1\u5C6C\u74F6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "\u76DB\u88DD\u6709\u6E05\u6C34",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_shaper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7269\u54C1\u5851\u5F62\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u7269\u54C1\u5851\u5F62\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_bottled_rec_hp_2",
+      "name": "\u512A\u8CEA\u854E\u7652\u81A0\u56CA",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_2.png?v=d87c4976cf8e18a014843f70d861e6c8674196040f5a7e642a71d65e28f9eaa8",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_food_2",
+      "name": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_food_2.png?v=9e480c6fb10d648e22abd403a4ed1ed84693b32311454db3e0d74c4904b070fe",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_flower1spc_2",
+      "name": "\u5927\u74F6\u854E\u5FA9\u9320\u5291",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_2.png?v=7b34b060243c10abe60bf371a8f483152da31eff20a93ffc37841849801f2955",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/dismantler_iron_water_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_iron_water",
+          "name": "\u85CD\u9435\u74F6\uFF08\u6E05\u6C34\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_iron_water",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "dismantler_1",
+          "name": "\u62C6\u89E3\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_dismantler_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Adismantler_iron_water_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_iron_water/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_iron_water",
+          "name": "\u85CD\u9435\u74F6\uFF08\u6E05\u6C34\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_iron_water",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf"
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_iron_water"
+    }
+  ],
+  "contentIconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+  "bindingStatus": "unbound"
+}

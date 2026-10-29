@@ -1,0 +1,183 @@
+{
+  "sourceItemId": "item_fbottle_ironenr_copper",
+  "name": "\u92FC\u8CEA\u74F6\uFF08\u8D64\u9285\u6EB6\u6DB2\uFF09",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+  "summary": "\u5E02\u9762\u4E0A\u6700\u70BA\u5E38\u898B\u7684\u92FC\u74F6\u3002",
+  "description": "\u7531\u92FC\u584A\u52A0\u5DE5\u5F8C\u5F97\u4F86\u7684\u91D1\u5C6C\u74F6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "\u76DB\u88DD\u6709\u8D64\u9285\u6EB6\u6DB2",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_shaper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7269\u54C1\u5851\u5F62\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_thickener",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7814\u78E8\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u7269\u54C1\u5851\u5F62\u5DE5\u696D\u6280\u8853",
+    "\u89E3\u9396\u7814\u78E8\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_bottled_rec_hp_3",
+      "name": "\u7CBE\u9078\u854E\u7652\u81A0\u56CA",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_3.png?v=7dcabf9439a318eeefed3268b7e528050fc7579368342f5764e2e693e1fad888",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_food_3",
+      "name": "\u7CBE\u9078\u67D1\u5BE6\u7F50\u982D",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_food_3.png?v=d2bbc463c52ce1e89c167f733b232b3d8a650fceff224c1684fa32795dc12ecf",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_flower1spc_3",
+      "name": "\u7CBE\u9078\u854E\u5FA9\u9320\u5291",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_flower1spc_3.png?v=7d7008133a503454beff42cfd3f54e80a9a009aa6125bfcdaa7976d9a3a4728b",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/dismantler_ironenr_copper_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_ironenr_copper",
+          "name": "\u92FC\u8CEA\u74F6\uFF08\u8D64\u9285\u6EB6\u6DB2\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_ironenr_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_bottle",
+          "name": "\u92FC\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper",
+          "name": "\u8D64\u9285\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "dismantler_1",
+          "name": "\u62C6\u89E3\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_dismantler_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Adismantler_ironenr_copper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_ironenr_copper/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_bottle",
+          "name": "\u92FC\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper",
+          "name": "\u8D64\u9285\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_ironenr_copper",
+          "name": "\u92FC\u8CEA\u74F6\uFF08\u8D64\u9285\u6EB6\u6DB2\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_ironenr_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e"
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_ironenr_copper"
+    }
+  ],
+  "contentIconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+  "bindingStatus": "unbound"
+}

@@ -1,0 +1,370 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_checkin_typhoea",
+    "name": "\u93C3\u792A\u62EC\u7FBD\u7C3D\u5230",
+    "description": "\u53C3\u8207\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u93C3\u792A\u62EC\u7FBD\u5C0B\u8A2A\u6191\u8B49\u00D75\u7B49\u8C50\u5BCC\u734E\u52F5\u3002",
+    "sourceType": 2,
+    "sortOrder": 8316,
+    "detailCoverage": "check-in",
+    "timeId": "time_special_1_5_1",
+    "tabImageId": "bg_activity_tab_char_sign_typhoea",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/2 7:00:00",
+        "closeTimeRaw": "2026/9/30 12:00:00",
+        "openUnixSeconds": 1788303600,
+        "closeUnixSeconds": 1790740800
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/2 7:00:00",
+        "closeTimeRaw": "2026/9/30 12:00:00",
+        "openUnixSeconds": 1788303600,
+        "closeUnixSeconds": 1790740800
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/9/1 18:00:00",
+        "closeTimeRaw": "2026/9/30 12:00:00",
+        "openUnixSeconds": 1788303600,
+        "closeUnixSeconds": 1790787600
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_checkin_time",
+        "name": "\u9650\u6642\u7C3D\u5230"
+      }
+    ],
+    "themeColor": "#8053ff"
+  },
+  "instructionId": "instru_checkin_typhoea",
+  "instructionTitle": "\u300C\u93C3\u792A\u62EC\u7FBD\u7C3D\u5230\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6BCF\u65E5\u767B\u5165\u904A\u6232\u5373\u53EF\u9818\u53D6\u7C3D\u5230\u734E\u52F5\u3002\n\u00B7 \u5B8C\u62107\u65E5\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u3010\u93C3\u792A\u62EC\u7FBD\u5C0B\u8A2A\u6191\u8B49\u3011\u00D75\u7B49\u8C50\u5BCC\u734E\u52F5\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": [
+    {
+      "stageKey": "check-in/1",
+      "kind": "check-in",
+      "sourceStageId": "1",
+      "sortOrder": 1,
+      "name": "\u7B2C 1 \u5929",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 1,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": true,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_checkin_typhoea_1",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "ticketgacha_special_single_lt_1_5_1",
+              "name": "\u93C3\u792A\u62EC\u7FBD\u5C0B\u8A2A\u6191\u8B49",
+              "sourceCount": 2,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_expcard_stage1_high",
+              "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+              "sourceCount": 5,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "check-in/2",
+      "kind": "check-in",
+      "sourceStageId": "2",
+      "sortOrder": 2,
+      "name": "\u7B2C 2 \u5929",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 2,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": true,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_checkin_typhoea_2",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "ticketgacha_special_single_lt_1_5_1",
+              "name": "\u93C3\u792A\u62EC\u7FBD\u5C0B\u8A2A\u6191\u8B49",
+              "sourceCount": 2,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_weapon_expcard_high",
+              "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+              "sourceCount": 5,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "check-in/3",
+      "kind": "check-in",
+      "sourceStageId": "3",
+      "sortOrder": 3,
+      "name": "\u7B2C 3 \u5929",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 3,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": true,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_checkin_typhoea_3",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "ticketgacha_special_single_lt_1_5_1",
+              "name": "\u93C3\u792A\u62EC\u7FBD\u5C0B\u8A2A\u6191\u8B49",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_char_skill_level_1_6",
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "sourceCount": 30,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "check-in/4",
+      "kind": "check-in",
+      "sourceStageId": "4",
+      "sortOrder": 4,
+      "name": "\u7B2C 4 \u5929",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 4,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_checkin_typhoea_4",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_expcard_stage2_low",
+              "name": "\u521D\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+              "sourceCount": 20,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_expcard_stage1_high",
+              "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+              "sourceCount": 10,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "check-in/5",
+      "kind": "check-in",
+      "sourceStageId": "5",
+      "sortOrder": 5,
+      "name": "\u7B2C 5 \u5929",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 5,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_checkin_typhoea_5",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_weapon_expcard_high",
+              "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+              "sourceCount": 10,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_gold",
+              "name": "\u6298\u91D1\u7968",
+              "sourceCount": 10000,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "check-in/6",
+      "kind": "check-in",
+      "sourceStageId": "6",
+      "sortOrder": 6,
+      "name": "\u7B2C 6 \u5929",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 6,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_checkin_typhoea_6",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_char_skill_level_7_12",
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "sourceCount": 10,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_char_skill_level_1_6",
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "sourceCount": 30,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "check-in/7",
+      "kind": "check-in",
+      "sourceStageId": "7",
+      "sortOrder": 7,
+      "name": "\u7B2C 7 \u5929",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 7,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": true,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_activity_checkin_typhoea_7",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_case_bp_selfselect_skillsp_1",
+              "name": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1I",
+              "sourceCount": 5,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_expcard_stage2_high",
+              "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+              "sourceCount": 5,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    }
+  ]
+}

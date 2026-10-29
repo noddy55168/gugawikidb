@@ -1,0 +1,62 @@
+{
+  "sourceItemId": "item_weapon_expcard_low",
+  "name": "\u6B66\u5668\u6AA2\u67E5\u55AE\u5143",
+  "rarity": 2,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_weapon_expcard_low.png?v=a74a40249f10d876717fc382e00e383f6911097d0bcb94160a7797cbd5c37707",
+  "summary": "\u4F7F\u7528\u4E86\u96C6\u6210\u5316\u5DE5\u696D\u6280\u8853\u7684\u62CB\u68C4\u5F0F\u5FAE\u578B\u55AE\u5143\uFF0C\u53EF\u4EE5\u81EA\u52D5\u5316\u6AA2\u67E5\u6B66\u5668\u5C40\u90E8\u4F4D\u7F6E\uFF0C\u4FEE\u88DC\u6697\u50B7\uFF0C\u8F15\u5FAE\u63D0\u9AD8\u6B66\u5668\u6027\u80FD\u3002",
+  "description": "\u7528\u65BC\u63D0\u5347\u6B66\u5668\u7B49\u7D1A\u7684\u6750\u6599\uFF0C\u63D0\u4F9B\u4E86\u5C11\u91CF\u6B66\u5668\u5347\u7D1A\u7D93\u9A57\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6B66\u5668\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_dungeon_0002_untouched",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_wpexp01_untouched",
+        "kind": "leaf",
+        "text": "\u5C1A\u672A\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_0002",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_wpexp01_touched",
+        "kind": "leaf",
+        "text": "\u5DF2\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_spaceship_manu",
+      "description": "\u5E1D\u6C5F\u865F-\u88FD\u9020\u8259\u751F\u7522",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_explore",
+      "description": "\u5192\u96AA\u63A2\u7D22\u7372\u5F97",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipManufactureFormulaTable/mfg_weapon_exp_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5E1D\u6C5F\u865F\u88FD\u9020\u8259",
+      "description": "\u914D\u65B9\u7B49\u7D1A 1",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

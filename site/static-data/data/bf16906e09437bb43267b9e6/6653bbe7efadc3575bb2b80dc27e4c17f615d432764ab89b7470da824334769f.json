@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_photo_frame_1",
+    "name": "\u7329\u7D05\u8A18\u61B6",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_photo_frame_1.png?v=4c2d0972a599dd171712153180845dce0dc80f5ff0dc57c6045f5a9861b27ed3",
+    "sortOrder": 6,
+    "path": "/industry/devices/wiki_item_port_photo_frame_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "photo_frame_1",
+  "needPower": false,
+  "width": 2,
+  "depth": 1,
+  "height": 3,
+  "recipes": []
+}

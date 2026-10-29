@@ -1,0 +1,214 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_contingency_contract_0",
+    "name": "\u5371\u6A5F\u5408\u7D04 \u91CD\u71C3\u6E2C\u8A66\u4F5C\u6230",
+    "description": "\u53E4\u8001\u7684\u5408\u7D04\u7406\u61C9\u5EF6\u7E8C\uFF0C\u904E\u53BB\u7684\u5408\u4F5C\u5C1A\u9700\u6062\u5FA9\u3002\u7BA1\u7406\u54E1\uFF0C\u4E00\u4EFD\u79AE\u7269\u5DF2\u7D93\u9001\u9054\u3002",
+    "sourceType": 30,
+    "sortOrder": 6101,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_contingency_contract_0",
+    "tabImageId": "activity_tab_bg_contingency",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/19 12:00:00",
+        "closeTimeRaw": "2026/7/23 4:00:00",
+        "openUnixSeconds": 1781841600,
+        "closeUnixSeconds": 1784750400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/19 12:00:00",
+        "closeTimeRaw": "2026/7/23 4:00:00",
+        "openUnixSeconds": 1781841600,
+        "closeUnixSeconds": 1784750400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/6/19 12:00:00",
+        "closeTimeRaw": "2026/7/23 4:00:00",
+        "openUnixSeconds": 1781888400,
+        "closeUnixSeconds": 1784797200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_high_difficulty",
+        "name": "\u6311\u6230\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#ee0023"
+  },
+  "instructionId": "activity_contingency_contract_0",
+  "instructionTitle": "\u300C\u5371\u6A5F\u5408\u7D04 \u91CD\u71C3\u6E2C\u8A66\u4F5C\u6230\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u226530\u7D1A\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u4EE5\u81EA\u7531\u9078\u64C7\u6307\u6A19\u7D44\u5408\uFF0C\u5B8C\u6210\u6230\u9B25\u6311\u6230\u3002\n\u00B7 \u6230\u9B25\u6311\u6230\u4E00\u5171\u5305\u542B4\u500B\u6CE2\u6B21\uFF0C\u64CA\u6557\u6240\u6709\u6575\u4EBA\u5373\u70BA\u6311\u6230\u6210\u529F\uFF1B\u82E5\u6311\u6230\u5931\u6557\uFF0C\u5247\u9700\u91CD\u65B0\u958B\u59CB\uFF0C\u7121\u6CD5\u5F9E\u4E2D\u9014\u7E7C\u7E8C\u3002\n\u00B7 \u300C\u6307\u6A19\u300D\u662F\u4E00\u7CFB\u5217\u6703\u63D0\u5347\u6311\u6230\u96E3\u5EA6\u7684\u6548\u679C\uFF0C\u6839\u64DA\u96E3\u5EA6\u7B49\u7D1A\uFF0C\u6307\u6A19\u88AB\u5206\u70BA1/2/3\u3002\u300C\u6307\u6A19\u7E3D\u8A08\u300D\u662F\u6240\u6709\u5DF2\u9078\u64C7\u6307\u6A19\u7684\u96E3\u5EA6\u7B49\u7D1A\u4E4B\u548C\u3002\n\u00B7 \u6307\u6A19\u6703\u88AB\u5283\u5206\u70BA\u4E0D\u540C\u5340\u57DF\u7684\u300C\u6307\u6A19\u96C6\u300D\u3002\u4F9D\u64DA\u7BA1\u7406\u54E1\u6240\u9054\u6210\u7684\u300C\u6307\u6A19\u7E3D\u8A08\u300D\u6700\u9AD8\u7D00\u9304\uFF0C\u300C\u6307\u6A19\u96C6\u300D\u5C07\u6703\u9010\u6B65\u958B\u653E\u3002\n\u00B7 \u90E8\u5206\u6307\u6A19\u662F\u7279\u6B8A\u7684\u300C\u9396\u9589\u6307\u6A19\u300D\uFF0C\u521D\u59CB\u60C5\u6CC1\u7121\u6CD5\u9078\u64C7\u8A72\u985E\u578B\u6307\u6A19\uFF0C\u5FC5\u9808\u5148\u9078\u64C7\u5C0D\u61C9\u7684\u300C\u5BC6\u9470\u6307\u6A19\u300D\u624D\u80FD\u89E3\u9396\u3002\n\n- \u6D3B\u52D5\u734E\u52F5 -\n\u00B7 \u9054\u6210\u6D3B\u52D5\u4EFB\u52D9\u76EE\u6A19\uFF0C\u53EF\u7372\u5F97\u6676\u5316\u786C\u5E63\u7B49\u734E\u52F5\u3002\u6210\u529F\u5B8C\u6210\u6BCF\u9805\u6307\u6A19\u7684\u9996\u6B21\u6311\u6230\uFF0C\u4E5F\u53EF\u7372\u5F97\u5C0D\u61C9\u7684\u6676\u5316\u786C\u5E63\u734E\u52F5\u3002\n\u00B7 \u5728\u300C\u6A5F\u5BC6\u8056\u6240\u300D\u4E2D\uFF0C\u53EF\u6D88\u8017\u6676\u5316\u786C\u5E63\u514C\u63DB\u734E\u52F5\u3002\n\n- \u8056\u6240\u8A55\u55BB -\n\u00B7 \u300C\u8056\u6240\u8A55\u55BB\u300D\u4EE3\u8868\u7BA1\u7406\u54E1\u7576\u4E0B\u300C\u6307\u6A19\u7E3D\u8A08\u300D\u6700\u9AD8\u7684\u6311\u6230\u7D00\u9304\uFF0C\u5C07\u6703\u5728\u597D\u53CB\u76F8\u95DC\u4ECB\u9762\u5C55\u793A\u3002\n\u00B7 \u7576\u7BA1\u7406\u54E1\u6210\u529F\u5B8C\u6210\u6307\u6A19\u7E3D\u8A081\u53CA\u4EE5\u4E0A\u7684\u6311\u6230\u5F8C\uFF0C\u53EF\u5728\u6D3B\u52D5\u671F\u9593\u555F\u7528\u300C\u8056\u6240\u8A55\u55BB\u300D\u3002\n\u00B7 \u672C\u6B21\u5371\u6A5F\u5408\u7D04\u6D3B\u52D5\u7684\u300C\u8056\u6240\u8A55\u55BB\u300D\u50C5\u5728\u6D3B\u52D5\u671F\u9593\u751F\u6548\u3002\n\n- \u6D3B\u52D5\u66F4\u65B0 -\n\u00B7 \u6D3B\u52D5\u958B\u653E\u5F8C\u7B2C8\u5929\uFF08\u4F3A\u670D\u5668\u6642\u959312:00\u66F4\u65B0\uFF09\uFF0C\u5C07\u6703\u8FFD\u52A0\u958B\u653E\u4E00\u6279\u65B0\u7684\u6307\u6A19\uFF08\u82E5\u6240\u5C6C\u6307\u6A19\u96C6\u672A\u958B\u653E\uFF0C\u5247\u4ECD\u7121\u6CD5\u9078\u64C7\u8A72\u6307\u6A19\uFF09\u3002\n\u00B7 \u6D3B\u52D5\u958B\u653E\u5F8C\u6BCF3\u5929\uFF08\u4F3A\u670D\u5668\u6642\u959304:00\u66F4\u65B0\uFF09\uFF0C\u5C07\u6703\u5206\u5225\u8FFD\u52A0\u66F4\u65B01\u9805\u65B0\u7684\u9031\u671F\u4EFB\u52D9\u3002\n\u00B7 \u6240\u6709\u5408\u7D04\u4EFB\u52D9\u7684\u6709\u6548\u671F\u9650\u90FD\u5C07\u6301\u7E8C\u5230\u6D3B\u52D5\u7D50\u675F\u3002\n\n- \u6D3B\u52D5\u7D50\u675F -\n\u00B7 \u672C\u6D3B\u52D5\u70BA\u9650\u6642\u6D3B\u52D5\uFF0C\u5C07\u65BC\u6307\u5B9A\u6642\u9593\u5230\u671F\u5F8C\u7D50\u675F\u3002\n\u00B7 \u6D3B\u52D5\u7D50\u675F\u5F8C\uFF0C\u6230\u9B25\u6311\u6230\u7121\u6CD5\u518D\u6B21\u958B\u555F\uFF0C\u4EFB\u52D9\u9032\u5EA6\u5C07\u4E0D\u518D\u66F4\u65B0\u3002\n\u00B7 \u6D3B\u52D5\u7D50\u675F\u5F8C\uFF0C\u300C\u6A5F\u5BC6\u8056\u6240\u300D\u5C07\u984D\u5916\u958B\u653E\u4E00\u6BB5\u6642\u9593\uFF0C\u4EE5\u4FBF\u7BA1\u7406\u54E1\u514C\u63DB\u5269\u9918\u734E\u52F5\u3002\u5728\u300C\u6A5F\u5BC6\u8056\u6240\u300D\u95DC\u9589\u5F8C\uFF0C\u672C\u6B21\u6D3B\u52D5\u6240\u7372\u5F97\u7684\u6676\u5316\u786C\u5E63\u5C07\u6703\u88AB\u6E05\u7A7A\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_cc_0_condition",
+      "sourceType": 5023,
+      "compareOperator": 3,
+      "target": 30,
+      "description": "\u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u9054\u523030\u7D1A",
+      "tips": "\u76EE\u524D\u6B0A\u9650\u7B49\u968E%d\u7D1A\uFF08\u53EF\u6839\u64DA\u884C\u52D5\u624B\u518A\u6307\u5F15\u5B8C\u6210\u5404\u9805\u4EFB\u52D9\uFF0C\u7372\u5F97\u884C\u52D5\u8CC7\u6B77\uFF0C\u63D0\u5347\u6B0A\u9650\u7B49\u968E\uFF09"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_contingency_contract_0_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_user_avatar_activity_7",
+          "name": "\u53E4\u8001\u5408\u7D04",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_user_avatar_frame_activity_5",
+          "name": "\u5371\u6A5F\u523B\u9304",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_shot_sticker_activity_3",
+          "name": "\u8CBC\u7D19\u00B7\u5371\u6A5F\u5408\u7D04",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 2000,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_case_bp_selfselect_skillsp_1",
+          "name": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1I",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 6,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 7,
+          "sourceItemId": "item_char_skill_specialize_5",
+          "name": "\u4E09\u76F8\u5948\u7C73\u7247",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 8,
+          "sourceItemId": "item_char_skill_specialize_4",
+          "name": "\u8C61\u9650\u64EC\u5408\u6DB2",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 9,
+          "sourceItemId": "item_char_skill_specialize_3",
+          "name": "\u8FC5\u5B50\u9074\u64BF\u6676\u683C",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 10,
+          "sourceItemId": "item_char_skill_specialize_2",
+          "name": "D96\u92FC\u6A23\u54C1\u56DB",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 11,
+          "sourceItemId": "item_char_skill_specialize_1",
+          "name": "\u8D85\u8DDD\u8F1D\u6620\u7BA1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 12,
+          "sourceItemId": "item_wpngem_enhance_dust",
+          "name": "\u51B7\u537B\u8102",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 13,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 14,
+          "sourceItemId": "item_char_break_stage_3_4",
+          "name": "\u5354\u8B70\u5713\u76E4\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 15,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 16,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 17,
+          "sourceItemId": "item_weapon_break_high",
+          "name": "\u91CD\u578B\u5F37\u56FA\u6A21\u5177",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

@@ -1,0 +1,875 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_timelimited_typhoea_archery",
+    "name": "\u633D\u5F13\u8A66\u7149",
+    "description": "\u8A72\u5E38\u99D0\u73A9\u6CD5\u5305\u542B\u9650\u6642\u8A66\u7149\u4EFB\u52D9\uFF0C\u4EFB\u52D9\u904E\u671F\u5F8C\u5C07\u7121\u6CD5\u53C3\u8207\uFF0C\u73A9\u6CD5\u4ECD\u53EF\u7E7C\u7E8C\u9AD4\u9A57\u3002\n\n\u7375\u4EBA\u96D6\u505C\u6B62\u72E9\u7375\uFF0C\u537B\u4E0D\u6703\u5FD8\u8A18\u7CBE\u9032\u7BAD\u8853\u3002",
+    "sourceType": 51,
+    "sortOrder": 6101,
+    "detailCoverage": "archery",
+    "timeId": "time_activity_timelimited_typhoea_archery",
+    "tabImageId": "activity_tab_bg_typhoeaarchery",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/9 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1788926400,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/9 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1788926400,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/9/9 12:00:00",
+        "closeTimeRaw": "2026/10/14 17:00:00",
+        "openUnixSeconds": 1788973200,
+        "closeUnixSeconds": 1792015200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_dungeon_fighting",
+        "name": "\u6311\u6230\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff600"
+  },
+  "instructionId": "instru_timelimited_typhoea_archery_1",
+  "instructionTitle": "\u300C\u633D\u5F13\u8A66\u7149\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u652F\u7DDA\u4EFB\u52D9\u300C\u9727\u96B1\u51AC\u5922\u6DF1\u6797\u4E2D\u300D\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u5B8C\u6210\u300C\u633D\u5F13\u8A66\u7149\u300D\u8A66\u7149\u4EFB\u52D9\uFF0C\u5373\u53EF\u7372\u5F97\u5C0D\u61C9\u734E\u52F5\u3002\n\u00B7 \u5B8C\u6210\u57FA\u790E\u6559\u5B78\u89E3\u9396\u591A\u7A2E\u7BAD\u77E2\u6676\u7247\uFF0C\u900F\u904E\u914D\u7F6E\u4E0D\u540C\u7684\u7BAD\u77E2\u6676\u7247\u5B8C\u6210\u9032\u968E\u8A13\u7DF4\u548C\u65E5\u5E38\u8A13\u7DF4\uFF0C\u7372\u5F97\u5C0D\u61C9\u734E\u52F5\u8207\u76EE\u6A19\u3002\n\u00B7 \u65E5\u5E38\u8A13\u7DF4\u76EE\u6A19\u72C0\u614B\u6BCF\u65E5\u66F4\u65B0\u3002\n\u00B7 \u300C\u633D\u5F13\u8A66\u7149\u300D\u5728\u6D3B\u52D5\u6642\u9593\u7D50\u675F\u5F8C\u5C07\u8B8A\u70BA\u5E38\u99D0\u6D3B\u52D5\uFF0C\u8B8A\u70BA\u5E38\u99D0\u6D3B\u52D5\u5F8C\u7BA1\u7406\u54E1\u5C07\u7121\u6CD5\u9818\u53D6\u9650\u6642\u8A66\u7149\u4EFB\u52D9\u734E\u52F5\uFF0C\u4F46\u4ECD\u53EF\u7E7C\u7E8C\u904A\u73A9\u7372\u5F97\u8A13\u7DF4\u9996\u901A\u734E\u52F5\u3002\u8ACB\u7BA1\u7406\u54E1\u6CE8\u610F\u6D3B\u52D5\u6642\u9593\uFF0C\u53CA\u6642\u9818\u53D6\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_typhoea_archery_unlock_condition_1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u652F\u7DDA\u4EFB\u52D9\u300C\u9727\u96B1\u51AC\u5922\u6DF1\u6797\u4E2D\u300D\uFF08\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6VII - \u9918\u6689\u672A\u537B\u300D\u5F8C\u53EF\u958B\u555F\u5C0D\u61C9\u4EFB\u52D9\uFF09",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_archery_overview_limited",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_expcard_stage1_high",
+          "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_case_bp_selfselect_skillsp_1",
+          "name": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1I",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 6,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 7,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 8,
+          "sourceItemId": "item_weapon_break_high",
+          "name": "\u91CD\u578B\u5F37\u56FA\u6A21\u5177",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "stageKey": "daily/dung02_daily_archery01",
+      "kind": "daily",
+      "sourceStageId": "dung02_daily_archery01",
+      "sortOrder": 1,
+      "name": "\u65E5\u5E38\u8A13\u7DF401",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "\u89E3\u9396\u65E5\u5E38\u8A13\u7DF401",
+      "unlockLevel": 1,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "daily/dung02_daily_archery02",
+      "kind": "daily",
+      "sourceStageId": "dung02_daily_archery02",
+      "sortOrder": 2,
+      "name": "\u65E5\u5E38\u8A13\u7DF402",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "\u89E3\u9396\u65E5\u5E38\u8A13\u7DF402",
+      "unlockLevel": 2,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "daily/dung02_daily_archery03",
+      "kind": "daily",
+      "sourceStageId": "dung02_daily_archery03",
+      "sortOrder": 3,
+      "name": "\u65E5\u5E38\u8A13\u7DF403",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "\u89E3\u9396\u65E5\u5E38\u8A13\u7DF403",
+      "unlockLevel": 3,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "daily/dung02_daily_archery04",
+      "kind": "daily",
+      "sourceStageId": "dung02_daily_archery04",
+      "sortOrder": 4,
+      "name": "\u65E5\u5E38\u8A13\u7DF404",
+      "description": "",
+      "targetDescription": "",
+      "unlockHint": "\u89E3\u9396\u65E5\u5E38\u8A13\u7DF404",
+      "unlockLevel": 4,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "level/1",
+      "kind": "level",
+      "sourceStageId": "1",
+      "sortOrder": 1,
+      "name": "\u64CD\u4F5C\u7B49\u7D1A1\u6548\u679C",
+      "description": "",
+      "targetDescription": "\u5B8C\u6210\u63D0\u5F17\u6D1B\u65AF\u89D2\u8272\u4EFB\u52D9\u300C\u9727\u96B1\u51AC\u5922\u6DF1\u6797\u4E2D\u300D\u4EE5\u89E3\u9396",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 1,
+      "costItemCount": 0,
+      "domainDevExp": 300,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "level-preview",
+          "sourceRewardId": "reward_archery_levelup_01",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_formula_arrow_chip_multiple",
+              "name": "\u904A\u8569\u4E4B\u8072\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_formula_arrow_chip_shield_breaker",
+              "name": "\u883B\u7378\u4E4B\u6012\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "level/2",
+      "kind": "level",
+      "sourceStageId": "2",
+      "sortOrder": 2,
+      "name": "\u64CD\u4F5C\u7B49\u7D1A2\u6548\u679C",
+      "description": "\u65E5\u5E38\u8A13\u7DF401\u901A\u95DC\u5F8C\u53EF\u5347\u7D1A",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 2,
+      "costItemCount": 50000,
+      "domainDevExp": 500,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "level-preview",
+          "sourceRewardId": "reward_archery_levelup_02",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_formula_arrow_chip_frozen",
+              "name": "\u5BD2\u51B0\u4E4B\u7C07\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_formula_arrow_chip_bomb",
+              "name": "\u71C3\u677E\u4E4B\u8102\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "level/3",
+      "kind": "level",
+      "sourceStageId": "3",
+      "sortOrder": 3,
+      "name": "\u64CD\u4F5C\u7B49\u7D1A3\u6548\u679C",
+      "description": "\u65E5\u5E38\u8A13\u7DF402\u901A\u95DC\u5F8C\u53EF\u5347\u7D1A",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 3,
+      "costItemCount": 120000,
+      "domainDevExp": 850,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "level-preview",
+          "sourceRewardId": "reward_archery_levelup_03",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_formula_arrow_chip_penetrate",
+              "name": "\u7834\u66D9\u4E4B\u5149\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "level/4",
+      "kind": "level",
+      "sourceStageId": "4",
+      "sortOrder": 4,
+      "name": "\u64CD\u4F5C\u7B49\u7D1A4\u6548\u679C",
+      "description": "\u65E5\u5E38\u8A13\u7DF403\u901A\u95DC\u5F8C\u53EF\u5347\u7D1A",
+      "targetDescription": "",
+      "unlockHint": "",
+      "unlockLevel": 0,
+      "previousStageId": "",
+      "groupId": "",
+      "groupName": "",
+      "day": 0,
+      "level": 4,
+      "costItemCount": 300000,
+      "domainDevExp": 1200,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "simulate/dung02_archery01",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery01",
+      "sortOrder": 1,
+      "name": "\u904A\u8569\u4E4B\u8072",
+      "description": "\u53EF\u540C\u6642\u9396\u5B9A7\u500B\u6A19\u9776\uFF0C\u5FEB\u901F\u64CA\u7834\u5927\u91CF\u4F4E\u8010\u4E45\u5EA6\u6A19\u9776",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "\u89E3\u9396\u6A21\u64EC\u8A13\u7DF4\uFF1A\u57FA\u790E\u6559\u5B78\u00B7\u904A\u8569\u4E4B\u8072",
+      "unlockLevel": 1,
+      "previousStageId": "",
+      "groupId": "sim_level_basic",
+      "groupName": "\u57FA\u790E\u6559\u5B78",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_basic_01",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 20,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_formula_arrow_chip_multiple",
+              "name": "\u904A\u8569\u4E4B\u8072\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 2,
+              "sourceItemId": "item_gold",
+              "name": "\u6298\u91D1\u7968",
+              "sourceCount": 5000,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": [
+        {
+          "sourceChipId": "arrow_chip_multiple",
+          "name": "\u904A\u8569\u4E4B\u8072",
+          "description": "\u53EF\u540C\u6642\u9396\u5B9A7\u500B\u6A19\u9776\uFF0C\u5C0D\u6A19\u9776\u9020\u62101\u9EDE\u50B7\u5BB3\u3002"
+        }
+      ]
+    },
+    {
+      "stageKey": "simulate/dung02_archery06",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery06",
+      "sortOrder": 1,
+      "name": "\u89D2\u7378\u7267\u7FA4",
+      "description": "\u6240\u6709\u6A19\u9776\u6301\u7E8C\u4FDD\u6301\u79FB\u52D5\uFF0C\u6A19\u9776\u8010\u4E45\u5EA6\u66F4\u9AD8\u3002\n\u8ACB\u9748\u6D3B\u914D\u7F6E\u6676\u7247\uFF0C\u5B8C\u6210\u6B64\u6B21\u8A13\u7DF4\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "\u89E3\u9396\u6A21\u64EC\u8A13\u7DF4\uFF1A\u9032\u968E\u8A13\u7DF4",
+      "unlockLevel": 4,
+      "previousStageId": "",
+      "groupId": "sim_level_challenge",
+      "groupName": "\u9032\u968E\u8A13\u7DF4",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_challenge_01",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 50,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_expcard_stage2_high",
+              "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+              "sourceCount": 3,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "simulate/dung02_archery03",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery03",
+      "sortOrder": 2,
+      "name": "\u883B\u7378\u4E4B\u6012",
+      "description": "\u6BCF\u6B21\u53EA\u80FD\u9396\u5B9A1\u500B\u6A19\u9776\uFF0C\u4F46\u5177\u6709\u66F4\u5FEB\u7684\u9396\u5B9A\u901F\u5EA6\uFF0C\u7BAD\u77E2\u53EF\u9020\u62102\u9EDE\u50B7\u5BB3\uFF0C\u6301\u7E8C\u547D\u4E2D\u540C\u500B\u6A19\u9776\u6642\u50B7\u5BB3\u6703\u5927\u5E45\u63D0\u9AD8\uFF0C\u4E26\u4E14\u53EF\u5FEB\u901F\u64CA\u7834\u80FD\u91CF\u8B77\u76FE\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "\u89E3\u9396\u6A21\u64EC\u8A13\u7DF4\uFF1A\u57FA\u790E\u6559\u5B78\u00B7\u883B\u7378\u4E4B\u6012",
+      "unlockLevel": 1,
+      "previousStageId": "dung02_archery01",
+      "groupId": "sim_level_basic",
+      "groupName": "\u57FA\u790E\u6559\u5B78",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_basic_02",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 20,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_formula_arrow_chip_shield_breaker",
+              "name": "\u883B\u7378\u4E4B\u6012\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 2,
+              "sourceItemId": "item_expcard_stage1_high",
+              "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+              "sourceCount": 3,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": [
+        {
+          "sourceChipId": "arrow_chip_multiple",
+          "name": "\u904A\u8569\u4E4B\u8072",
+          "description": "\u53EF\u540C\u6642\u9396\u5B9A7\u500B\u6A19\u9776\uFF0C\u5C0D\u6A19\u9776\u9020\u62101\u9EDE\u50B7\u5BB3\u3002"
+        },
+        {
+          "sourceChipId": "arrow_chip_shield_breaker",
+          "name": "\u883B\u7378\u4E4B\u6012",
+          "description": "\u66F4\u5FEB\u7684\u9396\u5B9A\u901F\u5EA6\uFF0C\u5C0D\u6A19\u9776\u53EF\u9020\u62102\u9EDE\u50B7\u5BB3\uFF0C\u9023\u7E8C\u547D\u4E2D\u540C\u4E00\u500B\u6A19\u9776\u6642\u50B7\u5BB3\u5927\u5E45\u5EA6\u63D0\u9AD8\u3002"
+        }
+      ]
+    },
+    {
+      "stageKey": "simulate/dung02_archery07",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery07",
+      "sortOrder": 2,
+      "name": "\u98DB\u7FBD\u96C6\u7FA4",
+      "description": "\u6240\u6709\u6A19\u9776\u6301\u7E8C\u4FDD\u6301\u79FB\u52D5\uFF0C\u6A19\u9776\u6578\u91CF\u66F4\u591A\uFF0C\u4F46\u8010\u4E45\u5EA6\u66F4\u4F4E\u3002\n\u8ACB\u9748\u6D3B\u914D\u7F6E\u6676\u7247\uFF0C\u5B8C\u6210\u6B64\u6B21\u8A13\u7DF4\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "",
+      "unlockLevel": 4,
+      "previousStageId": "",
+      "groupId": "sim_level_challenge",
+      "groupName": "\u9032\u968E\u8A13\u7DF4",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_challenge_02",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 50,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_gold",
+              "name": "\u6298\u91D1\u7968",
+              "sourceCount": 15000,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "simulate/dung02_archery02",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery02",
+      "sortOrder": 3,
+      "name": "\u5BD2\u51B0\u4E4B\u7C07",
+      "description": "\u53EF\u540C\u6642\u51CD\u7D50\u591A\u500B\u6A19\u9776\uFF0C\u5177\u6709\u66F4\u5FEB\u7684\u9396\u5B9A\u901F\u5EA6\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "\u89E3\u9396\u6A21\u64EC\u8A13\u7DF4\uFF1A\u57FA\u790E\u6559\u5B78\u00B7\u5BD2\u51B0\u4E4B\u7C07",
+      "unlockLevel": 2,
+      "previousStageId": "dung02_archery03",
+      "groupId": "sim_level_basic",
+      "groupName": "\u57FA\u790E\u6559\u5B78",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_basic_03",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 20,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_formula_arrow_chip_frozen",
+              "name": "\u5BD2\u51B0\u4E4B\u7C07\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 2,
+              "sourceItemId": "item_gold",
+              "name": "\u6298\u91D1\u7968",
+              "sourceCount": 5000,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": [
+        {
+          "sourceChipId": "arrow_chip_multiple",
+          "name": "\u904A\u8569\u4E4B\u8072",
+          "description": "\u53EF\u540C\u6642\u9396\u5B9A7\u500B\u6A19\u9776\uFF0C\u5C0D\u6A19\u9776\u9020\u62101\u9EDE\u50B7\u5BB3\u3002"
+        },
+        {
+          "sourceChipId": "arrow_chip_frozen",
+          "name": "\u5BD2\u51B0\u4E4B\u7C07",
+          "description": "\u66F4\u5FEB\u7684\u9396\u5B9A\u901F\u5EA6\uFF0C\u53EF\u51CD\u7D50\u6A19\u97765\u79D2\uFF0C\u4F46\u7121\u6CD5\u5C0D\u6A19\u9776\u9020\u6210\u50B7\u5BB3\u3002"
+        }
+      ]
+    },
+    {
+      "stageKey": "simulate/dung02_archery08",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery08",
+      "sortOrder": 3,
+      "name": "\u6D04\u9C57\u968A\u5217",
+      "description": "\u9AD8\u8010\u4E45\u5EA6\u548C\u4F4E\u8010\u4E45\u5EA6\u7684\u6A19\u9776\u6DF7\u5408\u51FA\u73FE\uFF0C\u6A19\u9776\u6709\u6642\u6703\u805A\u96C6\u5230\u4E00\u8D77\u3002\n\u8ACB\u9748\u6D3B\u914D\u7F6E\u6676\u7247\uFF0C\u5B8C\u6210\u6B64\u6B21\u8A13\u7DF4\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "",
+      "unlockLevel": 4,
+      "previousStageId": "",
+      "groupId": "sim_level_challenge",
+      "groupName": "\u9032\u968E\u8A13\u7DF4",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_challenge_03",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 50,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_expcard_stage2_high",
+              "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+              "sourceCount": 3,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "simulate/dung02_archery04",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery04",
+      "sortOrder": 4,
+      "name": "\u71C3\u677E\u4E4B\u8102",
+      "description": "\u53EF\u5C0D\u55AE\u500B\u6A19\u9776\u9644\u8457\u71C3\u677E\u6548\u679C\uFF0C\u7576\u9644\u8457\u71C3\u677E\u6548\u679C\u7684\u6A19\u9776\u53D7\u5230\u50B7\u5BB3\u6642\u6703\u7522\u751F\u7206\u70B8\u3002\u6BCF\u5C64\u71C3\u677E\u6703\u9020\u62101\u9EDE\u7206\u70B8\u50B7\u5BB3\uFF0C\u6BCF\u500B\u6A19\u9776\u4E0A\u6700\u591A\u53EF\u9644\u84573\u5C64\u71C3\u677E\u6548\u679C\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "\u89E3\u9396\u6A21\u64EC\u8A13\u7DF4\uFF1A\u57FA\u790E\u6559\u5B78\u00B7\u71C3\u677E\u4E4B\u8102",
+      "unlockLevel": 2,
+      "previousStageId": "dung02_archery02",
+      "groupId": "sim_level_basic",
+      "groupName": "\u57FA\u790E\u6559\u5B78",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_basic_04",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 20,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_formula_arrow_chip_bomb",
+              "name": "\u71C3\u677E\u4E4B\u8102\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 2,
+              "sourceItemId": "item_expcard_stage1_high",
+              "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+              "sourceCount": 3,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": [
+        {
+          "sourceChipId": "arrow_chip_shield_breaker",
+          "name": "\u883B\u7378\u4E4B\u6012",
+          "description": "\u66F4\u5FEB\u7684\u9396\u5B9A\u901F\u5EA6\uFF0C\u5C0D\u6A19\u9776\u53EF\u9020\u62102\u9EDE\u50B7\u5BB3\uFF0C\u9023\u7E8C\u547D\u4E2D\u540C\u4E00\u500B\u6A19\u9776\u6642\u50B7\u5BB3\u5927\u5E45\u5EA6\u63D0\u9AD8\u3002"
+        },
+        {
+          "sourceChipId": "arrow_chip_bomb",
+          "name": "\u71C3\u677E\u4E4B\u8102",
+          "description": "\u4E0D\u6703\u76F4\u63A5\u9020\u6210\u50B7\u5BB3\uFF0C\u53EF\u5728\u6A19\u9776\u4E0A\u6700\u591A\u758A\u52A03\u5C64\u71C3\u677E\uFF0C\u71C3\u677E\u53D7\u5230\u50B7\u5BB3\u6703\u7522\u751F\u7206\u70B8\uFF0C\u6BCF\u5C64\u71C3\u677E\u7206\u70B8\u9020\u62101\u9EDE\u50B7\u5BB3\u3002"
+        }
+      ]
+    },
+    {
+      "stageKey": "simulate/dung02_archery09",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery09",
+      "sortOrder": 4,
+      "name": "\u5DE2\u8702\u9663\u5217",
+      "description": "\u9AD8\u8010\u4E45\u5EA6\u548C\u4F4E\u8010\u4E45\u5EA6\u7684\u6A19\u9776\u6DF7\u5408\u51FA\u73FE\uFF0C\u6A19\u9776\u6703\u6392\u6210\u968A\u5217\uFF0C\u91CD\u758A\u51FA\u73FE\u3002\n\u8ACB\u9748\u6D3B\u914D\u7F6E\u6676\u7247\uFF0C\u5B8C\u6210\u6B64\u6B21\u8A13\u7DF4\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "",
+      "unlockLevel": 4,
+      "previousStageId": "",
+      "groupId": "sim_level_challenge",
+      "groupName": "\u9032\u968E\u8A13\u7DF4",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_challenge_04",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 50,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_gold",
+              "name": "\u6298\u91D1\u7968",
+              "sourceCount": 15000,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": []
+    },
+    {
+      "stageKey": "simulate/dung02_archery05",
+      "kind": "simulate",
+      "sourceStageId": "dung02_archery05",
+      "sortOrder": 5,
+      "name": "\u7834\u66D9\u4E4B\u5149",
+      "description": "\u6BCF\u6B21\u53EA\u80FD\u9396\u5B9A1\u500B\u6A19\u9776\uFF0C\u4F46\u53EF\u4EE5\u7A7F\u900F\u6A19\u9776\uFF0C\u5C0D\u6392\u5E03\u5728\u540C\u4E00\u76F4\u7DDA\u4E0A\u7684\u6240\u6709\u6A19\u9776\u9020\u62101\u9EDE\u50B7\u5BB3\u3002",
+      "targetDescription": "\u9650\u5B9A\u6642\u9593\u5167\u64CA\u7834\u6240\u6709\u6A19\u9776",
+      "unlockHint": "\u89E3\u9396\u6A21\u64EC\u8A13\u7DF4\uFF1A\u57FA\u790E\u6559\u5B78\u00B7\u7834\u66D9\u4E4B\u5149",
+      "unlockLevel": 3,
+      "previousStageId": "dung02_archery04",
+      "groupId": "sim_level_basic",
+      "groupName": "\u57FA\u790E\u6559\u5B78",
+      "day": 0,
+      "level": 0,
+      "costItemCount": 0,
+      "domainDevExp": 0,
+      "isKeyReward": false,
+      "conditions": [],
+      "rewards": [
+        {
+          "purpose": "stage",
+          "sourceRewardId": "reward_archery_level_basic_05",
+          "items": [
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 0,
+              "sourceItemId": "item_diamond",
+              "name": "\u5D4C\u6676\u7389",
+              "sourceCount": 20,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 1,
+              "sourceItemId": "item_formula_arrow_chip_penetrate",
+              "name": "\u7834\u66D9\u4E4B\u5149\u914D\u65B9",
+              "sourceCount": 1,
+              "visibilityCode": 0
+            },
+            {
+              "bundleKind": "itemBundles",
+              "sortOrder": 2,
+              "sourceItemId": "item_gold",
+              "name": "\u6298\u91D1\u7968",
+              "sourceCount": 5000,
+              "visibilityCode": 0
+            }
+          ]
+        }
+      ],
+      "lockedChips": [
+        {
+          "sourceChipId": "arrow_chip_multiple",
+          "name": "\u904A\u8569\u4E4B\u8072",
+          "description": "\u53EF\u540C\u6642\u9396\u5B9A7\u500B\u6A19\u9776\uFF0C\u5C0D\u6A19\u9776\u9020\u62101\u9EDE\u50B7\u5BB3\u3002"
+        },
+        {
+          "sourceChipId": "arrow_chip_penetrate",
+          "name": "\u7834\u66D9\u4E4B\u5149",
+          "description": "\u53EF\u7A7F\u900F\u6A19\u9776\u4E26\u9020\u62101\u9EDE\u50B7\u5BB3\u3002"
+        }
+      ]
+    }
+  ]
+}

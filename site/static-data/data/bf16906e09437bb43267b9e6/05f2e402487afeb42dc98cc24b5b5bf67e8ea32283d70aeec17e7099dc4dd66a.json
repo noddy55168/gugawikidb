@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:hdwk_inkbiter_1_wgshoal_1_1",
+    "name": "\u8349\u672C\u6E05\u6DBC\u98F2",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_inkbiter_1_wgshoal_1_1.png?v=2b17ef3615bb05dee509d2d48b560cf89ea9494d7057f2866988b89d568426be",
+    "sortOrder": 38,
+    "path": "/industry/recipes/manual%3Ahdwk_inkbiter_1_wgshoal_1_1",
+    "outputSummary": "\u8349\u672C\u6E05\u6DBC\u98F2 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_inkbiter_1",
+      "name": "\u5C0F\u58A8\u5718",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_inkbiter_1.png?v=0ab4bceb7e76975e4d1500afc7634143c8e926cc1fa3ed730d47a28f295c29df",
+      "link": "/items/item_drop_inkbiter_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_wgshoal_1",
+      "name": "\u751C\u81A9\u9ED1\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_wgshoal_1.png?v=b551421f8881e29c2e4222bc413b812a07737ce6344b21122fb1a96da019ba24",
+      "link": "/items/item_drop_wgshoal_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_inkbiter_1_wgshoal_1_1",
+      "name": "\u8349\u672C\u6E05\u6DBC\u98F2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_inkbiter_1_wgshoal_1_1.png?v=2b17ef3615bb05dee509d2d48b560cf89ea9494d7057f2866988b89d568426be",
+      "link": "/items/item_inkbiter_1_wgshoal_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_inkbiter_1_wgshoal_1_1",
+      "name": "\u8349\u672C\u6E05\u6DBC\u98F2\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_inkbiter_1_wgshoal_1_1.png?v=2b17ef3615bb05dee509d2d48b560cf89ea9494d7057f2866988b89d568426be",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,108 @@
+{
+  "sourceItemId": "item_ranch_milk_2",
+  "name": "\u512A\u8CEA\u7378\u5976",
+  "rarity": 4,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_ranch_milk_2.png?v=2420b0bff304b5610238d336b29ab77ddd28cff9022e044b84763605cb5be147",
+  "summary": "\u9187\u539A\u7684\u7378\u5976\uFF0C\u5982\u679C\u5C07\u4E4B\u653E\u5728\u5E7C\u7378\u9762\u524D\uFF0C\u8AAA\u4E0D\u5B9A\u6703\u5F15\u8D77\u722D\u6436\u3002",
+  "description": "\u900F\u904E\u7267\u5834\u990A\u6B96\u7372\u5F97\u7684\u7522\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_ranch_1",
+      "description": "\u7267\u5834\u990A\u6B96\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_food_box_meat_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_drink_7_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_ranch_milk_2",
+          "name": "\u512A\u8CEA\u7378\u5976",
+          "quantity": 1,
+          "path": "/items/item_ranch_milk_2",
+          "iconPath": "/media/wiki/catalogs/items/item_ranch_milk_2.png?v=2420b0bff304b5610238d336b29ab77ddd28cff9022e044b84763605cb5be147",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_inn_drink_7",
+          "name": "\u74F6\u88DD\u512A\u8CEA\u7378\u5976",
+          "quantity": 1,
+          "path": "/items/item_inn_drink_7",
+          "iconPath": "/media/wiki/catalogs/items/item_inn_drink_7.png?v=2fa479ed49c867ebaa1b221844e2f7713a846afbcb53b3de428256e2cdbab198",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_drink_7_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

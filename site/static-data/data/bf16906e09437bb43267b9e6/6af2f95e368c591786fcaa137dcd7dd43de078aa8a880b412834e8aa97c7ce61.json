@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_agrange_1_lbshamman_bottled_1",
+    "name": "\u7C21\u6613\u93AE\u75DB\u85E5\u818F",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_agrange_1_lbshamman_bottled_1.png?v=f57acda0b88b2786c2f9026feacbc8a5de796abaeeaa26fe83616e887e96890c",
+    "sortOrder": 61,
+    "path": "/industry/recipes/manual%3Ahdwk_agrange_1_lbshamman_bottled_1",
+    "outputSummary": "\u7C21\u6613\u93AE\u75DB\u85E5\u818F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_agrange_1",
+      "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+      "link": "/items/item_drop_agrange_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_lbshamman_1",
+      "name": "\u8EDF\u9AA8\u788E\u5C51",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_lbshamman_1.png?v=b04db58770a408bd2b6d045be464bf9ee17ab188876cb6285e4b6446149c3f64",
+      "link": "/items/item_drop_lbshamman_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_agrange_1_lbshamman_bottled_1",
+      "name": "\u7C21\u6613\u93AE\u75DB\u85E5\u818F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_agrange_1_lbshamman_bottled_1.png?v=f57acda0b88b2786c2f9026feacbc8a5de796abaeeaa26fe83616e887e96890c",
+      "link": "/items/item_agrange_1_lbshamman_bottled_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_agrange_1_lbshamman_bottled_1_1",
+      "name": "\u7C21\u6613\u93AE\u75DB\u85E5\u818F\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_agrange_1_lbshamman_bottled_1.png?v=f57acda0b88b2786c2f9026feacbc8a5de796abaeeaa26fe83616e887e96890c",
+      "link": null
+    }
+  ],
+  "devices": []
+}

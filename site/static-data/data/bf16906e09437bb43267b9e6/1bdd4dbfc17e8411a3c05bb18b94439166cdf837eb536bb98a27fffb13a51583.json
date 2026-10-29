@@ -1,0 +1,508 @@
+{
+  "sourceItemId": "item_plant_moss_powder_3",
+  "name": "\u7802\u8449\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+  "summary": "\u5728\u7D93\u904E\u7C89\u788E\u8655\u7406\u5F8C\uFF0C\u7802\u8449\u4E2D\u7C97\u7CD9\u7684\u90E8\u5206\u5F97\u5230\u4E86\u5145\u5206\u5229\u7528\u3002",
+  "description": "\u7802\u8449\u7C89\u672B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u7372\u5F97\u7802\u8449\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_plant_moss_enr_powder_1",
+      "name": "\u7D30\u78E8\u854E\u82B1\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_plant_moss_enr_powder_1.png?v=46b5fe24c45822eb19bfb6768e9fefb769cf9a7a9ead3bb9ca57a26f6bd4929f",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_iron_enr_powder",
+      "name": "\u7DFB\u5BC6\u85CD\u9435\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_iron_enr_powder.png?v=0655888c4a128de336dd80b10572d093bbeab3cd4837d55ae899027cf24aea23",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_originium_enr_powder",
+      "name": "\u7DFB\u5BC6\u6E90\u77F3\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_originium_enr_powder.png?v=72bd1710dfdd76925428c819d56c780b3cf1d83cec1eefc9c95bea1fadd13e43",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/furnance_carbon_powder_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 3,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_powder",
+          "name": "\u78B3\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_carbon_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_powder.png?v=0dbcdd95b1f124b60785125a09c47ad67f8b8cf042bb86da16294bfe5afe68fe",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_carbon_powder_3"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_carbon_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_powder",
+          "name": "\u78B3\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_carbon_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_powder.png?v=0dbcdd95b1f124b60785125a09c47ad67f8b8cf042bb86da16294bfe5afe68fe",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_enr_powder",
+          "name": "\u7DFB\u5BC6\u78B3\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_carbon_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_enr_powder.png?v=d741d5d0c94039801ed092e9d7584a88c676812af231c3e913ed6b65f8df1d94",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_carbon_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_crystal_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_powder",
+          "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_crystal_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_enr_powder",
+          "name": "\u7DFB\u5BC6\u6676\u9AD4\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_crystal_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_enr_powder.png?v=785c70276c8dc69cbbcf190a2a200704d80f93b0996e1b64f9f6a09fbf9ebb9a",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_crystal_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_iron_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_powder",
+          "name": "\u85CD\u9435\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_iron_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_powder.png?v=96e62a1a92a93f8fc98514cb07920133cfc693cbb1605c61934c8c07d30db575",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_powder",
+          "name": "\u7DFB\u5BC6\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_powder.png?v=0655888c4a128de336dd80b10572d093bbeab3cd4837d55ae899027cf24aea23",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_iron_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_originium_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_enr_powder",
+          "name": "\u7DFB\u5BC6\u6E90\u77F3\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_originium_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_enr_powder.png?v=72bd1710dfdd76925428c819d56c780b3cf1d83cec1eefc9c95bea1fadd13e43",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_originium_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_plant_moss_enr_powder_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_1",
+          "name": "\u854E\u82B1\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_moss_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_enr_powder_1",
+          "name": "\u7D30\u78E8\u854E\u82B1\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_enr_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_enr_powder_1.png?v=46b5fe24c45822eb19bfb6768e9fefb769cf9a7a9ead3bb9ca57a26f6bd4929f",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_plant_moss_enr_powder_1_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_plant_moss_enr_powder_2_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_2",
+          "name": "\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_moss_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_enr_powder_2",
+          "name": "\u7D30\u78E8\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_enr_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_enr_powder_2.png?v=427b9622cfc9c57d1a36e9572f7914df6934a1edf95066c89739c083f4e5ad14",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_plant_moss_enr_powder_2_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_quartz_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_powder",
+          "name": "\u7D2B\u6676\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_quartz_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_powder.png?v=5594e80efa29e391601288ad43d5ec174fcea9662384a1d2ffd62e965a7f73f5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_enr_powder",
+          "name": "\u9AD8\u6676\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_quartz_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_enr_powder.png?v=97b6981e01200cee2b6eadbb02128ebbfc07e755ee1111ce227fcf9a0a3c402b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_quartz_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_plant_moss_powder_3_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_3",
+          "name": "\u7802\u8449",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_3.png?v=2fb54317221263e21c815aa2d0d39362c0903b6b211803857b6caa658517ce8a",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 3,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_plant_moss_powder_3_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

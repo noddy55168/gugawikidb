@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_lightning_1",
+    "name": "\u96FB\u6E67\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_lightning_1.png?v=79a281225566b27016dde93f739838b093aabc9d0d398f189591ef90ef9fe89c",
+    "sortOrder": 30,
+    "path": "/industry/recipes/hub%3Abattle_lightning_1",
+    "outputSummary": "\u96FB\u6E67\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_enr_cmpt",
+      "name": "\u92FC\u88FD\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+      "link": "/items/item_iron_enr_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_lightning_1",
+      "name": "\u96FB\u6E67\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_lightning_1.png?v=79a281225566b27016dde93f739838b093aabc9d0d398f189591ef90ef9fe89c",
+      "link": null
+    }
+  ],
+  "devices": []
+}

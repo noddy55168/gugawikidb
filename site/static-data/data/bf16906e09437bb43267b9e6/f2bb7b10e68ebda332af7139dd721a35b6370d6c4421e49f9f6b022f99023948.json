@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_lbshamman_1_agmelee_1_1",
+  "name": "\u5373\u98DF\u9AA8\u6E6F",
+  "rarity": 2,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_lbshamman_1_agmelee_1_1.png?v=f4191fa5004658d634daec27d02f2797ffbc758e7fefaa4c556259886e8574ed",
+  "summary": "\u7531\u7570\u9999\u77F3\u8ABF\u5473\u6599\u3001\u7279\u6B8A\u9AA8\u7C89\u6C96\u6CE1\u800C\u6210\u7684\u5373\u98DF\u6E6F\u3002\u660E\u660E\u5473\u9053\u9BAE\u7F8E\uFF0C\u4F46\u4E0D\u77E5\u70BA\u4F55\u7E3D\u6703\u8B93\u54C1\u5690\u8005\u751F\u51FA\u4E00\u7A2E\u300C\u62FF\u6389\u9AA8\u7C89\u4E5F\u7121\u50B7\u5927\u96C5\u300D\u7684\u8352\u8A95\u601D\u8003\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u5168\u968A\u5E79\u54E1\u7ACB\u523B\u56DE\u5FA98%\u6700\u5927\u751F\u547D\u503C\uFF0C\u518D\u56DE\u5FA9188\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u8EDF\u9AA8\u788E\u5C51\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_lbshamman_1_agmelee_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_lbshamman_1",
+          "name": "\u8EDF\u9AA8\u788E\u5C51",
+          "quantity": 1,
+          "path": "/items/item_drop_lbshamman_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_lbshamman_1.png?v=b04db58770a408bd2b6d045be464bf9ee17ab188876cb6285e4b6446149c3f64",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agmelee_1",
+          "name": "\u5805\u786C\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agmelee_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agmelee_1.png?v=119554b900689bcbfa17bf9dc28585c71c770ea392e3fdfbb5bb23362b49193d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_lbshamman_1_agmelee_1_1",
+          "name": "\u5373\u98DF\u9AA8\u6E6F",
+          "quantity": 1,
+          "path": "/items/item_lbshamman_1_agmelee_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_lbshamman_1_agmelee_1_1.png?v=f4191fa5004658d634daec27d02f2797ffbc758e7fefaa4c556259886e8574ed",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_lbshamman_1_agmelee_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

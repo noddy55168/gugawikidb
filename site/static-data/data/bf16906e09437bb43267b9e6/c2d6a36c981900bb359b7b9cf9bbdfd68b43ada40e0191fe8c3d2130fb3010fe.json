@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:item_arrow_chip_shield_breaker",
+    "name": "\u883B\u7378\u4E4B\u6012",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_arrow_chip_shield_breaker.png?v=14078ffe89741bc2f5f9f39b41b980ace1b9c5b1e7054991718ae9205a734a2e",
+    "sortOrder": 208,
+    "path": "/industry/recipes/manual%3Aitem_arrow_chip_shield_breaker",
+    "outputSummary": "\u883B\u7378\u4E4B\u6012 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_arrow_chip_shield_breaker",
+      "name": "\u883B\u7378\u4E4B\u6012",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_arrow_chip_shield_breaker.png?v=14078ffe89741bc2f5f9f39b41b980ace1b9c5b1e7054991718ae9205a734a2e",
+      "link": "/items/item_arrow_chip_shield_breaker"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_arrow_chip_shield_breaker",
+      "name": "\u883B\u7378\u4E4B\u6012\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_arrow_chip_shield_breaker.png?v=14078ffe89741bc2f5f9f39b41b980ace1b9c5b1e7054991718ae9205a734a2e",
+      "link": null
+    }
+  ],
+  "devices": []
+}

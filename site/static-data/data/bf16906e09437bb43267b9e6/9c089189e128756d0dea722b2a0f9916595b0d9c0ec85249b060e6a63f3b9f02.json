@@ -1,0 +1,476 @@
+{
+  "sourceItemId": "item_spaceship_cmpt_1",
+  "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+  "rarity": 3,
+  "category": "\u529F\u80FD\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+  "summary": "\u8ACB\u5728\u5354\u8B70\u76F8\u95DC\u88DD\u7F6E\u8986\u84CB\u5340\u4F7F\u7528\u672C\u985E\u5EFA\u6750\u3002",
+  "description": "\u9032\u884C\u5DE5\u696D\u5EFA\u9020\u7684\u57FA\u790E\u5EFA\u6750\uFF0C\u53EF\u7528\u65BC\u300C\u5E1D\u6C5F\u865F\u300D\u7684\u5347\u7D1A\u5EFA\u9020\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u8CC7\u6E90\u56DE\u6536\u7AD9\u6536\u53D6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_recycle_tundra",
+      "description": "\u8CC7\u6E90\u56DE\u6536\u7AD9\u7372\u5F97",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_2/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.2",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52301\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 8,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 1000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_3/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.3",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52302\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 16,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 3000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_4/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.4",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52303\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 24,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_2",
+          "name": "\u9AD8\u7D1A\u822A\u592A\u5EFA\u6750",
+          "quantity": 12,
+          "path": "/items/item_spaceship_cmpt_2",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_2.png?v=8e4688ab91c6f4cac0f702e7e75f77fe6a0ea7db4834b1168b5f65565791ac87",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 10000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_5/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.5",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52304\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 32,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_2",
+          "name": "\u9AD8\u7D1A\u822A\u592A\u5EFA\u6750",
+          "quantity": 64,
+          "path": "/items/item_spaceship_cmpt_2",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_2.png?v=8e4688ab91c6f4cac0f702e7e75f77fe6a0ea7db4834b1168b5f65565791ac87",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 20000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/grow_cabin_level_1/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u57F9\u990A\u8259 Lv.1",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E2\u7D1A\u6642\u53EF\u5EFA\u9020\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 3,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/grow_cabin_level_2/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u57F9\u990A\u8259 Lv.2",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E3\u7D1A\u6642\u53EF\u5347\u7D1A\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 8,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 2000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/grow_cabin_level_3/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u57F9\u990A\u8259 Lv.3",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E5\u7D1A\u6642\u53EF\u5347\u7D1A\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 16,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_2",
+          "name": "\u9AD8\u7D1A\u822A\u592A\u5EFA\u6750",
+          "quantity": 16,
+          "path": "/items/item_spaceship_cmpt_2",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_2.png?v=8e4688ab91c6f4cac0f702e7e75f77fe6a0ea7db4834b1168b5f65565791ac87",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 6400,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/guest_room_clue_extension_level_2/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u6703\u5BA2\u5BA4 Lv.2",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E4\u7D1A\u6642\u53EF\u5347\u7D1A\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 8,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 2000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/guest_room_clue_extension_level_3/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u6703\u5BA2\u5BA4 Lv.3",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E5\u7D1A\u6642\u53EF\u5347\u7D1A\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 16,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_2",
+          "name": "\u9AD8\u7D1A\u822A\u592A\u5EFA\u6750",
+          "quantity": 16,
+          "path": "/items/item_spaceship_cmpt_2",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_2.png?v=8e4688ab91c6f4cac0f702e7e75f77fe6a0ea7db4834b1168b5f65565791ac87",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 6400,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/manufacturing_station_level_1/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u88FD\u9020\u8259 Lv.1",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E1\u7D1A\u6642\u53EF\u5EFA\u9020\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 3,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/manufacturing_station_level_2/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u88FD\u9020\u8259 Lv.2",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E2\u7D1A\u6642\u53EF\u5347\u7D1A\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 6,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 1500,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/manufacturing_station_level_3/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u88FD\u9020\u8259 Lv.3",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E4\u7D1A\u6642\u53EF\u5347\u7D1A\u6B64\u8259\u5BA4",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 12,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_2",
+          "name": "\u9AD8\u7D1A\u822A\u592A\u5EFA\u6750",
+          "quantity": 6,
+          "path": "/items/item_spaceship_cmpt_2",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_2.png?v=8e4688ab91c6f4cac0f702e7e75f77fe6a0ea7db4834b1168b5f65565791ac87",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 5000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

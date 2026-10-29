@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:liquid_purifier_gas_copper_enr_1",
+    "name": "\u6C23\u614B\u8D6B\u9285",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+    "sortOrder": 5,
+    "path": "/industry/recipes/machine%3Aliquid_purifier_gas_copper_enr_1",
+    "outputSummary": "\u6C23\u614B\u8D6B\u9285 \u00D7 2",
+    "deviceNames": [
+      "\u63D0\u7D14\u6A5F"
+    ]
+  },
+  "description": "\u6C23\u614B\u8D6B\u9285\u63D0\u7D14",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_copper",
+      "name": "\u6C23\u614B\u8D64\u9285",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+      "link": "/items/item_gas_copper"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_filter_core",
+      "name": "\u5206\u96E2\u82AF",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+      "link": "/items/item_filter_core"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_copper_enr",
+      "name": "\u6C23\u614B\u8D6B\u9285",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+      "link": "/items/item_gas_copper_enr"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_liquid_purifier_1",
+      "name": "\u63D0\u7D14\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_liquid_purifier_1.png?v=1ff0e03a32804b09c3ba9c90fbe55e5820d73c30aa0e7920b6000d7f1d2e29ff",
+      "sortOrder": 8,
+      "path": "/industry/devices/wiki_item_port_liquid_purifier_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

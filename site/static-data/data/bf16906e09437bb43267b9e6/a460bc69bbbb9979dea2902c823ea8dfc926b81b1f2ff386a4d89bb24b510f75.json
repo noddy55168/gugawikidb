@@ -1,0 +1,49 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_lottery_v1d4",
+    "name": "\u5B8F\u904B\u9023\u9023\u6A02",
+    "description": "",
+    "sourceType": 14,
+    "sortOrder": 8313,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_lottery_v1d4",
+    "tabImageId": "activity_tab_bg_scratchofflottery",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "2026/7/31 4:00:00",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": 1785441600
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "2026/7/31 4:00:00",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": 1785441600
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/7/15 18:00:00",
+        "closeTimeRaw": "2026/7/31 4:00:00",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": 1785488400
+      }
+    ],
+    "tags": [],
+    "themeColor": "#fff078"
+  },
+  "instructionId": "instru_activity_lottery",
+  "instructionTitle": "\u300C\u5B8F\u904B\u9023\u9023\u6A02\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u6BCF\u65E5\u5728\u6D3B\u52D5\u4ECB\u9762\u9032\u884C1\u6B21\u522E\u734E\uFF0C\u522E\u51FA\u4E0D\u540C\u7684\u5370\u82B1\u6703\u7372\u5F97\u4E0D\u540C\u7684\u734E\u52F5\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u6BCF\u65E5\u5C07\u6703\u516C\u5E03\u4E00\u679A\u300C\u4ECA\u65E5\u5370\u82B1\u300D\uFF0C\u82E5\u522E\u51FA\u7684\u5370\u82B1\u8207\u300C\u4ECA\u65E5\u5370\u82B1\u300D\u76F8\u540C\uFF0C\u5247\u8A72\u5370\u82B1\u734E\u52F5\u6578\u91CF\u7FFB\u500D\u3002 \n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u6709\u6A5F\u6703\u522E\u51FA\u300CALL\u300D\u5370\u82B1\uFF0C\u7372\u5F97\u300CALL\u300D\u734E\u52F5\uFF0C\u6BCF\u6B21\u5171\u542B\u3010\u5D4C\u6676\u7389\u3011\u00D7800\u3002\n\n- \u7279\u6B8A\u63D0\u793A -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u4EE5\u53C3\u8207\u522E\u734E\u7684\u5929\u6578\u6700\u591A\u70BA14\u65E5\uFF0C\u522E\u734E\u6A5F\u6703\u5C07\u5728\u6BCF\u65E5\u4F3A\u670D\u5668\u6642\u959304:00\u66F4\u65B0\u3002  \n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u6700\u591A\u53EF\u7372\u5F974\u6B21\u300CALL\u300D\u734E\u52F5\u3002\n\u00B7 \u9664\u300CALL\u300D\u734E\u52F5\u4E4B\u5916\uFF0C\u6BCF\u6B21\u522E\u734E\u5FC5\u5F97\u3010\u5D4C\u6676\u7389\u3011\uFF0C\u7372\u5F97\u6578\u91CF\u70BA180\u3001200\u3001220\u96A8\u6A5F\u4E4B\u4E00\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

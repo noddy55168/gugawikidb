@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:filling_bottled_iron_copper",
+    "name": "\u85CD\u9435\u74F6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+    "sortOrder": 32,
+    "path": "/industry/recipes/machine%3Afilling_bottled_iron_copper",
+    "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+    "deviceNames": [
+      "\u704C\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u8D64\u9285\u6EB6\u6DB2\uFF08\u704C\u88DD\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_bottle",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "link": "/items/item_iron_bottle"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_copper",
+      "name": "\u8D64\u9285\u6EB6\u6DB2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+      "link": "/items/item_liquid_copper"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_fbottle_iron_copper",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "link": "/items/item_fbottle_iron_copper"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_filling_pd_mc_1",
+      "name": "\u704C\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_filling_pd_mc_1.png?v=45b74bdfae4b744bd94bc624b5fc1b026472a17ea3e4dfa6b957d8544cac338f",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

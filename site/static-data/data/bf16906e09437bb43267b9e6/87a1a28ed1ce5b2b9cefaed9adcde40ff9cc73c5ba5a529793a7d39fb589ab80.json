@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_cannon_2",
+    "name": "\u9AD8\u7206\u69B4\u5F48\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_cannon_2.png?v=18ee3f8c3c114d0620dbcb6fb65866a453e9d0187951f01b2459331e823a9461",
+    "sortOrder": 29,
+    "path": "/industry/recipes/hub%3Abattle_cannon_2",
+    "outputSummary": "\u9AD8\u7206\u69B4\u5F48\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_enr_cmpt",
+      "name": "\u92FC\u88FD\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+      "link": "/items/item_iron_enr_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_cannon_2",
+      "name": "\u9AD8\u7206\u69B4\u5F48\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_cannon_2.png?v=18ee3f8c3c114d0620dbcb6fb65866a453e9d0187951f01b2459331e823a9461",
+      "link": null
+    }
+  ],
+  "devices": []
+}

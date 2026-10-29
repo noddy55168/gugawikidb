@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:filling_bottled_drink_4_1",
+    "name": "\u74F6\u88DD\u8106\u8517\u6C41",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_inn_drink_4.png?v=52f4481364343c466d71caaa85ad562dd128880eada7776de2538403af675b47",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Afilling_bottled_drink_4_1",
+    "outputSummary": "\u74F6\u88DD\u8106\u8517\u6C41 \u00D7 1",
+    "deviceNames": [
+      "\u704C\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u74F6\u88DD\u8106\u8517\u6C41\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_bottle",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "link": "/items/item_iron_bottle"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_corp_sugarcane_1",
+      "name": "\u8106\u8517",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+      "link": "/items/item_corp_sugarcane_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_inn_drink_4",
+      "name": "\u74F6\u88DD\u8106\u8517\u6C41",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_inn_drink_4.png?v=52f4481364343c466d71caaa85ad562dd128880eada7776de2538403af675b47",
+      "link": "/items/item_inn_drink_4"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_filling_pd_mc_1",
+      "name": "\u704C\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_filling_pd_mc_1.png?v=45b74bdfae4b744bd94bc624b5fc1b026472a17ea3e4dfa6b957d8544cac338f",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

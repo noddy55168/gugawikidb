@@ -1,0 +1,116 @@
+{
+  "sourceItemId": "item_proc_battery_3",
+  "name": "\u9AD8\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+  "rarity": 4,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_proc_battery_3.png?v=9f8979d3d649b27e8ede44b152fc7e7bd677a92d9c5e9a393f022bfcefa785e8",
+  "summary": "\u56DE\u6536\u5EE2\u68C4\u96FB\u6C60\u662F\u8A31\u591A\u8352\u5730\u5C45\u6C11\u7684\u4E3B\u696D\u3002",
+  "description": "\u900F\u904E\u8A2D\u5099\u5C01\u88DD\u7372\u5F97\u7684\u96FB\u6C60\uFF0C\u53EF\u7528\u65BC\u767C\u96FB\u3001\u6062\u5FA9\u8A2D\u5099\u80FD\u91CF\u6216\u8207\u64DA\u9EDE\u9032\u884C\u4EA4\u6613\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_asm",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u5C01\u88DD\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u5C01\u88DD\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_battery_3_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_enr_powder",
+          "name": "\u7DFB\u5BC6\u6E90\u77F3\u7C89\u672B",
+          "quantity": 15,
+          "path": "/items/item_originium_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_enr_powder.png?v=72bd1710dfdd76925428c819d56c780b3cf1d83cec1eefc9c95bea1fadd13e43",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_proc_battery_3",
+          "name": "\u9AD8\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+          "quantity": 1,
+          "path": "/items/item_proc_battery_3",
+          "iconPath": "/media/wiki/catalogs/items/item_proc_battery_3.png?v=9f8979d3d649b27e8ede44b152fc7e7bd677a92d9c5e9a393f022bfcefa785e8",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_battery_3_1"
+    },
+    {
+      "key": "FactoryBatteryItemTable/item_proc_battery_3/\u8A2D\u5099\u7528\u9014/",
+      "category": "\u8A2D\u5099\u7528\u9014",
+      "title": "\u96FB\u6C60\u5132\u80FD",
+      "description": "",
+      "participants": [],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryFuelItemTable/item_proc_battery_3/\u8A2D\u5099\u7528\u9014/",
+      "category": "\u8A2D\u5099\u7528\u9014",
+      "title": "\u767C\u96FB\u71C3\u6599",
+      "description": "",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

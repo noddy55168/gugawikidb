@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_log_conditioner",
+    "name": "\u7269\u54C1\u51C6\u5165\u53E3",
+    "kind": "logistic",
+    "category": "\u7269\u6D41\u8A2D\u5099",
+    "iconPath": "/media/wiki/industry/item_log_conditioner.png?v=7d1bdeea0c3df4d97536a84d8fc9ede2064d69da59ff065d5b6d1e2fcfaeac25",
+    "sortOrder": 1,
+    "path": "/industry/devices/wiki_item_log_conditioner",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7269\u54C1\u51C6\u5165\u53E3\u53EF\u9650\u5236\u50B3\u9001\u5E36\u4E0A\u5141\u8A31\u901A\u904E\u7684\u6750\u6599\u3002\u53EF\u900F\u904E\u7269\u54C1\u51C6\u5165\u53E3\u9650\u5236\u901A\u904E\u6750\u6599\u7684\u6578\u91CF\uFF0C\u4E26\u5728\u85CD\u5716\u4E2D\u6A19\u8A18\u6B64\u6BB5\u50B3\u9001\u5E36\u904B\u9001\u7684\u6750\u6599\u3002\u89E3\u9396\u7269\u6D41\u9650\u901F\u5DE5\u696D\u8A08\u5283\u5F8C\uFF0C\u53EF\u984D\u5916\u8A2D\u5B9A\u6750\u6599\u5141\u8A31\u901A\u904E\u7684\u6700\u5927\u901F\u5EA6\u3002",
+  "sourceId": "log_conditioner",
+  "needPower": null,
+  "width": null,
+  "depth": null,
+  "height": null,
+  "recipes": []
+}

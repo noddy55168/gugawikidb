@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_battle_rocket_1",
+    "name": "\u91CD\u9318\u8FEB\u64CA\u70AE",
+    "kind": "building",
+    "category": "\u6230\u9B25\u8F14\u52A9",
+    "iconPath": "/media/wiki/industry/item_port_battle_rocket_1.png?v=6fbd46e36c8c3f2ff7b320f66fe760c638c5d1ab607e0ce9dfa51a0c2ff5c894",
+    "sortOrder": 16,
+    "path": "/industry/devices/wiki_item_port_battle_rocket_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u653B\u64CA\u529B\uFF1A33000\n\u653B\u64CA\u9593\u9694\uFF1A8\u79D2\n\u653B\u64CA\u7BC4\u570D\uFF1A25m",
+  "sourceId": "battle_rocket_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 6,
+  "recipes": []
+}

@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_loader_1",
+    "name": "\u5009\u5EAB\u5B58\u8CA8\u53E3",
+    "kind": "building",
+    "category": "\u5009\u5132\u5B58\u53D6",
+    "iconPath": "/media/wiki/industry/item_port_loader_1.png?v=b3ba092083b264fa77c6fe0bac75a54ca493d8a29d54d9efdbac419125a21abb",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_port_loader_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5C07\u7269\u54C1\u900F\u904E\u50B3\u9001\u5E36\u8F38\u5165\u9032\u5009\u5EAB\u5B58\u8CA8\u53E3\u5F8C\uFF0C\u7269\u54C1\u5C31\u6703\u5B58\u653E\u9032\u5009\u5EAB\u3002",
+  "sourceId": "loader_1",
+  "needPower": false,
+  "width": 3,
+  "depth": 1,
+  "height": 3,
+  "recipes": []
+}

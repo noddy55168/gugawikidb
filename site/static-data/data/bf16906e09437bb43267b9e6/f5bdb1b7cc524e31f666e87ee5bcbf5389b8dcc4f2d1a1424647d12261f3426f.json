@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:handwork_bottled_food_1",
+    "name": "\u67D1\u5BE6\u7F50\u982D",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+    "sortOrder": 47,
+    "path": "/industry/recipes/manual%3Ahandwork_bottled_food_1",
+    "outputSummary": "\u67D1\u5BE6\u7F50\u982D \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_powder_2",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "link": "/items/item_plant_moss_powder_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_food_1",
+      "name": "\u67D1\u5BE6\u7F50\u982D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+      "link": "/items/item_bottled_food_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_bottled_food_1",
+      "name": "\u67D1\u5BE6\u7F50\u982D\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,80 @@
+{
+  "sourceItemId": "item_equip_t0_parts_tundra01_hand_01",
+  "name": "\u7C21\u6613\u624B\u7532",
+  "rarity": 1,
+  "category": "\u8B77\u624B",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_hand_01.png?v=e922c52e0e1af7ba7d760461a63772646889af17d24f55de8212fd26830e29ce",
+  "description": "\u7D50\u69CB\u7C21\u55AE\u7684\u521D\u7D1A\u8B77\u7532\u3002\n\u5B83\u5728\u5FC3\u7406\u4E0A\u7D66\u4EBA\u7684\u9F13\u52F5\u9060\u5927\u65BC\u5B83\u7684\u5BE6\u969B\u9632\u79A6\u6548\u80FD\u3002",
+  "lore": "\u672C\u88DD\u5099\u70BA\u81E8\u6642\u88FD\u54C1\uFF0C\u672A\u901A\u904E\u7D42\u672B\u5730\u5DE5\u696D\u7522\u54C1\u6AA2\u9A57\u6D41\u7A0B\u7684\u9A57\u8B49\uFF0C\u9632\u79A6\u80FD\u529B\u6709\u9650\u3002",
+  "minWearLevel": 10,
+  "suitId": "",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 6,
+          "displayValue": "6"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u529B\u91CF",
+      "values": [
+        {
+          "stage": 0,
+          "value": 11,
+          "displayValue": "11"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "\u654F\u6377",
+      "values": [
+        {
+          "stage": 0,
+          "value": 7,
+          "displayValue": "7"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u751F\u547D\u503C",
+      "values": [
+        {
+          "stage": 0,
+          "value": 77.212287,
+          "displayValue": "77.21"
+        }
+      ]
+    }
+  ],
+  "effects": [],
+  "suitEquipment": [],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t0_parts_tundra01_hand_01",
+      "chainId": 1005,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "count": 10,
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa"
+        },
+        {
+          "sourceItemId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "count": 2,
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53"
+        }
+      ]
+    }
+  ]
+}

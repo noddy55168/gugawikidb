@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:liquid_purifier_xiranite_poly_1",
+    "name": "\u58E4\u6676\u5EE2\u6DB2\u3001\u6E05\u6C34",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Aliquid_purifier_xiranite_poly_1",
+    "outputSummary": "\u58E4\u6676\u5EE2\u6DB2 \u00D7 1\u3001\u6E05\u6C34 \u00D7 1",
+    "deviceNames": [
+      "\u63D0\u7D14\u6A5F"
+    ]
+  },
+  "description": "\u58E4\u6676\u5EE2\u6DB2\u63D0\u7D14",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_xiranite_lowpoly",
+      "name": "\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "quantity": 4,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_lowpoly.png?v=2be5bfdd3abad3534e1ed6ec3b1c3c07859f2b9c86828ba8f4579400d64de8c0",
+      "link": "/items/item_liquid_xiranite_lowpoly"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_xiranite_poly",
+      "name": "\u58E4\u6676\u5EE2\u6DB2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+      "link": "/items/item_liquid_xiranite_poly"
+    },
+    {
+      "role": "output",
+      "group": 1,
+      "order": 0,
+      "itemId": "item_liquid_water",
+      "name": "\u6E05\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "link": "/items/item_liquid_water"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_liquid_purifier_1",
+      "name": "\u63D0\u7D14\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_liquid_purifier_1.png?v=1ff0e03a32804b09c3ba9c90fbe55e5820d73c30aa0e7920b6000d7f1d2e29ff",
+      "sortOrder": 8,
+      "path": "/industry/devices/wiki_item_port_liquid_purifier_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

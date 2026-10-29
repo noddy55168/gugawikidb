@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_jet_1",
+    "name": "\u6FC0\u6D41\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_jet_1.png?v=71ff774d6d94f0904406eb6037dd5c520dfe82198c47873329c0259bf6a57825",
+    "sortOrder": 36,
+    "path": "/industry/recipes/hub%3Abattle_jet_1",
+    "outputSummary": "\u6FC0\u6D41\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_jet_1",
+      "name": "\u6FC0\u6D41\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_jet_1.png?v=71ff774d6d94f0904406eb6037dd5c520dfe82198c47873329c0259bf6a57825",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:pool_ranch_fodder_2",
+    "name": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_ranch_fodder_2.png?v=5d553d35d30deb2c75ad0f4520b9b79ff46ab7b690025320701764f4a779eae4",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Apool_ranch_fodder_2",
+    "outputSummary": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599 \u00D7 1",
+    "deviceNames": [
+      "\u53CD\u61C9\u6C60"
+    ]
+  },
+  "description": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599\u751F\u7522\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_byproduct_bean_moss_1",
+      "name": "\u7403\u8C46\u6BBC\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_byproduct_bean_moss_1.png?v=792ce64f1ab3c36560827e89c2ff9f93d5b5c94e5d07766b9b9fc7eca710451f",
+      "link": "/items/item_byproduct_bean_moss_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_water",
+      "name": "\u6E05\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "link": "/items/item_liquid_water"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_ranch_fodder_2",
+      "name": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_ranch_fodder_2.png?v=5d553d35d30deb2c75ad0f4520b9b79ff46ab7b690025320701764f4a779eae4",
+      "link": "/items/item_ranch_fodder_2"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_mix_pool_1",
+      "name": "\u53CD\u61C9\u6C60",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_1.png?v=531a16ed1a42c703e31aaec8f676cf038585e364c7f69b0c1c8a1196b581b65b",
+      "sortOrder": 5,
+      "path": "/industry/devices/wiki_item_port_mix_pool_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

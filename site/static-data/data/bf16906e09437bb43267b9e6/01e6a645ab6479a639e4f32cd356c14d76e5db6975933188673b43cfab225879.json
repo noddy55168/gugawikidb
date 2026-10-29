@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_frost_1",
+    "name": "\u6DB2\u614B\u6C2E\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_frost_1.png?v=182153a2ff5cc67b8f46f5beac17449d235194f47bc37ef2fec91d05006f8302",
+    "sortOrder": 31,
+    "path": "/industry/recipes/hub%3Abattle_frost_1",
+    "outputSummary": "\u6DB2\u614B\u6C2E\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_frost_1",
+      "name": "\u6DB2\u614B\u6C2E\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_frost_1.png?v=182153a2ff5cc67b8f46f5beac17449d235194f47bc37ef2fec91d05006f8302",
+      "link": null
+    }
+  ],
+  "devices": []
+}

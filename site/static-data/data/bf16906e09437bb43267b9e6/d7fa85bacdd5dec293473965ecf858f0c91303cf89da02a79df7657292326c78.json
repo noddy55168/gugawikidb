@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:furnance_crystal_shell_1",
+    "name": "\u6676\u9AD4\u5916\u6BBC",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+    "sortOrder": 5,
+    "path": "/industry/recipes/machine%3Afurnance_crystal_shell_1",
+    "outputSummary": "\u6676\u9AD4\u5916\u6BBC \u00D7 1",
+    "deviceNames": [
+      "\u7CBE\u7149\u7210"
+    ]
+  },
+  "description": "\u6676\u9AD4\u5916\u6BBC\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_originium_ore",
+      "name": "\u6E90\u7926",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+      "link": "/items/item_originium_ore"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_furnance_1",
+      "name": "\u7CBE\u7149\u7210",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_furnance_1.png?v=fe587cb85015af4f97013b92155ea4862e0addbaa04835879626a070d92c35a9",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_furnance_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

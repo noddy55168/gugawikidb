@@ -1,0 +1,583 @@
+{
+  "sourceItemId": "item_xiranite_enr_powder",
+  "name": "\u91CD\u606F\u58E4",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+  "summary": "\u91CD\u606F\u58E4\u8A95\u751F\u65BC\u4E00\u6B21\u63D0\u9AD8\u606F\u58E4\u7522\u91CF\u7684\u5BE6\u9A57\u3002\u5929\u5E2B\u5011\u5C07\u591A\u7A2E\u72C0\u614B\u7684\u606F\u58E4\u6DF7\u65BC\u4E00\u8655\uFF0C\u5728\u591A\u756A\u5617\u8A66\u5F8C\uFF0C\u4ED6\u5011\u5BE6\u73FE\u4E86\u4E00\u7A2E\u300C\u52D5\u975C\u5E73\u8861\u300D\u3002\u9019\u96D6\u672A\u9054\u5230\u5BE6\u9A57\u7684\u672C\u4F86\u76EE\u7684\uFF0C\u4F46\u81F3\u5C11\u7A0D\u5FAE\u63D0\u9AD8\u4E86\u606F\u58E4\u7684\u8010\u7528\u6027\u3002",
+  "description": "\u900F\u904E\u7279\u6B8A\u8A2D\u5099\u7372\u5F97\u7684\u6750\u6599\uFF0C\u53EF\u7528\u65BC\u7279\u6B8A\u8A2D\u65BD\u4FEE\u5FA9\u6216\u8207\u64DA\u9EDE\u9032\u884C\u4EA4\u6613\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_xiranite_enr",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u64F4\u5BB9\u8207\u91CD\u606F\u58E4\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_mix",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6EB6\u89E3\u8207\u53CD\u61C9\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u4E26\u89E3\u9396\u64F4\u5BB9\u8207\u91CD\u606F\u58E4\u5DE5\u696D\u6280\u8853",
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853",
+    "\u89E3\u9396\u6EB6\u89E3\u8207\u53CD\u61C9\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/component_activity_xiranite_enr_cmpt_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_enr_cmpt",
+          "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u96F6\u4EF6",
+          "quantity": 2,
+          "path": "/items/item_activity_xiranite_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_enr_cmpt.png?v=3232825a7bf35c3167c4dab8d6dc0f07ada6ef73b0e346f7ec1fc56f18d36602",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_activity_xiranite_enr_cmpt_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_activity_xiranite_enr_nugget_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_enr_nugget",
+          "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u584A",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_enr_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_enr_nugget.png?v=ac51293fa532d40e1811587af6a9c54c4762eb87e2bd6543de9656d63d3193d6",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_activity_xiranite_enr_nugget_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_2_gas_gas_xiranite_enr_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 2,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_xiranite_enr",
+          "name": "\u91CD\u606F\u58E4\u6C23",
+          "quantity": 5,
+          "path": "/items/item_gas_xiranite_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_xiranite_enr.png?v=07f92b772698df9eeb38815afcb4cd6cb6381a6d9049c8501d0b05e8ee3bb15a",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_2",
+          "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_2_gas_gas_xiranite_enr_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_liquid_xiranite_enr_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_acid",
+          "name": "\u6C89\u7A4D\u9178",
+          "quantity": 1,
+          "path": "/items/item_liquid_acid",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_xiranite_enr",
+          "name": "\u6DB2\u5316\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_liquid_xiranite_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_enr.png?v=a217f392cfbc921f54e5ad3a1740d868eb45359ee192c0d6d6a35238edd5d073",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_liquid_xiranite_enr_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_liquid_xiranite_enr_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_acid",
+          "name": "\u6C89\u7A4D\u9178",
+          "quantity": 1,
+          "path": "/items/item_liquid_acid",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_xiranite_enr",
+          "name": "\u6DB2\u5316\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_liquid_xiranite_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_enr.png?v=a217f392cfbc921f54e5ad3a1740d868eb45359ee192c0d6d6a35238edd5d073",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_liquid_xiranite_enr_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_activity_xiranite_enr_bottle_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_enr_bottle",
+          "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6",
+          "quantity": 2,
+          "path": "/items/item_activity_xiranite_enr_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_activity_xiranite_enr_bottle_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_activity_copper_poly_tool_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_poly_cmpt",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_activity_copper_poly_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_poly_cmpt.png?v=a025f63c244da8eb3a92be1a395ff34a3038affd0d68ac8049b9a0dcbe983279",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_poly_tool",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9AA8\u9ABC",
+          "quantity": 1,
+          "path": "/items/item_activity_copper_poly_tool",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_poly_tool.png?v=28b4cbb471d7b8c79865ceb9cf68fc6fc8b85d50ae836d45c5f85c4ec33fd5ee",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_activity_copper_poly_tool_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_4_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr_cmpt",
+          "name": "\u8D6B\u9285\u96F6\u4EF6",
+          "quantity": 2,
+          "path": "/items/item_copper_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr_cmpt.png?v=477f384f9d78611ea1dd3844b08bac7936025d5988a8f9ac92783f8a0847340e",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 2,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4_2",
+          "name": "\u8D6B\u9285\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_4_2",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_2.png?v=e645fdd08a1fe2b30cea822f323f711c7ed73183ca398083eda1aa2be379972a",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_4_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_4_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 2,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_4_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_4_3"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_2_solid_xiranite_enr_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_xiranite_enr",
+          "name": "\u91CD\u606F\u58E4\u6C23",
+          "quantity": 5,
+          "path": "/items/item_gas_xiranite_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_xiranite_enr.png?v=07f92b772698df9eeb38815afcb4cd6cb6381a6d9049c8501d0b05e8ee3bb15a",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 2,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_2",
+          "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_2_solid_xiranite_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/xiranite_oven_xiranite_enr_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_powder",
+          "name": "\u606F\u58E4",
+          "quantity": 10,
+          "path": "/items/item_xiranite_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_xiranite_poly",
+          "name": "\u58E4\u6676\u5EE2\u6DB2",
+          "quantity": 5,
+          "path": "/items/item_liquid_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "xiranite_oven_1",
+          "name": "\u5929\u6709\u6D2A\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_xiranite_oven_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Axiranite_oven_xiranite_enr_powder_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

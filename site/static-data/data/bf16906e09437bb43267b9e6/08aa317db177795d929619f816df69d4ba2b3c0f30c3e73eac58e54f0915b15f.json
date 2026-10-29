@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_miner_3",
+    "name": "\u96FB\u9A45\u7926\u6A5FII",
+    "kind": "building",
+    "category": "\u8CC7\u6E90\u958B\u63A1",
+    "iconPath": "/media/wiki/industry/item_port_miner_3.png?v=eb6f20898b0a1e95eb9f287cf1ae34c936c7d326ca27ecac11dc6fd9274ea028",
+    "sortOrder": 3,
+    "path": "/industry/devices/wiki_item_port_miner_3",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5728\u901A\u96FB\u72C0\u614B\u4E0B\uFF0C\u53EF\u4EE5\u7528\u4F86\u958B\u63A1\u85CD\u9435\u7926\u7B49\u591A\u7A2E\u7926\u7269\u7684\u6A5F\u68B0\u8A2D\u5099\u3002",
+  "sourceId": "miner_3",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 5,
+  "recipes": []
+}

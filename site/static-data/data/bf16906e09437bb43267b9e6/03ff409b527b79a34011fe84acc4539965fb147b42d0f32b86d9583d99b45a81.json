@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_turret_3",
+    "name": "\u300C\u66B4\u96E8\u300D\u9283\u68B0\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_turret_3.png?v=aece735944c4b379e018dcac2efdd5c8a0029f06719bf74b3105317abd5bb716",
+    "sortOrder": 40,
+    "path": "/industry/recipes/hub%3Abattle_turret_3",
+    "outputSummary": "\u300C\u66B4\u96E8\u300D\u9283\u68B0\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_turret_3",
+      "name": "\u300C\u66B4\u96E8\u300D\u9283\u68B0\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_turret_3.png?v=aece735944c4b379e018dcac2efdd5c8a0029f06719bf74b3105317abd5bb716",
+      "link": null
+    }
+  ],
+  "devices": []
+}

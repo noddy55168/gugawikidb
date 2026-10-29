@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:tools_proc_activity_xiranite_enr_lung",
+    "name": "\u91CD\u606F\u58E4\u9F8D\u6CE1\u6CE1",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_lung.png?v=d6050c57f49a9c8d0d6a82bcb75d8d4b9071ec7ff44c115687157983e472f322",
+    "sortOrder": 18,
+    "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_enr_lung",
+    "outputSummary": "\u91CD\u606F\u58E4\u9F8D\u6CE1\u6CE1 \u00D7 1",
+    "deviceNames": [
+      "\u5C01\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u91CD\u606F\u58E4\u9F8D\u6CE1\u6CE1\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_enr_box",
+      "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u91CD\u6BBC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_box.png?v=dcd37a4f8e18e548a8ed93db6b6c8536bc6365101d622b350e53a3df55be9149",
+      "link": "/items/item_activity_xiranite_enr_box"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_activity_copper_poly_tool",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9AA8\u9ABC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly_tool.png?v=28b4cbb471d7b8c79865ceb9cf68fc6fc8b85d50ae836d45c5f85c4ec33fd5ee",
+      "link": "/items/item_activity_copper_poly_tool"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_enr_lung",
+      "name": "\u91CD\u606F\u58E4\u9F8D\u6CE1\u6CE1",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_lung.png?v=d6050c57f49a9c8d0d6a82bcb75d8d4b9071ec7ff44c115687157983e472f322",
+      "link": "/items/item_activity_xiranite_enr_lung"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_tools_asm_mc_1",
+      "name": "\u5C01\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

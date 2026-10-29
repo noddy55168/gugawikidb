@@ -1,0 +1,456 @@
+{
+  "sourceItemId": "item_gas_copper",
+  "name": "\u6C23\u614B\u8D64\u9285",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+  "summary": "\u64CD\u4F5C\u56FA\u6C23\u8F49\u5316\u6A5F\u6642\u9700\u56B4\u683C\u505A\u597D\u5B89\u5168\u9632\u8B77\u3002\u4E0D\u8981\u88AB\u9019\u4E00\u5718\u5718\u7D05\u8272\u96F2\u9727\u7684\u5916\u8868\u9A19\u4E86\uFF0C\u5B83\u8DB3\u4EE5\u9EDE\u71C3\u4EFB\u4F55\u4EBA\u7684\u9748\u9B42\u3002",
+  "description": "\u8D64\u9285\u7684\u6C23\u9AD4\u5F62\u614B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u7522\u751F\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/filling_copperjar_gas_copper_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_jar",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+          "quantity": 1,
+          "path": "/items/item_copper_jar",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gasjar_copper_gas_copper",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50\uFF08\u6C23\u614B\u8D64\u9285\uFF09",
+          "quantity": 1,
+          "path": "/items/item_gasjar_copper_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+          "contentIconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9"
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_copperjar_gas_copper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/gas_reactor_activity_copper_poly_gas_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 2,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_xiranite",
+          "name": "\u606F\u58E4\u6C23",
+          "quantity": 1,
+          "path": "/items/item_gas_xiranite",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_xiranite.png?v=64f2167c79b7445a70baf09d847c595a3aeadae697dab3939a4663c244ad0bfc",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_poly_gas",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u6C23",
+          "quantity": 1,
+          "path": "/items/item_activity_copper_poly_gas",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_poly_gas.png?v=2ec9de36f435ebe380889dcc3aad0e393248cabae59e8cd98c4a791d7e2818c2",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "gas_reactor_1",
+          "name": "\u6C23\u9AD4\u53CD\u61C9\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_gas_reactor_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agas_reactor_activity_copper_poly_gas_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_purifier_gas_copper_enr_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 2,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_filter_core",
+          "name": "\u5206\u96E2\u82AF",
+          "quantity": 2,
+          "path": "/items/item_filter_core",
+          "iconPath": "/media/wiki/catalogs/items/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper_enr",
+          "name": "\u6C23\u614B\u8D6B\u9285",
+          "quantity": 2,
+          "path": "/items/item_gas_copper_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "liquid_purifier_1",
+          "name": "\u63D0\u7D14\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_liquid_purifier_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_purifier_gas_copper_enr_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_purifier_gas_copper_enr_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 2,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_filter_core",
+          "name": "\u5206\u96E2\u82AF",
+          "quantity": 1,
+          "path": "/items/item_filter_core",
+          "iconPath": "/media/wiki/catalogs/items/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper_enr",
+          "name": "\u6C23\u614B\u8D6B\u9285",
+          "quantity": 2,
+          "path": "/items/item_gas_copper_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "liquid_purifier_1",
+          "name": "\u63D0\u7D14\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_liquid_purifier_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_purifier_gas_copper_enr_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_1_liquid_liquid_copper_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper",
+          "name": "\u8D64\u9285\u6EB6\u6DB2",
+          "quantity": 2,
+          "path": "/items/item_liquid_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_1",
+          "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_copper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_2_solid_copper_nugget_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 2,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_2",
+          "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_2_solid_copper_nugget_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/dismantler_copperjar_gas_copper_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gasjar_copper_gas_copper",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50\uFF08\u6C23\u614B\u8D64\u9285\uFF09",
+          "quantity": 1,
+          "path": "/items/item_gasjar_copper_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+          "contentIconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_jar",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+          "quantity": 1,
+          "path": "/items/item_copper_jar",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "dismantler_1",
+          "name": "\u62C6\u89E3\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_dismantler_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Adismantler_copperjar_gas_copper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_1_gas_gas_copper_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper",
+          "name": "\u8D64\u9285\u6EB6\u6DB2",
+          "quantity": 2,
+          "path": "/items/item_liquid_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_1",
+          "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_copper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_2_gas_gas_copper_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 2,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_2",
+          "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_2_gas_gas_copper_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

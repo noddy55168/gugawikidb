@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:handwork_bottled_insec2_1",
+    "name": "\u9644\u8853\u74F6",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_bottled_insec2_1.png?v=c5cae51ab03274cdc509f9cead89650f261294c0dbccaa35d0b611cf32b2256c",
+    "sortOrder": 55,
+    "path": "/industry/recipes/manual%3Ahandwork_bottled_insec2_1",
+    "outputSummary": "\u9644\u8853\u74F6 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_tundra_insect_2",
+      "name": "\u707C\u6BBC\u87F2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_tundra_insect_2.png?v=82f417315e6fe533242d293d20db4753cae4b99401eae6a2dc008af424adbd05",
+      "link": "/items/item_plant_tundra_insect_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_insec2_1",
+      "name": "\u9644\u8853\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_insec2_1.png?v=c5cae51ab03274cdc509f9cead89650f261294c0dbccaa35d0b611cf32b2256c",
+      "link": "/items/item_bottled_insec2_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_bottled_insec2_1",
+      "name": "\u9644\u8853\u74F6\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_bottled_insec2_1.png?v=c5cae51ab03274cdc509f9cead89650f261294c0dbccaa35d0b611cf32b2256c",
+      "link": null
+    }
+  ],
+  "devices": []
+}

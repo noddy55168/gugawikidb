@@ -1,0 +1,166 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_parkour",
+    "name": "\u8DD1\u8005\u904B\u52D5\u6703",
+    "description": "\u4E00\u5E74\u4E00\u5EA6\uFF01\u6B66\u9675\u8DD1\u8005\u4E4B\u9593\u6700\u53D7\u6B61\u8FCE\u7684\u7D9C\u5408\u904B\u52D5\u8CFD\u4E8B\u5C31\u6B64\u958B\u5E55\uFF01\u2026\u2026\u4F46\u4ECA\u5E74\u597D\u50CF\u6709\u9EDE\u4E0D\u4E00\u6A23\uFF1F",
+    "sourceType": 50,
+    "sortOrder": 6103,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_wuling_racing",
+    "tabImageId": "activity_tab_bg_wulingparkour",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/1 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1790827200,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/1 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1790827200,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/10/1 12:00:00",
+        "closeTimeRaw": "2026/10/14 17:00:00",
+        "openUnixSeconds": 1790874000,
+        "closeUnixSeconds": 1792015200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_racingdungeon",
+        "name": "\u8DA3\u5473\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#ffffff"
+  },
+  "instructionId": "instru_activity_wuling_racing",
+  "instructionTitle": "\u300C\u8DD1\u8005\u904B\u52D5\u6703\u300D\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6II - \u6771\u98A8\u5C31\u7DD2\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u524D\u5F80\u6B66\u9675\u57CE\u53C3\u8207\u8CFD\u8DD1\u6D3B\u52D5\u3002\n\u00B7 \u6D3B\u52D5\u5171\u67094\u500B\u8CFD\u9053\u3002\u6D3B\u52D5\u958B\u555F\u6642\uFF0C\u5C07\u6703\u958B\u653E\u524D2\u500B\u8CFD\u9053\u3002\u5F9E\u7B2C2\u5929\u8D77\uFF0C\u6BCF\u65E5\u5C07\u6703\u958B\u653E1\u500B\u65B0\u7684\u8CFD\u9053\u3002\n\u00B7 \u6BCF\u689D\u8CFD\u9053\u4E2D\u5B58\u5728\u53EF\u6536\u96C6\u7684\u9F8D\u6CE1\u6CE1\u6C23\u7403\uFF0C\u6536\u96C6\u5F8C\u5373\u53EF\u7D2F\u8A08[\u8DD1\u8005\u6B77\u7A0B]\u91CC\u7A0B\u7891\u9032\u5EA6\uFF1B\u7D2F\u8A08\u6536\u96C6\u9054\u5230\u7279\u5B9A\u6578\u91CF\u5F8C\uFF0C\u53EF\u9818\u53D6\u5C0D\u61C9\u7BC0\u9EDE\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_wuling_racing_1_condition",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6II - \u6771\u98A8\u5C31\u7DD2",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_wuling_racing_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_user_avatar_frame_activity_7",
+          "name": "\u51A0\u8ECD\u8DD1\u8005",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_case_bp_selfselect_skillsp_1",
+          "name": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1I",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_ap_supply_activity_wuling_racing",
+          "name": "\u300C\u6EFE\u52D5\u9F8D\u6CE1\u6CE1\u300D\u7279\u98F2",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 6,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 7,
+          "sourceItemId": "item_expcard_stage2_low",
+          "name": "\u521D\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 8,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 9,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 10,
+          "sourceItemId": "item_expcard_stage1_high",
+          "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 11,
+          "sourceItemId": "item_char_skill_level_1_6",
+          "name": "\u5354\u8B70\u7A1C\u67F1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

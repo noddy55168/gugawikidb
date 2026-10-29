@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_corp_whitegourd_1",
+    "name": "\u767D\u74DC\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_whitegourd_1.png?v=912c061897660490a5ee687df94c6a37bbb0fe13678669b4f52e4de83ca4afb6",
+    "sortOrder": 117,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_corp_whitegourd_1",
+    "outputSummary": "\u767D\u74DC\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_whitegourd_seed_1",
+      "name": "\u767D\u74DC\u7A2E\u5B50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_whitegourd_seed_1.png?v=68b5db89a0172cae24a2b048fbf36d4ae61d705ce4b3d3225d2b4cfc90b4e270",
+      "link": "/items/item_corp_whitegourd_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_corp_whitegourd_1",
+      "name": "\u767D\u74DC\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_whitegourd_1.png?v=912c061897660490a5ee687df94c6a37bbb0fe13678669b4f52e4de83ca4afb6",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_whitegourd_1",
+      "name": "\u767D\u74DC",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_whitegourd_1.png?v=168f559adc69545cf924007a07eaf308058c5a87abf3c0866fb21e67c4c2d066",
+      "link": "/items/item_corp_whitegourd_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_corp_whitegourd_seed_1",
+      "name": "\u767D\u74DC\u7A2E\u5B50",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_whitegourd_seed_1.png?v=68b5db89a0172cae24a2b048fbf36d4ae61d705ce4b3d3225d2b4cfc90b4e270",
+      "link": "/items/item_corp_whitegourd_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_corp_whitegourd_1",
+      "name": "\u767D\u74DC\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_whitegourd_1.png?v=912c061897660490a5ee687df94c6a37bbb0fe13678669b4f52e4de83ca4afb6",
+      "link": null
+    }
+  ],
+  "devices": []
+}

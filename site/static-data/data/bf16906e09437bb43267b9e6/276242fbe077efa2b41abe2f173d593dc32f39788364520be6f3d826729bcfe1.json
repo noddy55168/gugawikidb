@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:furnance_carbon_enr_powder_1",
+    "name": "\u7DFB\u5BC6\u78B3\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_carbon_enr_powder.png?v=d741d5d0c94039801ed092e9d7584a88c676812af231c3e913ed6b65f8df1d94",
+    "sortOrder": 24,
+    "path": "/industry/recipes/machine%3Afurnance_carbon_enr_powder_1",
+    "outputSummary": "\u7DFB\u5BC6\u78B3\u7C89\u672B \u00D7 1",
+    "deviceNames": [
+      "\u7CBE\u7149\u7210"
+    ]
+  },
+  "description": "\u7DFB\u5BC6\u78B3\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_enr_powder_1",
+      "name": "\u7D30\u78E8\u854E\u82B1\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_enr_powder_1.png?v=46b5fe24c45822eb19bfb6768e9fefb769cf9a7a9ead3bb9ca57a26f6bd4929f",
+      "link": "/items/item_plant_moss_enr_powder_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_carbon_enr_powder",
+      "name": "\u7DFB\u5BC6\u78B3\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_enr_powder.png?v=d741d5d0c94039801ed092e9d7584a88c676812af231c3e913ed6b65f8df1d94",
+      "link": "/items/item_carbon_enr_powder"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_furnance_1",
+      "name": "\u7CBE\u7149\u7210",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_furnance_1.png?v=fe587cb85015af4f97013b92155ea4862e0addbaa04835879626a070d92c35a9",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_furnance_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

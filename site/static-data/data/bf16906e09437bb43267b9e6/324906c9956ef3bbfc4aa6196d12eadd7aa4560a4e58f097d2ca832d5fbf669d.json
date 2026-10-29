@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:hdwk_jzmonk_1_hsmob_1_1",
+    "name": "\u9673\u76AE\u62CC\u7B4D",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_jzmonk_1_hsmob_1_1.png?v=8fa0b20692856f7f185fed4b372d68fc05b8aa2c112357857e65a07f972518c3",
+    "sortOrder": 34,
+    "path": "/industry/recipes/manual%3Ahdwk_jzmonk_1_hsmob_1_1",
+    "outputSummary": "\u9673\u76AE\u62CC\u7B4D \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_jzmonk_1",
+      "name": "\u767E\u5E74\u9673\u76AE",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_jzmonk_1.png?v=f8a5f43dac1e2c16970d7cae8918d5d426e2acef6af5dc644636d41f5c1541ff",
+      "link": "/items/item_drop_jzmonk_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_hsmob_1",
+      "name": "\u65B0\u7B4D",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+      "link": "/items/item_drop_hsmob_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_jzmonk_1_hsmob_1_1",
+      "name": "\u9673\u76AE\u62CC\u7B4D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_jzmonk_1_hsmob_1_1.png?v=8fa0b20692856f7f185fed4b372d68fc05b8aa2c112357857e65a07f972518c3",
+      "link": "/items/item_jzmonk_1_hsmob_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_jzmonk_1_hsmob_1_1",
+      "name": "\u9673\u76AE\u62CC\u7B4D\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_jzmonk_1_hsmob_1_1.png?v=8fa0b20692856f7f185fed4b372d68fc05b8aa2c112357857e65a07f972518c3",
+      "link": null
+    }
+  ],
+  "devices": []
+}

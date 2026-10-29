@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_display_stand_1",
+    "name": "\u300C\u5076\u50CF\u7684\u8EAB\u59FF\u300D\u7ACB\u724C",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_display_stand_1.png?v=f975bb27a1c7c944be934c011214aa5ee8117f8787de3d53cc4f3c3eb8dffbb8",
+    "sortOrder": 10,
+    "path": "/industry/devices/wiki_item_port_display_stand_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "display_stand_1",
+  "needPower": false,
+  "width": 2,
+  "depth": 1,
+  "height": 2,
+  "recipes": []
+}

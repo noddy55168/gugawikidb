@@ -1,0 +1,267 @@
+{
+  "sourceItemId": "item_equip_t4_suit_heal01_edc_05",
+  "name": "\u751F\u7269\u8F14\u52A9\u63A5\u99C1\u5668\u00B7I",
+  "rarity": 5,
+  "category": "\u914D\u4EF6",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_01.png?v=400f8d35ab8aeedfc854deaa31935755393944a494ba19c122cfd16395c839c4",
+  "description": "\u91AB\u7642\u8005\u5011\u611B\u7528\u7684\u88DD\u5099\u3002\n\u7F85\u5FB7\u5CF6\u958B\u767C\u4E86\u80FD\u5920\u6821\u6E96\u6578\u64DA\u7684\u63A5\u99C1\u55AE\u5143\uFF0C\u4EE5\u4FBF\u5728\u7DCA\u6025\u72C0\u6CC1\u4E0B\u63A5\u5165\u4E0D\u540C\u7684\u7DAD\u751F\u7CFB\u7D71\uFF0C\u5B8C\u6210\u6025\u6551\u4F5C\u696D\u3002",
+  "lore": "\u672C\u88DD\u5099\u7531\u7F85\u5FB7\u5CF6\u8A2D\u8A08\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 70,
+  "suitId": "suit_heal01",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 21,
+          "displayValue": "21"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u529B\u91CF",
+      "values": [
+        {
+          "stage": 0,
+          "value": 32,
+          "displayValue": "32"
+        },
+        {
+          "stage": 1,
+          "value": 35,
+          "displayValue": "35"
+        },
+        {
+          "stage": 2,
+          "value": 38,
+          "displayValue": "38"
+        },
+        {
+          "stage": 3,
+          "value": 41,
+          "displayValue": "41"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "\u610F\u5FD7",
+      "values": [
+        {
+          "stage": 0,
+          "value": 21,
+          "displayValue": "21"
+        },
+        {
+          "stage": 1,
+          "value": 23,
+          "displayValue": "23"
+        },
+        {
+          "stage": 2,
+          "value": 25,
+          "displayValue": "25"
+        },
+        {
+          "stage": 3,
+          "value": 27,
+          "displayValue": "27"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u751F\u547D\u503C",
+      "values": [
+        {
+          "stage": 0,
+          "value": 0.414,
+          "displayValue": "41.4%"
+        },
+        {
+          "stage": 1,
+          "value": 0.4554,
+          "displayValue": "45.5%"
+        },
+        {
+          "stage": 2,
+          "value": 0.4968,
+          "displayValue": "49.7%"
+        },
+        {
+          "stage": 3,
+          "value": 0.5382,
+          "displayValue": "53.8%"
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "requiredCount": 3,
+      "name": "\u751F\u7269\u8F14\u52A9",
+      "description": "3\u4EF6\u5957\u88DD\u6548\u679C\uFF1A\u88DD\u5099\u8005\u6CBB\u7642\u6548\u7387\u002B20%\u3002\n\u7576\u88DD\u5099\u8005\u6CBB\u7642\u6211\u65B9\u76EE\u6A19\u5F8C\uFF0C\u4F7F\u8A72\u76EE\u6A19\u572810\u79D2\u5167\u53D7\u5230\u7684\u6240\u6709\u985E\u578B\u50B7\u5BB3-15%\uFF1B\u5982\u679C\u8A72\u76EE\u6A19\u53D7\u5230\u7684\u6CBB\u7642\u91CF\u6EA2\u51FA\uFF0C\u5247\u53D7\u5230\u7684\u6240\u6709\u985E\u578B\u50B7\u5BB3-30%\u3002\u4E0A\u8FF0\u6548\u679C\u7121\u6CD5\u758A\u52A0\u3002",
+      "bindingStatus": "bound"
+    }
+  ],
+  "suitEquipment": [
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_hand_01",
+      "name": "\u751F\u7269\u8F14\u52A9\u81C2\u7532",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_hand_01.png?v=d041ecf10ef29f969a26c2d05ae4fdc7d05eac6c71b3cf84b6f8bef27347166a",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_hand_02",
+      "name": "\u751F\u7269\u8F14\u52A9\u624B\u7532",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_hand_02.png?v=499b579dea64b4f23a81e7ba84300ae4e7a89c5fd58cd0f5c995a490d76a29e2",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_hand_03",
+      "name": "\u751F\u7269\u8F14\u52A9\u624B\u7532\u00B7I",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_hand_03.png?v=35ce9f7c507d559b1076d88e5bec3a4447a11c90850ed0829ea72bd48f2d4ff3",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_body_01",
+      "name": "\u751F\u7269\u8F14\u52A9\u91CD\u7532",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_body_01.png?v=17d03170ed6441903865ad71e08dae638e256d2a3733ac8c7a017237baa8e0ba",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_body_02",
+      "name": "\u751F\u7269\u8F14\u52A9\u80F8\u7532",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_body_02.png?v=839d326c571757006b6e85678f608a955b5b2664835cbe080725b226a41af3c9",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_body_03",
+      "name": "\u751F\u7269\u8F14\u52A9\u80F8\u7532\u00B7I",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_body_03.png?v=ef15796db6580941d0fe134d845dd34e96b25fd8a53a43da85454a74c6a43e35",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_edc_01",
+      "name": "\u751F\u7269\u8F14\u52A9\u63A5\u99C1\u5668",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_01.png?v=400f8d35ab8aeedfc854deaa31935755393944a494ba19c122cfd16395c839c4",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_edc_05",
+      "name": "\u751F\u7269\u8F14\u52A9\u63A5\u99C1\u5668\u00B7I",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_01.png?v=400f8d35ab8aeedfc854deaa31935755393944a494ba19c122cfd16395c839c4",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_edc_02",
+      "name": "\u751F\u7269\u8F14\u52A9\u63A5\u99C1\u5668\u00B7II",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_02.png?v=4d73becf4320dd6a781bebd7cc8354c518cc9a43d53f4c555b1513163415963f",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_edc_03",
+      "name": "\u751F\u7269\u8F14\u52A9\u8B77\u677F",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_03.png?v=5b7e1e5abe56446c015fa7507d94960d21da8a384de8d440d39a836cc2a1a631",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_heal01_edc_04",
+      "name": "\u751F\u7269\u8F14\u52A9\u8B77\u76FE\u91DD",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_heal01_edc_04.png?v=365d7fd363ed6bdee875bbb3fd68ca9ea1b221a9c678c604b59c7c20a799ba3b",
+      "hasDetail": true
+    }
+  ],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t4_suit_heal01_edc_05",
+      "chainId": 4000,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4",
+          "name": "\u606F\u58E4\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4.png?v=2b59c250941303720f2b8ace0069b829e71ccc1d724503dde544ef188b729223"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 8000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_suit_heal01_edc_05",
+      "chainId": 4001,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_1",
+          "name": "\u8D64\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_1.png?v=30b1a3aa22ed1cefdfafa77dce32abe359d267b9923bf898f08063f5a234dd7b"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 8000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_suit_heal01_edc_05",
+      "chainId": 4002,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_2",
+          "name": "\u8D6B\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 10,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_2.png?v=e645fdd08a1fe2b30cea822f323f711c7ed73183ca398083eda1aa2be379972a"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 8000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_suit_heal01_edc_05",
+      "chainId": 4003,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 5,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 80,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:handwork_bottled_flower1spc_1",
+    "name": "\u5C0F\u74F6\u854E\u5FA9\u9320\u5291",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_bottled_flower1spc_1.png?v=04eecb33bd7920f80e983ab50ff913b2bc4062f0b2c327bdbfcfe9e811d31ae6",
+    "sortOrder": 22,
+    "path": "/industry/recipes/manual%3Ahandwork_bottled_flower1spc_1",
+    "outputSummary": "\u5C0F\u74F6\u854E\u5FA9\u9320\u5291 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_spc_powder_1",
+      "name": "\u854E\u7652\u85E5\u7C89",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_plant_moss_spc_powder_1.png?v=10ca120afe2d60e6269a423c92e64f961beacb81a76927659d29c21495fea67e",
+      "link": "/items/item_plant_moss_spc_powder_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_flower1spc_1",
+      "name": "\u5C0F\u74F6\u854E\u5FA9\u9320\u5291",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_flower1spc_1.png?v=04eecb33bd7920f80e983ab50ff913b2bc4062f0b2c327bdbfcfe9e811d31ae6",
+      "link": "/items/item_bottled_flower1spc_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_bottled_flower1spc_1",
+      "name": "\u5C0F\u74F6\u854E\u5FA9\u9320\u5291\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_bottled_flower1spc_1.png?v=04eecb33bd7920f80e983ab50ff913b2bc4062f0b2c327bdbfcfe9e811d31ae6",
+      "link": null
+    }
+  ],
+  "devices": []
+}

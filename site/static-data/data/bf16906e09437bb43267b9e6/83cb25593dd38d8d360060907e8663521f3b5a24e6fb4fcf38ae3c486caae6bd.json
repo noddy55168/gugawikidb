@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:filling_bottled_glass_acid",
+    "name": "\u7D2B\u6676\u8CEA\u74F6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+    "sortOrder": 2,
+    "path": "/industry/recipes/machine%3Afilling_bottled_glass_acid",
+    "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+    "deviceNames": [
+      "\u704C\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u6C89\u7A4D\u9178\uFF08\u704C\u88DD\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_acid",
+      "name": "\u6C89\u7A4D\u9178",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+      "link": "/items/item_liquid_acid"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_fbottle_glass_acid",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+      "link": "/items/item_fbottle_glass_acid"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_filling_pd_mc_1",
+      "name": "\u704C\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_filling_pd_mc_1.png?v=45b74bdfae4b744bd94bc624b5fc1b026472a17ea3e4dfa6b957d8544cac338f",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

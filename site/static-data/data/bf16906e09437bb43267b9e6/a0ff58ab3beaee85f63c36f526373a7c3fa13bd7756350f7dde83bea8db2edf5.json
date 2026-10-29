@@ -1,0 +1,77 @@
+{
+  "sourceItemId": "item_drop_firebat_1",
+  "name": "\u7570\u8272\u6CB9\u8102",
+  "rarity": 2,
+  "category": "\u63A1\u96C6\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_drop_firebat_1.png?v=8f09d22c58013df22d6d90eed1170bef3ad04c5b4e9f915af0baf4b5e283e817",
+  "summary": "\u78BE\u9AA8\u6E05\u9053\u592B\u7684\u88DD\u5099\u6240\u4F7F\u7528\u7684\u7279\u6B8A\u5099\u7528\u71C3\u6599\uFF0C\u4F3C\u4E4E\u662F\u67D0\u7A2E\u6DF7\u96DC\u4E86\u67D3\u8272\u5291\u7684\u52D5\u7269\u6CB9\u8102\u3002\u5728\u751F\u7522\u8207\u63A0\u596A\u7684\u60C5\u6CC1\u90FD\u4E0D\u751A\u6A02\u89C0\u6642\uFF0C\u88C2\u5730\u8005\u5011\u5076\u723E\u4E5F\u6703\u300C\u5C31\u5730\u53D6\u6750\u300D\u3002",
+  "description": "\u64CA\u6557\u78BE\u9AA8\u6E05\u9053\u592B\u7684\u6389\u843D\u7269\uFF0C\u53EF\u7528\u65BC\u7CBE\u88FD\u98DF\u85E5\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u4E2D\u64CA\u6557\u6575\u4EBA\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_eny_0047_firebat",
+      "description": "\u64CA\u6557\u78BE\u9AA8\u6E05\u9053\u592B\u6709\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_jlebm_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_firebat_1_agrange_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_firebat_1",
+          "name": "\u7570\u8272\u6CB9\u8102",
+          "quantity": 1,
+          "path": "/items/item_drop_firebat_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_firebat_1.png?v=8f09d22c58013df22d6d90eed1170bef3ad04c5b4e9f915af0baf4b5e283e817",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agrange_1",
+          "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agrange_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_firebat_1_agrange_1_1",
+          "name": "\u53EF\u98DF\u7528\u5DE2\u96D5",
+          "quantity": 1,
+          "path": "/items/item_firebat_1_agrange_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_firebat_1_agrange_1_1.png?v=15f2567ca7466aac299be52db4310c617b9267759b2c81d3d202f26336bd2f7a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_firebat_1_agrange_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

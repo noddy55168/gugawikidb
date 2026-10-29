@@ -1,0 +1,49 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_more",
+    "name": "\u66F4\u591A\u6D3B\u52D5",
+    "description": "\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u4EE5\u89E3\u9396\u66F4\u591A\u6D3B\u52D5",
+    "sourceType": 1,
+    "sortOrder": 100,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_more",
+    "tabImageId": "activity_tab_bg_more",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765270800,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [],
+    "themeColor": "#fff100"
+  },
+  "instructionId": "",
+  "instructionTitle": "",
+  "instructionContent": "",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

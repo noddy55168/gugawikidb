@@ -1,0 +1,73 @@
+{
+  "entry": {
+    "key": "wiki_item_port_xiranite_oven_1",
+    "name": "\u5929\u6709\u6D2A\u7210",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_xiranite_oven_1.png?v=af24caa989024f0c704db9e3e2ca3f49dacb19cf2fd7bea5eddd307794320afc",
+    "sortOrder": 7,
+    "path": "/industry/devices/wiki_item_port_xiranite_oven_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7528\u65BC\u606F\u58E4\u76F8\u95DC\u7522\u7269\u5408\u6210\u7684\u8A2D\u5099\u3002",
+  "sourceId": "xiranite_oven_1",
+  "needPower": true,
+  "width": 5,
+  "depth": 5,
+  "height": 5,
+  "recipes": [
+    {
+      "key": "machine:xiranite_oven_muck_xiranite_1",
+      "name": "\u81A8\u5730\u556A",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_muck_xiranite_1.png?v=7b0b0dfec59c8504b68a2634cb867d43b57c4634728ffd841f87cfbfc6e58aa8",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Axiranite_oven_muck_xiranite_1",
+      "outputSummary": "\u81A8\u5730\u556A \u00D7 1",
+      "deviceNames": [
+        "\u5929\u6709\u6D2A\u7210"
+      ]
+    },
+    {
+      "key": "machine:xiranite_oven_xiranite_enr_powder_1",
+      "name": "\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Axiranite_oven_xiranite_enr_powder_1",
+      "outputSummary": "\u91CD\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u5929\u6709\u6D2A\u7210"
+      ]
+    },
+    {
+      "key": "machine:xiranite_oven_xiranite_powder_1",
+      "name": "\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Axiranite_oven_xiranite_powder_1",
+      "outputSummary": "\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u5929\u6709\u6D2A\u7210"
+      ]
+    },
+    {
+      "key": "machine:xiranite_oven_xiranite_powder_2",
+      "name": "\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Axiranite_oven_xiranite_powder_2",
+      "outputSummary": "\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u5929\u6709\u6D2A\u7210"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sourceItemId": "item_device_balloon_recycle_3",
+  "name": "\u6D6E\u7A7A\u56DE\u6536\u5668III",
+  "rarity": 5,
+  "category": "\u96A8\u8EAB\u88DD\u7F6E",
+  "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_3.png?v=5d0b42ea551dc9e778deae09e39da11beb8e16731c91c51e24b07f0d8596d202",
+  "summary": "\u7528\u4F86\u8ABF\u6574\u6D6E\u7A7A\u56DE\u6536\u7CFB\u7D71\u7684\u53C3\u578B\u5DE5\u5177\u7D44\u3002",
+  "description": "\u914D\u5099\u5728\u80CC\u5305\u96A8\u8EAB\u88DD\u7F6E\u683C\u5F8C\uFF0C\u53EF\u6D6E\u7A7A\u56DE\u6536\u5927\u4E2D\u5C0F\u578B\u5F85\u56DE\u6536\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u96A8\u8EAB\u88DD\u7F6E",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/item_device_balloon_recycle_3/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_balloon_recycle_2",
+          "name": "\u6D6E\u7A7A\u56DE\u6536\u5668II",
+          "quantity": 1,
+          "path": "/items/item_device_balloon_recycle_2",
+          "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_2.png?v=98894af9ffabd1ae88057cfd75edf40a5f9bad40a39cdeb389bf0bc60d7bc288",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_balloon_recycle_3",
+          "name": "\u6D6E\u7A7A\u56DE\u6536\u5668III",
+          "quantity": 1,
+          "path": "/items/item_device_balloon_recycle_3",
+          "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_3.png?v=5d0b42ea551dc9e778deae09e39da11beb8e16731c91c51e24b07f0d8596d202",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_device_balloon_recycle_3"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

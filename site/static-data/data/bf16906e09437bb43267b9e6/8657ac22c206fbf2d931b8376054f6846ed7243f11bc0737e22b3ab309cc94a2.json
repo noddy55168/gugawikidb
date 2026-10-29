@@ -1,0 +1,177 @@
+{
+  "entry": {
+    "key": "wiki_item_port_phase_trans_1",
+    "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_phase_trans_1.png?v=205b4d8e6e53d9ad860ad2bb1574e22f81ad7fa9c0ba34a40543f289e35e4ba0",
+    "sortOrder": 10,
+    "path": "/industry/devices/wiki_item_port_phase_trans_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u900F\u904E\u6301\u7E8C\u901A\u5165\u6DB2\u5316\u606F\u58E4\u555F\u52D5\uFF0C\u53EF\u4EE5\u5C07\u7269\u54C1\u7684\u7269\u8CEA\u5F62\u614B\u5728\u6C23\u614B\u548C\u6DB2\u614B\u4E4B\u9593\u9032\u884C\u8F49\u5316\u7684\u8A2D\u5099\u3002",
+  "sourceId": "transmuter_1",
+  "needPower": true,
+  "width": 5,
+  "depth": 5,
+  "height": 5,
+  "recipes": [
+    {
+      "key": "machine:liquid_transmuter_1_gas_gas_acid_1",
+      "name": "\u9178\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_gas_acid.png?v=c4af4d46e0c8eb79cbff980757c9a964011a10cda80a1a4a06a03a1526f8199a",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_acid_1",
+      "outputSummary": "\u9178\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_gas_gas_copper_1",
+      "name": "\u6C23\u614B\u8D64\u9285",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_copper_1",
+      "outputSummary": "\u6C23\u614B\u8D64\u9285 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_gas_gas_copper_enr_1",
+      "name": "\u6C23\u614B\u8D6B\u9285",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_gas_copper_enr.png?v=0a224321e7f035c5b568f6e622d1c04dbd1ec03d0fc40931e2a4dd6d3155cdec",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_copper_enr_1",
+      "outputSummary": "\u6C23\u614B\u8D6B\u9285 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_gas_gas_water_1",
+      "name": "\u6C34\u84B8\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_gas_water.png?v=c30b18f31678390d82e3922b7a8041607dd05cc643da485e092de3642c9a8d3e",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_water_1",
+      "outputSummary": "\u6C34\u84B8\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_gas_gas_xiranite_1",
+      "name": "\u606F\u58E4\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_gas_xiranite.png?v=64f2167c79b7445a70baf09d847c595a3aeadae697dab3939a4663c244ad0bfc",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_xiranite_1",
+      "outputSummary": "\u606F\u58E4\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_gas_gas_xiranite_enr_1",
+      "name": "\u91CD\u606F\u58E4\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_gas_xiranite_enr.png?v=07f92b772698df9eeb38815afcb4cd6cb6381a6d9049c8501d0b05e8ee3bb15a",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_xiranite_enr_1",
+      "outputSummary": "\u91CD\u606F\u58E4\u6C23 \u00D7 5",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_liquid_liquid_acid_1",
+      "name": "\u6C89\u7A4D\u9178",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_acid_1",
+      "outputSummary": "\u6C89\u7A4D\u9178 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_liquid_liquid_copper_1",
+      "name": "\u8D64\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_copper_1",
+      "outputSummary": "\u8D64\u9285\u6EB6\u6DB2 \u00D7 2",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_liquid_liquid_copper_enr_1",
+      "name": "\u8D6B\u9285\u6EB6\u6DB2",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_copper_enr.png?v=d32c141984f23c8aea871b72e7340e3af9547f471de5ecd248a962b22ceec17a",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_copper_enr_1",
+      "outputSummary": "\u8D6B\u9285\u6EB6\u6DB2 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_liquid_liquid_water_1",
+      "name": "\u6E05\u6C34",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_water_1",
+      "outputSummary": "\u6E05\u6C34 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_liquid_liquid_xiranite_1",
+      "name": "\u6DB2\u5316\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite.png?v=c0b55927ac780b77e09d8118302e93c0f9d8bda81a8aad6f339d1a8e6800918f",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_xiranite_1",
+      "outputSummary": "\u6DB2\u5316\u606F\u58E4 \u00D7 1",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:liquid_transmuter_1_liquid_liquid_xiranite_enr_1",
+      "name": "\u6DB2\u5316\u91CD\u606F\u58E4",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_enr.png?v=a217f392cfbc921f54e5ad3a1740d868eb45359ee192c0d6d6a35238edd5d073",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Aliquid_transmuter_1_liquid_liquid_xiranite_enr_1",
+      "outputSummary": "\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 2",
+      "deviceNames": [
+        "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+      ]
+    }
+  ]
+}

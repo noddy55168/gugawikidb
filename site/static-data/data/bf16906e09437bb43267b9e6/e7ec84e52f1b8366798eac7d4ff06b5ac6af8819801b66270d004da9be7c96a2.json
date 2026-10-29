@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_mimicw_1_moss_1_moss_2_1",
+    "name": "\u958B\u5DE5\u65E5\u8089\u6E6F",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_mimicw_1_moss_1_moss_2_1.png?v=4fd3e805921aadceb03e496f17976532059b032de6e3eb2fdfa1f8495b250e5f",
+    "sortOrder": 50,
+    "path": "/industry/recipes/manual%3Ahdwk_mimicw_1_moss_1_moss_2_1",
+    "outputSummary": "\u958B\u5DE5\u65E5\u8089\u6E6F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_mimicw_1",
+      "name": "\u866F\u7378\u7684\u9B1A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_mimicw_1.png?v=8d997767a8391556f3cdb5bde5d2077effb167d65f4dc7e582a408843fdf271c",
+      "link": "/items/item_drop_mimicw_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_moss_powder_1",
+      "name": "\u854E\u82B1\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+      "link": "/items/item_plant_moss_powder_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_moss_powder_2",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "link": "/items/item_plant_moss_powder_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_mimicw_1_moss_1_moss_2_1",
+      "name": "\u958B\u5DE5\u65E5\u8089\u6E6F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_mimicw_1_moss_1_moss_2_1.png?v=4fd3e805921aadceb03e496f17976532059b032de6e3eb2fdfa1f8495b250e5f",
+      "link": "/items/item_mimicw_1_moss_1_moss_2_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_mimicw_1_moss_1_moss_2_1",
+      "name": "\u958B\u5DE5\u65E5\u8089\u6E6F\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_mimicw_1_moss_1_moss_2_1.png?v=4fd3e805921aadceb03e496f17976532059b032de6e3eb2fdfa1f8495b250e5f",
+      "link": null
+    }
+  ],
+  "devices": []
+}

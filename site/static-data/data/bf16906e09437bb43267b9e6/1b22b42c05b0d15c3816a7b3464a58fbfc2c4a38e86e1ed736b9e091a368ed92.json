@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:seedcollector_plant_strawberry_1",
+    "name": "\u9752\u8449\u8393\u7A2E\u5B50",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_corp_strawberry_seed_1.png?v=89b8e8f3870503fecb13e636b3783405c9e6d9c14de3165f77b818941e255f83",
+    "sortOrder": 17,
+    "path": "/industry/recipes/machine%3Aseedcollector_plant_strawberry_1",
+    "outputSummary": "\u9752\u8449\u8393\u7A2E\u5B50 \u00D7 2",
+    "deviceNames": [
+      "\u63A1\u7A2E\u6A5F"
+    ]
+  },
+  "description": "\u9752\u8449\u8393\u7A2E\u5B50\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_strawberry_1",
+      "name": "\u9752\u8449\u8393",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_strawberry_1.png?v=839eee60af7a319ac94de91695503a46df4453c0a25c9d08353a3e9e6275cebe",
+      "link": "/items/item_corp_strawberry_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_strawberry_seed_1",
+      "name": "\u9752\u8449\u8393\u7A2E\u5B50",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_corp_strawberry_seed_1.png?v=89b8e8f3870503fecb13e636b3783405c9e6d9c14de3165f77b818941e255f83",
+      "link": "/items/item_corp_strawberry_seed_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_seedcol_1",
+      "name": "\u63A1\u7A2E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+      "sortOrder": 6,
+      "path": "/industry/devices/wiki_item_port_seedcol_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

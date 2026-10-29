@@ -1,0 +1,255 @@
+{
+  "entry": {
+    "key": "wiki_item_port_tools_asm_mc_1",
+    "name": "\u5C01\u88DD\u6A5F",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+    "sortOrder": 3,
+    "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7528\u65BC\u5C01\u88DD\u90E8\u5206\u80FD\u91CF\u5143\u4EF6\u7684\u8A2D\u5099\u3002",
+  "sourceId": "tools_assebling_mc_1",
+  "needPower": true,
+  "width": 6,
+  "depth": 4,
+  "height": 4,
+  "recipes": [
+    {
+      "key": "machine:tools_proc_activity_copper_poly_tool_1",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9AA8\u9ABC",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly_tool.png?v=28b4cbb471d7b8c79865ceb9cf68fc6fc8b85d50ae836d45c5f85c4ec33fd5ee",
+      "sortOrder": 16,
+      "path": "/industry/recipes/machine%3Atools_proc_activity_copper_poly_tool_1",
+      "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u9285\u9AA8\u9ABC \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_activity_xiranite_copper_tool_1",
+      "name": "\u5BE6\u9A57\u9285\u9AA8\u9ABC",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_copper_xiranite_tool.png?v=8e1758948827e77bc87495b52c7b7e7e262ba9ccdeeb7d24e88415b807289ef5",
+      "sortOrder": 15,
+      "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_copper_tool_1",
+      "outputSummary": "\u5BE6\u9A57\u9285\u9AA8\u9ABC \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_activity_xiranite_enr_hulu_1",
+      "name": "\u606F\u58E4\u7389\u846B\u8606",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_hulu.png?v=490dad0bda292eebf4efc87cfc7e381d14f6f3bcfb6b62b4370d1f87b38a0938",
+      "sortOrder": 13,
+      "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_enr_hulu_1",
+      "outputSummary": "\u606F\u58E4\u7389\u846B\u8606 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_activity_xiranite_enr_lung",
+      "name": "\u91CD\u606F\u58E4\u9F8D\u6CE1\u6CE1",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_lung.png?v=d6050c57f49a9c8d0d6a82bcb75d8d4b9071ec7ff44c115687157983e472f322",
+      "sortOrder": 18,
+      "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_enr_lung",
+      "outputSummary": "\u91CD\u606F\u58E4\u9F8D\u6CE1\u6CE1 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_activity_xiranite_enr_tool_1",
+      "name": "\u5BE6\u9A57\u7389\u9285\u767C\u6563\u5668",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_tool.png?v=70d2750dba0e8c52806566008aa00d6012b738c63551eb713eaf0193d747b3a0",
+      "sortOrder": 11,
+      "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_enr_tool_1",
+      "outputSummary": "\u5BE6\u9A57\u7389\u9285\u767C\u6563\u5668 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_activity_xiranite_hulu_1",
+      "name": "\u606F\u58E4\u846B\u8606",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_hulu.png?v=1344205e5fc264f451670a354c34fed535a9faeff83fa173a1090ff1be89982b",
+      "sortOrder": 12,
+      "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_hulu_1",
+      "outputSummary": "\u606F\u58E4\u846B\u8606 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_activity_xiranite_lung",
+      "name": "\u606F\u58E4\u9F8D\u6CE1\u6CE1",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_lung.png?v=c8d53c7c991733dc5a0fbd4b0e6e513116d41f4ec95ec9105aa20d36e61b1471",
+      "sortOrder": 17,
+      "path": "/industry/recipes/machine%3Atools_proc_activity_xiranite_lung",
+      "outputSummary": "\u606F\u58E4\u9F8D\u6CE1\u6CE1 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_battery_1_1",
+      "name": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_proc_battery_1.png?v=71590f58b13552d8a07e6d0fe1aa3b9bbffa785a0a1e95018750dc7d9451f49c",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Atools_proc_battery_1_1",
+      "outputSummary": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_battery_2_1",
+      "name": "\u4E2D\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_proc_battery_2.png?v=c30b3bcd7ea1a0dc28cd6f5d5a45e4fa370c022988275bf46c4dc18becbd154e",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Atools_proc_battery_2_1",
+      "outputSummary": "\u4E2D\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_battery_3_1",
+      "name": "\u9AD8\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_proc_battery_3.png?v=9f8979d3d649b27e8ede44b152fc7e7bd677a92d9c5e9a393f022bfcefa785e8",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Atools_proc_battery_3_1",
+      "outputSummary": "\u9AD8\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_battery_4_1",
+      "name": "\u4F4E\u5BB9\u91CF\u6B66\u9675\u96FB\u6C60",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_proc_battery_4.png?v=18e78fd3e49fd042c62db3cad845fbe1a6c3761fa8b453fdc5a96b3502430f16",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Atools_proc_battery_4_1",
+      "outputSummary": "\u4F4E\u5BB9\u91CF\u6B66\u9675\u96FB\u6C60 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_battery_5_1",
+      "name": "\u4E2D\u5BB9\u91CF\u6B66\u9675\u96FB\u6C60",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_proc_battery_5.png?v=c701de0e493d6d02f09f1a7fc1c13a106abae818d8a8cc60265e17384ab2affd",
+      "sortOrder": 10,
+      "path": "/industry/recipes/machine%3Atools_proc_battery_5_1",
+      "outputSummary": "\u4E2D\u5BB9\u91CF\u6B66\u9675\u96FB\u6C60 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_bomb_1_1",
+      "name": "\u5DE5\u696D\u7206\u70B8\u7269",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_proc_bomb_1.png?v=f35878fe2c5fe672f2b3306c20b8fa860beeb06162923182c04cd3d84ff64691",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Atools_proc_bomb_1_1",
+      "outputSummary": "\u5DE5\u696D\u7206\u70B8\u7269 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_filter_core_2",
+      "name": "\u5206\u96E2\u82AF",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+      "sortOrder": 14,
+      "path": "/industry/recipes/machine%3Atools_proc_filter_core_2",
+      "outputSummary": "\u5206\u96E2\u82AF \u00D7 2",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_food_4_1",
+      "name": "\u9326\u8349\u98F2\u6599",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_food_4.png?v=e2608727bec0feb7061d9828b65131e47d62f032e0ea2ff51838cb923ed31d87",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Atools_proc_food_4_1",
+      "outputSummary": "\u9326\u8349\u98F2\u6599 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_food_5_1",
+      "name": "\u512A\u8CEA\u9326\u8349\u98F2\u6599",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_food_5.png?v=5842f775ddde46301895b5d0bf4cd40b32c877faffd4a044e997e6f6ce15ed69",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Atools_proc_food_5_1",
+      "outputSummary": "\u512A\u8CEA\u9326\u8349\u98F2\u6599 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_rec_hp_4_1",
+      "name": "\u82BD\u91DD\u91DD\u5291",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_rec_hp_4.png?v=f4570b8234a95a3c3fd0a878831394454bdb8b6995c507aa530bef05f2e52424",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Atools_proc_rec_hp_4_1",
+      "outputSummary": "\u82BD\u91DD\u91DD\u5291 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:tools_proc_rec_hp_5_1",
+      "name": "\u512A\u8CEA\u82BD\u91DD\u91DD\u5291",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_bottled_rec_hp_5.png?v=a85c064ef4c05331793e0c9e9bd2747ce74e949b54599b968317de18c6b6ec8d",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Atools_proc_rec_hp_5_1",
+      "outputSummary": "\u512A\u8CEA\u82BD\u91DD\u91DD\u5291 \u00D7 1",
+      "deviceNames": [
+        "\u5C01\u88DD\u6A5F"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:power_diffuser_2",
+    "name": "\u606F\u58E4\u4F9B\u96FB\u6A01",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_power_diffuser_2.png?v=9827435f1fbed175a6c0a6f59176c3f142529c575d00eaa415c020dafcc2135e",
+    "sortOrder": 104,
+    "path": "/industry/recipes/hub%3Apower_diffuser_2",
+    "outputSummary": "\u606F\u58E4\u4F9B\u96FB\u6A01 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_power_diffuser_2",
+      "name": "\u606F\u58E4\u4F9B\u96FB\u6A01",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_power_diffuser_2.png?v=9827435f1fbed175a6c0a6f59176c3f142529c575d00eaa415c020dafcc2135e",
+      "link": null
+    }
+  ],
+  "devices": []
+}

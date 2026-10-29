@@ -1,0 +1,109 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_puzzle_1",
+    "name": "\u5BC6\u5883\u884C\u8005",
+    "description": "\u96A8\u8457\u7BA1\u7406\u54E1\u9192\u4F86\uFF0C\u7D42\u672B\u5730\u5DE5\u696D\u91CD\u555F\u4E86\u5C0D\u9019\u4E9B\u5C0F\u578B\u3001\u591A\u8B8A\u5354\u8B70\u7A7A\u9593\u7684\u63A2\u7D22\u8A08\u5283\u3002",
+    "sourceType": 7,
+    "sortOrder": 2001,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_puzzle_1",
+    "tabImageId": "activity_tab_bg_dungeon",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/2/24 12:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1771905600,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/2/24 12:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1771905600,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/2/24 12:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1771952400,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_puzzle",
+        "name": "\u89E3\u8B0E\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff078"
+  },
+  "instructionId": "Dungeon_Challenge",
+  "instructionTitle": "\u300C\u5BC6\u5883\u884C\u8005\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u958B\u62D3\u524D\u8DEF\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u672C\u6D3B\u52D5\u5305\u542B\u4E00\u7CFB\u5217\u7A7A\u9593\u7D44\u6311\u6230\uFF0C\u6BCF\u500B\u7A7A\u9593\u7D44\u5167\u5305\u542B\u82E5\u5E72\u500B\u5354\u8B70\u7A7A\u9593\u3002\n\u00B7 \u7BA1\u7406\u54E1\u53EF\u901A\u95DC\u5C0D\u61C9\u5354\u8B70\u7A7A\u9593\uFF0C\u4E26\u7372\u5F97\u4E00\u6B21\u6027\u7684\u901A\u95DC\u734E\u52F5\u3002\n\u00B7 \u6BCF\u500B\u7A7A\u9593\u7D44\u5167\uFF0C\u901A\u95DC\u5168\u90E8\u5354\u8B70\u7A7A\u9593\u5F8C\uFF0C\u53EF\u7372\u5F97\u5C0D\u61C9\u7684\u8755\u523B\u7AE0\uFF1B\u5B8C\u6210\u5354\u8B70\u7A7A\u9593\u7684\u9644\u52A0\u76EE\u6A19\u3001\u4E26\u958B\u555F\u5168\u90E8\u5132\u85CF\u7BB1\u5F8C\uFF0C\u5C0D\u61C9\u7684\u5354\u8B70\u7A7A\u9593\u5C07\u5B8C\u7F8E\u901A\u95DC\uFF0C\u5168\u90E8\u5354\u8B70\u7A7A\u9593\u5B8C\u7F8E\u901A\u95DC\u5F8C\uFF0C\u8755\u523B\u7AE0\u6703\u88AB\u934D\u5C64\u3002\n\u00B7 \u5982\u679C\u7A7A\u9593\u7D44\u5C1A\u672A\u89E3\u9396\uFF0C\u8ACB\u7BA1\u7406\u54E1\u7E7C\u7E8C\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u4EE5\u89E3\u9396\u76F8\u61C9\u7A7A\u9593\u7D44\u6311\u6230\u3002",
+  "conditions": [],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_puzzle_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

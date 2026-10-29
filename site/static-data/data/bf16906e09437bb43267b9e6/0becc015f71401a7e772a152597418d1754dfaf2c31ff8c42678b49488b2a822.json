@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_lightning_2",
+    "name": "\u7532\u4E8C\u578B\u300C\u96FB\u8377\u300D",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_lightning_2.png?v=a026113e1ed6d22bbb6ab1af89b9d0844513bf2f8370d628dfb1920edb4a8e93",
+    "sortOrder": 41,
+    "path": "/industry/recipes/hub%3Abattle_lightning_2",
+    "outputSummary": "\u7532\u4E8C\u578B\u300C\u96FB\u8377\u300D \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_lightning_2",
+      "name": "\u7532\u4E8C\u578B\u300C\u96FB\u8377\u300D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_lightning_2.png?v=a026113e1ed6d22bbb6ab1af89b9d0844513bf2f8370d628dfb1920edb4a8e93",
+      "link": null
+    }
+  ],
+  "devices": []
+}

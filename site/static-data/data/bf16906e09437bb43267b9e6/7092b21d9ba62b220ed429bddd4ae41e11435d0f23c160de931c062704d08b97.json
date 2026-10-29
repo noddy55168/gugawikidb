@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_soil_grass_2",
+    "name": "\u82BD\u91DD\u7530\u584A",
+    "kind": "building",
+    "category": "\u7A2E\u690D\u8ABF\u914D",
+    "iconPath": "/media/wiki/industry/item_port_soil_grass_2.png?v=bddb27a5952263f91c854b23445f54fc7e67fd828441b787cec9377cac9cb1fc",
+    "sortOrder": 6,
+    "path": "/industry/devices/wiki_item_port_soil_grass_2",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u6F86\u6C34\u3001\u6210\u9577\u3001\u6536\u7A6B\u82BD\u91DD\u3002",
+  "sourceId": "soil_grass_2",
+  "needPower": false,
+  "width": 4,
+  "depth": 4,
+  "height": 1,
+  "recipes": []
+}

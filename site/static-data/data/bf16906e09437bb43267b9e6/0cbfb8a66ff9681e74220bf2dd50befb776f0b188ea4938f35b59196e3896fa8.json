@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_plant_grass_powder_2_1",
+    "name": "\u82BD\u91DD\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+    "sortOrder": 12,
+    "path": "/industry/recipes/machine%3Agrinder_plant_grass_powder_2_1",
+    "outputSummary": "\u82BD\u91DD\u7C89\u672B \u00D7 2",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u82BD\u91DD\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_grass_2",
+      "name": "\u82BD\u91DD",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_grass_2.png?v=84eb9829aa8f80adffe351b39de1d2ffddea5102a35b8dcc97329cb06482ef52",
+      "link": "/items/item_plant_grass_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_grass_powder_2",
+      "name": "\u82BD\u91DD\u7C89\u672B",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+      "link": "/items/item_plant_grass_powder_2"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

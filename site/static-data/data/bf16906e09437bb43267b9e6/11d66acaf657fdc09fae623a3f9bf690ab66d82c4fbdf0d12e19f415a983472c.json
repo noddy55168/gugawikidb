@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:component_activity_xiranite_enr_cmpt_1",
+    "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u96F6\u4EF6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_cmpt.png?v=3232825a7bf35c3167c4dab8d6dc0f07ada6ef73b0e346f7ec1fc56f18d36602",
+    "sortOrder": 7,
+    "path": "/industry/recipes/machine%3Acomponent_activity_xiranite_enr_cmpt_1",
+    "outputSummary": "\u5BE6\u9A57\u91CD\u606F\u58E4\u96F6\u4EF6 \u00D7 2",
+    "deviceNames": [
+      "\u914D\u4EF6\u6A5F"
+    ]
+  },
+  "description": "\u5BE6\u9A57\u91CD\u606F\u58E4\u96F6\u4EF6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_enr_powder",
+      "name": "\u91CD\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+      "link": "/items/item_xiranite_enr_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_enr_cmpt",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u96F6\u4EF6",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_cmpt.png?v=3232825a7bf35c3167c4dab8d6dc0f07ada6ef73b0e346f7ec1fc56f18d36602",
+      "link": "/items/item_activity_xiranite_enr_cmpt"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_cmpt_mc_1",
+      "name": "\u914D\u4EF6\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_cmpt_mc_1.png?v=50e0cd6f0541699b31cf921cde2def09a0f2fb1850433b536cc7437613af9c9e",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

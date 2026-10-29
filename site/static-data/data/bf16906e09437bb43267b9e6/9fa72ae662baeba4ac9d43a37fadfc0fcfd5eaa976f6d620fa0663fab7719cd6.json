@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_Ingredient_sugar_1",
+    "name": "\u7802\u7CD6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_Ingredient_sugar_1.png?v=b4217cba5cfcd2df6b14c41d4ad6bff914592ee43387e477a47c883e5ae74313",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Agrinder_Ingredient_sugar_1",
+    "outputSummary": "\u7802\u7CD6 \u00D7 3",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u7802\u7CD6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_sugarcane_1",
+      "name": "\u8106\u8517",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+      "link": "/items/item_corp_sugarcane_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_Ingredient_sugar_1",
+      "name": "\u7802\u7CD6",
+      "quantity": 3,
+      "iconPath": "/media/wiki/industry/item_Ingredient_sugar_1.png?v=b4217cba5cfcd2df6b14c41d4ad6bff914592ee43387e477a47c883e5ae74313",
+      "link": "/items/item_Ingredient_sugar_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

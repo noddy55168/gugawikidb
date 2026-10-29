@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_klbuds_1_hsfly_1_1",
+  "name": "\u6D17\u707D\u79D8\u5291",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_klbuds_1_hsfly_1_1.png?v=7a1c6cf03fa6db310f53681d6f67aa7b2a56cd1362c004047f8a7fd38077c105",
+  "summary": "\u81EA\u67D0\u7A2E\u53E4\u8001\u914D\u65B9\u6539\u826F\u800C\u4F86\u7684\u795E\u79D8\u85E5\u5291\uFF0C\u80FD\u6709\u6548\u6E05\u7406\u50B7\u53E3\uFF0C\u6D17\u53BB\u707D\u6B83\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u589E\u52A031%\u9632\u79A6\u529B\uFF0C\u53D7\u5230\u6240\u6709\u985E\u578B\u7684\u50B7\u5BB3\u964D\u4F4E17%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u6B98\u5F71\u9732\u6EF4\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_klbuds_1_hsfly_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_klbuds_1",
+          "name": "\u6B98\u5F71\u9732\u6EF4",
+          "quantity": 1,
+          "path": "/items/item_drop_klbuds_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_klbuds_1.png?v=32c9468ba14703b69af1f2e0372fdcab0a5f711467ba404d43809c9cb543de7e",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsfly_1",
+          "name": "\u6C34\u71C8\u87F2\u7684\u71C8\u589C",
+          "quantity": 1,
+          "path": "/items/item_drop_hsfly_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsfly_1.png?v=17f50124ec00c54c7e9c829dc6c47636f3cda3c63e62a60d9a3b161829e4ed44",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_klbuds_1_hsfly_1_1",
+          "name": "\u6D17\u707D\u79D8\u5291",
+          "quantity": 1,
+          "path": "/items/item_klbuds_1_hsfly_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_klbuds_1_hsfly_1_1.png?v=7a1c6cf03fa6db310f53681d6f67aa7b2a56cd1362c004047f8a7fd38077c105",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_klbuds_1_hsfly_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

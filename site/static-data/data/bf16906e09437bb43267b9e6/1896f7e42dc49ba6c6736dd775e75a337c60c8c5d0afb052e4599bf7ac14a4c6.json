@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "hub:miner_3",
+    "name": "\u96FB\u9A45\u7926\u6A5FII",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_miner_3.png?v=eb6f20898b0a1e95eb9f287cf1ae34c936c7d326ca27ecac11dc6fd9274ea028",
+    "sortOrder": 3,
+    "path": "/industry/recipes/hub%3Aminer_3",
+    "outputSummary": "\u96FB\u9A45\u7926\u6A5FII \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_miner_1",
+      "name": "\u4FBF\u651C\u5F0F\u6E90\u77F3\u7926\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_miner_1.png?v=34e9c9154c997a4ea6088376aae5c3c02fa726e02222fc85cc4b48f820f7189a",
+      "link": null
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_iron_cmpt",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "link": "/items/item_iron_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_miner_3",
+      "name": "\u96FB\u9A45\u7926\u6A5FII",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_miner_3.png?v=eb6f20898b0a1e95eb9f287cf1ae34c936c7d326ca27ecac11dc6fd9274ea028",
+      "link": null
+    }
+  ],
+  "devices": []
+}

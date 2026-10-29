@@ -1,0 +1,72 @@
+[
+  {
+    "variantCode": "male",
+    "gender": "\u7537",
+    "portraitPath": "/media/wiki/operators/chr_0002_endminm/portrait.png",
+    "heroImagePath": "/media/wiki/operators/chr_0002_endminm/hero.png",
+    "isDefault": true,
+    "sortOrder": 1,
+    "voiceActors": [
+      {
+        "languageCode": "ZH",
+        "languageName": "\u4E2D\u6587",
+        "actorName": "\u694A\u8D85\u7136",
+        "sortOrder": 1
+      },
+      {
+        "languageCode": "JA",
+        "languageName": "\u65E5\u6587",
+        "actorName": "\u6D25\u7530\u62D3\u4E5F",
+        "sortOrder": 2
+      },
+      {
+        "languageCode": "EN",
+        "languageName": "\u82F1\u6587",
+        "actorName": "Hyoie O\u0027Grady",
+        "sortOrder": 3
+      },
+      {
+        "languageCode": "KO",
+        "languageName": "\u97D3\u6587",
+        "actorName": "\u674E\u5C1A\u4FCA",
+        "sortOrder": 4
+      }
+    ],
+    "voiceAudios": []
+  },
+  {
+    "variantCode": "female",
+    "gender": "\u5973",
+    "portraitPath": "/media/wiki/operators/chr_0003_endminf/portrait.png",
+    "heroImagePath": "/media/wiki/operators/chr_0003_endminf/hero.png",
+    "isDefault": false,
+    "sortOrder": 2,
+    "voiceActors": [
+      {
+        "languageCode": "ZH",
+        "languageName": "\u4E2D\u6587",
+        "actorName": "\u6728\u96C5\u745E\u6797",
+        "sortOrder": 1
+      },
+      {
+        "languageCode": "JA",
+        "languageName": "\u65E5\u6587",
+        "actorName": "\u6A58\u674F\u54B2",
+        "sortOrder": 2
+      },
+      {
+        "languageCode": "EN",
+        "languageName": "\u82F1\u6587",
+        "actorName": "Chloe Eves",
+        "sortOrder": 3
+      },
+      {
+        "languageCode": "KO",
+        "languageName": "\u97D3\u6587",
+        "actorName": "\u59DC\u65B0\u6625",
+        "sortOrder": 4
+      }
+    ],
+    "voiceAudios": []
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:dismantler_copperenr_xiranite_enr_1",
+    "name": "\u8D6B\u9285\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+    "sortOrder": 73,
+    "path": "/industry/recipes/machine%3Adismantler_copperenr_xiranite_enr_1",
+    "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+    "deviceNames": [
+      "\u62C6\u89E3\u6A5F"
+    ]
+  },
+  "description": "\u8D6B\u9285\u74F6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_fbottle_copperenr_xiranite_enr",
+      "name": "\u8D6B\u9285\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle_liquid.png?v=01ec48e3202e9536f0cb0a620e443ecc6c205ec1314811eae73ec37ce9a271c8",
+      "link": "/items/item_fbottle_copperenr_xiranite_enr"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr_bottle",
+      "name": "\u8D6B\u9285\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "link": "/items/item_copper_enr_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_xiranite_enr",
+      "name": "\u6DB2\u5316\u91CD\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_enr.png?v=a217f392cfbc921f54e5ad3a1740d868eb45359ee192c0d6d6a35238edd5d073",
+      "link": "/items/item_liquid_xiranite_enr"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_dismantler_1",
+      "name": "\u62C6\u89E3\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_dismantler_1.png?v=e346a07da0b431494d74c4634a72539e92807d87da4ccc6e1b8a878126680f3d",
+      "sortOrder": 9,
+      "path": "/industry/devices/wiki_item_port_dismantler_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

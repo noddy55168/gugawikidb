@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_battle_shockwave_1",
+    "name": "\u5168\u5411\u8072\u6CE2\u5854",
+    "kind": "building",
+    "category": "\u6230\u9B25\u8F14\u52A9",
+    "iconPath": "/media/wiki/industry/item_port_battle_shockwave_1.png?v=199fac52fd3a529945ec90c897f3538ec7608b44aec4210bac9a38dfd610c966",
+    "sortOrder": 6,
+    "path": "/industry/devices/wiki_item_port_battle_shockwave_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u653B\u64CA\u9593\u9694\uFF1A5\u79D2\n\u653B\u64CA\u7BC4\u570D\uFF1A6m",
+  "sourceId": "battle_shockwave_1",
+  "needPower": true,
+  "width": 2,
+  "depth": 2,
+  "height": 4,
+  "recipes": []
+}

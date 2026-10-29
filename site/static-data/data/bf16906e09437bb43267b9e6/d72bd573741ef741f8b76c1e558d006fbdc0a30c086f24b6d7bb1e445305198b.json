@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_firebat_1_agrange_1_1",
+  "name": "\u53EF\u98DF\u7528\u5DE2\u96D5",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_firebat_1_agrange_1_1.png?v=15f2567ca7466aac299be52db4310c617b9267759b2c81d3d202f26336bd2f7a",
+  "summary": "\u647B\u96DC\u4E86\u5927\u91CF\u7570\u9999\u77F3\u7C89\u672B\u7684\u4F50\u9910\u91AC\u3002\u56E0\u70BA\u88FD\u4F5C\u4E2D\u4F7F\u7528\u4E86\u78BE\u9AA8\u6E05\u9053\u592B\u7684\u5674\u706B\u5668\u4E2D\u5132\u5099\u7684\u7570\u8272\u6CB9\u8102\uFF0C\u770B\u8D77\u4F86\u5C31\u50CF\u662F\u4E00\u5718\u6709\u8457\u9ECF\u7A20\u8CEA\u611F\u7684\u5DE2\u96D5\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u589E\u52A07%\u653B\u64CA\u529B\uFF0C\u589E\u52A03%\u66B4\u64CA\u7387\uFF0C\u9020\u6210\u7684\u6240\u6709\u50B7\u5BB3\u589E\u52A07%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u7570\u8272\u6CB9\u8102\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_firebat_1_agrange_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_firebat_1",
+          "name": "\u7570\u8272\u6CB9\u8102",
+          "quantity": 1,
+          "path": "/items/item_drop_firebat_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_firebat_1.png?v=8f09d22c58013df22d6d90eed1170bef3ad04c5b4e9f915af0baf4b5e283e817",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agrange_1",
+          "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agrange_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_firebat_1_agrange_1_1",
+          "name": "\u53EF\u98DF\u7528\u5DE2\u96D5",
+          "quantity": 1,
+          "path": "/items/item_firebat_1_agrange_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_firebat_1_agrange_1_1.png?v=15f2567ca7466aac299be52db4310c617b9267759b2c81d3d202f26336bd2f7a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_firebat_1_agrange_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

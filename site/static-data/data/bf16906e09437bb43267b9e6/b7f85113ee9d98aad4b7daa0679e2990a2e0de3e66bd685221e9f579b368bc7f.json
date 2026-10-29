@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_fog_1",
+    "name": "\u300C\u6BD2\u6CBC\u300DMK-I",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_fog_1.png?v=ad6c67f99fc69af363e8510ce9a2d3625526828b08a9b6ea18daf7dce2ccda9d",
+    "sortOrder": 35,
+    "path": "/industry/recipes/hub%3Abattle_fog_1",
+    "outputSummary": "\u300C\u6BD2\u6CBC\u300DMK-I \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_enr_cmpt",
+      "name": "\u92FC\u88FD\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+      "link": "/items/item_iron_enr_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_fog_1",
+      "name": "\u300C\u6BD2\u6CBC\u300DMK-I",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_fog_1.png?v=ad6c67f99fc69af363e8510ce9a2d3625526828b08a9b6ea18daf7dce2ccda9d",
+      "link": null
+    }
+  ],
+  "devices": []
+}

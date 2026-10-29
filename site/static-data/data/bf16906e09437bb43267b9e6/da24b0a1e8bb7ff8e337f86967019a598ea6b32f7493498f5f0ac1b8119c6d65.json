@@ -1,0 +1,425 @@
+{
+  "sourceItemId": "item_copper_enr2_cmpt",
+  "name": "\u707C\u9285\u96F6\u4EF6",
+  "rarity": 4,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+  "summary": "\u5177\u5099\u4E00\u5B9A\u901A\u7528\u6027\u7684\u707C\u9285\u96F6\u4EF6\u3002",
+  "description": "\u707C\u9285\u584A\u7D93\u52A0\u5DE5\u5F8C\u6210\u578B\u7684\u96F6\u4EF6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u6216\u8A2D\u5099\u88FD\u9020\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_gas_inert",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u60F0\u6C23\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_liquid_acid",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u6C89\u7A4D\u9178\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_liquid_purifier",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u63D0\u7D14\u6280\u8853\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_gas_reactor_1",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6C23\u9AD4\u53CD\u61C9\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u61C9\u9F8D\u95DC\u7B49\u5730\u7372\u5F97\u60F0\u6C23\u5F8C\u89E3\u9396",
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u9996\u58A9\u7B49\u5730\u7372\u5F97\u6C89\u7A4D\u9178\u5F8C\u89E3\u9396",
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853",
+    "\u89E3\u9396\u63D0\u7D14\u6280\u8853\u5DE5\u696D\u6280\u8853",
+    "\u89E3\u9396\u6C23\u9AD4\u53CD\u61C9\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryHubCraftTable/battle_lightning_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_lightning_2",
+          "name": "\u7532\u4E8C\u578B\u300C\u96FB\u8377\u300D",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_lightning_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_turret_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_turret_3",
+          "name": "\u300C\u66B4\u96E8\u300D\u9283\u68B0\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_turret_3"
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_4_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_enr_powder",
+          "name": "\u91CD\u606F\u58E4",
+          "quantity": 2,
+          "path": "/items/item_xiranite_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_4_3",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_4_3"
+    },
+    {
+      "key": "FactoryManualCraftTable/item_arrow_chip_bomb/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_arrow_chip_bomb",
+          "name": "\u71C3\u677E\u4E4B\u8102",
+          "quantity": 1,
+          "path": "/items/item_arrow_chip_bomb",
+          "iconPath": "/media/wiki/catalogs/items/item_arrow_chip_bomb.png?v=f47eb743e641907f81bbe68863abb8034f4a0af02f3544f501a0684b9c8c7b2a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_arrow_chip_bomb"
+    },
+    {
+      "key": "FactoryManualCraftTable/item_arrow_chip_frozen/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_arrow_chip_frozen",
+          "name": "\u5BD2\u51B0\u4E4B\u7C07",
+          "quantity": 1,
+          "path": "/items/item_arrow_chip_frozen",
+          "iconPath": "/media/wiki/catalogs/items/item_arrow_chip_frozen.png?v=8b023b73b3ddd83411d9aa35bc13e140f19e0094aa8041a628206580d82461c5",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_arrow_chip_frozen"
+    },
+    {
+      "key": "FactoryManualCraftTable/item_arrow_chip_multiple/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_arrow_chip_multiple",
+          "name": "\u904A\u8569\u4E4B\u8072",
+          "quantity": 1,
+          "path": "/items/item_arrow_chip_multiple",
+          "iconPath": "/media/wiki/catalogs/items/item_arrow_chip_multiple.png?v=064a68c6501323206cf373d075cc659f09536fe5d86827830806f63629b441b3",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_arrow_chip_multiple"
+    },
+    {
+      "key": "FactoryManualCraftTable/item_arrow_chip_penetrate/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_arrow_chip_penetrate",
+          "name": "\u7834\u66D9\u4E4B\u5149",
+          "quantity": 1,
+          "path": "/items/item_arrow_chip_penetrate",
+          "iconPath": "/media/wiki/catalogs/items/item_arrow_chip_penetrate.png?v=ee85b9d8badc7023779514807d7ae5e40915699bf8dc8095f4fe4d0363034bb5",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_arrow_chip_penetrate"
+    },
+    {
+      "key": "FactoryManualCraftTable/item_arrow_chip_shield_breaker/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_arrow_chip_shield_breaker",
+          "name": "\u883B\u7378\u4E4B\u6012",
+          "quantity": 1,
+          "path": "/items/item_arrow_chip_shield_breaker",
+          "iconPath": "/media/wiki/catalogs/items/item_arrow_chip_shield_breaker.png?v=14078ffe89741bc2f5f9f39b41b980ace1b9c5b1e7054991718ae9205a734a2e",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_arrow_chip_shield_breaker"
+    },
+    {
+      "key": "FactoryManualCraftTable/item_device_balloon_recycle_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_balloon_recycle_2",
+          "name": "\u6D6E\u7A7A\u56DE\u6536\u5668II",
+          "quantity": 1,
+          "path": "/items/item_device_balloon_recycle_2",
+          "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_2.png?v=98894af9ffabd1ae88057cfd75edf40a5f9bad40a39cdeb389bf0bc60d7bc288",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_balloon_recycle_3",
+          "name": "\u6D6E\u7A7A\u56DE\u6536\u5668III",
+          "quantity": 1,
+          "path": "/items/item_device_balloon_recycle_3",
+          "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_3.png?v=5d0b42ea551dc9e778deae09e39da11beb8e16731c91c51e24b07f0d8596d202",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_device_balloon_recycle_3"
+    },
+    {
+      "key": "FactoryMachineCraftTable/component_copper_enr2_cmpt_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2",
+          "name": "\u707C\u9285\u584A",
+          "quantity": 5,
+          "path": "/items/item_copper_enr2",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2.png?v=1ea4d83f09abc6fa6225f196ddef2bbc89340e2fc540feff220e8245e3dbf872",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_enr2_cmpt",
+          "name": "\u707C\u9285\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_copper_enr2_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_copper_enr2_cmpt_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

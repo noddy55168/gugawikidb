@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_power_diffuser_1",
+    "name": "\u4F9B\u96FB\u6A01",
+    "kind": "building",
+    "category": "\u96FB\u529B\u4F9B\u61C9",
+    "iconPath": "/media/wiki/industry/item_port_power_diffuser_1.png?v=5321b8732f786a48fb1590281d43c670fa1a34956f6bd1ea205f81950cf16e30",
+    "sortOrder": 1,
+    "path": "/industry/devices/wiki_item_port_power_diffuser_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u4F9B\u96FB\u6A01\u53EA\u8981\u64FA\u653E\u5728\u5354\u8B70\u6838\u5FC3\u7684\u96C6\u6210\u6838\u5FC3\u5340\u57DF\u5167\uFF0C\u5C31\u6703\u81EA\u52D5\u63A5\u5165\u96FB\u7DB2\uFF0C\u70BA\u5176\u4F9B\u96FB\u7BC4\u570D\u5167\u7684\u8A2D\u5099\u4F9B\u96FB\u3002",
+  "sourceId": "power_diffuser_1",
+  "needPower": true,
+  "width": 2,
+  "depth": 2,
+  "height": 7,
+  "recipes": []
+}

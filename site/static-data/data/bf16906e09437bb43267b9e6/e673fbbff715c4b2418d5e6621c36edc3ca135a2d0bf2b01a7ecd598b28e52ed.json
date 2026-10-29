@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_rocket_1",
+    "name": "\u91CD\u9318\u8FEB\u64CA\u70AE",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_rocket_1.png?v=6fbd46e36c8c3f2ff7b320f66fe760c638c5d1ab607e0ce9dfa51a0c2ff5c894",
+    "sortOrder": 39,
+    "path": "/industry/recipes/hub%3Abattle_rocket_1",
+    "outputSummary": "\u91CD\u9318\u8FEB\u64CA\u70AE \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr_cmpt",
+      "name": "\u8D6B\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_enr_cmpt.png?v=477f384f9d78611ea1dd3844b08bac7936025d5988a8f9ac92783f8a0847340e",
+      "link": "/items/item_copper_enr_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_rocket_1",
+      "name": "\u91CD\u9318\u8FEB\u64CA\u70AE",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_rocket_1.png?v=6fbd46e36c8c3f2ff7b320f66fe760c638c5d1ab607e0ce9dfa51a0c2ff5c894",
+      "link": null
+    }
+  ],
+  "devices": []
+}

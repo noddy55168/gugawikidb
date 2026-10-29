@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_sp_2_moss_2_agrange_1_1",
+    "name": "\u7206\u8FA3\u9183\u6F2C\u6C34\u679C",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_sp_2_moss_2_agrange_1_1.png?v=c4bfad22fdf8a9c8fb33f3bbdf90a307a0fda6f9b202f002817a7fe54442db2b",
+    "sortOrder": 31,
+    "path": "/industry/recipes/manual%3Ahdwk_sp_2_moss_2_agrange_1_1",
+    "outputSummary": "\u7206\u8FA3\u9183\u6F2C\u6C34\u679C \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_powder_2",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "link": "/items/item_plant_moss_powder_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_agrange_1",
+      "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+      "link": "/items/item_drop_agrange_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_2",
+      "name": "\u82E6\u8449\u6912",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_2.png?v=1e3cf160955a0dd0047765d725fbc301da53617c965a19eb45587a13061d2f7f",
+      "link": "/items/item_plant_sp_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_sp_2_moss_2_agrange_1_1",
+      "name": "\u7206\u8FA3\u9183\u6F2C\u6C34\u679C",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_sp_2_moss_2_agrange_1_1.png?v=c4bfad22fdf8a9c8fb33f3bbdf90a307a0fda6f9b202f002817a7fe54442db2b",
+      "link": "/items/item_sp_2_moss_2_agrange_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_sp_2_moss_2_agrange_1_1",
+      "name": "\u7206\u8FA3\u9183\u6F2C\u6C34\u679C\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_sp_2_moss_2_agrange_1_1.png?v=c4bfad22fdf8a9c8fb33f3bbdf90a307a0fda6f9b202f002817a7fe54442db2b",
+      "link": null
+    }
+  ],
+  "devices": []
+}

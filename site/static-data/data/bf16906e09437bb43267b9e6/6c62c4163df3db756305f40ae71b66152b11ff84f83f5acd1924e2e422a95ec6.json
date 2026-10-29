@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:liquid_storager_1",
+    "name": "\u5132\u6DB2\u7F50",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_liquid_storager_1.png?v=f1a74f578639db92ff2b793b5863a4433fa9e8fbc3f4dca91741161ecb37abe9",
+    "sortOrder": 110,
+    "path": "/industry/recipes/hub%3Aliquid_storager_1",
+    "outputSummary": "\u5132\u6DB2\u7F50 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_cmpt",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "link": "/items/item_iron_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_liquid_storager_1",
+      "name": "\u5132\u6DB2\u7F50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_liquid_storager_1.png?v=f1a74f578639db92ff2b793b5863a4433fa9e8fbc3f4dca91741161ecb37abe9",
+      "link": null
+    }
+  ],
+  "devices": []
+}

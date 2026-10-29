@@ -1,0 +1,217 @@
+{
+  "sourceItemId": "item_spaceship_key_1",
+  "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+  "rarity": 5,
+  "category": "\u529F\u80FD\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+  "summary": "\u6676\u7247\u7406\u61C9\u8A18\u9304\u8457\u5E1D\u6C5F\u865F\u64F4\u5C55\u898F\u5283\uFF0C\u5176\u4E2D\u537B\u50C5\u6709\u5DE8\u91CF\u96E3\u89E3\u7684\u4E82\u78BC\u2026\u2026\u6216\u8A31\u6709\u4EBA\u80FD\u5C07\u4E4B\u89E3\u6790\u6E05\u695A\uFF0C\u4F46\u90A3\u4EBA\u662F\u8AB0\u5462\uFF1F",
+  "description": "\u53EF\u5728\u300C\u5E1D\u6C5F\u865F\u300D\u7684\u7E3D\u63A7\u4E2D\u6A1E\u4F7F\u7528\uFF0C\u9032\u884C\u98DB\u8239\u6574\u9AD4\u5347\u7D1A\u7684\u62D3\u5C55\u898F\u5283\u3002",
+  "wikiDescription": "",
+  "itemType": "\u4EFB\u52D9\u7269\u54C1",
+  "useEffect": "",
+  "obtainHint": "\u5B8C\u6210\u5287\u60C5\u5192\u96AA\u5F8C\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_mission",
+      "description": "\u4EFB\u52D9\u5831\u916C",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_2/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.2",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52301\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 8,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 1000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_3/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.3",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52302\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 16,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 3000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_4/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.4",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52303\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 24,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_2",
+          "name": "\u9AD8\u7D1A\u822A\u592A\u5EFA\u6750",
+          "quantity": 12,
+          "path": "/items/item_spaceship_cmpt_2",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_2.png?v=8e4688ab91c6f4cac0f702e7e75f77fe6a0ea7db4834b1168b5f65565791ac87",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 10000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipRoomLvTable/control_center_level_5/\u8A2D\u65BD\u5347\u7D1A/",
+      "category": "\u8A2D\u65BD\u5347\u7D1A",
+      "title": "\u7E3D\u63A7\u4E2D\u6A1E Lv.5",
+      "description": "\u7E3D\u63A7\u4E2D\u6A1E\u9054\u52304\u7D1A\u6642\u53EF\u5347\u7D1A",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_1",
+          "name": "\u57FA\u790E\u822A\u592A\u5EFA\u6750",
+          "quantity": 32,
+          "path": "/items/item_spaceship_cmpt_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_1.png?v=7892cfeee42d9d5e9405e447bcd0cfc64e621309007338be76adba3bdc2fce28",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_cmpt_2",
+          "name": "\u9AD8\u7D1A\u822A\u592A\u5EFA\u6750",
+          "quantity": 64,
+          "path": "/items/item_spaceship_cmpt_2",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_cmpt_2.png?v=8e4688ab91c6f4cac0f702e7e75f77fe6a0ea7db4834b1168b5f65565791ac87",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_spaceship_key_1",
+          "name": "\u64F4\u5BB9\u6F14\u7B97\u6676\u7247",
+          "quantity": 1,
+          "path": "/items/item_spaceship_key_1",
+          "iconPath": "/media/wiki/catalogs/items/item_spaceship_key_1.png?v=623c6625352da40c0f53c6b1a11dc11a955394d68efbb97703b018cc8cc7b2ec",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "quantity": 20000,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

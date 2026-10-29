@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_cannon_1",
+    "name": "\u69B4\u5F48\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_cannon_1.png?v=644a90b05c4a03a74d2e65c9b1de476db5e74ff442d23ab08218c95d256ffe39",
+    "sortOrder": 28,
+    "path": "/industry/recipes/hub%3Abattle_cannon_1",
+    "outputSummary": "\u69B4\u5F48\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_cannon_1",
+      "name": "\u69B4\u5F48\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_cannon_1.png?v=644a90b05c4a03a74d2e65c9b1de476db5e74ff442d23ab08218c95d256ffe39",
+      "link": null
+    }
+  ],
+  "devices": []
+}

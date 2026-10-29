@@ -1,0 +1,159 @@
+{
+  "sourceItemId": "item_fbottle_glass_xiranite_poly",
+  "name": "\u7D2B\u6676\u8CEA\u74F6\uFF08\u58E4\u6676\u5EE2\u6DB2\uFF09",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+  "summary": "\u51FA\u65BC\u672C\u8EAB\u7684\u8106\u6027\u3001\u91CD\u91CF\u3001\u4FB5\u8755\u963B\u9694\u7A0B\u5EA6\u7B49\u65B9\u9762\u7684\u7F3A\u9677\uFF0C\u7D2B\u6676\u8CEA\u74F6\u5728\u6587\u660E\u74B0\u5E36\u5E02\u5834\u4E2D\u5DF2\u9010\u6F38\u88AB\u6DD8\u6C70\u3002",
+  "description": "\u7531\u7D2B\u6676\u7E96\u7DAD\u52A0\u5DE5\u5F97\u4F86\u7684\u74F6\u5B50\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "\u76DB\u88DD\u6709\u58E4\u6676\u5EE2\u6DB2",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_shaper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7269\u54C1\u5851\u5F62\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u7269\u54C1\u5851\u5F62\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_bottled_rec_hp_1",
+      "name": "\u854E\u7652\u81A0\u56CA",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_1.png?v=312fb32ddfab289eee4b54dce3f3f800aac8147dac1f10262fd8da43a174fc0e",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_food_1",
+      "name": "\u67D1\u5BE6\u7F50\u982D",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_ebl_flower1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/dismantler_glass_xiranite_poly_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_glass_xiranite_poly",
+          "name": "\u7D2B\u6676\u8CEA\u74F6\uFF08\u58E4\u6676\u5EE2\u6DB2\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_glass_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_bottle",
+          "name": "\u7D2B\u6676\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_glass_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_xiranite_poly",
+          "name": "\u58E4\u6676\u5EE2\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "dismantler_1",
+          "name": "\u62C6\u89E3\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_dismantler_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Adismantler_glass_xiranite_poly_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_glass_xiranite_poly/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_bottle",
+          "name": "\u7D2B\u6676\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_glass_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_xiranite_poly",
+          "name": "\u58E4\u6676\u5EE2\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_glass_xiranite_poly",
+          "name": "\u7D2B\u6676\u8CEA\u74F6\uFF08\u58E4\u6676\u5EE2\u6DB2\uFF09",
+          "quantity": 1,
+          "path": "/items/item_fbottle_glass_xiranite_poly",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle_liquid.png?v=234a6f8b194ec0eb581b246479aa3168a7a9e2d8247ec94fa4d86ba4182b026a",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8"
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_glass_xiranite_poly"
+    }
+  ],
+  "contentIconPath": "/media/wiki/catalogs/items/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+  "bindingStatus": "unbound"
+}

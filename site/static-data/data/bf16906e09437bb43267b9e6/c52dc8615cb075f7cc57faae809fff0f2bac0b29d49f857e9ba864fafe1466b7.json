@@ -1,0 +1,5334 @@
+{
+  "wikiOperatorId": 2,
+  "name": "\u7BA1\u7406\u54E1",
+  "rarity": 6,
+  "profession": "\u8FD1\u885B",
+  "element": "\u7269\u7406",
+  "weaponType": "\u55AE\u624B\u528D",
+  "mainAttribute": "\u654F\u6377",
+  "subAttribute": "\u529B\u91CF",
+  "quote": null,
+  "summary": "\u4F60\u904E\u53BB\u7684\u751F\u547D\u8CAB\u7A7F\u4E86\u5854\u885B\u4E8C\u81F3\u4ECA\u7684\u6B77\u53F2\u2026\u2026",
+  "portraitPath": "/media/wiki/operators/chr_0002_endminm/portrait.png",
+  "heroImagePath": "/media/wiki/operators/chr_0002_endminm/hero.png",
+  "tags": [
+    "\u63A7\u5236",
+    "\u731B\u64CA"
+  ],
+  "profile": {
+    "gender": "\u25A0\u25A0",
+    "birthday": "\u25A0\u25A0",
+    "race": "\u672A\u516C\u958B",
+    "faction": "\u7D42\u672B\u5730\u5DE5\u696D",
+    "medicalStatus": null,
+    "traits": [
+      {
+        "type": "Specialty",
+        "title": "\u5C08\u9577\u00B7\u4E00",
+        "category": "\uFF1F\uFF1F\uFF1F",
+        "name": "\uFF1F\uFF1F\uFF1F",
+        "description": "",
+        "sortOrder": 1
+      },
+      {
+        "type": "Hobby",
+        "title": "\u611B\u597D\u00B7\u4E00",
+        "category": "\uFF1F\uFF1F\uFF1F",
+        "name": "\uFF1F\uFF1F\uFF1F",
+        "description": "",
+        "sortOrder": 2
+      }
+    ]
+  },
+  "voiceActors": [],
+  "attributes": [
+    {
+      "level": 1,
+      "breakStage": 0,
+      "strength": 14,
+      "agility": 14,
+      "intellect": 9,
+      "will": 10,
+      "attack": 30,
+      "hp": 500,
+      "sortOrder": 1
+    },
+    {
+      "level": 2,
+      "breakStage": 0,
+      "strength": 15,
+      "agility": 15,
+      "intellect": 10,
+      "will": 11,
+      "attack": 33,
+      "hp": 556,
+      "sortOrder": 2
+    },
+    {
+      "level": 3,
+      "breakStage": 0,
+      "strength": 17,
+      "agility": 17,
+      "intellect": 11,
+      "will": 12,
+      "attack": 36,
+      "hp": 612,
+      "sortOrder": 3
+    },
+    {
+      "level": 4,
+      "breakStage": 0,
+      "strength": 18,
+      "agility": 18,
+      "intellect": 12,
+      "will": 14,
+      "attack": 40,
+      "hp": 668,
+      "sortOrder": 4
+    },
+    {
+      "level": 5,
+      "breakStage": 0,
+      "strength": 19,
+      "agility": 19,
+      "intellect": 13,
+      "will": 15,
+      "attack": 43,
+      "hp": 724,
+      "sortOrder": 5
+    },
+    {
+      "level": 6,
+      "breakStage": 0,
+      "strength": 20,
+      "agility": 21,
+      "intellect": 14,
+      "will": 16,
+      "attack": 46,
+      "hp": 781,
+      "sortOrder": 6
+    },
+    {
+      "level": 7,
+      "breakStage": 0,
+      "strength": 22,
+      "agility": 22,
+      "intellect": 15,
+      "will": 17,
+      "attack": 49,
+      "hp": 837,
+      "sortOrder": 7
+    },
+    {
+      "level": 8,
+      "breakStage": 0,
+      "strength": 23,
+      "agility": 24,
+      "intellect": 16,
+      "will": 18,
+      "attack": 53,
+      "hp": 893,
+      "sortOrder": 8
+    },
+    {
+      "level": 9,
+      "breakStage": 0,
+      "strength": 24,
+      "agility": 25,
+      "intellect": 17,
+      "will": 19,
+      "attack": 56,
+      "hp": 949,
+      "sortOrder": 9
+    },
+    {
+      "level": 10,
+      "breakStage": 0,
+      "strength": 25,
+      "agility": 27,
+      "intellect": 18,
+      "will": 20,
+      "attack": 59,
+      "hp": 1005,
+      "sortOrder": 10
+    },
+    {
+      "level": 11,
+      "breakStage": 0,
+      "strength": 26,
+      "agility": 28,
+      "intellect": 19,
+      "will": 21,
+      "attack": 62,
+      "hp": 1061,
+      "sortOrder": 11
+    },
+    {
+      "level": 12,
+      "breakStage": 0,
+      "strength": 28,
+      "agility": 29,
+      "intellect": 20,
+      "will": 22,
+      "attack": 66,
+      "hp": 1117,
+      "sortOrder": 12
+    },
+    {
+      "level": 13,
+      "breakStage": 0,
+      "strength": 29,
+      "agility": 31,
+      "intellect": 21,
+      "will": 23,
+      "attack": 69,
+      "hp": 1173,
+      "sortOrder": 13
+    },
+    {
+      "level": 14,
+      "breakStage": 0,
+      "strength": 30,
+      "agility": 32,
+      "intellect": 22,
+      "will": 24,
+      "attack": 72,
+      "hp": 1230,
+      "sortOrder": 14
+    },
+    {
+      "level": 15,
+      "breakStage": 0,
+      "strength": 31,
+      "agility": 34,
+      "intellect": 23,
+      "will": 25,
+      "attack": 75,
+      "hp": 1286,
+      "sortOrder": 15
+    },
+    {
+      "level": 16,
+      "breakStage": 0,
+      "strength": 33,
+      "agility": 35,
+      "intellect": 24,
+      "will": 27,
+      "attack": 79,
+      "hp": 1342,
+      "sortOrder": 16
+    },
+    {
+      "level": 17,
+      "breakStage": 0,
+      "strength": 34,
+      "agility": 36,
+      "intellect": 25,
+      "will": 28,
+      "attack": 82,
+      "hp": 1398,
+      "sortOrder": 17
+    },
+    {
+      "level": 18,
+      "breakStage": 0,
+      "strength": 35,
+      "agility": 38,
+      "intellect": 26,
+      "will": 29,
+      "attack": 85,
+      "hp": 1454,
+      "sortOrder": 18
+    },
+    {
+      "level": 19,
+      "breakStage": 0,
+      "strength": 36,
+      "agility": 39,
+      "intellect": 27,
+      "will": 30,
+      "attack": 88,
+      "hp": 1510,
+      "sortOrder": 19
+    },
+    {
+      "level": 20,
+      "breakStage": 0,
+      "strength": 38,
+      "agility": 41,
+      "intellect": 28,
+      "will": 31,
+      "attack": 92,
+      "hp": 1566,
+      "sortOrder": 20
+    },
+    {
+      "level": 20,
+      "breakStage": 1,
+      "strength": 38,
+      "agility": 41,
+      "intellect": 28,
+      "will": 31,
+      "attack": 92,
+      "hp": 1566,
+      "sortOrder": 21
+    },
+    {
+      "level": 21,
+      "breakStage": 1,
+      "strength": 39,
+      "agility": 42,
+      "intellect": 29,
+      "will": 32,
+      "attack": 95,
+      "hp": 1622,
+      "sortOrder": 22
+    },
+    {
+      "level": 22,
+      "breakStage": 1,
+      "strength": 40,
+      "agility": 44,
+      "intellect": 30,
+      "will": 33,
+      "attack": 98,
+      "hp": 1679,
+      "sortOrder": 23
+    },
+    {
+      "level": 23,
+      "breakStage": 1,
+      "strength": 41,
+      "agility": 45,
+      "intellect": 31,
+      "will": 34,
+      "attack": 101,
+      "hp": 1735,
+      "sortOrder": 24
+    },
+    {
+      "level": 24,
+      "breakStage": 1,
+      "strength": 42,
+      "agility": 46,
+      "intellect": 32,
+      "will": 35,
+      "attack": 105,
+      "hp": 1791,
+      "sortOrder": 25
+    },
+    {
+      "level": 25,
+      "breakStage": 1,
+      "strength": 44,
+      "agility": 48,
+      "intellect": 33,
+      "will": 36,
+      "attack": 108,
+      "hp": 1847,
+      "sortOrder": 26
+    },
+    {
+      "level": 26,
+      "breakStage": 1,
+      "strength": 45,
+      "agility": 49,
+      "intellect": 34,
+      "will": 37,
+      "attack": 111,
+      "hp": 1903,
+      "sortOrder": 27
+    },
+    {
+      "level": 27,
+      "breakStage": 1,
+      "strength": 46,
+      "agility": 51,
+      "intellect": 35,
+      "will": 38,
+      "attack": 114,
+      "hp": 1959,
+      "sortOrder": 28
+    },
+    {
+      "level": 28,
+      "breakStage": 1,
+      "strength": 47,
+      "agility": 52,
+      "intellect": 36,
+      "will": 40,
+      "attack": 118,
+      "hp": 2015,
+      "sortOrder": 29
+    },
+    {
+      "level": 29,
+      "breakStage": 1,
+      "strength": 49,
+      "agility": 54,
+      "intellect": 37,
+      "will": 41,
+      "attack": 121,
+      "hp": 2071,
+      "sortOrder": 30
+    },
+    {
+      "level": 30,
+      "breakStage": 1,
+      "strength": 50,
+      "agility": 55,
+      "intellect": 38,
+      "will": 42,
+      "attack": 124,
+      "hp": 2128,
+      "sortOrder": 31
+    },
+    {
+      "level": 31,
+      "breakStage": 1,
+      "strength": 51,
+      "agility": 56,
+      "intellect": 39,
+      "will": 43,
+      "attack": 127,
+      "hp": 2184,
+      "sortOrder": 32
+    },
+    {
+      "level": 32,
+      "breakStage": 1,
+      "strength": 52,
+      "agility": 58,
+      "intellect": 40,
+      "will": 44,
+      "attack": 131,
+      "hp": 2240,
+      "sortOrder": 33
+    },
+    {
+      "level": 33,
+      "breakStage": 1,
+      "strength": 53,
+      "agility": 59,
+      "intellect": 41,
+      "will": 45,
+      "attack": 134,
+      "hp": 2296,
+      "sortOrder": 34
+    },
+    {
+      "level": 34,
+      "breakStage": 1,
+      "strength": 55,
+      "agility": 61,
+      "intellect": 42,
+      "will": 46,
+      "attack": 137,
+      "hp": 2352,
+      "sortOrder": 35
+    },
+    {
+      "level": 35,
+      "breakStage": 1,
+      "strength": 56,
+      "agility": 62,
+      "intellect": 43,
+      "will": 47,
+      "attack": 140,
+      "hp": 2408,
+      "sortOrder": 36
+    },
+    {
+      "level": 36,
+      "breakStage": 1,
+      "strength": 57,
+      "agility": 64,
+      "intellect": 44,
+      "will": 48,
+      "attack": 144,
+      "hp": 2464,
+      "sortOrder": 37
+    },
+    {
+      "level": 37,
+      "breakStage": 1,
+      "strength": 58,
+      "agility": 65,
+      "intellect": 45,
+      "will": 49,
+      "attack": 147,
+      "hp": 2520,
+      "sortOrder": 38
+    },
+    {
+      "level": 38,
+      "breakStage": 1,
+      "strength": 60,
+      "agility": 66,
+      "intellect": 46,
+      "will": 50,
+      "attack": 150,
+      "hp": 2577,
+      "sortOrder": 39
+    },
+    {
+      "level": 39,
+      "breakStage": 1,
+      "strength": 61,
+      "agility": 68,
+      "intellect": 47,
+      "will": 51,
+      "attack": 153,
+      "hp": 2633,
+      "sortOrder": 40
+    },
+    {
+      "level": 40,
+      "breakStage": 1,
+      "strength": 62,
+      "agility": 69,
+      "intellect": 47,
+      "will": 53,
+      "attack": 157,
+      "hp": 2689,
+      "sortOrder": 41
+    },
+    {
+      "level": 40,
+      "breakStage": 2,
+      "strength": 62,
+      "agility": 69,
+      "intellect": 47,
+      "will": 53,
+      "attack": 157,
+      "hp": 2689,
+      "sortOrder": 42
+    },
+    {
+      "level": 41,
+      "breakStage": 2,
+      "strength": 63,
+      "agility": 71,
+      "intellect": 48,
+      "will": 54,
+      "attack": 160,
+      "hp": 2745,
+      "sortOrder": 43
+    },
+    {
+      "level": 42,
+      "breakStage": 2,
+      "strength": 64,
+      "agility": 72,
+      "intellect": 49,
+      "will": 55,
+      "attack": 163,
+      "hp": 2801,
+      "sortOrder": 44
+    },
+    {
+      "level": 43,
+      "breakStage": 2,
+      "strength": 66,
+      "agility": 73,
+      "intellect": 50,
+      "will": 56,
+      "attack": 166,
+      "hp": 2857,
+      "sortOrder": 45
+    },
+    {
+      "level": 44,
+      "breakStage": 2,
+      "strength": 67,
+      "agility": 75,
+      "intellect": 51,
+      "will": 57,
+      "attack": 170,
+      "hp": 2913,
+      "sortOrder": 46
+    },
+    {
+      "level": 45,
+      "breakStage": 2,
+      "strength": 68,
+      "agility": 76,
+      "intellect": 52,
+      "will": 58,
+      "attack": 173,
+      "hp": 2969,
+      "sortOrder": 47
+    },
+    {
+      "level": 46,
+      "breakStage": 2,
+      "strength": 69,
+      "agility": 78,
+      "intellect": 53,
+      "will": 59,
+      "attack": 176,
+      "hp": 3026,
+      "sortOrder": 48
+    },
+    {
+      "level": 47,
+      "breakStage": 2,
+      "strength": 71,
+      "agility": 79,
+      "intellect": 54,
+      "will": 60,
+      "attack": 179,
+      "hp": 3082,
+      "sortOrder": 49
+    },
+    {
+      "level": 48,
+      "breakStage": 2,
+      "strength": 72,
+      "agility": 81,
+      "intellect": 55,
+      "will": 61,
+      "attack": 183,
+      "hp": 3138,
+      "sortOrder": 50
+    },
+    {
+      "level": 49,
+      "breakStage": 2,
+      "strength": 73,
+      "agility": 82,
+      "intellect": 56,
+      "will": 62,
+      "attack": 186,
+      "hp": 3194,
+      "sortOrder": 51
+    },
+    {
+      "level": 50,
+      "breakStage": 2,
+      "strength": 74,
+      "agility": 83,
+      "intellect": 57,
+      "will": 63,
+      "attack": 189,
+      "hp": 3250,
+      "sortOrder": 52
+    },
+    {
+      "level": 51,
+      "breakStage": 2,
+      "strength": 75,
+      "agility": 85,
+      "intellect": 58,
+      "will": 64,
+      "attack": 192,
+      "hp": 3306,
+      "sortOrder": 53
+    },
+    {
+      "level": 52,
+      "breakStage": 2,
+      "strength": 77,
+      "agility": 86,
+      "intellect": 59,
+      "will": 66,
+      "attack": 196,
+      "hp": 3362,
+      "sortOrder": 54
+    },
+    {
+      "level": 53,
+      "breakStage": 2,
+      "strength": 78,
+      "agility": 88,
+      "intellect": 60,
+      "will": 67,
+      "attack": 199,
+      "hp": 3418,
+      "sortOrder": 55
+    },
+    {
+      "level": 54,
+      "breakStage": 2,
+      "strength": 79,
+      "agility": 89,
+      "intellect": 61,
+      "will": 68,
+      "attack": 202,
+      "hp": 3474,
+      "sortOrder": 56
+    },
+    {
+      "level": 55,
+      "breakStage": 2,
+      "strength": 80,
+      "agility": 91,
+      "intellect": 62,
+      "will": 69,
+      "attack": 205,
+      "hp": 3531,
+      "sortOrder": 57
+    },
+    {
+      "level": 56,
+      "breakStage": 2,
+      "strength": 82,
+      "agility": 92,
+      "intellect": 63,
+      "will": 70,
+      "attack": 209,
+      "hp": 3587,
+      "sortOrder": 58
+    },
+    {
+      "level": 57,
+      "breakStage": 2,
+      "strength": 83,
+      "agility": 93,
+      "intellect": 64,
+      "will": 71,
+      "attack": 212,
+      "hp": 3643,
+      "sortOrder": 59
+    },
+    {
+      "level": 58,
+      "breakStage": 2,
+      "strength": 84,
+      "agility": 95,
+      "intellect": 65,
+      "will": 72,
+      "attack": 215,
+      "hp": 3699,
+      "sortOrder": 60
+    },
+    {
+      "level": 59,
+      "breakStage": 2,
+      "strength": 85,
+      "agility": 96,
+      "intellect": 66,
+      "will": 73,
+      "attack": 218,
+      "hp": 3755,
+      "sortOrder": 61
+    },
+    {
+      "level": 60,
+      "breakStage": 2,
+      "strength": 86,
+      "agility": 98,
+      "intellect": 67,
+      "will": 74,
+      "attack": 222,
+      "hp": 3811,
+      "sortOrder": 62
+    },
+    {
+      "level": 60,
+      "breakStage": 3,
+      "strength": 86,
+      "agility": 98,
+      "intellect": 67,
+      "will": 74,
+      "attack": 222,
+      "hp": 3811,
+      "sortOrder": 63
+    },
+    {
+      "level": 61,
+      "breakStage": 3,
+      "strength": 88,
+      "agility": 99,
+      "intellect": 68,
+      "will": 75,
+      "attack": 225,
+      "hp": 3867,
+      "sortOrder": 64
+    },
+    {
+      "level": 62,
+      "breakStage": 3,
+      "strength": 89,
+      "agility": 101,
+      "intellect": 69,
+      "will": 76,
+      "attack": 228,
+      "hp": 3923,
+      "sortOrder": 65
+    },
+    {
+      "level": 63,
+      "breakStage": 3,
+      "strength": 90,
+      "agility": 102,
+      "intellect": 70,
+      "will": 77,
+      "attack": 231,
+      "hp": 3980,
+      "sortOrder": 66
+    },
+    {
+      "level": 64,
+      "breakStage": 3,
+      "strength": 91,
+      "agility": 103,
+      "intellect": 71,
+      "will": 79,
+      "attack": 235,
+      "hp": 4036,
+      "sortOrder": 67
+    },
+    {
+      "level": 65,
+      "breakStage": 3,
+      "strength": 93,
+      "agility": 105,
+      "intellect": 72,
+      "will": 80,
+      "attack": 238,
+      "hp": 4092,
+      "sortOrder": 68
+    },
+    {
+      "level": 66,
+      "breakStage": 3,
+      "strength": 94,
+      "agility": 106,
+      "intellect": 73,
+      "will": 81,
+      "attack": 241,
+      "hp": 4148,
+      "sortOrder": 69
+    },
+    {
+      "level": 67,
+      "breakStage": 3,
+      "strength": 95,
+      "agility": 108,
+      "intellect": 74,
+      "will": 82,
+      "attack": 244,
+      "hp": 4204,
+      "sortOrder": 70
+    },
+    {
+      "level": 68,
+      "breakStage": 3,
+      "strength": 96,
+      "agility": 109,
+      "intellect": 75,
+      "will": 83,
+      "attack": 248,
+      "hp": 4260,
+      "sortOrder": 71
+    },
+    {
+      "level": 69,
+      "breakStage": 3,
+      "strength": 97,
+      "agility": 110,
+      "intellect": 76,
+      "will": 84,
+      "attack": 251,
+      "hp": 4316,
+      "sortOrder": 72
+    },
+    {
+      "level": 70,
+      "breakStage": 3,
+      "strength": 99,
+      "agility": 112,
+      "intellect": 77,
+      "will": 85,
+      "attack": 254,
+      "hp": 4372,
+      "sortOrder": 73
+    },
+    {
+      "level": 71,
+      "breakStage": 3,
+      "strength": 100,
+      "agility": 113,
+      "intellect": 78,
+      "will": 86,
+      "attack": 257,
+      "hp": 4429,
+      "sortOrder": 74
+    },
+    {
+      "level": 72,
+      "breakStage": 3,
+      "strength": 101,
+      "agility": 115,
+      "intellect": 79,
+      "will": 87,
+      "attack": 261,
+      "hp": 4485,
+      "sortOrder": 75
+    },
+    {
+      "level": 73,
+      "breakStage": 3,
+      "strength": 102,
+      "agility": 116,
+      "intellect": 80,
+      "will": 88,
+      "attack": 264,
+      "hp": 4541,
+      "sortOrder": 76
+    },
+    {
+      "level": 74,
+      "breakStage": 3,
+      "strength": 104,
+      "agility": 118,
+      "intellect": 81,
+      "will": 89,
+      "attack": 267,
+      "hp": 4597,
+      "sortOrder": 77
+    },
+    {
+      "level": 75,
+      "breakStage": 3,
+      "strength": 105,
+      "agility": 119,
+      "intellect": 82,
+      "will": 90,
+      "attack": 270,
+      "hp": 4653,
+      "sortOrder": 78
+    },
+    {
+      "level": 76,
+      "breakStage": 3,
+      "strength": 106,
+      "agility": 120,
+      "intellect": 83,
+      "will": 92,
+      "attack": 274,
+      "hp": 4709,
+      "sortOrder": 79
+    },
+    {
+      "level": 77,
+      "breakStage": 3,
+      "strength": 107,
+      "agility": 122,
+      "intellect": 84,
+      "will": 93,
+      "attack": 277,
+      "hp": 4765,
+      "sortOrder": 80
+    },
+    {
+      "level": 78,
+      "breakStage": 3,
+      "strength": 109,
+      "agility": 123,
+      "intellect": 85,
+      "will": 94,
+      "attack": 280,
+      "hp": 4821,
+      "sortOrder": 81
+    },
+    {
+      "level": 79,
+      "breakStage": 3,
+      "strength": 110,
+      "agility": 125,
+      "intellect": 86,
+      "will": 95,
+      "attack": 283,
+      "hp": 4878,
+      "sortOrder": 82
+    },
+    {
+      "level": 80,
+      "breakStage": 3,
+      "strength": 111,
+      "agility": 126,
+      "intellect": 87,
+      "will": 96,
+      "attack": 287,
+      "hp": 4934,
+      "sortOrder": 83
+    },
+    {
+      "level": 80,
+      "breakStage": 4,
+      "strength": 111,
+      "agility": 126,
+      "intellect": 87,
+      "will": 96,
+      "attack": 287,
+      "hp": 4934,
+      "sortOrder": 84
+    },
+    {
+      "level": 81,
+      "breakStage": 4,
+      "strength": 112,
+      "agility": 128,
+      "intellect": 88,
+      "will": 97,
+      "attack": 290,
+      "hp": 4990,
+      "sortOrder": 85
+    },
+    {
+      "level": 82,
+      "breakStage": 4,
+      "strength": 113,
+      "agility": 129,
+      "intellect": 89,
+      "will": 98,
+      "attack": 293,
+      "hp": 5046,
+      "sortOrder": 86
+    },
+    {
+      "level": 83,
+      "breakStage": 4,
+      "strength": 115,
+      "agility": 130,
+      "intellect": 90,
+      "will": 99,
+      "attack": 296,
+      "hp": 5102,
+      "sortOrder": 87
+    },
+    {
+      "level": 84,
+      "breakStage": 4,
+      "strength": 116,
+      "agility": 132,
+      "intellect": 91,
+      "will": 100,
+      "attack": 300,
+      "hp": 5158,
+      "sortOrder": 88
+    },
+    {
+      "level": 85,
+      "breakStage": 4,
+      "strength": 117,
+      "agility": 133,
+      "intellect": 92,
+      "will": 101,
+      "attack": 303,
+      "hp": 5214,
+      "sortOrder": 89
+    },
+    {
+      "level": 86,
+      "breakStage": 4,
+      "strength": 118,
+      "agility": 135,
+      "intellect": 93,
+      "will": 102,
+      "attack": 306,
+      "hp": 5270,
+      "sortOrder": 90
+    },
+    {
+      "level": 87,
+      "breakStage": 4,
+      "strength": 120,
+      "agility": 136,
+      "intellect": 94,
+      "will": 103,
+      "attack": 309,
+      "hp": 5327,
+      "sortOrder": 91
+    },
+    {
+      "level": 88,
+      "breakStage": 4,
+      "strength": 121,
+      "agility": 138,
+      "intellect": 94,
+      "will": 105,
+      "attack": 313,
+      "hp": 5383,
+      "sortOrder": 92
+    },
+    {
+      "level": 89,
+      "breakStage": 4,
+      "strength": 122,
+      "agility": 139,
+      "intellect": 95,
+      "will": 106,
+      "attack": 316,
+      "hp": 5439,
+      "sortOrder": 93
+    },
+    {
+      "level": 90,
+      "breakStage": 4,
+      "strength": 123,
+      "agility": 140,
+      "intellect": 96,
+      "will": 107,
+      "attack": 319,
+      "hp": 5495,
+      "sortOrder": 94
+    },
+    {
+      "level": 91,
+      "breakStage": 4,
+      "strength": 124,
+      "agility": 142,
+      "intellect": 97,
+      "will": 108,
+      "attack": 322,
+      "hp": 5551,
+      "sortOrder": 95
+    },
+    {
+      "level": 92,
+      "breakStage": 4,
+      "strength": 126,
+      "agility": 143,
+      "intellect": 98,
+      "will": 109,
+      "attack": 326,
+      "hp": 5607,
+      "sortOrder": 96
+    },
+    {
+      "level": 93,
+      "breakStage": 4,
+      "strength": 127,
+      "agility": 145,
+      "intellect": 99,
+      "will": 110,
+      "attack": 329,
+      "hp": 5663,
+      "sortOrder": 97
+    },
+    {
+      "level": 94,
+      "breakStage": 4,
+      "strength": 128,
+      "agility": 146,
+      "intellect": 100,
+      "will": 111,
+      "attack": 332,
+      "hp": 5719,
+      "sortOrder": 98
+    },
+    {
+      "level": 95,
+      "breakStage": 4,
+      "strength": 129,
+      "agility": 147,
+      "intellect": 101,
+      "will": 112,
+      "attack": 335,
+      "hp": 5776,
+      "sortOrder": 99
+    },
+    {
+      "level": 96,
+      "breakStage": 4,
+      "strength": 131,
+      "agility": 149,
+      "intellect": 102,
+      "will": 113,
+      "attack": 339,
+      "hp": 5832,
+      "sortOrder": 100
+    },
+    {
+      "level": 97,
+      "breakStage": 4,
+      "strength": 132,
+      "agility": 150,
+      "intellect": 103,
+      "will": 114,
+      "attack": 342,
+      "hp": 5888,
+      "sortOrder": 101
+    },
+    {
+      "level": 98,
+      "breakStage": 4,
+      "strength": 133,
+      "agility": 152,
+      "intellect": 104,
+      "will": 115,
+      "attack": 345,
+      "hp": 5944,
+      "sortOrder": 102
+    },
+    {
+      "level": 99,
+      "breakStage": 4,
+      "strength": 134,
+      "agility": 153,
+      "intellect": 105,
+      "will": 116,
+      "attack": 348,
+      "hp": 6000,
+      "sortOrder": 103
+    }
+  ],
+  "skills": [
+    {
+      "skillType": "BasicAttack",
+      "name": "\u6BC0\u50B7\u5E8F\u5217",
+      "description": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+      "descriptionsByRank": {
+        "R1": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R2": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R3": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R4": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R5": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R6": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R7": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R8": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "R9": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "M1": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "M2": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002",
+        "M3": "\u666E\u901A\u653B\u64CA\uFF1A\n\u5C0D\u6575\u4EBA\u9032\u884C\u6700\u591A5\u6BB5\u653B\u64CA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\u4F5C\u70BA\u4E3B\u63A7\u5E79\u54E1\u6642\uFF0C\u91CD\u64CA\u6703\u9020\u621018\u9EDE\u5931\u8861\u3002\n\n\u4E0B\u589C\u653B\u64CA\uFF1A\n\u8655\u65BC\u7A7A\u4E2D\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u6703\u4E0B\u843D\u4E26\u653B\u64CA\u9644\u8FD1\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002\n\n\u8655\u6C7A\u653B\u64CA\uFF1A\n\u9644\u8FD1\u6709\u6575\u4EBA\u8655\u65BC\u5931\u8861\u72C0\u614B\u6642\u4F7F\u7528\u666E\u901A\u653B\u64CA\uFF0C\u5C07\u8655\u6C7A\u8A72\u6575\u4EBA\uFF0C\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u4E26\u56DE\u5FA9\u4E00\u5B9A\u6280\u529B\u3002"
+      },
+      "bindingStatus": "partial",
+      "iconPath": "/media/wiki/operators/skills/icon_attack_sword.png",
+      "sortOrder": 1,
+      "levels": [
+        {
+          "levelIndex": 1,
+          "rankCode": "R1"
+        },
+        {
+          "levelIndex": 2,
+          "rankCode": "R2"
+        },
+        {
+          "levelIndex": 3,
+          "rankCode": "R3"
+        },
+        {
+          "levelIndex": 4,
+          "rankCode": "R4"
+        },
+        {
+          "levelIndex": 5,
+          "rankCode": "R5"
+        },
+        {
+          "levelIndex": 6,
+          "rankCode": "R6"
+        },
+        {
+          "levelIndex": 7,
+          "rankCode": "R7"
+        },
+        {
+          "levelIndex": 8,
+          "rankCode": "R8"
+        },
+        {
+          "levelIndex": 9,
+          "rankCode": "R9"
+        },
+        {
+          "levelIndex": 10,
+          "rankCode": "M1"
+        },
+        {
+          "levelIndex": 11,
+          "rankCode": "M2"
+        },
+        {
+          "levelIndex": 12,
+          "rankCode": "M3"
+        }
+      ],
+      "parameters": [
+        {
+          "parameterKey": "chr_0002_endminm_attack1:0",
+          "label": "\u666E\u653B\u7B2C\u4E00\u6BB5\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 1,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 23
+            },
+            {
+              "rankCode": "R2",
+              "value": 25
+            },
+            {
+              "rankCode": "R3",
+              "value": 27
+            },
+            {
+              "rankCode": "R4",
+              "value": 29
+            },
+            {
+              "rankCode": "R5",
+              "value": 32
+            },
+            {
+              "rankCode": "R6",
+              "value": 34
+            },
+            {
+              "rankCode": "R7",
+              "value": 36
+            },
+            {
+              "rankCode": "R8",
+              "value": 39
+            },
+            {
+              "rankCode": "R9",
+              "value": 41
+            },
+            {
+              "rankCode": "M1",
+              "value": 44
+            },
+            {
+              "rankCode": "M2",
+              "value": 47
+            },
+            {
+              "rankCode": "M3",
+              "value": 51
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_attack2:0",
+          "label": "\u666E\u653B\u7B2C\u4E8C\u6BB5\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 2,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 27
+            },
+            {
+              "rankCode": "R2",
+              "value": 30
+            },
+            {
+              "rankCode": "R3",
+              "value": 32
+            },
+            {
+              "rankCode": "R4",
+              "value": 35
+            },
+            {
+              "rankCode": "R5",
+              "value": 38
+            },
+            {
+              "rankCode": "R6",
+              "value": 41
+            },
+            {
+              "rankCode": "R7",
+              "value": 43
+            },
+            {
+              "rankCode": "R8",
+              "value": 46
+            },
+            {
+              "rankCode": "R9",
+              "value": 49
+            },
+            {
+              "rankCode": "M1",
+              "value": 52
+            },
+            {
+              "rankCode": "M2",
+              "value": 56
+            },
+            {
+              "rankCode": "M3",
+              "value": 61
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_attack3:0",
+          "label": "\u666E\u653B\u7B2C\u4E09\u6BB5\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 3,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 30
+            },
+            {
+              "rankCode": "R2",
+              "value": 33
+            },
+            {
+              "rankCode": "R3",
+              "value": 36
+            },
+            {
+              "rankCode": "R4",
+              "value": 39
+            },
+            {
+              "rankCode": "R5",
+              "value": 42
+            },
+            {
+              "rankCode": "R6",
+              "value": 45
+            },
+            {
+              "rankCode": "R7",
+              "value": 48
+            },
+            {
+              "rankCode": "R8",
+              "value": 51
+            },
+            {
+              "rankCode": "R9",
+              "value": 54
+            },
+            {
+              "rankCode": "M1",
+              "value": 58
+            },
+            {
+              "rankCode": "M2",
+              "value": 63
+            },
+            {
+              "rankCode": "M3",
+              "value": 68
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_attack4:0",
+          "label": "\u666E\u653B\u7B2C\u56DB\u6BB5\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 4,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 35
+            },
+            {
+              "rankCode": "R2",
+              "value": 38
+            },
+            {
+              "rankCode": "R3",
+              "value": 41
+            },
+            {
+              "rankCode": "R4",
+              "value": 45
+            },
+            {
+              "rankCode": "R5",
+              "value": 48
+            },
+            {
+              "rankCode": "R6",
+              "value": 52
+            },
+            {
+              "rankCode": "R7",
+              "value": 55
+            },
+            {
+              "rankCode": "R8",
+              "value": 59
+            },
+            {
+              "rankCode": "R9",
+              "value": 62
+            },
+            {
+              "rankCode": "M1",
+              "value": 67
+            },
+            {
+              "rankCode": "M2",
+              "value": 72
+            },
+            {
+              "rankCode": "M3",
+              "value": 78
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_attack5:0",
+          "label": "\u666E\u653B\u7B2C\u4E94\u6BB5\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 5,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 40
+            },
+            {
+              "rankCode": "R2",
+              "value": 44
+            },
+            {
+              "rankCode": "R3",
+              "value": 48
+            },
+            {
+              "rankCode": "R4",
+              "value": 52
+            },
+            {
+              "rankCode": "R5",
+              "value": 56
+            },
+            {
+              "rankCode": "R6",
+              "value": 60
+            },
+            {
+              "rankCode": "R7",
+              "value": 64
+            },
+            {
+              "rankCode": "R8",
+              "value": 68
+            },
+            {
+              "rankCode": "R9",
+              "value": 72
+            },
+            {
+              "rankCode": "M1",
+              "value": 77
+            },
+            {
+              "rankCode": "M2",
+              "value": 83
+            },
+            {
+              "rankCode": "M3",
+              "value": 90
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_power_attack:0",
+          "label": "\u8655\u6C7A\u653B\u64CA\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 6,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 400
+            },
+            {
+              "rankCode": "R2",
+              "value": 440
+            },
+            {
+              "rankCode": "R3",
+              "value": 480
+            },
+            {
+              "rankCode": "R4",
+              "value": 520
+            },
+            {
+              "rankCode": "R5",
+              "value": 560
+            },
+            {
+              "rankCode": "R6",
+              "value": 600
+            },
+            {
+              "rankCode": "R7",
+              "value": 640
+            },
+            {
+              "rankCode": "R8",
+              "value": 680
+            },
+            {
+              "rankCode": "R9",
+              "value": 720
+            },
+            {
+              "rankCode": "M1",
+              "value": 770
+            },
+            {
+              "rankCode": "M2",
+              "value": 830
+            },
+            {
+              "rankCode": "M3",
+              "value": 900
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_plunging_attack_end:0",
+          "label": "\u4E0B\u589C\u653B\u64CA\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 7,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 80
+            },
+            {
+              "rankCode": "R2",
+              "value": 88
+            },
+            {
+              "rankCode": "R3",
+              "value": 96
+            },
+            {
+              "rankCode": "R4",
+              "value": 104
+            },
+            {
+              "rankCode": "R5",
+              "value": 112
+            },
+            {
+              "rankCode": "R6",
+              "value": 120
+            },
+            {
+              "rankCode": "R7",
+              "value": 128
+            },
+            {
+              "rankCode": "R8",
+              "value": 136
+            },
+            {
+              "rankCode": "R9",
+              "value": 144
+            },
+            {
+              "rankCode": "M1",
+              "value": 154
+            },
+            {
+              "rankCode": "M2",
+              "value": 166
+            },
+            {
+              "rankCode": "M3",
+              "value": 180
+            }
+          ]
+        }
+      ],
+      "upgradeStages": [
+        {
+          "fromLevel": 1,
+          "toLevel": 2,
+          "creditCost": 1000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 2,
+          "toLevel": 3,
+          "creditCost": 2700,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 12
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 3,
+          "toLevel": 4,
+          "creditCost": 3200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 4,
+          "toLevel": 5,
+          "creditCost": 4200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 21
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 5,
+          "toLevel": 6,
+          "creditCost": 5400,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 27
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 6,
+          "toLevel": 7,
+          "creditCost": 8200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 7,
+          "toLevel": 8,
+          "creditCost": 10500,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 8
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 8,
+          "toLevel": 9,
+          "creditCost": 18000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 9,
+          "toLevel": 10,
+          "creditCost": 24000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 1
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "D96\u92FC\u6A23\u54C1\u56DB",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_2.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "fromLevel": 10,
+          "toLevel": 11,
+          "creditCost": 30000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 2
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 24
+            },
+            {
+              "name": "D96\u92FC\u6A23\u54C1\u56DB",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_2.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "fromLevel": 11,
+          "toLevel": 12,
+          "creditCost": 65000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 3
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 50
+            },
+            {
+              "name": "D96\u92FC\u6A23\u54C1\u56DB",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_2.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 36
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skillType": "BattleSkill",
+      "name": "\u69CB\u6210\u5E8F\u5217",
+      "description": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+      "descriptionsByRank": {
+        "R1": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R2": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R3": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R4": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R5": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R6": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R7": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R8": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "R9": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "M1": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "M2": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002",
+        "M3": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u885D\u64CA\u524D\u65B9\u4E00\u5B9A\u7BC4\u570D\u5167\u7684\u6575\u4EBA\uFF0C\u9020\u6210\u7269\u7406\u50B7\u5BB3\u548C\u731B\u64CA\u3002"
+      },
+      "bindingStatus": "bound",
+      "iconPath": "/media/wiki/operators/skills/icon_skill_endmin_01.png",
+      "sortOrder": 2,
+      "levels": [
+        {
+          "levelIndex": 1,
+          "rankCode": "R1"
+        },
+        {
+          "levelIndex": 2,
+          "rankCode": "R2"
+        },
+        {
+          "levelIndex": 3,
+          "rankCode": "R3"
+        },
+        {
+          "levelIndex": 4,
+          "rankCode": "R4"
+        },
+        {
+          "levelIndex": 5,
+          "rankCode": "R5"
+        },
+        {
+          "levelIndex": 6,
+          "rankCode": "R6"
+        },
+        {
+          "levelIndex": 7,
+          "rankCode": "R7"
+        },
+        {
+          "levelIndex": 8,
+          "rankCode": "R8"
+        },
+        {
+          "levelIndex": 9,
+          "rankCode": "R9"
+        },
+        {
+          "levelIndex": 10,
+          "rankCode": "M1"
+        },
+        {
+          "levelIndex": 11,
+          "rankCode": "M2"
+        },
+        {
+          "levelIndex": 12,
+          "rankCode": "M3"
+        }
+      ],
+      "parameters": [
+        {
+          "parameterKey": "chr_0002_endminm_normal_skill:0",
+          "label": "\u50B7\u5BB3\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 1,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 156
+            },
+            {
+              "rankCode": "R2",
+              "value": 171
+            },
+            {
+              "rankCode": "R3",
+              "value": 187
+            },
+            {
+              "rankCode": "R4",
+              "value": 202
+            },
+            {
+              "rankCode": "R5",
+              "value": 218
+            },
+            {
+              "rankCode": "R6",
+              "value": 234
+            },
+            {
+              "rankCode": "R7",
+              "value": 249
+            },
+            {
+              "rankCode": "R8",
+              "value": 265
+            },
+            {
+              "rankCode": "R9",
+              "value": 280
+            },
+            {
+              "rankCode": "M1",
+              "value": 300
+            },
+            {
+              "rankCode": "M2",
+              "value": 323
+            },
+            {
+              "rankCode": "M3",
+              "value": 350
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_normal_skill:1",
+          "label": "\u5931\u8861\u503C",
+          "unit": null,
+          "sortOrder": 2,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 10
+            },
+            {
+              "rankCode": "R2",
+              "value": 10
+            },
+            {
+              "rankCode": "R3",
+              "value": 10
+            },
+            {
+              "rankCode": "R4",
+              "value": 10
+            },
+            {
+              "rankCode": "R5",
+              "value": 10
+            },
+            {
+              "rankCode": "R6",
+              "value": 10
+            },
+            {
+              "rankCode": "R7",
+              "value": 10
+            },
+            {
+              "rankCode": "R8",
+              "value": 10
+            },
+            {
+              "rankCode": "R9",
+              "value": 10
+            },
+            {
+              "rankCode": "M1",
+              "value": 10
+            },
+            {
+              "rankCode": "M2",
+              "value": 10
+            },
+            {
+              "rankCode": "M3",
+              "value": 10
+            }
+          ]
+        }
+      ],
+      "upgradeStages": [
+        {
+          "fromLevel": 1,
+          "toLevel": 2,
+          "creditCost": 1000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 2,
+          "toLevel": 3,
+          "creditCost": 2700,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 12
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 3,
+          "toLevel": 4,
+          "creditCost": 3200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 4,
+          "toLevel": 5,
+          "creditCost": 4200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 21
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 5,
+          "toLevel": 6,
+          "creditCost": 5400,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 27
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 6,
+          "toLevel": 7,
+          "creditCost": 8200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 7,
+          "toLevel": 8,
+          "creditCost": 10500,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 8
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 8,
+          "toLevel": 9,
+          "creditCost": 18000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 9,
+          "toLevel": 10,
+          "creditCost": 24000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 1
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "\u8FC5\u5B50\u9074\u64BF\u6676\u683C",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_3.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "fromLevel": 10,
+          "toLevel": 11,
+          "creditCost": 30000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 2
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 24
+            },
+            {
+              "name": "\u8FC5\u5B50\u9074\u64BF\u6676\u683C",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_3.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "fromLevel": 11,
+          "toLevel": 12,
+          "creditCost": 65000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 3
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 50
+            },
+            {
+              "name": "\u8FC5\u5B50\u9074\u64BF\u6676\u683C",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_3.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 36
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skillType": "ComboSkill",
+      "name": "\u9396\u9589\u5E8F\u5217",
+      "description": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+      "descriptionsByRank": {
+        "R1": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R2": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R3": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R4": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R5": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R6": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R7": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R8": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "R9": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "M1": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "M2": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002",
+        "M3": "\u7576\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u7684\u9023\u651C\u6280\u9020\u6210\u50B7\u5BB3\u6642\u53EF\u4EE5\u767C\u52D5\u3002\n\u885D\u5230\u6575\u4EBA\u8EAB\u908A\uFF0C\u5C0D\u5176\u9020\u6210\u7269\u7406\u50B7\u5BB3\uFF0C\u4E26\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5728\u4E00\u6BB5\u6642\u9593\u5167\u5C07\u5176\u5C01\u5370\u3002\u65BD\u52A0\u7269\u7406\u7570\u5E38\u548C\u7834\u9632\u6703\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u6210\u7269\u7406\u50B7\u5BB3\u3002"
+      },
+      "bindingStatus": "partial",
+      "iconPath": "/media/wiki/operators/skills/icon_combo_skill_endmin_01.png",
+      "sortOrder": 3,
+      "levels": [
+        {
+          "levelIndex": 1,
+          "rankCode": "R1"
+        },
+        {
+          "levelIndex": 2,
+          "rankCode": "R2"
+        },
+        {
+          "levelIndex": 3,
+          "rankCode": "R3"
+        },
+        {
+          "levelIndex": 4,
+          "rankCode": "R4"
+        },
+        {
+          "levelIndex": 5,
+          "rankCode": "R5"
+        },
+        {
+          "levelIndex": 6,
+          "rankCode": "R6"
+        },
+        {
+          "levelIndex": 7,
+          "rankCode": "R7"
+        },
+        {
+          "levelIndex": 8,
+          "rankCode": "R8"
+        },
+        {
+          "levelIndex": 9,
+          "rankCode": "R9"
+        },
+        {
+          "levelIndex": 10,
+          "rankCode": "M1"
+        },
+        {
+          "levelIndex": 11,
+          "rankCode": "M2"
+        },
+        {
+          "levelIndex": 12,
+          "rankCode": "M3"
+        }
+      ],
+      "parameters": [
+        {
+          "parameterKey": "chr_0002_endminm_combo_skill:0",
+          "label": "\u50B7\u5BB3\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 1,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 45
+            },
+            {
+              "rankCode": "R2",
+              "value": 49
+            },
+            {
+              "rankCode": "R3",
+              "value": 54
+            },
+            {
+              "rankCode": "R4",
+              "value": 58
+            },
+            {
+              "rankCode": "R5",
+              "value": 62
+            },
+            {
+              "rankCode": "R6",
+              "value": 67
+            },
+            {
+              "rankCode": "R7",
+              "value": 71
+            },
+            {
+              "rankCode": "R8",
+              "value": 76
+            },
+            {
+              "rankCode": "R9",
+              "value": 80
+            },
+            {
+              "rankCode": "M1",
+              "value": 86
+            },
+            {
+              "rankCode": "M2",
+              "value": 93
+            },
+            {
+              "rankCode": "M3",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_combo_skill:1",
+          "label": "\u64CA\u788E\u7D50\u6676\u50B7\u5BB3\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 2,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 178
+            },
+            {
+              "rankCode": "R2",
+              "value": 196
+            },
+            {
+              "rankCode": "R3",
+              "value": 213
+            },
+            {
+              "rankCode": "R4",
+              "value": 231
+            },
+            {
+              "rankCode": "R5",
+              "value": 249
+            },
+            {
+              "rankCode": "R6",
+              "value": 267
+            },
+            {
+              "rankCode": "R7",
+              "value": 284
+            },
+            {
+              "rankCode": "R8",
+              "value": 302
+            },
+            {
+              "rankCode": "R9",
+              "value": 320
+            },
+            {
+              "rankCode": "M1",
+              "value": 342
+            },
+            {
+              "rankCode": "M2",
+              "value": 369
+            },
+            {
+              "rankCode": "M3",
+              "value": 400
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_combo_skill:2",
+          "label": "\u5931\u8861\u503C",
+          "unit": null,
+          "sortOrder": 3,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 10
+            },
+            {
+              "rankCode": "R2",
+              "value": 10
+            },
+            {
+              "rankCode": "R3",
+              "value": 10
+            },
+            {
+              "rankCode": "R4",
+              "value": 10
+            },
+            {
+              "rankCode": "R5",
+              "value": 10
+            },
+            {
+              "rankCode": "R6",
+              "value": 10
+            },
+            {
+              "rankCode": "R7",
+              "value": 10
+            },
+            {
+              "rankCode": "R8",
+              "value": 10
+            },
+            {
+              "rankCode": "R9",
+              "value": 10
+            },
+            {
+              "rankCode": "M1",
+              "value": 10
+            },
+            {
+              "rankCode": "M2",
+              "value": 10
+            },
+            {
+              "rankCode": "M3",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_combo_skill:3",
+          "label": "\u5C01\u5370\u6642\u9593\uFF08\u79D2\uFF09",
+          "unit": null,
+          "sortOrder": 4,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 4
+            },
+            {
+              "rankCode": "R2",
+              "value": 4
+            },
+            {
+              "rankCode": "R3",
+              "value": 4
+            },
+            {
+              "rankCode": "R4",
+              "value": 4
+            },
+            {
+              "rankCode": "R5",
+              "value": 4
+            },
+            {
+              "rankCode": "R6",
+              "value": 4
+            },
+            {
+              "rankCode": "R7",
+              "value": 4
+            },
+            {
+              "rankCode": "R8",
+              "value": 4
+            },
+            {
+              "rankCode": "R9",
+              "value": 4
+            },
+            {
+              "rankCode": "M1",
+              "value": 4.5
+            },
+            {
+              "rankCode": "M2",
+              "value": 4.5
+            },
+            {
+              "rankCode": "M3",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_combo_skill:4",
+          "label": "\u7372\u5F97\u7D42\u7D50\u6280\u80FD\u91CF",
+          "unit": null,
+          "sortOrder": 5,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 10
+            },
+            {
+              "rankCode": "R2",
+              "value": 10
+            },
+            {
+              "rankCode": "R3",
+              "value": 10
+            },
+            {
+              "rankCode": "R4",
+              "value": 10
+            },
+            {
+              "rankCode": "R5",
+              "value": 10
+            },
+            {
+              "rankCode": "R6",
+              "value": 10
+            },
+            {
+              "rankCode": "R7",
+              "value": 10
+            },
+            {
+              "rankCode": "R8",
+              "value": 10
+            },
+            {
+              "rankCode": "R9",
+              "value": 10
+            },
+            {
+              "rankCode": "M1",
+              "value": 10
+            },
+            {
+              "rankCode": "M2",
+              "value": 10
+            },
+            {
+              "rankCode": "M3",
+              "value": 10
+            }
+          ]
+        }
+      ],
+      "upgradeStages": [
+        {
+          "fromLevel": 1,
+          "toLevel": 2,
+          "creditCost": 1000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 2,
+          "toLevel": 3,
+          "creditCost": 2700,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 12
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 3,
+          "toLevel": 4,
+          "creditCost": 3200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 4,
+          "toLevel": 5,
+          "creditCost": 4200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 21
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 5,
+          "toLevel": 6,
+          "creditCost": 5400,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 27
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 6,
+          "toLevel": 7,
+          "creditCost": 8200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 7,
+          "toLevel": 8,
+          "creditCost": 10500,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 8
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 8,
+          "toLevel": 9,
+          "creditCost": 18000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 9,
+          "toLevel": 10,
+          "creditCost": 24000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 1
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "D96\u92FC\u6A23\u54C1\u56DB",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_2.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "fromLevel": 10,
+          "toLevel": 11,
+          "creditCost": 30000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 2
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 24
+            },
+            {
+              "name": "D96\u92FC\u6A23\u54C1\u56DB",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_2.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "fromLevel": 11,
+          "toLevel": 12,
+          "creditCost": 65000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 3
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 50
+            },
+            {
+              "name": "D96\u92FC\u6A23\u54C1\u56DB",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_2.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 36
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "skillType": "Ultimate",
+      "name": "\u8F5F\u64CA\u5E8F\u5217",
+      "description": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+      "descriptionsByRank": {
+        "R1": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R2": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R3": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R4": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R5": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R6": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R7": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R8": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "R9": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "M1": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "M2": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002",
+        "M3": "\u4F7F\u7528\u6E90\u77F3\u7D50\u6676\u8F5F\u64CA\u5730\u9762\uFF0C\u5C0D\u524D\u65B9\u6247\u5F62\u7BC4\u570D\u5167\u7684\u6575\u4EBA\u9020\u6210\u5927\u91CF\u7269\u7406\u50B7\u5BB3\u3002\u5982\u679C\u6575\u4EBA\u8EAB\u4E0A\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u5247\u64CA\u788E\u6E90\u77F3\u7D50\u6676\u4E26\u984D\u5916\u9020\u62101\u6B21\u7269\u7406\u50B7\u5BB3\u3002"
+      },
+      "bindingStatus": "partial",
+      "iconPath": "/media/wiki/operators/skills/icon_ultimate_skill_endmin_01.png",
+      "sortOrder": 4,
+      "levels": [
+        {
+          "levelIndex": 1,
+          "rankCode": "R1"
+        },
+        {
+          "levelIndex": 2,
+          "rankCode": "R2"
+        },
+        {
+          "levelIndex": 3,
+          "rankCode": "R3"
+        },
+        {
+          "levelIndex": 4,
+          "rankCode": "R4"
+        },
+        {
+          "levelIndex": 5,
+          "rankCode": "R5"
+        },
+        {
+          "levelIndex": 6,
+          "rankCode": "R6"
+        },
+        {
+          "levelIndex": 7,
+          "rankCode": "R7"
+        },
+        {
+          "levelIndex": 8,
+          "rankCode": "R8"
+        },
+        {
+          "levelIndex": 9,
+          "rankCode": "R9"
+        },
+        {
+          "levelIndex": 10,
+          "rankCode": "M1"
+        },
+        {
+          "levelIndex": 11,
+          "rankCode": "M2"
+        },
+        {
+          "levelIndex": 12,
+          "rankCode": "M3"
+        }
+      ],
+      "parameters": [
+        {
+          "parameterKey": "chr_0002_endminm_ultimate_skill:0",
+          "label": "\u50B7\u5BB3\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 1,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 356
+            },
+            {
+              "rankCode": "R2",
+              "value": 391
+            },
+            {
+              "rankCode": "R3",
+              "value": 427
+            },
+            {
+              "rankCode": "R4",
+              "value": 462
+            },
+            {
+              "rankCode": "R5",
+              "value": 498
+            },
+            {
+              "rankCode": "R6",
+              "value": 533
+            },
+            {
+              "rankCode": "R7",
+              "value": 569
+            },
+            {
+              "rankCode": "R8",
+              "value": 604
+            },
+            {
+              "rankCode": "R9",
+              "value": 640
+            },
+            {
+              "rankCode": "M1",
+              "value": 684
+            },
+            {
+              "rankCode": "M2",
+              "value": 738
+            },
+            {
+              "rankCode": "M3",
+              "value": 800
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_ultimate_skill:1",
+          "label": "\u984D\u5916\u50B7\u5BB3\u500D\u7387",
+          "unit": "%",
+          "sortOrder": 2,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 267
+            },
+            {
+              "rankCode": "R2",
+              "value": 294
+            },
+            {
+              "rankCode": "R3",
+              "value": 320
+            },
+            {
+              "rankCode": "R4",
+              "value": 347
+            },
+            {
+              "rankCode": "R5",
+              "value": 374
+            },
+            {
+              "rankCode": "R6",
+              "value": 400
+            },
+            {
+              "rankCode": "R7",
+              "value": 427
+            },
+            {
+              "rankCode": "R8",
+              "value": 454
+            },
+            {
+              "rankCode": "R9",
+              "value": 480
+            },
+            {
+              "rankCode": "M1",
+              "value": 514
+            },
+            {
+              "rankCode": "M2",
+              "value": 554
+            },
+            {
+              "rankCode": "M3",
+              "value": 600
+            }
+          ]
+        },
+        {
+          "parameterKey": "chr_0002_endminm_ultimate_skill:2",
+          "label": "\u5931\u8861\u503C",
+          "unit": null,
+          "sortOrder": 3,
+          "values": [
+            {
+              "rankCode": "R1",
+              "value": 25
+            },
+            {
+              "rankCode": "R2",
+              "value": 25
+            },
+            {
+              "rankCode": "R3",
+              "value": 25
+            },
+            {
+              "rankCode": "R4",
+              "value": 25
+            },
+            {
+              "rankCode": "R5",
+              "value": 25
+            },
+            {
+              "rankCode": "R6",
+              "value": 25
+            },
+            {
+              "rankCode": "R7",
+              "value": 25
+            },
+            {
+              "rankCode": "R8",
+              "value": 25
+            },
+            {
+              "rankCode": "R9",
+              "value": 25
+            },
+            {
+              "rankCode": "M1",
+              "value": 25
+            },
+            {
+              "rankCode": "M2",
+              "value": 25
+            },
+            {
+              "rankCode": "M3",
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "upgradeStages": [
+        {
+          "fromLevel": 1,
+          "toLevel": 2,
+          "creditCost": 1000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 2,
+          "toLevel": 3,
+          "creditCost": 2700,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 12
+            },
+            {
+              "name": "\u6676\u5316\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_1.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 3,
+          "toLevel": 4,
+          "creditCost": 3200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 4,
+          "toLevel": 5,
+          "creditCost": 4200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 21
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 5,
+          "toLevel": 6,
+          "creditCost": 5400,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_1_6.png",
+              "rarity": 3,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 27
+            },
+            {
+              "name": "\u7D14\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_2.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 6,
+          "toLevel": 7,
+          "creditCost": 8200,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 7,
+          "toLevel": 8,
+          "creditCost": 10500,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 8
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "fromLevel": 8,
+          "toLevel": 9,
+          "creditCost": 18000,
+          "materials": [
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "\u81F3\u6676\u591A\u9F52\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_1_3.png",
+              "rarity": 4,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "fromLevel": 9,
+          "toLevel": 10,
+          "creditCost": 24000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 1
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 15
+            },
+            {
+              "name": "\u8FC5\u5B50\u9074\u64BF\u6676\u683C",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_3.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 6
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "fromLevel": 10,
+          "toLevel": 11,
+          "creditCost": 30000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 2
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 24
+            },
+            {
+              "name": "\u8FC5\u5B50\u9074\u64BF\u6676\u683C",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_3.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 16
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 6
+            }
+          ]
+        },
+        {
+          "fromLevel": 11,
+          "toLevel": 12,
+          "creditCost": 65000,
+          "materials": [
+            {
+              "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_crown.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 3
+            },
+            {
+              "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_level_7_12.png",
+              "rarity": 4,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 50
+            },
+            {
+              "name": "\u8FC5\u5B50\u9074\u64BF\u6676\u683C",
+              "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_3.png",
+              "rarity": 5,
+              "category": "\u57F9\u990A\u6750\u6599",
+              "quantity": 36
+            },
+            {
+              "name": "\u5CA9\u5929\u4F7F\u8449",
+              "iconPath": "/media/wiki/operators/materials/item_plant_crylplant_2_2.png",
+              "rarity": 5,
+              "category": "\u73CD\u8CB4\u6750\u6599",
+              "quantity": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "talents": [
+    {
+      "name": "\u672C\u8CEA\u74E6\u89E3",
+      "sortOrder": 1,
+      "levels": [
+        {
+          "unlockPromotionStage": 1,
+          "description": "\u6230\u6280\u548C\u7D42\u7D50\u6280\u547D\u4E2D\u81F3\u5C112\u500B\u76EE\u6A19\u5F8C\uFF0C\u9023\u651C\u6280\u7684\u51B7\u537B\u6642\u9593\u56DE\u5FA9{0,0:0.0}\u79D2\u3002"
+        },
+        {
+          "unlockPromotionStage": 2,
+          "description": "\u6230\u6280\u548C\u7D42\u7D50\u6280\u547D\u4E2D\u81F3\u5C112\u500B\u76EE\u6A19\u5F8C\uFF0C\u9023\u651C\u6280\u7684\u51B7\u537B\u6642\u9593\u56DE\u5FA9{0,0:0.0}\u79D2\u3002"
+        }
+      ]
+    },
+    {
+      "name": "\u73FE\u5BE6\u975C\u6EEF",
+      "sortOrder": 2,
+      "levels": [
+        {
+          "unlockPromotionStage": 2,
+          "description": "\u88AB\u6E90\u77F3\u7D50\u6676\u5C01\u5370\u7684\u6575\u4EBA\u9084\u6703\u53D7\u5230{0,0:0%}\u7684\u984D\u5916\u7269\u7406\u50B7\u5BB3\u3002"
+        },
+        {
+          "unlockPromotionStage": 3,
+          "description": "\u88AB\u6E90\u77F3\u7D50\u6676\u5C01\u5370\u7684\u6575\u4EBA\u9084\u6703\u53D7\u5230{0,0:0%}\u7684\u984D\u5916\u7269\u7406\u50B7\u5BB3\u3002"
+        }
+      ]
+    }
+  ],
+  "logisticsSkills": [],
+  "potentials": [
+    {
+      "potentialLevel": 1,
+      "name": "\u6700\u5F8C\u7684\u7526\u9192",
+      "description": "\u6230\u6280\u69CB\u6210\u5E8F\u5217\u6D88\u8017\u6E90\u77F3\u7D50\u6676\u6642\uFF0C\u8FD4\u908450\u9EDE\u6280\u529B\u3002"
+    },
+    {
+      "potentialLevel": 2,
+      "name": "\u6B0A\u80FD\u6620\u5C04",
+      "description": "\u5929\u8CE6\u672C\u8CEA\u74E6\u89E3\u6548\u679C\u52A0\u5F37\uFF1A\u81EA\u8EAB\u7372\u5F97\u653B\u64CA\u529B\u63D0\u5347\u6642\uFF0C\u5176\u4ED6\u53CB\u65B9\u5E79\u54E1\u7372\u5F97\u4E00\u534A\u7684\u653B\u64CA\u529B\u63D0\u5347\u6548\u679C\u3002"
+    },
+    {
+      "potentialLevel": 3,
+      "name": "\u6307\u5F15\u8005",
+      "description": "\u7D42\u7D50\u6280\u8F5F\u64CA\u5E8F\u5217\u6D88\u8017\u6E90\u77F3\u7D50\u6676\u5F8C\uFF0C\u7372\u5F9715\u9EDE\u7D42\u7D50\u6280\u80FD\u91CF\u3002\n\u8A72\u6548\u679C\u7121\u6CD5\u88AB\u52A0\u6210\u3002"
+    },
+    {
+      "potentialLevel": 4,
+      "name": "\u6E90\u77F3\u7D71\u5FA1",
+      "description": "\u6E90\u77F3\u6280\u85DD\u5F37\u5EA6\u002B16\uFF0C\u7D42\u7D50\u6280\u8F5F\u64CA\u5E8F\u5217\u50B7\u5BB3\u63D0\u5347\u81F3\u539F\u672C\u76841.2\u500D\u3002"
+    },
+    {
+      "potentialLevel": 5,
+      "name": "\uFF1F\uFF1F\uFF1F",
+      "description": "\uFF1F\uFF1F\uFF1F"
+    }
+  ],
+  "promotions": [
+    {
+      "stage": 1,
+      "requiredLevel": 20,
+      "nextLevelLimit": 40,
+      "materials": [
+        {
+          "name": "\u5354\u8B70\u5713\u76E4",
+          "iconPath": "/media/wiki/operators/materials/item_char_break_stage_1_2.png",
+          "rarity": 3,
+          "category": "\u57F9\u990A\u6750\u6599",
+          "quantity": 8
+        },
+        {
+          "name": "\u8F15\u7D05\u67F1\u72C0\u83CC",
+          "iconPath": "/media/wiki/operators/materials/item_plant_mushroom_1_1.png",
+          "rarity": 4,
+          "category": "\u73CD\u8CB4\u6750\u6599",
+          "quantity": 3
+        },
+        {
+          "name": "\u6298\u91D1\u7968",
+          "iconPath": "/media/wiki/operators/materials/item_gold.png",
+          "rarity": 4,
+          "category": "\u8CA8\u5E63",
+          "quantity": 1600
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "requiredLevel": 40,
+      "nextLevelLimit": 60,
+      "materials": [
+        {
+          "name": "\u5354\u8B70\u5713\u76E4",
+          "iconPath": "/media/wiki/operators/materials/item_char_break_stage_1_2.png",
+          "rarity": 3,
+          "category": "\u57F9\u990A\u6750\u6599",
+          "quantity": 25
+        },
+        {
+          "name": "\u4E2D\u7D05\u67F1\u72C0\u83CC",
+          "iconPath": "/media/wiki/operators/materials/item_plant_mushroom_1_2.png",
+          "rarity": 4,
+          "category": "\u73CD\u8CB4\u6750\u6599",
+          "quantity": 5
+        },
+        {
+          "name": "\u6298\u91D1\u7968",
+          "iconPath": "/media/wiki/operators/materials/item_gold.png",
+          "rarity": 4,
+          "category": "\u8CA8\u5E63",
+          "quantity": 6500
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "requiredLevel": 60,
+      "nextLevelLimit": 80,
+      "materials": [
+        {
+          "name": "\u5354\u8B70\u5713\u76E4\u7D44",
+          "iconPath": "/media/wiki/operators/materials/item_char_break_stage_3_4.png",
+          "rarity": 4,
+          "category": "\u57F9\u990A\u6750\u6599",
+          "quantity": 24
+        },
+        {
+          "name": "\u91CD\u7D05\u67F1\u72C0\u83CC",
+          "iconPath": "/media/wiki/operators/materials/item_plant_mushroom_1_3.png",
+          "rarity": 4,
+          "category": "\u73CD\u8CB4\u6750\u6599",
+          "quantity": 5
+        },
+        {
+          "name": "\u6298\u91D1\u7968",
+          "iconPath": "/media/wiki/operators/materials/item_gold.png",
+          "rarity": 4,
+          "category": "\u8CA8\u5E63",
+          "quantity": 18000
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "requiredLevel": 80,
+      "nextLevelLimit": 90,
+      "materials": [
+        {
+          "name": "\u5354\u8B70\u5713\u76E4\u7D44",
+          "iconPath": "/media/wiki/operators/materials/item_char_break_stage_3_4.png",
+          "rarity": 4,
+          "category": "\u57F9\u990A\u6750\u6599",
+          "quantity": 36
+        },
+        {
+          "name": "\u8D85\u8DDD\u8F1D\u6620\u7BA1",
+          "iconPath": "/media/wiki/operators/materials/item_char_skill_specialize_1.png",
+          "rarity": 5,
+          "category": "\u57F9\u990A\u6750\u6599",
+          "quantity": 20
+        },
+        {
+          "name": "\u8840\u83CC",
+          "iconPath": "/media/wiki/operators/materials/item_plant_mushroom_2_1.png",
+          "rarity": 5,
+          "category": "\u73CD\u8CB4\u6750\u6599",
+          "quantity": 8
+        },
+        {
+          "name": "\u6298\u91D1\u7968",
+          "iconPath": "/media/wiki/operators/materials/item_gold.png",
+          "rarity": 4,
+          "category": "\u8CA8\u5E63",
+          "quantity": 100000
+        }
+      ]
+    }
+  ],
+  "archives": [
+    {
+      "recordCode": "CN_01",
+      "recordIndex": 1,
+      "title": "\u57FA\u790E\u6A94\u6848",
+      "content": "\u3010\u4EE3\u865F\u3011\u7BA1\u7406\u54E1\n\u3010\u6027\u5225\u3011\u25A0\u25A0\n\u3010\u8EAB\u5206\u8A8D\u8B49\u3011\u25A0\u25A0\n\u3010\u751F\u65E5\u3011\u25A0\u25A0\n\u3010\u7A2E\u65CF\u3011\u25A0\u25A0\n\n\u4F60\u4EC0\u9EBC\u90FD\u56DE\u61B6\u4E0D\u8D77\u4F86\u3002\n\u8A18\u61B6\u50CF\u662F\u88AB\u63C9\u788E\u7684\u5922\u5883\uFF0C\u53EA\u7B49\u96A8\u4FBF\u67D0\u500B\u5FF5\u982D\u8208\u8D77\uFF0C\u4FBF\u7121\u5F71\u7121\u8E64\u3002\n\u9019\u8B93\u4F60\u5076\u723E\u7126\u8E81\uFF0C\u5076\u723E\u64D4\u6182\uFF0C\u4E5F\u8B93\u4F60\u6709\u4E86\u4E00\u4E9B\u7A7A\u9593\u601D\u8003\u3002\n\u4F46\u66F4\u591A\u6642\u5019\uFF0C\u4F60\u7121\u6687\u591A\u60F3\uFF0C\u4F60\u9078\u64C7\u76F8\u4FE1\u773C\u524D\u7684\u4EBA\uFF0C\u53EA\u9700\u524D\u884C\u3002\n\u4E5F\u8A31\u8A18\u61B6\u5DF2\u7D93\u88AB\u4F60\u77ED\u66AB\u5730\u62CB\u8AF8\u8166\u5F8C\u2026\u2026\n\u2026\u2026\u6240\u4EE5\uFF0C\u4F60\u4EC0\u9EBC\u90FD\u56DE\u61B6\u4E0D\u8D77\u4F86\u3002",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396"
+    },
+    {
+      "recordCode": "CN_02",
+      "recordIndex": 2,
+      "title": "\u4EBA\u4E8B\u7C21\u8FF0",
+      "content": "\u4F60\u904E\u53BB\u7684\u751F\u547D\u8CAB\u7A7F\u4E86\u5854\u885B\u4E8C\u81F3\u4ECA\u7684\u6B77\u53F2\u2026\u2026",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396"
+    },
+    {
+      "recordCode": "CN_03",
+      "recordIndex": 3,
+      "title": "\u6A94\u6848\u8CC7\u6599\u00B7\u4E00",
+      "content": "\u2026\u2026\u90A3\u9EBC\uFF0C\u672A\u4F86\u5462\uFF1F",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396"
+    }
+  ],
+  "voiceLines": [
+    {
+      "voiceIndex": 1,
+      "title": "\u884C\u52D5\u6E96\u50991",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I hear Originium singing.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u6E90\u77F3\u304C\u6B4C\u3063\u3066\u3044\u308B\u3093\u3060\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC624\uB9AC\uC9C0\uB284\uC774 \uB178\uB798\uD558\uACE0 \uC788\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6E90\u77F3\u5728\u6B4C\u5531\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 2,
+      "title": "\u884C\u52D5\u6E96\u50992",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Endfield won\u0027t stop progressing.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u30A8\u30F3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C9\u306F\u6B69\u307F\u3092\u6B62\u3081\u306A\u3044\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC5D4\uB4DC\uD544\uB4DC\uB294 \uBC18\uB4DC\uC2DC \uC55E\uC73C\uB85C \uB098\uC544\uAC08 \uAC70\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u7D42\u672B\u5730\u4E00\u5B9A\u6703\u7E7C\u7E8C\u524D\u884C\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 3,
+      "title": "\u7DE8\u5165\u968A\u4F0D1",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I\u0027m in position, Dijiang.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5E1D\u6C5F\u53F7\u3001\u6E96\u5099\u306F\u3067\u304D\u3066\u3044\u308B\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC81C\uAC15\uD638, \uB09C \uC900\uBE44\uB410\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u5E1D\u6C5F\u865F\uFF0C\u6211\u5DF2\u5C31\u4F4D\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 4,
+      "title": "\u7DE8\u5165\u968A\u4F0D2",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "It\u0027s about time.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u305D\u308D\u305D\u308D\u6642\u9593\u3060\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uCD9C\uBC1C\uD560 \uB54C\uAC00 \uB410\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u8A72\u51FA\u767C\u4E86\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 5,
+      "title": "\u66F4\u63DB\u6B66\u5668",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Not too shabby.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u60AA\u304F\u306A\u3044\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB098\uC058\uC9C0 \uC54A\uB124.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u9084\u4E0D\u8CF4\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 6,
+      "title": "\u66F4\u63DB\u88DD\u5099",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "A fine product of industrial manufacturing.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3053\u308C\u304C\u5DE5\u696D\u306E\u6210\u679C\u3060\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC774\uAC8C \uBC14\uB85C \uACF5\uC5C5\uC758 \uD798\uC774\uC9C0.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u9019\u5C31\u662F\u5DE5\u696D\u7684\u6210\u679C\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 7,
+      "title": "\u89E3\u9396\u5929\u8CE6\u9663\u5217",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I recognize this feeling...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u61D0\u304B\u3057\u3044\u611F\u899A\u3060\u2026\u2026",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC775\uC219\uD55C \uB290\uB08C\uC774\uC57C...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u719F\u6089\u7684\u611F\u89BA\u2026\u2026",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 8,
+      "title": "\u89C0\u770B\u4F5C\u6230\u7D00\u9304",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I\u0027ll never forget the sight of them.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u4E8C\u5EA6\u3068\u3001\u7686\u306E\u3053\u3068\u3092\u5FD8\u308C\u305F\u308A\u3057\u306A\u3044\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB2E4\uC2DC\uB294 \uC774\uB4E4\uC758 \uBAA8\uC2B5\uC744 \uC78A\uC9C0 \uC54A\uACA0\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6211\u4E0D\u6703\u518D\u5FD8\u8A18\u4ED6\u5011\u7684\u8EAB\u5F71\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 9,
+      "title": "\u7CBE\u82F1\u5316\u6649\u53471",
+      "unlockType": 2,
+      "unlockValue": 1,
+      "unlockDescription": "\u7CBE\u82F1\u5316 Lv.1",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Another step forward...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3082\u3046\u4E00\u6B69\u3001\u5148\u3078\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uD55C \uAC78\uC74C \uB354 \uB098\uC544\uAC14\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u66F4\u9032\u4E00\u6B65\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 10,
+      "title": "\u7CBE\u82F1\u5316\u6649\u53472",
+      "unlockType": 2,
+      "unlockValue": 2,
+      "unlockDescription": "\u7CBE\u82F1\u5316 Lv.2",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I\u0027ll protect Endfield. Always.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u30A8\u30F3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C9\u3092\u5FC5\u305A\u5B88\u308B\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB09C \uC5D4\uB4DC\uD544\uB4DC\uB97C \uC9C0\uD0AC \uAC70\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6211\u6703\u4FDD\u8B77\u7D42\u672B\u5730\u7684\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 11,
+      "title": "\u7CBE\u82F1\u5316\u6649\u53473",
+      "unlockType": 2,
+      "unlockValue": 3,
+      "unlockDescription": "\u7CBE\u82F1\u5316 Lv.3",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "The past and the present must become one.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u904E\u53BB\u3068\u4ECA\u3092\u2026\u20261\u3064\u306B\u3059\u308B\u3093\u3060\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uACFC\uAC70\uC640 \uD604\uC7AC\uB294... \uD558\uB098\uAC00 \uB3FC\uC57C \uD574.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u904E\u53BB\u548C\u73FE\u5728\u2026\u2026\u5FC5\u9808\u5408\u4E8C\u70BA\u4E00\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 12,
+      "title": "\u7CBE\u82F1\u5316\u6649\u53474",
+      "unlockType": 2,
+      "unlockValue": 4,
+      "unlockDescription": "\u7CBE\u82F1\u5316 Lv.4",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I heard her voice, echoing like a whisper in dreams. Time and again, I\u0027ve dreamed of a boundless sea \u2014 one that brings sorrow, stirs memories ... and strengthens my resolve.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5F7C\u5973\u306E\u58F0\u304C\u3057\u305F\u3002\u307E\u308B\u3067\u3001\u5922\u306E\u4E2D\u3067\u56C1\u304B\u308C\u308B\u3088\u3046\u306A\u2026\u2026\u679C\u3066\u3057\u306A\u3044\u6D77\u3092\u3044\u3064\u3082\u5922\u306B\u898B\u308B\u3002\u60B2\u3057\u304F\u3001\u61D0\u304B\u3057\u3044\u2026\u2026\u305D\u306E\u5EA6\u306B\u6C7A\u610F\u3092\u601D\u3044\u51FA\u3059\u3093\u3060\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uADF8 \uC544\uC774\uC758 \uBAA9\uC18C\uB9AC\uB97C \uB4E4\uC5C8\uC5B4, \uAF2D \uAFC8\uC18D\uC5D0\uC11C \uC6B8\uB824 \uD37C\uC9C0\uB294 \uC18D\uC0AD\uC784 \uAC19\uC558\uC9C0... \uC790\uC8FC \uB0B4 \uAFC8\uC18D\uC5D0\uC11C\uB294 \uB05D\uC5C6\uB294 \uBC14\uB2E4\uAC00 \uD3BC\uCCD0\uC9C0\uACE4 \uD574. \uC544\uC8FC \uC2AC\uD504\uACE0, \uADF8\uB9AC\uC6C0\uC774 \uAC00\uB4DD\uD558\uAC8C \uB9CC\uB4E4\uC5B4... \uADF8\uB9AC\uACE0 \uB2E4\uC2DC \uD55C\uBC88 \uACB0\uC2EC\uC744 \uB2E4\uC9C0\uAC8C \uD558\uC9C0.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6211\u807D\u898B\u4E86\u5979\u7684\u8072\u97F3\uFF0C\u50CF\u662F\u5922\u4E2D\u7684\u5462\u5583\u3002\u6211\u5E38\u5728\u5922\u4E2D\u9047\u898B\u4E00\u7247\u7121\u57A0\u7684\u6D77\uFF0C\u4EE4\u4EBA\u60B2\u50B7\uFF0C\u4EE4\u4EBA\u61F7\u5FF5\u2026\u2026\u4E5F\u8B93\u6211\u518D\u4E00\u6B21\u4E0B\u5B9A\u6C7A\u5FC3\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 13,
+      "title": "\u5F85\u547D1",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Still waiting for something?",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u4F55\u304C\u5F85\u3063\u3066\u3044\u308B\u306E\u304B\u306A\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uBB58 \uAE30\uB2E4\uB9AC\uACE0 \uC788\uB294 \uAC70\uC57C?",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u9084\u5728\u7B49\u4EC0\u9EBC\u55CE\uFF1F",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 14,
+      "title": "\u5F85\u547D2",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Originium will carve a path for us.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u6E90\u77F3\u304C\u9053\u3092\u958B\u3044\u3066\u304F\u308C\u308B\u306F\u305A\u3060\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC624\uB9AC\uC9C0\uB284\uC774 \uAE38\uC744 \uC5F4\uC5B4\uC904 \uAC70\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6E90\u77F3\u6703\u958B\u95E2\u9053\u8DEF\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 15,
+      "title": "\u63A5\u6536\u79AE\u7269",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Many thanks!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3042\u308A\u304C\u3068\u3046\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uACE0\uB9C8\uC6CC!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u611F\u8B1D\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 16,
+      "title": "\u767C\u73FE\u8CC7\u6E901",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Look, over there...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3042\u308C\u306F\u2026\u2026",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC800\uCABD\uC740...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u90A3\u908A\u662F\u2026\u2026",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 17,
+      "title": "\u767C\u73FE\u8CC7\u6E902",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Something important lies over there!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5927\u4E8B\u306A\u3082\u306E\u304C\u3042\u308A\u305D\u3046\u3060\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC800\uAE30 \uC5C4\uCCAD \uC911\uC694\uD55C \uAC8C \uC788\uC5B4!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u90A3\u908A\u6709\u5F88\u91CD\u8981\u7684\u6771\u897F\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 18,
+      "title": "\u767C\u73FE\u672A\u63A2\u7D22\u5340\u57DF",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "The nearby area needs a proper survey.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3053\u306E\u5468\u8FBA\u306F\u8ABF\u67FB\u304C\u5FC5\u8981\u305D\u3046\u304B\u306A\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uADFC\uCC98\uC5D0 \uC870\uC0AC\uAC00 \uD544\uC694\uD55C \uAD6C\uC5ED\uC774 \uC788\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u9644\u8FD1\u6709\u9700\u8981\u8ABF\u67E5\u7684\u5340\u57DF\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 19,
+      "title": "\u767C\u73FE\u5F37\u6575",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "High-threat hostile. Approach with caution.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5F37\u6575\u3060\u3002\u614E\u91CD\u306B\u5BFE\u51E6\u3057\u3088\u3046\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uAC15\uB825\uD55C \uC801\uC774\uC57C, \uC2E0\uC911\uD558\uAC8C \uB300\uCC98\uD574\uC57C \uD574.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u662F\u5F37\u6575\uFF0C\u8B39\u614E\u61C9\u5C0D\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 20,
+      "title": "\u63A1\u96C6\u7926\u72691",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "These minerals may come in handy.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3053\u306E\u9271\u7269\u3001\u4F7F\u3048\u308B\u304B\u3082\u3057\u308C\u306A\u3044\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC774 \uAD11\uBB3C\uB4E4, \uAF64 \uC720\uC6A9\uD558\uAC8C \uC4F8 \uC218 \uC788\uC744 \uAC70\uC57C!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u9019\u4E9B\u7926\u7269\u80FD\u6D3E\u4E0A\u7528\u5834\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 21,
+      "title": "\u63A1\u96C6\u7926\u72692",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Let me help out.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u624B\u4F1D\u3046\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB098\uB3C4 \uB3C4\uC6B8\uAC8C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6211\u4E5F\u4F86\u5E6B\u5FD9\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 22,
+      "title": "\u6253\u958B\u5132\u85CF\u7BB1",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "This is one rewarding trip.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5927\u6F01\u3060\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC88B\uC740 \uC218\uD655\uC774\uC57C!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6EFF\u8F09\u800C\u6B78\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 23,
+      "title": "\u7372\u5F97\u919A\u8CEA",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "This feels familiar.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u61D0\u304B\u3057\u3044\u611F\u899A\u3060\u2026\u2026",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC775\uC219\uD55C \uB290\uB08C\uC774\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u719F\u6089\u7684\u89F8\u611F\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 24,
+      "title": "\u6D88\u9664\u4FB5\u8755",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Blight elimination confirmed.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u9664\u53BB\u5B8C\u4E86\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC81C\uAC70 \uC644\uB8CC.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u78BA\u8A8D\u6D88\u9664\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 25,
+      "title": "\u4F11\u6574",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Everyone is rested.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u7686\u3001\u6E96\u5099\u306F\u3067\u304D\u305F\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC900\uBE44 \uC644\uB8CC.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6574\u968A\u5B8C\u7562\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 26,
+      "title": "\u4F7F\u7528\u6230\u8853\u7269\u54C11",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Feeling better?",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u52B9\u304F\u306F\u305A\u3060\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uD6A8\uACFC\uAC00 \uC788\uC744 \uAC70\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6548\u679C\u4E0D\u932F\u5427\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 27,
+      "title": "\u4F7F\u7528\u6230\u8853\u7269\u54C12",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Much better now.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3044\u3044\u8ABF\u5B50\u3060\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB9CE\uC774 \uC88B\uC544\uC9C4 \uAC83 \uAC19\uC544.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u611F\u89BA\u5F88\u597D\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 28,
+      "title": "\u5371\u96AA\u63D0\u9192",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Incoming! Watch out!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5371\u306A\u3044\u3002\u6C17\u3092\u3064\u3051\u3066\uFF01",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC798 \uBCF4\uACE0 \uD53C\uD574!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6709\u5371\u96AA\uFF0C\u6CE8\u610F\u6642\u6A5F\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 29,
+      "title": "\u8CA0\u50B7",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I\u0027m still in fighting shape...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u307E\u3060\u2026\u2026\u8010\u3048\u3089\u308C\u308B\u2026\u2026",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC544\uC9C1 \uBC84\uD2F8 \uC218 \uC788\uC5B4...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6211\u9084\u6490\u5F97\u4F4F\u2026\u2026",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 30,
+      "title": "\u529B\u7AED",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I\u0027m sorry... It\u0027s in your hands now...",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3054\u3081\u3093\u3002\u3042\u3068\u306F\u3001\u7686\u306B\u4EFB\u305B\u308B\u2026\u2026",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uBBF8\uC548\uD574, \uB4A4\uB294 \uB108\uD76C\uB4E4\uD55C\uD14C \uB9E1\uAE38\uAC8C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u62B1\u6B49\uFF0C\u63A5\u4E0B\u4F86\u5C31\u4EA4\u7D66\u5404\u4F4D\u4E86\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 31,
+      "title": "\u5C0F\u968A\u6FC0\u52F51",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "You pulled off a sleek move.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3044\u3044\u52D5\u304D\u3060\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uACF5\uACA9\uC774 \uC815\uB9D0 \uB0A0\uCE74\uB86D\uB124.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u4F60\u7684\u62DB\u5F0F\u5F88\u4FD0\u843D\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 32,
+      "title": "\u5C0F\u968A\u6FC0\u52F52",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "We\u0027re in perfect sync.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5B8C\u74A7\u306A\u9023\u643A\u3060\u3063\u305F\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC644\uBCBD\uD55C \uD638\uD761\uC774\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6211\u5011\u7684\u914D\u5408\u5929\u8863\u7121\u7E2B\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 33,
+      "title": "\u56DE\u61C9\u6FC0\u52F51",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "You flatter me.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5927\u3057\u305F\u3053\u3068\u306A\u3044\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uBCC4\uAC70 \uC544\uB0D0!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u904E\u734E\u4E86\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 34,
+      "title": "\u56DE\u61C9\u6FC0\u52F52",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Our teamwork just keeps getting better.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3046\u3093\u3002\u968F\u5206\u606F\u304C\u5408\u3063\u3066\u304D\u305F\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC810\uC810 \uD638\uD761\uC774 \uC798 \uB9DE\uB124.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u55EF\uFF0C\u6211\u5011\u8D8A\u4F86\u8D8A\u6709\u9ED8\u5951\u4E86\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 35,
+      "title": "\u4F5C\u6230\u958B\u59CB1",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Time to fight.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u51FA\u756A\u307F\u305F\u3044\u3060\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uAC00\uC790, \uC6B0\uB9AC \uCC28\uB840\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u8A72\u6211\u5011\u4E0A\u4E86\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 36,
+      "title": "\u4F5C\u6230\u958B\u59CB2",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "I\u0027m with you.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u4EFB\u305B\u3066\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB0B4\uAC00 \uB4A4\uB97C \uB9E1\uC744\uAC8C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6709\u6211\u5728\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 37,
+      "title": "\u4F5C\u6230\u52DD\u52291",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "We made another step forward, Endfielders.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u30A8\u30F3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C9\u304C\u307E\u305F\u4E00\u6B69\u3001\u524D\u306B\u9032\u3093\u3060\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC5D4\uB4DC\uD544\uB4DC\uB294 \uB610 \uD55C \uAC78\uC74C \uC55E\uC73C\uB85C \uB098\uC544\uAC14\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u7D42\u672B\u5730\u53C8\u524D\u9032\u4E86\u4E00\u6B65\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 38,
+      "title": "\u4F5C\u6230\u52DD\u52292",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Good work, everyone.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u7686\u3001\u3088\u304F\u3084\u3063\u305F\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uBAA8\uB450 \uACE0\uC0DD \uB9CE\uC558\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u8F9B\u82E6\u4E86\uFF0C\u5404\u4F4D\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 39,
+      "title": "\u4F5C\u6230\u52DD\u52293",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "We handled that fight well!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3055\u3059\u304C\u3060\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC544\uC8FC \uD6CC\uB96D\uD588\uC5B4!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u505A\u5F97\u4E0D\u932F\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 40,
+      "title": "\u4F5C\u6230\u52DD\u52294",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Everyone okay?",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5927\u4E08\u592B\u304B\u306A\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB2E4\uB4E4 \uAD1C\uCC2E\uC544?",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6C92\u4E8B\u5427\uFF1F",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 41,
+      "title": "\u4F5C\u6230\u5931\u6557",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "No need to worry. We\u0027ll regroup and figure this out.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5927\u4E08\u592B\u3002\u3082\u3046\u4E00\u5EA6\u6E96\u5099\u3092\u6574\u3048\u3088\u3046\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC11C\uB450\uB974\uC9C0 \uB9C8, \uC77C\uB2E8 \uC815\uBE44\uD558\uACE0 \uB2E4\uC2DC \uC0DD\uAC01\uD558\uC790.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u4E0D\u8981\u5FC3\u6025\uFF0C\u8ABF\u6574\u5B8C\u7562\u5F8C\u518D\u505A\u6253\u7B97\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 42,
+      "title": "\u91CD\u64CA1",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Take this!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u6C7A\u3081\u308B\u3088\uFF01",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uBC1B\uC544\uB77C!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u5690\u5690\u9019\u500B\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 43,
+      "title": "\u91CD\u64CA2",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Watch this!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u898B\u3048\u305F\uFF01",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC774\uAC74 \uC5B4\uB54C!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u770B\u6E05\u695A\u4E86\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 44,
+      "title": "\u6230\u62801",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Engage!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u8FCE\u6483\u3059\u308B\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB364\uBCBC!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u8FCE\u64CA\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 45,
+      "title": "\u6230\u62802",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Get crushed!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u4EFB\u305B\u3066\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB098\uD55C\uD14C \uB9E1\uACA8!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u4EA4\u7D66\u6211\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 46,
+      "title": "\u6230\u62803",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Take \u0027em out!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3055\u3063\u3055\u3068\u6F70\u3059\u3088\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB0A0\uB824\uBC84\uB9AC\uACA0\uC5B4!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u64CA\u6F70\u4ED6\u5011\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 47,
+      "title": "\u9023\u651C\u6280\u5C31\u7DD21",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Ready to strike.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u3044\u3064\u3067\u3082\u884C\u3051\u308B\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC5B8\uC81C\uB4E0\uC9C0 \uAC08 \uC218 \uC788\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u96A8\u6642\u53EF\u4EE5\u884C\u52D5\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 48,
+      "title": "\u9023\u651C\u6280\u5C31\u7DD22",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Trust in me.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u4FE1\u3058\u3066\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB0A0 \uBBFF\uC5B4!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u76F8\u4FE1\u6211\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 49,
+      "title": "\u9023\u651C\u62801",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Crystallize!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u53D7\u3051\u53D6\u3063\u3066\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC5F0\uC18D \uACF5\uACA9!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u63A5\u62DB\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 50,
+      "title": "\u9023\u651C\u62802",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Face your end!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u7D42\u308F\u3089\u305B\u308B\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC5EC\uAE30\uAE4C\uC9C0\uC57C!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u5230\u6B64\u70BA\u6B62\u4E86\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 51,
+      "title": "\u8655\u6C7A1",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "This ends now!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u4ECA\u3060\uFF01",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC9C0\uAE08\uC774\uC57C!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u5C31\u73FE\u5728\uFF01",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 52,
+      "title": "\u8655\u6C7A2",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Gotcha!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u6CB9\u65AD\u3057\u305F\u306D\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uD5C8\uC810 \uBC1C\uACAC!",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u627E\u5230\u7834\u7DBB\u4E86\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 53,
+      "title": "\u7D42\u7D50\u62801",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "No second chance.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u5B89\u5FC3\u3057\u3066\u3002\u6B21\u306F\u306A\u3044\u304B\u3089\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uB450 \uBC88\uC758 \uAE30\uD68C\uB294 \uC5C6\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u6C92\u6709\u7B2C\u4E8C\u6B21\u6A5F\u6703\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 54,
+      "title": "\u7D42\u7D50\u62802",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Your end awaits.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u541B\u306F\u3053\u3053\u3067\u7D42\u308F\u308A\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC774\uAC78\uB85C \uB05D\uC774\uC57C.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u4F60\u5C07\u9081\u5411\u7D42\u7D50\u3002",
+          "audioPath": null
+        }
+      ]
+    },
+    {
+      "voiceIndex": 55,
+      "title": "\u7D42\u7D50\u62803",
+      "unlockType": 0,
+      "unlockValue": 0,
+      "unlockDescription": "\u9810\u8A2D\u89E3\u9396",
+      "texts": [
+        {
+          "languageCode": "EN",
+          "content": "Show\u0027s over.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "JA",
+          "content": "\u304A\u904A\u3073\u306F\u3053\u3053\u307E\u3067\u3002",
+          "audioPath": null
+        },
+        {
+          "languageCode": "KO",
+          "content": "\uC2F8\uC6C0\uC744 \uB05D\uB0BC \uB54C\uAC00 \uB410\uC5B4.",
+          "audioPath": null
+        },
+        {
+          "languageCode": "ZH",
+          "content": "\u9B27\u5287\u8A72\u7D50\u675F\u4E86\uFF01",
+          "audioPath": null
+        }
+      ]
+    }
+  ]
+}

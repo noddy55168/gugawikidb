@@ -1,0 +1,366 @@
+{
+  "sourceItemId": "item_copper_nugget",
+  "name": "\u8D64\u9285\u584A",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+  "summary": "\u7D93\u904E\u7194\u7149\u5F8C\uFF0C\u8D64\u9285\u5C07\u64FA\u812B\u5176\u67D4\u8EDF\u3001\u6613\u6C27\u5316\u7684\u7279\u6027\u3002",
+  "description": "\u7531\u8D64\u9285\u7926\u77F3\u7CBE\u7149\u5F97\u4F86\u7684\u91D1\u5C6C\u584A\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/component_copper_cmpt_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_copper_cmpt_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_copper_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_powder",
+          "name": "\u8D64\u9285\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_copper_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_powder.png?v=019a1927de84d5a84aa620d9e32ab6c9319ee9e107766a15fd35cb6c0029ead5",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_copper_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_2_gas_gas_copper_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 2,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_2",
+          "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_2_gas_gas_copper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_copper_bottle_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 2,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_bottle",
+          "name": "\u8D64\u9285\u74F6",
+          "quantity": 1,
+          "path": "/items/item_copper_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_copper_bottle_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_gas_copper_jar_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 2,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_inert",
+          "name": "\u60F0\u6C23",
+          "quantity": 1,
+          "path": "/items/item_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_jar",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+          "quantity": 1,
+          "path": "/items/item_copper_jar",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_gas_copper_jar_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_copper_nugget_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_ore",
+          "name": "\u8D64\u9285\u7926",
+          "quantity": 1,
+          "path": "/items/item_copper_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_ore.png?v=2916d492a2191a3d2f23bd443e02e11139eadbc3095b93668fedb13cd5388722",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_sewage",
+          "name": "\u6C59\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_sewage",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_copper_nugget_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/liquid_transmuter_2_solid_copper_nugget_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gas_copper",
+          "name": "\u6C23\u614B\u8D64\u9285",
+          "quantity": 1,
+          "path": "/items/item_gas_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 2,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "transmuter_2",
+          "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_phase_trans_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aliquid_transmuter_2_solid_copper_nugget_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

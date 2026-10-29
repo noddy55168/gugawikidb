@@ -1,0 +1,62 @@
+{
+  "sourceItemId": "item_expcard_stage2_low",
+  "name": "\u521D\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+  "rarity": 4,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_expcard_stage2_low.png?v=95373a9a30ca369a349b89ecabb310a5afc514e0462a1d22b249c512490fb65c",
+  "summary": "\u7D42\u672B\u5730\u5DE5\u696D\u7814\u767C\u7684\u8CC7\u8A0A\u5132\u5B58\u55AE\u5143\uFF0C\u76F8\u5BB9\u5404\u7A2E\u8B80\u53D6\u8A2D\u5099\uFF0C\u80FD\u6709\u6548\u5E6B\u52A9\u65B0\u5E79\u54E1\u638C\u63E1\u4F5C\u6230\u77E5\u8B58\u3002",
+  "description": "\u7528\u65BC\u5E79\u54E161-90\u7D1A\u7B49\u7D1A\u63D0\u5347\u7684\u6750\u6599\uFF0C\u63D0\u4F9B\u4E86\u5C11\u91CF\u5E79\u54E1\u5347\u7D1A\u7D93\u9A57\u3002",
+  "wikiDescription": "",
+  "itemType": "\u5E79\u54E1\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_dungeon_0001_untouched",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_exp01_untouched",
+        "kind": "leaf",
+        "text": "\u5C1A\u672A\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_0001",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_exp01_touched",
+        "kind": "leaf",
+        "text": "\u5DF2\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_spaceship_manu",
+      "description": "\u5E1D\u6C5F\u865F-\u88FD\u9020\u8259\u751F\u7522",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_explore",
+      "description": "\u5192\u96AA\u63A2\u7D22\u7372\u5F97",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipManufactureFormulaTable/mfg_exp_2_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5E1D\u6C5F\u865F\u88FD\u9020\u8259",
+      "description": "\u914D\u65B9\u7B49\u7D1A 2",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

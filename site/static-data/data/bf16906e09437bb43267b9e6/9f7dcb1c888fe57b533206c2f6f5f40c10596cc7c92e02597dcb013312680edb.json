@@ -1,0 +1,72 @@
+{
+  "sourceItemId": "item_weapon_expcard_high",
+  "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+  "rarity": 4,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_weapon_expcard_high.png?v=5fa73804bb9e231eba7f0844dc95952fc4cbcee114a034bd24a4bde6227c26eb",
+  "summary": "\u4F7F\u7528\u4E86\u96C6\u6210\u5316\u5DE5\u696D\u6280\u8853\u7684\u62CB\u68C4\u5F0F\u88DD\u7F6E\u5957\u88DD\uFF0C\u53EF\u4EE5\u6DF1\u5EA6\u81EA\u52D5\u5316\u6AA2\u67E5\u6B66\u5668\u5168\u90E8\u7D50\u69CB\uFF0C\u4FEE\u88DC\u6697\u50B7\uFF0C\u6975\u5927\u63D0\u9AD8\u6B66\u5668\u6027\u80FD\u3002",
+  "description": "\u7528\u65BC\u63D0\u5347\u6B66\u5668\u7B49\u7D1A\u7684\u6750\u6599\uFF0C\u63D0\u4F9B\u4E86\u5927\u91CF\u6B66\u5668\u5347\u7D1A\u7D93\u9A57\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6B66\u5668\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_dungeon_0002_untouched",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_wpexp01_untouched",
+        "kind": "leaf",
+        "text": "\u5C1A\u672A\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_0002",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_wpexp01_touched",
+        "kind": "leaf",
+        "text": "\u5DF2\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u6B66\u5668\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_spaceship_manu",
+      "description": "\u5E1D\u6C5F\u865F-\u88FD\u9020\u8259\u751F\u7522",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_shop_greenticket",
+      "description": "\u63A1\u8CFC\u4E2D\u5FC3-\u96C6\u6210\u914D\u984D\u4EA4\u6613",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_shop_yellowticket_weapon_expcard_high",
+      "description": "\u63A1\u8CFC\u4E2D\u5FC3-\u4FDD\u969C\u914D\u984D\u4EA4\u6613",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_explore",
+      "description": "\u5192\u96AA\u63A2\u7D22\u7372\u5F97",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipManufactureFormulaTable/mfg_weapon_exp_3/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5E1D\u6C5F\u865F\u88FD\u9020\u8259",
+      "description": "\u914D\u65B9\u7B49\u7D1A 3",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

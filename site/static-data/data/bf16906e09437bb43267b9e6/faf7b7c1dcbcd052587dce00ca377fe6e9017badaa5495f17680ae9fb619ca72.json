@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:winder_equip_script_4_3",
+    "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364",
+    "sortOrder": 4,
+    "path": "/industry/recipes/machine%3Awinder_equip_script_4_3",
+    "outputSummary": "\u707C\u9285\u88DD\u5099\u539F\u4EF6 \u00D7 1",
+    "deviceNames": [
+      "\u88DD\u5099\u539F\u4EF6\u6A5F"
+    ]
+  },
+  "description": "\u707C\u9285\u88DD\u5099\u539F\u4EF6\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_xiranite_enr_powder",
+      "name": "\u91CD\u606F\u58E4",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_xiranite_enr_powder.png?v=0abfe8029e9e3dddecad316a48fb293ce60ebd762d7b77754d1c4c9026635106",
+      "link": "/items/item_xiranite_enr_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_equip_script_4_3",
+      "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364",
+      "link": "/items/item_equip_script_4_3"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_winder_1",
+      "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_winder_1.png?v=fce079f524b8ae7a26311ec9beb60bc365715a6ed9c15b14bebe24ef6a0632f3",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_winder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

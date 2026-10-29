@@ -1,0 +1,100 @@
+{
+  "sourceItemId": "item_proc_battery_1",
+  "name": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_proc_battery_1.png?v=71590f58b13552d8a07e6d0fe1aa3b9bbffa785a0a1e95018750dc7d9451f49c",
+  "summary": "\u8A72\u7522\u54C1\u5916\u6BBC\u7834\u788E\u5C0E\u81F4\u5167\u5BB9\u7269\u6D29\u6F0F\u6703\u5A01\u8105\u5230\u4EBA\u9AD4\u5065\u5EB7\uFF0C\u8ACB\u8B39\u614E\u4F7F\u7528\u3002",
+  "description": "\u900F\u904E\u8A2D\u5099\u5C01\u88DD\u7372\u5F97\u7684\u96FB\u6C60\uFF0C\u53EF\u7528\u65BC\u767C\u96FB\u3001\u6062\u5FA9\u8A2D\u5099\u80FD\u91CF\u6216\u8207\u64DA\u9EDE\u9032\u884C\u4EA4\u6613\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_asm",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u5C01\u88DD\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u5C01\u88DD\u5DE5\u85DD\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_battery_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_cmpt",
+          "name": "\u7D2B\u6676\u96F6\u4EF6",
+          "quantity": 5,
+          "path": "/items/item_glass_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 10,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_proc_battery_1",
+          "name": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+          "quantity": 1,
+          "path": "/items/item_proc_battery_1",
+          "iconPath": "/media/wiki/catalogs/items/item_proc_battery_1.png?v=71590f58b13552d8a07e6d0fe1aa3b9bbffa785a0a1e95018750dc7d9451f49c",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_battery_1_1"
+    },
+    {
+      "key": "FactoryBatteryItemTable/item_proc_battery_1/\u8A2D\u5099\u7528\u9014/",
+      "category": "\u8A2D\u5099\u7528\u9014",
+      "title": "\u96FB\u6C60\u5132\u80FD",
+      "description": "",
+      "participants": [],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryFuelItemTable/item_proc_battery_1/\u8A2D\u5099\u7528\u9014/",
+      "category": "\u8A2D\u5099\u7528\u9014",
+      "title": "\u767C\u96FB\u71C3\u6599",
+      "description": "",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:hdwk_klcreatures_1_wgthorns_1_1",
+    "name": "\u84C4\u77F3\u79D8\u5291",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_klcreatures_1_wgthorns_1_1.png?v=c9cb72ec6a78a7ffb43a122ebf1d467528fd7495191476b69cd2378685ad32e0",
+    "sortOrder": 35,
+    "path": "/industry/recipes/manual%3Ahdwk_klcreatures_1_wgthorns_1_1",
+    "outputSummary": "\u84C4\u77F3\u79D8\u5291 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_klcreatures_1",
+      "name": "\u5F71\u7378\u929C\u77F3",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_klcreatures_1.png?v=7870b62fc9db941bb8efba9419ba8fd14cc3e099544042cc885a4b0461d2b832",
+      "link": "/items/item_drop_klcreatures_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_wgthorns_1",
+      "name": "\u5929\u7136\u6C23\u6CE1\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_wgthorns_1.png?v=ae4b5da9c56c44e74971dd3ccdb8c801e4f854eefabfb6e0ed26e6a16230df85",
+      "link": "/items/item_drop_wgthorns_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_klcreatures_1_wgthorns_1_1",
+      "name": "\u84C4\u77F3\u79D8\u5291",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_klcreatures_1_wgthorns_1_1.png?v=c9cb72ec6a78a7ffb43a122ebf1d467528fd7495191476b69cd2378685ad32e0",
+      "link": "/items/item_klcreatures_1_wgthorns_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_klcreatures_1_wgthorns_1_1",
+      "name": "\u84C4\u77F3\u79D8\u5291\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_klcreatures_1_wgthorns_1_1.png?v=c9cb72ec6a78a7ffb43a122ebf1d467528fd7495191476b69cd2378685ad32e0",
+      "link": null
+    }
+  ],
+  "devices": []
+}

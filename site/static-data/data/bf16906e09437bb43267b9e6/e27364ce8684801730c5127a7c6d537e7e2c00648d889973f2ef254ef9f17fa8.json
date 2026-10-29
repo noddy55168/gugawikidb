@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:shaper_activity_xiranite_bottle_1",
+    "name": "\u5BE6\u9A57\u606F\u58E4\u74F6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_xiranite_bottle.png?v=3cfb0632ecbebc60e91901d87b7d05e94b4ba49db4fce47e6f9eb49453eca3c5",
+    "sortOrder": 7,
+    "path": "/industry/recipes/machine%3Ashaper_activity_xiranite_bottle_1",
+    "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u74F6 \u00D7 1",
+    "deviceNames": [
+      "\u5851\u5F62\u6A5F"
+    ]
+  },
+  "description": "\u5BE6\u9A57\u606F\u58E4\u74F6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_bottle",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_bottle.png?v=3cfb0632ecbebc60e91901d87b7d05e94b4ba49db4fce47e6f9eb49453eca3c5",
+      "link": "/items/item_activity_xiranite_bottle"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_shaper_1",
+      "name": "\u5851\u5F62\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_shaper_1.png?v=e2566298e52a05123bbad144c04a47c370a8dedfa59df9366d89a5f707aa805e",
+      "sortOrder": 4,
+      "path": "/industry/devices/wiki_item_port_shaper_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

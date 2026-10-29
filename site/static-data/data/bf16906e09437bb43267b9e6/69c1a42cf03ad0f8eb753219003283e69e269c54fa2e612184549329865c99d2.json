@@ -1,0 +1,187 @@
+{
+  "sourceItemId": "item_copper_powder",
+  "name": "\u8D64\u9285\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_copper_powder.png?v=019a1927de84d5a84aa620d9e32ab6c9319ee9e107766a15fd35cb6c0029ead5",
+  "summary": "\u5728\u7D93\u904E\u7C89\u788E\u8655\u7406\u5F8C\uFF0C\u8D64\u9285\u4E8C\u7D1A\u52A0\u5DE5\u54C1\u7684\u8CEA\u5730\u66F4\u52A0\u5747\u52FB\u3002",
+  "description": "\u8D64\u9285\u584A\u7C89\u788E\u5F8C\u7684\u7C89\u672B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/pool_liquid_copper_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_powder",
+          "name": "\u8D64\u9285\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_copper_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_powder.png?v=019a1927de84d5a84aa620d9e32ab6c9319ee9e107766a15fd35cb6c0029ead5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_acid",
+          "name": "\u6C89\u7A4D\u9178",
+          "quantity": 1,
+          "path": "/items/item_liquid_acid",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper",
+          "name": "\u8D64\u9285\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_liquid_copper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_liquid_copper_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_powder",
+          "name": "\u8D64\u9285\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_copper_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_powder.png?v=019a1927de84d5a84aa620d9e32ab6c9319ee9e107766a15fd35cb6c0029ead5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_acid",
+          "name": "\u6C89\u7A4D\u9178",
+          "quantity": 1,
+          "path": "/items/item_liquid_acid",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_acid.png?v=4dcd04cdf5b39bc94423345047958d615ad65aedc1f30bf0370e35020c8f2577",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_copper",
+          "name": "\u8D64\u9285\u6EB6\u6DB2",
+          "quantity": 1,
+          "path": "/items/item_liquid_copper",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_copper.png?v=cf4ef28a38437dcf1cba6d761a3eb0a3367ac5485dde322e548b6bf82e53229e",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_liquid_copper_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_copper_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_powder",
+          "name": "\u8D64\u9285\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_copper_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_powder.png?v=019a1927de84d5a84aa620d9e32ab6c9319ee9e107766a15fd35cb6c0029ead5",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_copper_powder_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

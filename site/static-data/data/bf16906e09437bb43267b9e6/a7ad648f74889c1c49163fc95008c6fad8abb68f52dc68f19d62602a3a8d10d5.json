@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_corp_tomato_1",
+    "name": "\u8304\u679C\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_tomato_1.png?v=664bc2fe63ff73828ae9cc4bca0d3bbe567736238179c62187c188092cc50023",
+    "sortOrder": 111,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_corp_tomato_1",
+    "outputSummary": "\u8304\u679C\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_tomato_seed_1",
+      "name": "\u8304\u679C\u7A2E\u5B50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_tomato_seed_1.png?v=617cb8fca8c9d74a42bb06169ef2681d8e46bddad405516f44998a6d310be179",
+      "link": "/items/item_corp_tomato_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_corp_tomato_1",
+      "name": "\u8304\u679C\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_tomato_1.png?v=664bc2fe63ff73828ae9cc4bca0d3bbe567736238179c62187c188092cc50023",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_tomato_1",
+      "name": "\u8304\u679C",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_tomato_1.png?v=a47a64cbb89fd3dc2d9ac1a69a6999ea637a1a9de85bfee18223c76b6b069437",
+      "link": "/items/item_corp_tomato_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_corp_tomato_seed_1",
+      "name": "\u8304\u679C\u7A2E\u5B50",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_tomato_seed_1.png?v=617cb8fca8c9d74a42bb06169ef2681d8e46bddad405516f44998a6d310be179",
+      "link": "/items/item_corp_tomato_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_corp_tomato_1",
+      "name": "\u8304\u679C\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_tomato_1.png?v=664bc2fe63ff73828ae9cc4bca0d3bbe567736238179c62187c188092cc50023",
+      "link": null
+    }
+  ],
+  "devices": []
+}

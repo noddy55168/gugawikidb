@@ -1,0 +1,88 @@
+{
+  "sourceItemId": "item_inn_drink_4",
+  "name": "\u74F6\u88DD\u8106\u8517\u6C41",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_inn_drink_4.png?v=52f4481364343c466d71caaa85ad562dd128880eada7776de2538403af675b47",
+  "summary": "\u6709\u4EBA\u6703\u5ACC\u5B83\u592A\u751C\uFF0C\u6709\u4EBA\u5ACC\u5B83\u559D\u591A\u4E86\u4E0A\u706B\uFF0C\u4F46\u5B83\u4ECD\u662F\u8CA8\u67B6\u4E0A\u6700\u53D7\u6B61\u8FCE\u7684\u7522\u54C1\u3002",
+  "description": "\u53EF\u5728\u5BA2\u68E7\u7D93\u71DF\u4E2D\u8CA9\u552E\u7684\u98F2\u54C1\uFF0C\u4F7F\u7528\u5F8C\u53EF\u4EE5\u7372\u5F97\u4E00\u5B9A\u6548\u679C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7D42\u7D50\u6280\u84C4\u80FD\u6548\u7387\u589E\u52A021%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002"
+  ],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_drink_4_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_sugarcane_1",
+          "name": "\u8106\u8517",
+          "quantity": 1,
+          "path": "/items/item_corp_sugarcane_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_inn_drink_4",
+          "name": "\u74F6\u88DD\u8106\u8517\u6C41",
+          "quantity": 1,
+          "path": "/items/item_inn_drink_4",
+          "iconPath": "/media/wiki/catalogs/items/item_inn_drink_4.png?v=52f4481364343c466d71caaa85ad562dd128880eada7776de2538403af675b47",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_drink_4_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

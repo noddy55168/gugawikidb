@@ -1,0 +1,135 @@
+{
+  "sourceItemId": "item_activity_xiranite_box",
+  "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_box.png?v=862105937e94a3be2c21d051056b03b5e5afa6f6e43ff5e1a490e3ddf83554a0",
+  "summary": "\u652F\u63F4\u5049\u5927\u9F8D\u6CE1\u6CE1\u8A95\u751F\u7684\u5FC5\u8981\u6027\u5916\u6BBC\uFF01",
+  "description": "\u5BE6\u9A57\u606F\u58E4\u584A\u5728\u7279\u6B8A\u6642\u9593\u9EDE\u4E0B\u52A0\u5DE5\u6210\u578B\u7684\u5916\u6BBC\u7D44\u4EF6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_xiranite",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u606F\u58E4\u751F\u6210\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_shaper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7269\u54C1\u5851\u5F62\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u89E3\u9396\u606F\u58E4\u5DE5\u696D",
+    "\u89E3\u9396\u7269\u54C1\u5851\u5F62\u5DE5\u696D\u6280\u8853",
+    "\u6D3B\u52D5\u9650\u6642\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_activity_xiranite_lung/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_box",
+          "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC",
+          "quantity": 5,
+          "path": "/items/item_activity_xiranite_box",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_box.png?v=862105937e94a3be2c21d051056b03b5e5afa6f6e43ff5e1a490e3ddf83554a0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_xiranite_tool",
+          "name": "\u5BE6\u9A57\u9285\u9AA8\u9ABC",
+          "quantity": 5,
+          "path": "/items/item_activity_copper_xiranite_tool",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_xiranite_tool.png?v=8e1758948827e77bc87495b52c7b7e7e262ba9ccdeeb7d24e88415b807289ef5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_lung",
+          "name": "\u606F\u58E4\u9F8D\u6CE1\u6CE1",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_lung",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_lung.png?v=c8d53c7c991733dc5a0fbd4b0e6e513116d41f4ec95ec9105aa20d36e61b1471",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_activity_xiranite_lung"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_activity_xiranite_box_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_nugget",
+          "name": "\u5BE6\u9A57\u606F\u58E4\u584A",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_nugget.png?v=55973ac79ec4d80137dd8b36707fdc7b809e6135981ab05f75cde22352d237c1",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_xiranite_box",
+          "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC",
+          "quantity": 1,
+          "path": "/items/item_activity_xiranite_box",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_xiranite_box.png?v=862105937e94a3be2c21d051056b03b5e5afa6f6e43ff5e1a490e3ddf83554a0",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_activity_xiranite_box_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

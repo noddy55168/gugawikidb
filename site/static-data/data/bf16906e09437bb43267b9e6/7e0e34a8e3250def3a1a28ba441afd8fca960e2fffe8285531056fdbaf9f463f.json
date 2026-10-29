@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_medic_1",
+    "name": "\u91AB\u7642\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_medic_1.png?v=5ac3726df4e63d05724a41d89f29a4f122e715ab5d4677fff62e851b4895274f",
+    "sortOrder": 27,
+    "path": "/industry/recipes/hub%3Abattle_medic_1",
+    "outputSummary": "\u91AB\u7642\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_medic_1",
+      "name": "\u91AB\u7642\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_medic_1.png?v=5ac3726df4e63d05724a41d89f29a4f122e715ab5d4677fff62e851b4895274f",
+      "link": null
+    }
+  ],
+  "devices": []
+}

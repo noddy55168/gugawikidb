@@ -1,0 +1,26 @@
+{
+  "sourceItemId": "item_wpngem_enhance_dust",
+  "name": "\u51B7\u537B\u8102",
+  "rarity": 5,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_wpngem_enhance_dust.png?v=8184878276684d4db3d7efc5aa5213fc944b15ffeade0f3603dd0e98cfbd4c8a",
+  "summary": "\u5728\u57FA\u8CEA\u8755\u523B\u74B0\u7BC0\u6703\u4F7F\u7528\u5230\u7684\u7279\u6B8A\u51B7\u537B\u8102\u3002\u6EAB\u5EA6\u6975\u6613\u5F71\u97FF\u5230\u57FA\u8CEA\u8755\u523B\u7684\u7D50\u679C\uFF0C\u6545\u52A0\u5DE5\u74B0\u7BC0\u9700\u4F7F\u7528\u9020\u50F9\u6602\u8CB4\u7684\u51B7\u537B\u8102\u3002",
+  "description": "\u7528\u65BC\u63D0\u5347\u57FA\u8CEA\u6280\u80FD\u7B49\u7D1A\u7684\u73CD\u8CB4\u6750\u6599\u3002",
+  "wikiDescription": "",
+  "itemType": "\u57FA\u8CEA\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gem_enhance",
+      "description": "\u57FA\u8CEA\u8755\u523B",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

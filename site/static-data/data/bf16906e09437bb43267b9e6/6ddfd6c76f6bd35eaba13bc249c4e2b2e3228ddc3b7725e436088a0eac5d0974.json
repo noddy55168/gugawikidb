@@ -1,0 +1,65 @@
+{
+  "sourceItemId": "item_bottled_insec1_2",
+  "name": "\u523B\u8853\u9435\u74F6",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_bottled_insec1_2.png?v=697454a761b66862c5147f0ba4f5a7be55c7e57507f9d391991cc21dcb899a97",
+  "summary": "\u9644\u6709\u7279\u6B8A\u6E90\u77F3\u6280\u85DD\u7684\u9435\u74F6\uFF0C\u4F7F\u7528\u5F8C\u53EF\u4EE5\u523A\u6FC0\u4EBA\u7684\u5668\u5B98\u53CA\u795E\u7D93\u7CFB\u7D71\uFF0C\u5927\u5927\u52A0\u5FEB\u814E\u4E0A\u817A\u7D20\u5206\u6CCC\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u4F7F\u7121\u6CD5\u6230\u9B25\u7684\u5E79\u54E1\u5FA9\u7526\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7ACB\u523B\u4F7F\u8655\u65BC\u7121\u6CD5\u6230\u9B25\u72C0\u614B\u7684\u6307\u5B9A\u55AE\u9AD4\u5FA9\u7526\uFF0C\u4E26\u56DE\u5FA930%\u6700\u5927\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u87A2\u6BBC\u87F2\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_insec1_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_insect_1",
+          "name": "\u87A2\u6BBC\u87F2",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_insect_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_insect_1.png?v=f6ea38192eeae9613756c3e666374086dc9b830c83dbcf2844401f3dff313fd7",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_insec1_2",
+          "name": "\u523B\u8853\u9435\u74F6",
+          "quantity": 1,
+          "path": "/items/item_bottled_insec1_2",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_insec1_2.png?v=697454a761b66862c5147f0ba4f5a7be55c7e57507f9d391991cc21dcb899a97",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_insec1_2"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

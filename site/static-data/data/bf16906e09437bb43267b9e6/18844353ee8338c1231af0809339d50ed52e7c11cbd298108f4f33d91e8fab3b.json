@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:furnance_carbon_enr_1",
+    "name": "\u7A69\u5B9A\u78B3\u584A",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_carbon_enr.png?v=7ce0e061e1958f043c9365d90ee0f85cf1e292fd9ed0a1e8a8aa47a4bd0ae4df",
+    "sortOrder": 10,
+    "path": "/industry/recipes/machine%3Afurnance_carbon_enr_1",
+    "outputSummary": "\u7A69\u5B9A\u78B3\u584A \u00D7 1",
+    "deviceNames": [
+      "\u7CBE\u7149\u7210"
+    ]
+  },
+  "description": "\u7A69\u5B9A\u78B3\u584A\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_carbon_enr_powder",
+      "name": "\u7DFB\u5BC6\u78B3\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_enr_powder.png?v=d741d5d0c94039801ed092e9d7584a88c676812af231c3e913ed6b65f8df1d94",
+      "link": "/items/item_carbon_enr_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_carbon_enr",
+      "name": "\u7A69\u5B9A\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_enr.png?v=7ce0e061e1958f043c9365d90ee0f85cf1e292fd9ed0a1e8a8aa47a4bd0ae4df",
+      "link": "/items/item_carbon_enr"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_furnance_1",
+      "name": "\u7CBE\u7149\u7210",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_furnance_1.png?v=fe587cb85015af4f97013b92155ea4862e0addbaa04835879626a070d92c35a9",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_furnance_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

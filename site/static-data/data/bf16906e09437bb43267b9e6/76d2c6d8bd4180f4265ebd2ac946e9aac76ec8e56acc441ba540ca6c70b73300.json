@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:mix_pool_1",
+    "name": "\u53CD\u61C9\u6C60",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_mix_pool_1.png?v=531a16ed1a42c703e31aaec8f676cf038585e364c7f69b0c1c8a1196b581b65b",
+    "sortOrder": 106,
+    "path": "/industry/recipes/hub%3Amix_pool_1",
+    "outputSummary": "\u53CD\u61C9\u6C60 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_cmpt",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "link": "/items/item_iron_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_mix_pool_1",
+      "name": "\u53CD\u61C9\u6C60",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_1.png?v=531a16ed1a42c703e31aaec8f676cf038585e364c7f69b0c1c8a1196b581b65b",
+      "link": null
+    }
+  ],
+  "devices": []
+}

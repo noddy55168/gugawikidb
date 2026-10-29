@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_debuff_1",
+    "name": "\u300C\u9178\u6D17\u300DMK-I",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_debuff_1.png?v=a7fb19c27c3314c9723499c7628b65f994045716de5daa657a3b946ca71226ad",
+    "sortOrder": 38,
+    "path": "/industry/recipes/hub%3Abattle_debuff_1",
+    "outputSummary": "\u300C\u9178\u6D17\u300DMK-I \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr_cmpt",
+      "name": "\u8D6B\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_enr_cmpt.png?v=477f384f9d78611ea1dd3844b08bac7936025d5988a8f9ac92783f8a0847340e",
+      "link": "/items/item_copper_enr_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_debuff_1",
+      "name": "\u300C\u9178\u6D17\u300DMK-I",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_debuff_1.png?v=a7fb19c27c3314c9723499c7628b65f994045716de5daa657a3b946ca71226ad",
+      "link": null
+    }
+  ],
+  "devices": []
+}

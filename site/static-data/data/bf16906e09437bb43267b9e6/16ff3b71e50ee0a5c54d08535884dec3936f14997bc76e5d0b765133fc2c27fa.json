@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:dismantler_iron_xiranite_enr_1",
+    "name": "\u85CD\u9435\u74F6\u3001\u6DB2\u5316\u91CD\u606F\u58E4",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+    "sortOrder": 29,
+    "path": "/industry/recipes/machine%3Adismantler_iron_xiranite_enr_1",
+    "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1\u3001\u6DB2\u5316\u91CD\u606F\u58E4 \u00D7 1",
+    "deviceNames": [
+      "\u62C6\u89E3\u6A5F"
+    ]
+  },
+  "description": "\u85CD\u9435\u74F6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_fbottle_iron_xiranite_enr",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_bottle_liquid.png?v=750ab60e66113343d5045cc6757e0bdfbaf5af777563a30b33a9b2ae6c3f3e39",
+      "link": "/items/item_fbottle_iron_xiranite_enr"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_bottle",
+      "name": "\u85CD\u9435\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "link": "/items/item_iron_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_xiranite_enr",
+      "name": "\u6DB2\u5316\u91CD\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_enr.png?v=a217f392cfbc921f54e5ad3a1740d868eb45359ee192c0d6d6a35238edd5d073",
+      "link": "/items/item_liquid_xiranite_enr"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_dismantler_1",
+      "name": "\u62C6\u89E3\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_dismantler_1.png?v=e346a07da0b431494d74c4634a72539e92807d87da4ccc6e1b8a878126680f3d",
+      "sortOrder": 9,
+      "path": "/industry/devices/wiki_item_port_dismantler_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

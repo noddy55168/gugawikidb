@@ -1,0 +1,67 @@
+{
+  "sourceItemId": "item_expcard_stage1_high",
+  "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+  "rarity": 3,
+  "category": "\u57F9\u990A\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_expcard_2_3.png?v=32b56c9f230e7d9b81d283863250b14c49ad5776cee8b413161d7d05ac20b26b",
+  "summary": "\u8A18\u9304\u4E86\u4F5C\u6230\u5F71\u50CF\u7684\u5132\u5B58\u88DD\u7F6E\uFF0C\u53EF\u4EE5\u5E6B\u52A9\u65B0\u5E79\u54E1\u638C\u63E1\u4F5C\u6230\u77E5\u8B58\u3002\u984D\u5916\u589E\u52A0\u4E86\u6B77\u53F2\u6230\u5F79\u6A21\u64EC\uFF0C\u80FD\u8B93\u89C0\u773E\u77AD\u89E3\u5230\u5854\u885B\u4E8C\u6700\u6B98\u9177\u7684\u6230\u722D\u666F\u8C61\u3002",
+  "description": "\u7528\u65BC\u5E79\u54E11-60\u7D1A\u7B49\u7D1A\u63D0\u5347\u7684\u6750\u6599\uFF0C\u63D0\u4F9B\u4E86\u5927\u91CF\u5E79\u54E1\u5347\u7D1A\u7D93\u9A57\u3002",
+  "wikiDescription": "",
+  "itemType": "\u5E79\u54E1\u57F9\u990A\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_dungeon_0001_untouched",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_exp01_untouched",
+        "kind": "leaf",
+        "text": "\u5C1A\u672A\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_dungeon_0001",
+      "description": "\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57",
+      "condition": {
+        "sourceId": "condition_dung01_group_exp01_touched",
+        "kind": "leaf",
+        "text": "\u5DF2\u63A5\u89F8\u300C\u5354\u8B70\u7A7A\u9593\u00B7\u5E79\u54E1\u7D93\u9A57\u300D\u95DC\u5361\u5165\u53E3",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_spaceship_manu",
+      "description": "\u5E1D\u6C5F\u865F-\u88FD\u9020\u8259\u751F\u7522",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_shop_greenticket",
+      "description": "\u63A1\u8CFC\u4E2D\u5FC3-\u96C6\u6210\u914D\u984D\u4EA4\u6613",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_explore",
+      "description": "\u5192\u96AA\u63A2\u7D22\u7372\u5F97",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipManufactureFormulaTable/mfg_exp_1_3/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5E1D\u6C5F\u865F\u88FD\u9020\u8259",
+      "description": "\u914D\u65B9\u7B49\u7D1A 3",
+      "participants": [],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

@@ -1,0 +1,134 @@
+{
+  "sourceItemId": "item_bottled_rec_hp_2",
+  "name": "\u512A\u8CEA\u854E\u7652\u81A0\u56CA",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_2.png?v=d87c4976cf8e18a014843f70d861e6c8674196040f5a7e642a71d65e28f9eaa8",
+  "summary": "\u6A19\u6E96\u5C01\u88DD\u7684\u81A0\u56CA\uFF0C\u7D42\u672B\u5730\u5DE5\u696D\u66FE\u70BA\u5B83\u6253\u904E\u5EE3\u544A\u8207\u5BA3\u50B3\uFF0C\u4F46\u53EF\u60DC\u7684\u662F\uFF0C\u5176\u92B7\u91CF\u9060\u4E0D\u53CA\u7F85\u5FB7\u5CF6\u7684\u540C\u985E\u7522\u54C1\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u7ACB\u523B\u56DE\u5FA9655\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_filling",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u56FA\u9AD4\u704C\u88DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u56FA\u9AD4\u704C\u88DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_rec_hp_2_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 10,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_1",
+          "name": "\u854E\u82B1\u7C89\u672B",
+          "quantity": 10,
+          "path": "/items/item_plant_moss_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_rec_hp_2",
+          "name": "\u512A\u8CEA\u854E\u7652\u81A0\u56CA",
+          "quantity": 1,
+          "path": "/items/item_bottled_rec_hp_2",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_2.png?v=d87c4976cf8e18a014843f70d861e6c8674196040f5a7e642a71d65e28f9eaa8",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_rec_hp_2_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_rec_hp_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_1",
+          "name": "\u854E\u82B1\u7C89\u672B",
+          "quantity": 10,
+          "path": "/items/item_plant_moss_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 10,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_rec_hp_2",
+          "name": "\u512A\u8CEA\u854E\u7652\u81A0\u56CA",
+          "quantity": 1,
+          "path": "/items/item_bottled_rec_hp_2",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_2.png?v=d87c4976cf8e18a014843f70d861e6c8674196040f5a7e642a71d65e28f9eaa8",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_rec_hp_2"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

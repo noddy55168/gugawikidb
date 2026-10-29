@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "sourceActivityId": "CharacterGuide_aglina",
+    "name": "\u4FE1\u4F7F\u7684\u4FE1",
+    "description": "\u7D05\u8272\u7684\u4FE1\u4F7F\u5728\u5354\u52A9\u91CD\u5EFA\u56DB\u865F\u8C37\u5730\uFF0C\u5728\u5806\u6210\u5C0F\u5C71\u7684\u8CA8\u7269\u9593\uFF0C\u8EBA\u8457\u4E00\u5C01\u5C6C\u65BC\u4FE1\u4F7F\u7684\u4FE1\u2026\u2026",
+    "sourceType": 10,
+    "sortOrder": 3001,
+    "detailCoverage": "basic",
+    "timeId": "time_CharacterGuide_aglina",
+    "tabImageId": "bg_activity_tab_char_guide_aglina",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/2/6 12:00:00",
+        "closeTimeRaw": "2026/3/12 6:00:00",
+        "openUnixSeconds": 1770350400,
+        "closeUnixSeconds": 1773266400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/2/6 12:00:00",
+        "closeTimeRaw": "2026/3/12 6:00:00",
+        "openUnixSeconds": 1770350400,
+        "closeUnixSeconds": 1773266400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/2/6 12:00:00",
+        "closeTimeRaw": "2026/3/11 17:00:00",
+        "openUnixSeconds": 1770397200,
+        "closeUnixSeconds": 1773266400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_story",
+        "name": "\u6558\u4E8B\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#ee1f1f"
+  },
+  "instructionId": "CharacterGuide_aglina",
+  "instructionTitle": "\u300C\u4FE1\u4F7F\u7684\u4FE1\u300D\u4EFB\u52D9\u8AAA\u660E",
+  "instructionContent": "- \u63A5\u53D6\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6IV - \u56DB\u65B9\u6703\u8B70\n\n- \u4EFB\u52D9\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u5B8C\u6210\u652F\u7DDA\u4EFB\u52D9\u300C\u4FE1\u4F7F\u7684\u4FE1\u300D\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "CharacterGuide_aglina_unlock1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6IV - \u56DB\u65B9\u6703\u8B70",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "CharacterGuide_aglina_reward",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_expcard_stage1_high",
+          "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_char_skill_level_1_6",
+          "name": "\u5354\u8B70\u7A1C\u67F1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_rainbow_1",
+    "name": "\u5F69\u8679",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_rainbow_1.png?v=346f717e500144df932ed9f2bec608b9c299b68368f1565696173d8cbefae9d0",
+    "sortOrder": 12,
+    "path": "/industry/devices/wiki_item_port_rainbow_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "rainbow_1",
+  "needPower": false,
+  "width": 2,
+  "depth": 1,
+  "height": 3,
+  "recipes": []
+}

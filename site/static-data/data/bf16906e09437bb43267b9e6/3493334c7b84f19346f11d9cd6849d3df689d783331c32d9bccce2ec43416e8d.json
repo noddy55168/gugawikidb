@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:furnance_iron_nugget_1",
+    "name": "\u85CD\u9435\u584A",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Afurnance_iron_nugget_1",
+    "outputSummary": "\u85CD\u9435\u584A \u00D7 1",
+    "deviceNames": [
+      "\u7CBE\u7149\u7210"
+    ]
+  },
+  "description": "\u85CD\u9435\u584A\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_ore",
+      "name": "\u85CD\u9435\u7926",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_ore.png?v=a5af3a6fd122cdddeb27174e6468218db3608d0f21e643d99638d96d69b20999",
+      "link": "/items/item_iron_ore"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_nugget",
+      "name": "\u85CD\u9435\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+      "link": "/items/item_iron_nugget"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_furnance_1",
+      "name": "\u7CBE\u7149\u7210",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_furnance_1.png?v=fe587cb85015af4f97013b92155ea4862e0addbaa04835879626a070d92c35a9",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_furnance_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

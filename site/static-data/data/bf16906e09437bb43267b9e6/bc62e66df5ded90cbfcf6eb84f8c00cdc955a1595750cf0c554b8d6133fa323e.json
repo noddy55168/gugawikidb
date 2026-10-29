@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:shaper_copper_enr_bottle_1",
+    "name": "\u8D6B\u9285\u74F6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+    "sortOrder": 6,
+    "path": "/industry/recipes/machine%3Ashaper_copper_enr_bottle_1",
+    "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+    "deviceNames": [
+      "\u5851\u5F62\u6A5F"
+    ]
+  },
+  "description": "\u8D6B\u9285\u74F6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr",
+      "name": "\u8D6B\u9285\u584A",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_copper_enr.png?v=f603ee5905cd15e3ed5956affdd40b0bf3635409837b259b0d6bcecd6e9ca9b3",
+      "link": "/items/item_copper_enr"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr_bottle",
+      "name": "\u8D6B\u9285\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "link": "/items/item_copper_enr_bottle"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_shaper_1",
+      "name": "\u5851\u5F62\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_shaper_1.png?v=e2566298e52a05123bbad144c04a47c370a8dedfa59df9366d89a5f707aa805e",
+      "sortOrder": 4,
+      "path": "/industry/devices/wiki_item_port_shaper_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

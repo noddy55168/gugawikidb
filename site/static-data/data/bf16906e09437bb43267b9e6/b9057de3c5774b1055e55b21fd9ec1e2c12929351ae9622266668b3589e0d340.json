@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_soil_corp_cabbage_1",
+    "name": "\u9752\u83DC\u7530\u584A",
+    "kind": "building",
+    "category": "\u7A2E\u690D\u8ABF\u914D",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_cabbage_1.png?v=8872881cd8fa541bdc1dc916ecc1dabf982ef35506b19ab5790ec2d1cb909543",
+    "sortOrder": 13,
+    "path": "/industry/devices/wiki_item_port_soil_corp_cabbage_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5728\u6B64\u7530\u584A\u4E0A\u6309\u7167\u6B65\u9A5F\u7CBE\u7D30\u7A2E\u690D\uFF0C\u6536\u7A6B\u5F8C\u53EF\u7372\u5F97\u5927\u91CF\u9752\u83DC\u3002",
+  "sourceId": "soil_corp_cabbage_1",
+  "needPower": false,
+  "width": 4,
+  "depth": 4,
+  "height": 1,
+  "recipes": []
+}

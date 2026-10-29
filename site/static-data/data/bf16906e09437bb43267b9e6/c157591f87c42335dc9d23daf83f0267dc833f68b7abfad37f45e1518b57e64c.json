@@ -1,0 +1,94 @@
+{
+  "sourceItemId": "item_device_balloon_recycle_1",
+  "name": "\u6D6E\u7A7A\u56DE\u6536\u5668I",
+  "rarity": 3,
+  "category": "\u96A8\u8EAB\u88DD\u7F6E",
+  "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_1.png?v=eb55337afefd6880ca594f85bb52163d51644cdf4079ec7d535264a8d349e70b",
+  "summary": "\u7528\u4F86\u8ABF\u6574\u6D6E\u7A7A\u56DE\u6536\u7CFB\u7D71\u7684\u58F9\u578B\u5DE5\u5177\u7D44\u3002",
+  "description": "\u914D\u5099\u5728\u80CC\u5305\u96A8\u8EAB\u88DD\u7F6E\u683C\u5F8C\uFF0C\u53EF\u6D6E\u7A7A\u56DE\u6536\u5C0F\u578B\u5F85\u56DE\u6536\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u96A8\u8EAB\u88DD\u7F6E",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/item_device_balloon_recycle_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_balloon_recycle_1",
+          "name": "\u6D6E\u7A7A\u56DE\u6536\u5668I",
+          "quantity": 1,
+          "path": "/items/item_device_balloon_recycle_1",
+          "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_1.png?v=eb55337afefd6880ca594f85bb52163d51644cdf4079ec7d535264a8d349e70b",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_filter_core",
+          "name": "\u5206\u96E2\u82AF",
+          "quantity": 50,
+          "path": "/items/item_filter_core",
+          "iconPath": "/media/wiki/catalogs/items/item_filter_core.png?v=c1137227f9eb5f8ddbb0cc8ba93dd9f404304cb9b881f01d97d1f338c671cd72",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_balloon_recycle_2",
+          "name": "\u6D6E\u7A7A\u56DE\u6536\u5668II",
+          "quantity": 1,
+          "path": "/items/item_device_balloon_recycle_2",
+          "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_2.png?v=98894af9ffabd1ae88057cfd75edf40a5f9bad40a39cdeb389bf0bc60d7bc288",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_device_balloon_recycle_2"
+    },
+    {
+      "key": "FactoryManualCraftTable/item_device_balloon_recycle_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_gasjar_copper_gas_inert",
+          "name": "\u8D64\u9285\u8010\u58D3\u7F50\uFF08\u60F0\u6C23\uFF09",
+          "quantity": 10,
+          "path": "/items/item_gasjar_copper_gas_inert",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+          "contentIconPath": "/media/wiki/catalogs/items/item_gas_inert.png?v=d962b073ee73685ab0bbc323ed44dab2ddd8fb9847fa9e0a00413e8376170823"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_device_balloon_recycle_1",
+          "name": "\u6D6E\u7A7A\u56DE\u6536\u5668I",
+          "quantity": 1,
+          "path": "/items/item_device_balloon_recycle_1",
+          "iconPath": "/media/wiki/catalogs/items/item_device_balloon_recycle_1.png?v=eb55337afefd6880ca594f85bb52163d51644cdf4079ec7d535264a8d349e70b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Aitem_device_balloon_recycle_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

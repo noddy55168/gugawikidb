@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:pump_1",
+    "name": "\u6C34\u6CF5",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_pump_1.png?v=2a43e2b89559c98d38ea70221f4d9300bfd70d4fb6a7c2d47e2f999278f5a74b",
+    "sortOrder": 102,
+    "path": "/industry/recipes/hub%3Apump_1",
+    "outputSummary": "\u6C34\u6CF5 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_cmpt",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "link": "/items/item_iron_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_pump_1",
+      "name": "\u6C34\u6CF5",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_pump_1.png?v=2a43e2b89559c98d38ea70221f4d9300bfd70d4fb6a7c2d47e2f999278f5a74b",
+      "link": null
+    }
+  ],
+  "devices": []
+}

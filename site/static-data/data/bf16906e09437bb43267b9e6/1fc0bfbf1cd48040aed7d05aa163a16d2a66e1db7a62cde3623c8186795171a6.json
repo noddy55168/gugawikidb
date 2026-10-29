@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_pear_blossom_bonsai_1",
+    "name": "\u5C71\u6A06\u5C0F\u666F",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_pear_blossom_bonsai_1.png?v=ce40d1db5a855b202b3301f51aebcf2d3a82d0bce1fa4a40431b852d7a00e71a",
+    "sortOrder": 3,
+    "path": "/industry/devices/wiki_item_port_pear_blossom_bonsai_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "pear_blossom_bonsai_1",
+  "needPower": false,
+  "width": 1,
+  "depth": 1,
+  "height": 2,
+  "recipes": []
+}

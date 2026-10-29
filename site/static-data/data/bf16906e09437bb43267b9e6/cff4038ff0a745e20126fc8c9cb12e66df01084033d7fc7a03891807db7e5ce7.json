@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:power_pole_3",
+    "name": "\u606F\u58E4\u4E2D\u7E7C\u5668",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_power_pole_3.png?v=9490fe09414a93e5c94f6216a9972062e2d10488d6b5c0a7fce3d2feeaad369d",
+    "sortOrder": 105,
+    "path": "/industry/recipes/hub%3Apower_pole_3",
+    "outputSummary": "\u606F\u58E4\u4E2D\u7E7C\u5668 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_xiranite_powder",
+      "name": "\u606F\u58E4",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+      "link": "/items/item_xiranite_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_power_pole_3",
+      "name": "\u606F\u58E4\u4E2D\u7E7C\u5668",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_power_pole_3.png?v=9490fe09414a93e5c94f6216a9972062e2d10488d6b5c0a7fce3d2feeaad369d",
+      "link": null
+    }
+  ],
+  "devices": []
+}

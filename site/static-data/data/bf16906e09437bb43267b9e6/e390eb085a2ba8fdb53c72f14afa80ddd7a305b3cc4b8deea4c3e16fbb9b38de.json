@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_log_pipe_connector",
+    "name": "\u7BA1\u9053\u6A4B",
+    "kind": "logistic",
+    "category": "\u7269\u6D41\u8A2D\u5099",
+    "iconPath": "/media/wiki/industry/item_log_pipe_connector.png?v=5839f30f17cc3bf03ce91a78d96c30d81069ef9a40d70b5b54325a75fe2bfa08",
+    "sortOrder": 7,
+    "path": "/industry/devices/wiki_item_log_pipe_connector",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7BA1\u9053\u6A4B\u53EF\u4EE5\u4F7F\u5F97\u5169\u689D\u76F8\u4EA4\u7684\u7BA1\u9053\u5404\u81EA\u7368\u7ACB\u904B\u8F38\u6DB2\u9AD4\u800C\u4E92\u4E0D\u5F71\u97FF\u3002",
+  "sourceId": "log_pipe_connector",
+  "needPower": null,
+  "width": null,
+  "depth": null,
+  "height": null,
+  "recipes": []
+}

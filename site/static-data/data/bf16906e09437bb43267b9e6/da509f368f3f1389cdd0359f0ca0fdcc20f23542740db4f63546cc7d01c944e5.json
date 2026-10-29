@@ -1,0 +1,86 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_map02_guide_dg016",
+    "name": "\u65BC\u9418\u9CF4\u7684\u820A\u57CE",
+    "description": "\u4EE5\u9418\u9CF4\u4E4B\u8072\u70BA\u6954\u5B50\uFF0C\u4EE5\u9418\u9CF4\u4E4B\u8072\u70BA\u7D50\u8A9E\uFF0C\u6C89\u6EBA\u65BC\u5BC2\u975C\u707D\u5384\u4E2D\u7684\u57CE\u5C07\u70BA\u60A8\u63ED\u958B\u8A18\u61B6\u7684\u4E00\u89D2\u3002",
+    "sourceType": 13,
+    "sortOrder": 8007,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_guide_snowcity",
+    "tabImageId": "activity_tab_bg_guide_snowcity",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/24 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1790222400,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/9/24 12:00:00",
+        "closeTimeRaw": "2026/10/15 6:00:00",
+        "openUnixSeconds": 1790222400,
+        "closeUnixSeconds": 1792015200
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/9/24 12:00:00",
+        "closeTimeRaw": "2026/10/14 17:00:00",
+        "openUnixSeconds": 1790269200,
+        "closeUnixSeconds": 1792015200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_guide",
+        "name": "\u5F15\u5165\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#6dabf1"
+  },
+  "instructionId": "activity_guide_snowcity",
+  "instructionTitle": "\u300C\u65BC\u9418\u9CF4\u7684\u820A\u57CE\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5728\u652F\u7DDA\u4EFB\u52D9\u300C\u9418\u9CF4\u4EBA\u6B78\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u63A2\u8A2A\u9042\u660E\u300D\uFF08\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6VII - \u9918\u6689\u672A\u537B\u300D\u5F8C\u53EF\u958B\u555F\u5C0D\u61C9\u4EFB\u52D9\uFF09\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u8ACB\u7BA1\u7406\u54E1\u524D\u5F80\u6B66\u9675\u5730\u5340\u7684\u300C\u9042\u660E\u300D\u5340\u57DF\uFF0C\u5B8C\u6210\u89E3\u9396\u5354\u8B70\u50B3\u9001\u9EDE\u3001\u958B\u555F\u5354\u8B70\u5132\u85CF\u7BB1\u7B49\u4EFB\u52D9\uFF0C\u5373\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_guide_snowcity_unlockmain",
+      "sourceType": 18,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5728\u652F\u7DDA\u4EFB\u52D9\u300C\u9418\u9CF4\u4EBA\u6B78\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u63A2\u8A2A\u9042\u660E\u300D\uFF08\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6VII - \u9918\u6689\u672A\u537B\u300D\u5F8C\u53EF\u958B\u555F\u5C0D\u61C9\u4EFB\u52D9\uFF09",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_guide_snowcity_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 7,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

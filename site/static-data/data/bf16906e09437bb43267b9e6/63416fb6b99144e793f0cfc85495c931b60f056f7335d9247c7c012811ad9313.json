@@ -1,0 +1,22 @@
+{
+  "sourceItemId": "item_xiranite_lowpoly",
+  "name": "\u8F15\u58E4\u6676",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_xiranite_lowpoly.png?v=33766980bbca5aed4941e1f954513a17ffadfdd4c8727a8a03b7c0b190843701",
+  "summary": "\u76F8\u8F03\u65BC\u58E4\u6676\uFF0C\u8F15\u58E4\u6676\u5BC6\u5EA6\u66F4\u4F4E\uFF0C\u6B66\u9675\u5929\u5E2B\u5011\u76EE\u524D\u6B63\u5728\u5617\u8A66\u5C07\u4E4B\u7528\u65BC\u61C9\u9F8D\u7279\u52E4\u968A\u968A\u54E1\u7684\u8B77\u7532\u4E0A\u3002",
+  "description": "\u900F\u904E\u7F6E\u63DB\u7372\u5F97\u7684\u6676\u9AD4\u6C89\u6FB1\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

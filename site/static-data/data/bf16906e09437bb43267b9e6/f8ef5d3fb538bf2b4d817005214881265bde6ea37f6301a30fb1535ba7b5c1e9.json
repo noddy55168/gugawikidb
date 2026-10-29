@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_wgshoal_1_grass_1_grass_2_1",
+    "name": "\u5C0F\u7CD6\u756B",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_wgshoal_1_grass_1_grass_2_1.png?v=f084aadf50a712e4714d18c1c51b3e6f4c7828ade27616ae9da26df356fe7fd5",
+    "sortOrder": 40,
+    "path": "/industry/recipes/manual%3Ahdwk_wgshoal_1_grass_1_grass_2_1",
+    "outputSummary": "\u5C0F\u7CD6\u756B \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_wgshoal_1",
+      "name": "\u751C\u81A9\u9ED1\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_wgshoal_1.png?v=b551421f8881e29c2e4222bc413b812a07737ce6344b21122fb1a96da019ba24",
+      "link": "/items/item_drop_wgshoal_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_grass_powder_1",
+      "name": "\u9326\u8349\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+      "link": "/items/item_plant_grass_powder_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_grass_powder_2",
+      "name": "\u82BD\u91DD\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+      "link": "/items/item_plant_grass_powder_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_wgshoal_1_grass_1_grass_2_1",
+      "name": "\u5C0F\u7CD6\u756B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_wgshoal_1_grass_1_grass_2_1.png?v=f084aadf50a712e4714d18c1c51b3e6f4c7828ade27616ae9da26df356fe7fd5",
+      "link": "/items/item_wgshoal_1_grass_1_grass_2_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_wgshoal_1_grass_1_grass_2_1",
+      "name": "\u5C0F\u7CD6\u756B\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_wgshoal_1_grass_1_grass_2_1.png?v=f084aadf50a712e4714d18c1c51b3e6f4c7828ade27616ae9da26df356fe7fd5",
+      "link": null
+    }
+  ],
+  "devices": []
+}

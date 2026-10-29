@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:battle_turret_2",
+    "name": "\u64F4\u88DD\u9283\u68B0\u5854",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_battle_turret_2.png?v=664f5c10043ed6e7a186cd279b2cd85e710e3b2c456c94e31a00fedcebfdbbdc",
+    "sortOrder": 25,
+    "path": "/industry/recipes/hub%3Abattle_turret_2",
+    "outputSummary": "\u64F4\u88DD\u9283\u68B0\u5854 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_cmpt",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "link": "/items/item_iron_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_battle_turret_2",
+      "name": "\u64F4\u88DD\u9283\u68B0\u5854",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_battle_turret_2.png?v=664f5c10043ed6e7a186cd279b2cd85e710e3b2c456c94e31a00fedcebfdbbdc",
+      "link": null
+    }
+  ],
+  "devices": []
+}

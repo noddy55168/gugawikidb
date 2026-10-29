@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:filling_copperjar_gas_copper_1",
+    "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+    "sortOrder": 16,
+    "path": "/industry/recipes/machine%3Afilling_copperjar_gas_copper_1",
+    "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+    "deviceNames": [
+      "\u704C\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u6C23\u614B\u8D64\u9285\uFF08\u704C\u88DD\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_jar",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "link": "/items/item_copper_jar"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_gas_copper",
+      "name": "\u6C23\u614B\u8D64\u9285",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_gas_copper.png?v=561a45a1329f308afec8837f383e396c2808940e8d7a614d8dc45576f8592bd9",
+      "link": "/items/item_gas_copper"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gasjar_copper_gas_copper",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_jar_gas.png?v=0e34bf94c936705e855bd1b3de00bd3355d0fa63a16014b3309fd99e19a560d9",
+      "link": "/items/item_gasjar_copper_gas_copper"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_filling_pd_mc_1",
+      "name": "\u704C\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_filling_pd_mc_1.png?v=45b74bdfae4b744bd94bc624b5fc1b026472a17ea3e4dfa6b957d8544cac338f",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

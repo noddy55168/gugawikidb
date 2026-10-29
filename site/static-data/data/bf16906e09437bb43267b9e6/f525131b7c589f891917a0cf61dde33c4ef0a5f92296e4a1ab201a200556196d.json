@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:pool_ranch_fodder_1",
+    "name": "\u98FD\u98DF\u98FC\u6599",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_ranch_fodder_1.png?v=eb1357c9d41bb318ebf96c119fcda3b3a6751496b32ba3fb1b0547a92bc6f5d7",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Apool_ranch_fodder_1",
+    "outputSummary": "\u98FD\u98DF\u98FC\u6599 \u00D7 1",
+    "deviceNames": [
+      "\u53CD\u61C9\u6C60"
+    ]
+  },
+  "description": "\u98FD\u98DF\u98FC\u6599\u751F\u7522\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_byproduct_potato_moss_1",
+      "name": "\u5E73\u85AF\u8449\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_byproduct_potato_moss_1.png?v=bb95faeb23dd23faff613fc8fff12d6a0296fdb3743ee952e544d5e677c33e20",
+      "link": "/items/item_byproduct_potato_moss_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_water",
+      "name": "\u6E05\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "link": "/items/item_liquid_water"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_ranch_fodder_1",
+      "name": "\u98FD\u98DF\u98FC\u6599",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_ranch_fodder_1.png?v=eb1357c9d41bb318ebf96c119fcda3b3a6751496b32ba3fb1b0547a92bc6f5d7",
+      "link": "/items/item_ranch_fodder_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_mix_pool_1",
+      "name": "\u53CD\u61C9\u6C60",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_1.png?v=531a16ed1a42c703e31aaec8f676cf038585e364c7f69b0c1c8a1196b581b65b",
+      "sortOrder": 5,
+      "path": "/industry/devices/wiki_item_port_mix_pool_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

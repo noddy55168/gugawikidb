@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:liquid_purifier_1",
+    "name": "\u63D0\u7D14\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_liquid_purifier_1.png?v=1ff0e03a32804b09c3ba9c90fbe55e5820d73c30aa0e7920b6000d7f1d2e29ff",
+    "sortOrder": 113,
+    "path": "/industry/recipes/hub%3Aliquid_purifier_1",
+    "outputSummary": "\u63D0\u7D14\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_liquid_purifier_1",
+      "name": "\u63D0\u7D14\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_liquid_purifier_1.png?v=1ff0e03a32804b09c3ba9c90fbe55e5820d73c30aa0e7920b6000d7f1d2e29ff",
+      "link": null
+    }
+  ],
+  "devices": []
+}

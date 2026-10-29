@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:tools_proc_food_5_1",
+    "name": "\u512A\u8CEA\u9326\u8349\u98F2\u6599",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_bottled_food_5.png?v=5842f775ddde46301895b5d0bf4cd40b32c877faffd4a044e997e6f6ce15ed69",
+    "sortOrder": 8,
+    "path": "/industry/recipes/machine%3Atools_proc_food_5_1",
+    "outputSummary": "\u512A\u8CEA\u9326\u8349\u98F2\u6599 \u00D7 1",
+    "deviceNames": [
+      "\u5C01\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u512A\u8CEA\u9326\u8349\u98F2\u6599\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_fbottle_copper_grass_1",
+      "name": "\u8D64\u9285\u74F6",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+      "link": "/items/item_fbottle_copper_grass_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_bottled_food_5",
+      "name": "\u512A\u8CEA\u9326\u8349\u98F2\u6599",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_bottled_food_5.png?v=5842f775ddde46301895b5d0bf4cd40b32c877faffd4a044e997e6f6ce15ed69",
+      "link": "/items/item_bottled_food_5"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_tools_asm_mc_1",
+      "name": "\u5C01\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

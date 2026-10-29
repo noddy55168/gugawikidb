@@ -1,0 +1,77 @@
+{
+  "sourceItemId": "item_drop_inkkirin_1",
+  "name": "\u964D\u52AB\u96E8\u9732",
+  "rarity": 2,
+  "category": "\u63A1\u96C6\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_drop_inkkirin_1.png?v=c2fd039eb9d8e6afc26f8e4d9d3ab4ee4ec23067a60da781e062234658e4996f",
+  "summary": "\u89E3\u71E5\u6563\u5E03\u58A8\u96F2\u6642\u6703\u843D\u4E0B\u7684\u300C\u96E8\u9732\u300D\uFF0C\u4ECD\u5E36\u6709\u96FB\u6D41\uFF0C\u8ACB\u4F7F\u7528\u7D55\u7DE3\u88DD\u7F6E\u5C0F\u5FC3\u76DB\u88DD\u3002",
+  "description": "\u64CA\u6557\u89E3\u71E5\u7684\u6389\u843D\u7269\uFF0C\u53EF\u7528\u65BC\u7CBE\u88FD\u98DF\u85E5\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u4E2D\u64CA\u6557\u6575\u4EBA\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_eny_0132_inkkirin",
+      "description": "\u64CA\u6557\u89E3\u71E5\u6709\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_jlebm_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_inkkirin_1_hscrane_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_inkkirin_1",
+          "name": "\u964D\u52AB\u96E8\u9732",
+          "quantity": 1,
+          "path": "/items/item_drop_inkkirin_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_inkkirin_1.png?v=c2fd039eb9d8e6afc26f8e4d9d3ab4ee4ec23067a60da781e062234658e4996f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hscrane_1",
+          "name": "\u7AF9\u6797\u87F2\u86F9",
+          "quantity": 2,
+          "path": "/items/item_drop_hscrane_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hscrane_1.png?v=7f016f26c01607f6b0786dbce7bd74022d67f9d8b6b624182fac4012492eca0f",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_inkkirin_1_hscrane_1_1",
+          "name": "\u9165\u9EBB\u70B8\u87F2\u86F9",
+          "quantity": 1,
+          "path": "/items/item_inkkirin_1_hscrane_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_inkkirin_1_hscrane_1.png?v=46f76fdf6b691816ca7d4be5d61bfae97e06005a6aaa59c38788ce4c317db588",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_inkkirin_1_hscrane_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

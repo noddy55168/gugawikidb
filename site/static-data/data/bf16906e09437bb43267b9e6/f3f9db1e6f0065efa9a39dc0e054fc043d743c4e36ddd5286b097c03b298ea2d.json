@@ -1,0 +1,194 @@
+{
+  "sourceItemId": "item_equip_t4_suit_crush_fracture_hand_02",
+  "name": "\u820A\u92D2\u624B\u7532\u00B7I",
+  "rarity": 5,
+  "category": "\u8B77\u624B",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_crush_fracture_hand_02.png?v=d407f643b8f420559e42f2bf321483e18c0126bbea101c81b54498fd59cdc6d4",
+  "description": "\u9078\u528D\u5C40\u56DE\u6536\u907A\u843D\u7684\u6280\u8853\u6A94\u6848\u5F8C\u6240\u7814\u767C\u7684\u7D9C\u5408\u9632\u79A6\u88DD\u5099\u3002\n\u76F8\u8F03\u7406\u60F3\u4E2D\u7684\u72C0\u614B\uFF0C\u9019\u6B3E\u624B\u7532\u7684\u52D5\u529B\u8F14\u52A9\u6027\u80FD\u5176\u5BE6\u7A0D\u5FAE\u4F4E\u4E86\u4E00\u9EDE\u2014\u2014\u820A\u65E5\u8CC7\u6E90\u4E0D\u53EF\u8907\u88FD\uFF0C\u5929\u5E2B\u5011\u5FC5\u9808\u53E6\u60F3\u8FA6\u6CD5\u3002",
+  "lore": "\u672C\u88DD\u5099\u7531\u5B8F\u5C71\u9078\u528D\u5C40\u8A2D\u8A08\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 70,
+  "suitId": "suit_crush_fracture",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 42,
+          "displayValue": "42"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u654F\u6377",
+      "values": [
+        {
+          "stage": 0,
+          "value": 65,
+          "displayValue": "65"
+        },
+        {
+          "stage": 1,
+          "value": 71,
+          "displayValue": "71"
+        },
+        {
+          "stage": 2,
+          "value": 78,
+          "displayValue": "78"
+        },
+        {
+          "stage": 3,
+          "value": 84,
+          "displayValue": "84"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "\u529B\u91CF",
+      "values": [
+        {
+          "stage": 0,
+          "value": 43,
+          "displayValue": "43"
+        },
+        {
+          "stage": 1,
+          "value": 47,
+          "displayValue": "47"
+        },
+        {
+          "stage": 2,
+          "value": 51,
+          "displayValue": "51"
+        },
+        {
+          "stage": 3,
+          "value": 55,
+          "displayValue": "55"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u6E90\u77F3\u6280\u85DD\u5F37\u5EA6",
+      "values": [
+        {
+          "stage": 0,
+          "value": 34.5,
+          "displayValue": "34.5"
+        },
+        {
+          "stage": 1,
+          "value": 37.950001,
+          "displayValue": "37.95"
+        },
+        {
+          "stage": 2,
+          "value": 41.400002,
+          "displayValue": "41.4"
+        },
+        {
+          "stage": 3,
+          "value": 44.849998,
+          "displayValue": "44.85"
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "requiredCount": 3,
+      "name": "\u820A\u92D2",
+      "description": "3\u4EF6\u5957\u88DD\u6548\u679C\uFF1A\u88DD\u5099\u8005\u653B\u64CA\u529B\u002B8%\u3002\n\u88DD\u5099\u8005\u9020\u6210\u731B\u64CA\u3001\u788E\u7532\u6642\uFF0C\u6839\u64DA\u6D88\u8017\u7684\u6700\u5927\u7834\u9632\u5C64\u6578\uFF0C\u4F7F\u81EA\u8EAB\u7269\u7406\u50B7\u5BB3\u002B[6%\u00D7\u6D88\u8017\u5C64\u6578]\uFF0C\u6301\u7E8C20\u79D2\u3002\u82E5\u76EE\u6A19\u5DF2\u8655\u65BC\u7269\u7406\u8106\u5F31\u3001\u5931\u8861\u72C0\u614B\u6216\u88AB\u9644\u8457\u6E90\u77F3\u7D50\u6676\uFF0C\u4E0A\u8FF0\u589E\u76CA\u6548\u679C\u8B8A\u70BA1.5\u500D\u3002\u589E\u76CA\u6548\u679C\u7121\u6CD5\u758A\u52A0\u3002",
+      "bindingStatus": "bound"
+    }
+  ],
+  "suitEquipment": [
+    {
+      "sourceItemId": "item_equip_t4_suit_crush_fracture_hand_01",
+      "name": "\u820A\u92D2\u624B\u7532",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_crush_fracture_hand_01.png?v=b33797caade9471438209e1ca115cd3b5a910e76b2918258e245ee66b82fa856",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_crush_fracture_hand_02",
+      "name": "\u820A\u92D2\u624B\u7532\u00B7I",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_crush_fracture_hand_02.png?v=d407f643b8f420559e42f2bf321483e18c0126bbea101c81b54498fd59cdc6d4",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_crush_fracture_body_01",
+      "name": "\u820A\u92D2\u88DD\u7532",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_crush_fracture_body_01.png?v=7f58f68143b66a1bf59cd0dde1ff6d37c7c8c128f2a2cb0f46da97298b71fc2c",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_crush_fracture_body_02",
+      "name": "\u820A\u92D2\u88DD\u7532\u00B7I",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_crush_fracture_body_02.png?v=79633a95488e5adb08976bc905b475d8c1f8b76b52a7c70fa1ba9075a2d4bb6a",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_crush_fracture_edc_01",
+      "name": "\u820A\u92D2\u523A\u5203",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_crush_fracture_edc_01.png?v=011accdd83e2036afc55db535a115809e1f4adb64fd9f70b40fa57684115e7ed",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_crush_fracture_edc_02",
+      "name": "\u820A\u92D2\u523A\u5203\u00B7I",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_crush_fracture_edc_02.png?v=18e1aaaaad3e7d4b2791d8de2f886eae45e9df488c85b28791ba6ba90d9c2124",
+      "hasDetail": true
+    }
+  ],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t4_suit_crush_fracture_hand_02",
+      "chainId": 4002,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_2",
+          "name": "\u8D6B\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_2.png?v=e645fdd08a1fe2b30cea822f323f711c7ed73183ca398083eda1aa2be379972a"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 25000,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    },
+    {
+      "sourceFormulaId": "item_formu_t4_suit_crush_fracture_hand_02",
+      "chainId": 4003,
+      "isDefault": false,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 25,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 250,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    }
+  ]
+}

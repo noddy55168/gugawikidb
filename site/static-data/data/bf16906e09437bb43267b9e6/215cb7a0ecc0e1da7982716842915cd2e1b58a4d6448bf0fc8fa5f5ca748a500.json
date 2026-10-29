@@ -1,0 +1,831 @@
+{
+  "sourceItemId": "item_copper_cmpt",
+  "name": "\u8D64\u9285\u96F6\u4EF6",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+  "summary": "\u5177\u5099\u4E00\u5B9A\u901A\u7528\u6027\u7684\u8D64\u9285\u96F6\u4EF6\u3002",
+  "description": "\u8D64\u9285\u584A\u7D93\u52A0\u5DE5\u5F8C\u6210\u578B\u7684\u96F6\u4EF6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u6216\u8A2D\u5099\u88FD\u9020\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryHubCraftTable/battle_jet_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_jet_1",
+          "name": "\u6FC0\u6D41\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_jet_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_trap_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_trap_1",
+          "name": "AF1\u300C\u7194\u7532\u8005\u300D",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_trap_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/gas_pump_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_gas_pump_1",
+          "name": "\u6C23\u9AD4\u6536\u96C6\u6CF5",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Agas_pump_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/gas_reactor_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 40,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_gas_reactor_1",
+          "name": "\u6C23\u9AD4\u53CD\u61C9\u7210",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Agas_reactor_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/gas_storager_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_gas_storager_1",
+          "name": "\u5132\u6C23\u7F50",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Agas_storager_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/liquid_cleaner_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_liquid_cleaner_1",
+          "name": "\u5EE2\u6C34\u8655\u7406\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Aliquid_cleaner_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/liquid_purifier_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_liquid_purifier_1",
+          "name": "\u63D0\u7D14\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Aliquid_purifier_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/miner_4/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_miner_1",
+          "name": "\u4FBF\u651C\u5F0F\u6E90\u77F3\u7926\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_miner_4",
+          "name": "\u6C34\u9A45\u7926\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Aminer_4"
+    },
+    {
+      "key": "FactoryHubCraftTable/mix_pool_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 40,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Amix_pool_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/pump_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_pump_2",
+          "name": "\u8010\u9178\u6C34\u6CF5II",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Apump_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/transmuter_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 40,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_phase_trans_1",
+          "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Atransmuter_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/transmuter_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 40,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_phase_trans_2",
+          "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Atransmuter_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/udpipe_loader_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_udpipe_loader_1",
+          "name": "\u6697\u7BA1\u5165\u53E3",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Audpipe_loader_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/udpipe_loader_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 40,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_udpipe_loader_2",
+          "name": "\u591A\u53E3\u6697\u7BA1\u5165\u53E3",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Audpipe_loader_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/udpipe_unloader_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_udpipe_unloader_1",
+          "name": "\u6697\u7BA1\u51FA\u53E3",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Audpipe_unloader_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/udpipe_unloader_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 40,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_udpipe_unloader_2",
+          "name": "\u591A\u53E3\u6697\u7BA1\u51FA\u53E3",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Audpipe_unloader_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/vaporizer_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 40,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_vaporizer_1",
+          "name": "\u6C23\u9AD4\u6563\u5E03\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Avaporizer_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_activity_xiranite_copper_tool_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 4,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_powder",
+          "name": "\u606F\u58E4",
+          "quantity": 1,
+          "path": "/items/item_xiranite_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_activity_copper_xiranite_tool",
+          "name": "\u5BE6\u9A57\u9285\u9AA8\u9ABC",
+          "quantity": 1,
+          "path": "/items/item_activity_copper_xiranite_tool",
+          "iconPath": "/media/wiki/catalogs/items/item_activity_copper_xiranite_tool.png?v=8e1758948827e77bc87495b52c7b7e7e262ba9ccdeeb7d24e88415b807289ef5",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_activity_xiranite_copper_tool_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_food_5_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_copper_grass_1",
+          "name": "\u8D64\u9285\u74F6\uFF08\u9326\u8349\u6EB6\u6DB2\uFF09",
+          "quantity": 5,
+          "path": "/items/item_fbottle_copper_grass_1",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_1.png?v=fe554d79309610762ac5dc52940d8f474ee1320101e0dbf9201b3197814f1698"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_food_5",
+          "name": "\u512A\u8CEA\u9326\u8349\u98F2\u6599",
+          "quantity": 1,
+          "path": "/items/item_bottled_food_5",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_food_5.png?v=5842f775ddde46301895b5d0bf4cd40b32c877faffd4a044e997e6f6ce15ed69",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_food_5_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_rec_hp_5_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_copper_grass_2",
+          "name": "\u8D64\u9285\u74F6\uFF08\u82BD\u91DD\u6EB6\u6DB2\uFF09",
+          "quantity": 5,
+          "path": "/items/item_fbottle_copper_grass_2",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_2.png?v=ba7b7a3ae5d770d3f425f556e0f0509fc42adefa04e460167da58070dfdee377"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_rec_hp_5",
+          "name": "\u512A\u8CEA\u82BD\u91DD\u91DD\u5291",
+          "quantity": 1,
+          "path": "/items/item_bottled_rec_hp_5",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_5.png?v=a85c064ef4c05331793e0c9e9bd2747ce74e949b54599b968317de18c6b6ec8d",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_rec_hp_5_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_4_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_xiranite_powder",
+          "name": "\u606F\u58E4",
+          "quantity": 10,
+          "path": "/items/item_xiranite_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_xiranite_powder.png?v=6b9fceccab1b65064ccb1cc5a256a7a09f0e6967c41b2b205c2cec14695209fc",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_4_1",
+          "name": "\u8D64\u9285\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_4_1",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_1.png?v=30b1a3aa22ed1cefdfafa77dce32abe359d267b9923bf898f08063f5a234dd7b",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_4_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/component_copper_cmpt_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_nugget",
+          "name": "\u8D64\u9285\u584A",
+          "quantity": 1,
+          "path": "/items/item_copper_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_copper_cmpt_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

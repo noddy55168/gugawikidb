@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:component_mc_1",
+    "name": "\u914D\u4EF6\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_cmpt_mc_1.png?v=50e0cd6f0541699b31cf921cde2def09a0f2fb1850433b536cc7437613af9c9e",
+    "sortOrder": 10,
+    "path": "/industry/recipes/hub%3Acomponent_mc_1",
+    "outputSummary": "\u914D\u4EF6\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_cmpt_mc_1",
+      "name": "\u914D\u4EF6\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_cmpt_mc_1.png?v=50e0cd6f0541699b31cf921cde2def09a0f2fb1850433b536cc7437613af9c9e",
+      "link": null
+    }
+  ],
+  "devices": []
+}

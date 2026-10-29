@@ -1,0 +1,77 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_moss_1",
+    "name": "\u854E\u82B1\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_moss_1.png?v=10d34af3fd1eb8b908a0f72896d0b9a8b136062cd755e3b25b6522d7dbd5348f",
+    "sortOrder": 100,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_moss_1",
+    "outputSummary": "\u854E\u82B1\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_seed_1",
+      "name": "\u854E\u82B1\u7A2E\u5B50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_seed_1.png?v=852ea48f76b08c09c70665ce6d214d0b60a257d7046ead96086f300d9a038bc1",
+      "link": "/items/item_plant_moss_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_moss_1",
+      "name": "\u854E\u82B1\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_moss_1.png?v=10d34af3fd1eb8b908a0f72896d0b9a8b136062cd755e3b25b6522d7dbd5348f",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_1",
+      "name": "\u854E\u82B1",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_moss_1.png?v=9701bd44ec3c63ac13a2c894365578e50367b4667e1b2c43b558db55a717b888",
+      "link": "/items/item_plant_moss_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_moss_seed_1",
+      "name": "\u854E\u82B1\u7A2E\u5B50",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_moss_seed_1.png?v=852ea48f76b08c09c70665ce6d214d0b60a257d7046ead96086f300d9a038bc1",
+      "link": "/items/item_plant_moss_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_port_soil_moss_1",
+      "name": "\u854E\u82B1\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_moss_1.png?v=10d34af3fd1eb8b908a0f72896d0b9a8b136062cd755e3b25b6522d7dbd5348f",
+      "link": null
+    }
+  ],
+  "devices": []
+}

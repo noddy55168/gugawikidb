@@ -1,0 +1,63 @@
+{
+  "sourceItemId": "item_gift_jinlong_3",
+  "name": "\u8349\u7DE8\u5929\u4F7F",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_jinlong_3.png?v=a5949d8cf8be522cf74d94ce187b5c4b22c1cb3cb0dd9e703f9d5a89fa6b1834",
+  "summary": "\u8001\u4E00\u8F29\u5B8F\u5C71\u4EBA\u90FD\u6703\u88FD\u4F5C\u7684\u624B\u5DE5\u5C0F\u73A9\u5177\u3002\u64DA\u8AAA\uFF0C\u5728\u8EB2\u907F\u6230\u4E82\u7684\u65C5\u7A0B\u4E2D\uFF0C\u4E00\u4F4D\u5320\u4EBA\u5C07\u8349\u8449\u7DE8\u7E54\u6210\u5929\u4F7F\u7684\u6A21\u6A23\uFF0C\u6210\u529F\u7DE9\u89E3\u4E86\u5B69\u5B50\u5011\u5C0D\u9019\u4E9B\u6BBA\u622E\u8005\u7684\u904E\u5EA6\u6050\u61FC\u3002",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u5275\u610F]  [\u76CA\u667A] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_2",
+      "description": "\u6B66\u9675-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_jinlong_3/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0027_tangtang",
+          "name": "\u6E6F\u6E6F",
+          "quantity": null,
+          "path": "/operators/27",
+          "iconPath": "/media/wiki/operators/chr_0027_tangtang/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0028_wulfa",
+          "name": "\u6D1B\u897F",
+          "quantity": null,
+          "path": "/operators/28",
+          "iconPath": "/media/wiki/operators/chr_0028_wulfa/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

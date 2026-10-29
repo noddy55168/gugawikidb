@@ -1,0 +1,76 @@
+{
+  "sourceItemId": "item_hsmob_1_grass_2_1",
+  "name": "\u7197\u7092\u6642\u852C",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_hsmob_1_grass_2_1.png?v=bce1a484a05329debd846a4977407c93b0c3472deaa94deb6b7709750c741a9b",
+  "summary": "\u5927\u706B\u7197\u7092\u800C\u6210\u7684\u83DC\u991A\u3002\u9019\u9053\u83DC\u7684\u70F9\u98EA\u6642\u9593\u61C9\u4EE5\u79D2\u8A08\u7B97\uFF0C\u7A0D\u5FAE\u62D6\u5E7E\u79D2\u5C31\u6703\u8B93\u5B83\u7684\u53E3\u611F\u4E00\u584C\u7CCA\u5857\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u6BCF\u79D2\u56DE\u5FA95%\u6700\u5927\u751F\u547D\u503C\u548C370\u9EDE\u751F\u547D\u503C\uFF0C\u6301\u7E8C6\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u65B0\u7B4D\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_hsmob_1_grass_2_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 1,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_2",
+          "name": "\u82BD\u91DD\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_3",
+          "name": "\u74CA\u8449\u8518",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_3.png?v=8db3ba1866255f35d711904d751a9cb6819dead719137045e5b04e1755552ee5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_hsmob_1_grass_2_1",
+          "name": "\u7197\u7092\u6642\u852C",
+          "quantity": 1,
+          "path": "/items/item_hsmob_1_grass_2_1",
+          "iconPath": "/media/wiki/catalogs/items/item_hsmob_1_grass_2_1.png?v=bce1a484a05329debd846a4977407c93b0c3472deaa94deb6b7709750c741a9b",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_hsmob_1_grass_2_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

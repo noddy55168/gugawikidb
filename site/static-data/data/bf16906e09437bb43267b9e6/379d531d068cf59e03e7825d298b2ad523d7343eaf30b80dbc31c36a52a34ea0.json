@@ -1,0 +1,164 @@
+{
+  "entry": {
+    "key": "wiki_item_port_shaper_1",
+    "name": "\u5851\u5F62\u6A5F",
+    "kind": "building",
+    "category": "\u57FA\u790E\u751F\u7522",
+    "iconPath": "/media/wiki/industry/item_port_shaper_1.png?v=e2566298e52a05123bbad144c04a47c370a8dedfa59df9366d89a5f707aa805e",
+    "sortOrder": 4,
+    "path": "/industry/devices/wiki_item_port_shaper_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u80FD\u5920\u6C96\u58D3\u5404\u7A2E\u5BB9\u5668\u7684\u8A2D\u5099\u3002",
+  "sourceId": "shaper_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": [
+    {
+      "key": "machine:shaper_activity_xiranite_bottle_1",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_bottle.png?v=3cfb0632ecbebc60e91901d87b7d05e94b4ba49db4fce47e6f9eb49453eca3c5",
+      "sortOrder": 7,
+      "path": "/industry/recipes/machine%3Ashaper_activity_xiranite_bottle_1",
+      "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_activity_xiranite_box_1",
+      "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_box.png?v=862105937e94a3be2c21d051056b03b5e5afa6f6e43ff5e1a490e3ddf83554a0",
+      "sortOrder": 9,
+      "path": "/industry/recipes/machine%3Ashaper_activity_xiranite_box_1",
+      "outputSummary": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_activity_xiranite_enr_bottle_1",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+      "sortOrder": 8,
+      "path": "/industry/recipes/machine%3Ashaper_activity_xiranite_enr_bottle_1",
+      "outputSummary": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6 \u00D7 2",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_copper_bottle_1",
+      "name": "\u8D64\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_bottle.png?v=7a949c4fc5b8c639f4757b3541444c2bd8d6533a0bfc43a0778c06d9c2ea7b21",
+      "sortOrder": 5,
+      "path": "/industry/recipes/machine%3Ashaper_copper_bottle_1",
+      "outputSummary": "\u8D64\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_copper_enr_bottle_1",
+      "name": "\u8D6B\u9285\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_enr_bottle.png?v=7e3fd13e3e5f9afbdf1f729202ee9b7e96f356cc67b6d8865d37605cf2f4dc62",
+      "sortOrder": 6,
+      "path": "/industry/recipes/machine%3Ashaper_copper_enr_bottle_1",
+      "outputSummary": "\u8D6B\u9285\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_gas_activity_xiranite_enr_box_1",
+      "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u91CD\u6BBC",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_box.png?v=dcd37a4f8e18e548a8ed93db6b6c8536bc6365101d622b350e53a3df55be9149",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Ashaper_gas_activity_xiranite_enr_box_1",
+      "outputSummary": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u91CD\u6BBC \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_gas_copper_jar_1",
+      "name": "\u8D64\u9285\u8010\u58D3\u7F50",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_copper_jar.png?v=4ef5955e5547bd7429e64ad664550df63d971282b3df994b07c453f07bc2a500",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Ashaper_gas_copper_jar_1",
+      "outputSummary": "\u8D64\u9285\u8010\u58D3\u7F50 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_glass_bottle_1",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Ashaper_glass_bottle_1",
+      "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_glass_enr_bottle_1",
+      "name": "\u9AD8\u6676\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_glass_enr_bottle.png?v=06ffede5ff4922cbaaa59c4436e75a10baca718fe804af1c93f143034febf3bf",
+      "sortOrder": 4,
+      "path": "/industry/recipes/machine%3Ashaper_glass_enr_bottle_1",
+      "outputSummary": "\u9AD8\u6676\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_iron_bottle_1",
+      "name": "\u85CD\u9435\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Ashaper_iron_bottle_1",
+      "outputSummary": "\u85CD\u9435\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    },
+    {
+      "key": "machine:shaper_iron_enr_bottle_1",
+      "name": "\u92FC\u8CEA\u74F6",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "sortOrder": 3,
+      "path": "/industry/recipes/machine%3Ashaper_iron_enr_bottle_1",
+      "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+      "deviceNames": [
+        "\u5851\u5F62\u6A5F"
+      ]
+    }
+  ]
+}

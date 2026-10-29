@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_hshog_1_hsmob_1_slimeml_1_1",
+    "name": "\u6B66\u9675\u4E82\u7092",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_hshog_1_hsmob_1_slimeml_1_1.png?v=30c246aacd1f9749e82fd905992d0e3ddd24a2c3ef9071f9755b8842fe87d14b",
+    "sortOrder": 13,
+    "path": "/industry/recipes/manual%3Ahdwk_hshog_1_hsmob_1_slimeml_1_1",
+    "outputSummary": "\u6B66\u9675\u4E82\u7092 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_hshog_1",
+      "name": "\u7403\u523A\u7378\u7684\u809D\u81DF",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_hshog_1.png?v=61992f6c8b962b8a2ce0a72a00d32dc881b53e0ee29b9678f428798e26d77517",
+      "link": "/items/item_drop_hshog_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_hsmob_1",
+      "name": "\u65B0\u7B4D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+      "link": "/items/item_drop_hsmob_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_4",
+      "name": "\u91D1\u77F3\u7A3B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+      "link": "/items/item_plant_sp_4"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_hshog_1_hsmob_1_slimeml_1_1",
+      "name": "\u6B66\u9675\u4E82\u7092",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_hshog_1_hsmob_1_slimeml_1_1.png?v=30c246aacd1f9749e82fd905992d0e3ddd24a2c3ef9071f9755b8842fe87d14b",
+      "link": "/items/item_hshog_1_hsmob_1_slimeml_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_hshog_1_hsmob_1_slimeml_1_1",
+      "name": "\u6B66\u9675\u4E82\u7092\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_hshog_1_hsmob_1_slimeml_1_1.png?v=30c246aacd1f9749e82fd905992d0e3ddd24a2c3ef9071f9755b8842fe87d14b",
+      "link": null
+    }
+  ],
+  "devices": []
+}

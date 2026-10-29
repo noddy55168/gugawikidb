@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_plant_moss_powder_3_1",
+    "name": "\u7802\u8449\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+    "sortOrder": 9,
+    "path": "/industry/recipes/machine%3Agrinder_plant_moss_powder_3_1",
+    "outputSummary": "\u7802\u8449\u7C89\u672B \u00D7 3",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u7802\u8449\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_3",
+      "name": "\u7802\u8449",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_3.png?v=2fb54317221263e21c815aa2d0d39362c0903b6b211803857b6caa658517ce8a",
+      "link": "/items/item_plant_moss_3"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_powder_3",
+      "name": "\u7802\u8449\u7C89\u672B",
+      "quantity": 3,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+      "link": "/items/item_plant_moss_powder_3"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

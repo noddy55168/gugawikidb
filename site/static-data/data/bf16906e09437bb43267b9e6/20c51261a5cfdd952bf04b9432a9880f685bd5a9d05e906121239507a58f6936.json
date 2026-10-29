@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_soil_corp_potato_1",
+    "name": "\u5E73\u85AF\u7530\u584A",
+    "kind": "building",
+    "category": "\u7A2E\u690D\u8ABF\u914D",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_potato_1.png?v=b371cebdbf39fffc10f5d5e0218466608f665654b3af7d330d4b65285953ae85",
+    "sortOrder": 11,
+    "path": "/industry/devices/wiki_item_port_soil_corp_potato_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5728\u6B64\u7530\u584A\u4E0A\u6309\u7167\u6B65\u9A5F\u7CBE\u7D30\u7A2E\u690D\uFF0C\u6536\u7A6B\u5F8C\u53EF\u7372\u5F97\u5927\u91CF\u5E73\u85AF\u3002",
+  "sourceId": "soil_corp_potato_1",
+  "needPower": false,
+  "width": 4,
+  "depth": 4,
+  "height": 1,
+  "recipes": []
+}

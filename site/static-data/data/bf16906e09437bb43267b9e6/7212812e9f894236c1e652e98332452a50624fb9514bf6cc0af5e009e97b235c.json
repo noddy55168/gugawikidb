@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:thickener_plant_moss_enr_powder_1_1",
+    "name": "\u7D30\u78E8\u854E\u82B1\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_plant_moss_enr_powder_1.png?v=46b5fe24c45822eb19bfb6768e9fefb769cf9a7a9ead3bb9ca57a26f6bd4929f",
+    "sortOrder": 6,
+    "path": "/industry/recipes/machine%3Athickener_plant_moss_enr_powder_1_1",
+    "outputSummary": "\u7D30\u78E8\u854E\u82B1\u7C89\u672B \u00D7 1",
+    "deviceNames": [
+      "\u7814\u78E8\u6A5F"
+    ]
+  },
+  "description": "\u7D30\u78E8\u854E\u82B1\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_powder_1",
+      "name": "\u854E\u82B1\u7C89\u672B",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+      "link": "/items/item_plant_moss_powder_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_moss_powder_3",
+      "name": "\u7802\u8449\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+      "link": "/items/item_plant_moss_powder_3"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_enr_powder_1",
+      "name": "\u7D30\u78E8\u854E\u82B1\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_enr_powder_1.png?v=46b5fe24c45822eb19bfb6768e9fefb769cf9a7a9ead3bb9ca57a26f6bd4929f",
+      "link": "/items/item_plant_moss_enr_powder_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_thickener_1",
+      "name": "\u7814\u78E8\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_thickener_1.png?v=1c17cef6b85a2cc5fb4d6de8c89e0a37159b6e8ddc357b1dbd4e7c4fd1d22c5e",
+      "sortOrder": 4,
+      "path": "/industry/devices/wiki_item_port_thickener_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

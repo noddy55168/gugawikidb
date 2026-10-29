@@ -1,0 +1,100 @@
+{
+  "sourceItemId": "item_bottled_rec_hp_5",
+  "name": "\u512A\u8CEA\u82BD\u91DD\u91DD\u5291",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_5.png?v=a85c064ef4c05331793e0c9e9bd2747ce74e949b54599b968317de18c6b6ec8d",
+  "summary": "\u7D42\u672B\u5730\u5DE5\u696D\u66FE\u8A66\u5716\u7814\u767C\u4E00\u7A2E\u300C\u5354\u8B70\u6CE8\u5C04\u300D\u6280\u8853\uFF0C\u4F46\u8A72\u8A08\u5283\u6700\u7D42\u906D\u5230\u4E86\u5EE2\u6B62\u3002\u4ED6\u5011\u5C1A\u672A\u64C1\u6709\u63A8\u958B\u90A3\u6247\u5927\u9580\u7684\u52C7\u6C23\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u6BCF\u79D2\u56DE\u5FA9391\u9EDE\u751F\u547D\u503C\uFF0C\u6301\u7E8C6\u79D2\u3002",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_mix",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6EB6\u89E3\u8207\u53CD\u61C9\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_copper",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u8D64\u9285\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_furnance_mode",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u6DB2\u8F14\u7194\u7149\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u6EB6\u89E3\u8207\u53CD\u61C9\u5DE5\u696D\u6280\u8853",
+    "\u63A8\u9032\u4E3B\u7DDA\u5230\u9054\u6E05\u6CE2\u5BE8\u7B49\u5730\u7372\u5F97\u8D64\u9285\u7926\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u6DB2\u8F14\u7194\u7149\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_rec_hp_5_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_copper_cmpt",
+          "name": "\u8D64\u9285\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_copper_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_fbottle_copper_grass_2",
+          "name": "\u8D64\u9285\u74F6\uFF08\u82BD\u91DD\u6EB6\u6DB2\uFF09",
+          "quantity": 5,
+          "path": "/items/item_fbottle_copper_grass_2",
+          "iconPath": "/media/wiki/catalogs/items/item_copper_bottle_liquid.png?v=dd4f75f2a1f1d3bd6630d998a1ffeb8b056ad0d7e9b35ea1b4ba1ecd5a9b591d",
+          "contentIconPath": "/media/wiki/catalogs/items/item_liquid_plant_grass_2.png?v=ba7b7a3ae5d770d3f425f556e0f0509fc42adefa04e460167da58070dfdee377"
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_rec_hp_5",
+          "name": "\u512A\u8CEA\u82BD\u91DD\u91DD\u5291",
+          "quantity": 1,
+          "path": "/items/item_bottled_rec_hp_5",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_rec_hp_5.png?v=a85c064ef4c05331793e0c9e9bd2747ce74e949b54599b968317de18c6b6ec8d",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_rec_hp_5_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

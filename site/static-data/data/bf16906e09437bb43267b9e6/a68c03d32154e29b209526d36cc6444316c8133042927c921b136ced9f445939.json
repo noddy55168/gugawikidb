@@ -1,0 +1,223 @@
+{
+  "sourceItemId": "item_corp_sugarcane_1",
+  "name": "\u8106\u8517",
+  "rarity": 3,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+  "summary": "\u542B\u7CD6\u91CF\u6975\u9AD8\u7684\u7518\u8517\uFF0C\u751F\u98DF\u5480\u56BC\u53E3\u611F\u8FD1\u4F3C\u860B\u679C\uFF0C\u5F88\u53D7\u5C0F\u5B69\u5B50\u7684\u559C\u6B61\u3002",
+  "description": "\u900F\u904E\u7CBE\u7D30\u7A2E\u690D\u624D\u80FD\u57F9\u80B2\u7684\u4F5C\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_food_box_crop_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_drink_4_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_bottle",
+          "name": "\u85CD\u9435\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_bottle.png?v=3335faf141f2656cf54d7f225e429c8a72d2a72c4256698f4a258d7c93812881",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_sugarcane_1",
+          "name": "\u8106\u8517",
+          "quantity": 1,
+          "path": "/items/item_corp_sugarcane_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_inn_drink_4",
+          "name": "\u74F6\u88DD\u8106\u8517\u6C41",
+          "quantity": 1,
+          "path": "/items/item_inn_drink_4",
+          "iconPath": "/media/wiki/catalogs/items/item_inn_drink_4.png?v=52f4481364343c466d71caaa85ad562dd128880eada7776de2538403af675b47",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_drink_4_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_Ingredient_sugar_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_sugarcane_1",
+          "name": "\u8106\u8517",
+          "quantity": 1,
+          "path": "/items/item_corp_sugarcane_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_Ingredient_sugar_1",
+          "name": "\u7802\u7CD6",
+          "quantity": 3,
+          "path": "/items/item_Ingredient_sugar_1",
+          "iconPath": "/media/wiki/catalogs/items/item_Ingredient_sugar_1.png?v=b4217cba5cfcd2df6b14c41d4ad6bff914592ee43387e477a47c883e5ae74313",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_Ingredient_sugar_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/seedcollector_plant_sugarcane_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_sugarcane_1",
+          "name": "\u8106\u8517",
+          "quantity": 1,
+          "path": "/items/item_corp_sugarcane_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_sugarcane_1.png?v=0ac56389a25672ec6a9efc125c816a8526d988baea630e85a4417d35dba47153",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_sugarcane_seed_1",
+          "name": "\u8106\u8517\u7A2E\u5B50",
+          "quantity": 2,
+          "path": "/items/item_corp_sugarcane_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_sugarcane_seed_1.png?v=41cbadb61a123fb404d28884c64aa39465a8ace7dd1238671df0554fd2fda8b2",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "seedcollector_1",
+          "name": "\u63A1\u7A2E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_seedcol_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aseedcollector_plant_sugarcane_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_corp_sugarcane_1/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_sugarcane_seed_1",
+          "name": "\u8106\u8517\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_corp_sugarcane_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_sugarcane_seed_1.png?v=41cbadb61a123fb404d28884c64aa39465a8ace7dd1238671df0554fd2fda8b2",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_corp_sugarcane_1",
+          "name": "\u8106\u8517\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_corp_sugarcane_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

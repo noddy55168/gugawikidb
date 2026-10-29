@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_squirter_1",
+    "name": "\u7051\u6C34\u6A5F",
+    "kind": "building",
+    "category": "\u529F\u80FD\u8A2D\u5099",
+    "iconPath": "/media/wiki/industry/item_port_squirter_1.png?v=8c3ab5ef730aae3fcee4d2b9557f12a71027f9d504226eeb9783f6b74548f131",
+    "sortOrder": 5,
+    "path": "/industry/devices/wiki_item_port_squirter_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7051\u6C34\u6A5F\u5728\u63A5\u5165\u6C34\u6E90\u5F8C\u53EF\u70BA\u9700\u8981\u6F86\u704C\u7684\u76EE\u6A19\u5674\u7051\u6DB2\u9AD4\u3002",
+  "sourceId": "squirter_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": []
+}

@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_checkin_v1d0_end",
+    "name": "\u6E05\u6CE2\u5C07\u8D77\u7C3D\u5230",
+    "description": "\u300C\u65B0\u6F6E\u8D77\uFF0C\u6545\u6DF5\u96E2\u300D\u7248\u672C\u5373\u5C07\u958B\u653E\uFF0C\u53C3\u8207\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u734E\u52F5\u57FA\u790E\u5C0B\u8A2A\u6191\u8B49\u00D72\u548C\u5D4C\u6676\u7389\u00D7500\u3002",
+    "sourceType": 2,
+    "sortOrder": 8303,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_checkin_v1d0_end",
+    "tabImageId": "activity_tab_bg_v1d0_end_checkin",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/5 12:00:00",
+        "closeTimeRaw": "2026/3/12 6:00:00",
+        "openUnixSeconds": 1772683200,
+        "closeUnixSeconds": 1773266400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/5 12:00:00",
+        "closeTimeRaw": "2026/3/12 6:00:00",
+        "openUnixSeconds": 1772683200,
+        "closeUnixSeconds": 1773266400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/3/5 12:00:00",
+        "closeTimeRaw": "2026/3/11 17:00:00",
+        "openUnixSeconds": 1772730000,
+        "closeUnixSeconds": 1773266400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_checkin_time",
+        "name": "\u9650\u6642\u7C3D\u5230"
+      }
+    ],
+    "themeColor": "#41cfac"
+  },
+  "instructionId": "instru_checkin_v1d0_end",
+  "instructionTitle": "\u300C\u6E05\u6CE2\u5C07\u8D77\u7C3D\u5230\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6BCF\u65E5\u767B\u5165\u904A\u6232\u5373\u53EF\u9818\u53D6\u7C3D\u5230\u734E\u52F5\u3002\n\u00B7 \u5B8C\u62103\u65E5\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u734E\u52F5\u3010\u57FA\u790E\u5C0B\u8A2A\u6191\u8B49\u3011\u00D72\u548C\u3010\u5D4C\u6676\u7389\u3011\u00D7500\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

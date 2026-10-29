@@ -1,0 +1,134 @@
+{
+  "sourceItemId": "item_bottled_food_1",
+  "name": "\u67D1\u5BE6\u7F50\u982D",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+  "summary": "\u5E73\u50F9\u7684\u67D1\u5BE6\u7F50\u982D\uFF0C\u662F\u5728\u5916\u63A2\u7D22\u7684\u4EBA\u5011\u6700\u6613\u4FDD\u5B58\u7684\u7DAD\u4ED6\u547D\u88DC\u5145\u54C1\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u6BCF\u79D2\u56DE\u5FA9117\u9EDE\u751F\u547D\u503C\uFF0C\u6301\u7E8C6\u79D2\u3002",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_2",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u67D1\u5BE6\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_tech_filling",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u56FA\u9AD4\u704C\u88DD\u300D",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u7372\u5F97\u67D1\u5BE6\u5F8C\u89E3\u9396",
+    "\u89E3\u9396\u56FA\u9AD4\u704C\u88DD\u5DE5\u696D\u6280\u8853"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/filling_bottled_food_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_bottle",
+          "name": "\u7D2B\u6676\u8CEA\u74F6",
+          "quantity": 5,
+          "path": "/items/item_glass_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_2",
+          "name": "\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 5,
+          "path": "/items/item_plant_moss_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_food_1",
+          "name": "\u67D1\u5BE6\u7F50\u982D",
+          "quantity": 1,
+          "path": "/items/item_bottled_food_1",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "filling_powder_mc_1",
+          "name": "\u704C\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afilling_bottled_food_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_food_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_2",
+          "name": "\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 5,
+          "path": "/items/item_plant_moss_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_bottle",
+          "name": "\u7D2B\u6676\u8CEA\u74F6",
+          "quantity": 5,
+          "path": "/items/item_glass_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_food_1",
+          "name": "\u67D1\u5BE6\u7F50\u982D",
+          "quantity": 1,
+          "path": "/items/item_bottled_food_1",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_food_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

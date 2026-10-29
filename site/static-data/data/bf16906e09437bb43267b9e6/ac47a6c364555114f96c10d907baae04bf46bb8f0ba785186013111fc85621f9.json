@@ -1,0 +1,295 @@
+{
+  "sourceItemId": "item_plant_moss_2",
+  "name": "\u67D1\u5BE6",
+  "rarity": 1,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_moss_2.png?v=2ee43f136ec90181acf5a03597a42df5d4f405d6a5968541af19c61615d87ead",
+  "summary": "\u5854\u885B\u4E8C\u7684\u67D1\u6A58\u5C6C\u690D\u7269\u4E3B\u8981\u8D77\u6E90\u65BC\u5927\u9678\u4E2D\u90E8\u5730\u5340\uFF0C\u50B3\u64AD\u81F3\u6587\u660E\u74B0\u5E36\u7684\u54C1\u7A2E\u5927\u591A\u5177\u6709\u679C\u5BE6\u5927\uFF0C\u679C\u8089\u97CC\u6027\u9AD8\u7B49\u7279\u9EDE\u3002",
+  "description": "\u53EF\u5728\u91CE\u5916\u63A1\u96C6\u6216\u5728\u5DE5\u5EE0\u57F9\u80B2\u51FA\u7684\u679C\u5BE6\uFF0C\u7C89\u788E\u5F8C\u53EF\u7528\u65BC\u98DF\u54C1\u6216\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_map01_lv001_1",
+      "description": "\u6A1E\u7D10\u5340-\u5F85\u5EFA\u8A2D\u5340\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_plant",
+      "description": "\u751F\u614B\u7A2E\u690D\u5340\u9032\u884C\u7A2E\u690D\u57F9\u80B2",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_plant_moss_powder_2",
+      "name": "\u67D1\u5BE6\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_food_1",
+      "name": "\u67D1\u5BE6\u7F50\u982D",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_food_1.png?v=9d6c7e43cfb3f05c7cd4a175ba52c04ffdba5eb082d11a69a6e8467b7cb84f24",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_bottled_food_2",
+      "name": "\u512A\u8CEA\u67D1\u5BE6\u7F50\u982D",
+      "iconPath": "/media/wiki/catalogs/items/item_bottled_food_2.png?v=9e480c6fb10d648e22abd403a4ed1ed84693b32311454db3e0d74c4904b070fe",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/furnance_carbon_material_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_2",
+          "name": "\u67D1\u5BE6",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_2.png?v=2ee43f136ec90181acf5a03597a42df5d4f405d6a5968541af19c61615d87ead",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_carbon_material_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_plant_moss_powder_2_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_2",
+          "name": "\u67D1\u5BE6",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_2.png?v=2ee43f136ec90181acf5a03597a42df5d4f405d6a5968541af19c61615d87ead",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_2",
+          "name": "\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_moss_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_plant_moss_powder_2_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/seedcollector_plant_moss_2_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_2",
+          "name": "\u67D1\u5BE6",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_2.png?v=2ee43f136ec90181acf5a03597a42df5d4f405d6a5968541af19c61615d87ead",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_seed_2",
+          "name": "\u67D1\u5BE6\u7A2E\u5B50",
+          "quantity": 2,
+          "path": "/items/item_plant_moss_seed_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_seed_2.png?v=0d55ced80e470ec140c83866c944cdef61717761d214d8b225c2421098759447",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "seedcollector_1",
+          "name": "\u63A1\u7A2E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_seedcol_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aseedcollector_plant_moss_2_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_plant_moss_powder_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_2",
+          "name": "\u67D1\u5BE6",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_2.png?v=2ee43f136ec90181acf5a03597a42df5d4f405d6a5968541af19c61615d87ead",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_2",
+          "name": "\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_moss_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_plant_moss_powder_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/planter_plant_moss_2_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_seed_2",
+          "name": "\u67D1\u5BE6\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_seed_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_seed_2.png?v=0d55ced80e470ec140c83866c944cdef61717761d214d8b225c2421098759447",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_2",
+          "name": "\u67D1\u5BE6",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_2.png?v=2ee43f136ec90181acf5a03597a42df5d4f405d6a5968541af19c61615d87ead",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "planter_1",
+          "name": "\u7A2E\u690D\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_planter_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aplanter_plant_moss_2_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_moss_2/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_seed_2",
+          "name": "\u67D1\u5BE6\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_seed_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_seed_2.png?v=0d55ced80e470ec140c83866c944cdef61717761d214d8b225c2421098759447",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_moss_2",
+          "name": "\u67D1\u5BE6\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_moss_2"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

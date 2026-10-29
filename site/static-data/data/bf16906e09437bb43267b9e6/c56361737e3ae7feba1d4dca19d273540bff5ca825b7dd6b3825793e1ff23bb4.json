@@ -1,0 +1,86 @@
+{
+  "sourceItemId": "item_Ingredient_paprika_1",
+  "name": "\u8FA3\u6912\u7C89",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_Ingredient_paprika_1.png?v=68d5d17db4cfdbb3a2040e64e72790d7f3914e49177e86f6ac9e807f9517ae51",
+  "summary": "\u7531\u82E6\u8449\u6912\u52A0\u5DE5\u5F97\u4F86\u7684\u8FA3\u6912\u7C89\uFF0C\u54EA\u6015\u8DDD\u96E2\u5F88\u9060\uFF0C\u805E\u5230\u90FD\u6703\u8B93\u4EBA\u60F3\u6253\u5674\u568F\u3002",
+  "description": "\u900F\u904E\u5DE5\u5EE0\u52A0\u5DE5\u7372\u5F97\u7684\u7522\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_food_box_crop_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/grinder_Ingredient_paprika_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_2",
+          "name": "\u82E6\u8449\u6912",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_2.png?v=1e3cf160955a0dd0047765d725fbc301da53617c965a19eb45587a13061d2f7f",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_Ingredient_paprika_1",
+          "name": "\u8FA3\u6912\u7C89",
+          "quantity": 3,
+          "path": "/items/item_Ingredient_paprika_1",
+          "iconPath": "/media/wiki/catalogs/items/item_Ingredient_paprika_1.png?v=68d5d17db4cfdbb3a2040e64e72790d7f3914e49177e86f6ac9e807f9517ae51",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_Ingredient_paprika_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

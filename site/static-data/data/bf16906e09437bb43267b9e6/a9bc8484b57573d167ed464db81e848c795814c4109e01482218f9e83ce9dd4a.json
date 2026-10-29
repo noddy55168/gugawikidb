@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:hdwk_plant_mushroom_1_1_ap",
+    "name": "\u8F15\u7D05\u67F1\u72C0\u83CC",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_plant_mushroom_1_1.png?v=a4d2bf3bb8d5748268c3cca11f0d84d5d4dc63c7eef5a8fbfec4296158688db5",
+    "sortOrder": 304,
+    "path": "/industry/recipes/manual%3Ahdwk_plant_mushroom_1_1_ap",
+    "outputSummary": "\u8F15\u7D05\u67F1\u72C0\u83CC \u00D7 3",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_mushroom_1_3",
+      "name": "\u91CD\u7D05\u67F1\u72C0\u83CC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_mushroom_1_3.png?v=22af2b50610df09031e6b4c4b56ea498b1acbc51e089a931af74bed13590f331",
+      "link": "/items/item_plant_mushroom_1_3"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_ap",
+      "name": "\u7406\u667A",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_ap.png?v=a4d9489008dc19a9119d8e1d69e76c4808fef96cd9c85358ec009d940585363e",
+      "link": null
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_mushroom_1_1",
+      "name": "\u8F15\u7D05\u67F1\u72C0\u83CC",
+      "quantity": 3,
+      "iconPath": "/media/wiki/industry/item_plant_mushroom_1_1.png?v=a4d2bf3bb8d5748268c3cca11f0d84d5d4dc63c7eef5a8fbfec4296158688db5",
+      "link": "/items/item_plant_mushroom_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_convert_20",
+      "name": "\u8F49\u5316\u6280\u8853\u518A\u03B1",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_formula_convert_20.png?v=0c336a4f46d3b3a5c04df76ff85639ffc1a578de8e36509301f282f755b20ed7",
+      "link": null
+    }
+  ],
+  "devices": []
+}

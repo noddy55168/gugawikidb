@@ -1,0 +1,118 @@
+{
+  "activity": {
+    "sourceActivityId": "CharacterGuide_wolfgd",
+    "name": "\u96E2\u7FA4\u4E4B\u72FC",
+    "description": "\u72FC\u7FA4\u6C0F\u65CF\u5167\u90E8\u51FA\u73FE\u4E86\u53DB\u5F92\uFF0C\u70BA\u4E86\u8ABF\u67E5\u5176\u4E2D\u5167\u5E55\uFF0C\u72FC\u885B\u5728\u56DB\u865F\u8C37\u5730\u5C55\u958B\u4E86\u884C\u52D5\u3002",
+    "sourceType": 10,
+    "sortOrder": 3000,
+    "detailCoverage": "basic",
+    "timeId": "time_CharacterGuide_wolfgd",
+    "tabImageId": "bg_activity_tab_char_guide_wolfgd",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "2026/3/12 6:00:00",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": 1773266400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "2026/3/12 6:00:00",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": 1773266400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "2026/3/11 17:00:00",
+        "openUnixSeconds": 1765270800,
+        "closeUnixSeconds": 1773266400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_story",
+        "name": "\u6558\u4E8B\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#ff2d4b"
+  },
+  "instructionId": "CharacterGuide_wolfgd",
+  "instructionTitle": "\u300C\u96E2\u7FA4\u4E4B\u72FC\u300D\u4EFB\u52D9\u8AAA\u660E",
+  "instructionContent": "- \u63A5\u53D6\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6IV - \u56DB\u65B9\u6703\u8B70\n\u00B7 \u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u226539\u7D1A\n\n- \u4EFB\u52D9\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u5B8C\u6210\u652F\u7DDA\u4EFB\u52D9\u300C\u96E2\u7FA4\u4E4B\u72FC\u300D\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "CharacterGuide_wolfgd_unlock1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6IV - \u56DB\u65B9\u6703\u8B70",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    },
+    {
+      "sourceConditionId": "CharacterGuide_wolfgd_unlock2",
+      "sourceType": 5023,
+      "compareOperator": 3,
+      "target": 39,
+      "description": "\u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u9054\u523039\u7D1A",
+      "tips": "\u76EE\u524D\u6B0A\u9650\u7B49\u968E%d\u7D1A\uFF08\u53EF\u6839\u64DA\u884C\u52D5\u624B\u518A\u6307\u5F15\u5B8C\u6210\u5404\u9805\u4EFB\u52D9\uFF0C\u7372\u5F97\u884C\u52D5\u8CC7\u6B77\uFF0C\u63D0\u5347\u6B0A\u9650\u7B49\u968E\uFF09"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "CharacterGuide_wolfgd_reward",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_expcard_stage1_high",
+          "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_char_skill_level_1_6",
+          "name": "\u5354\u8B70\u7A1C\u67F1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

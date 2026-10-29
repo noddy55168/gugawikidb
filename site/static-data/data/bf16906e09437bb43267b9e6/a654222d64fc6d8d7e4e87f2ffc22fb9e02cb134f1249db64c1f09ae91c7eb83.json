@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_soil_moss_2",
+    "name": "\u67D1\u5BE6\u7530\u584A",
+    "kind": "building",
+    "category": "\u7A2E\u690D\u8ABF\u914D",
+    "iconPath": "/media/wiki/industry/item_port_soil_moss_2.png?v=e7bb9db59e955d9df70e32fc04dec8ab3eb2aa6df7cf5a6378d60d9d577c047d",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_port_soil_moss_2",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u6F86\u6C34\u3001\u6210\u9577\u3001\u6536\u7A6B\u67D1\u5BE6\u3002",
+  "sourceId": "soil_moss_2",
+  "needPower": false,
+  "width": 4,
+  "depth": 4,
+  "height": 1,
+  "recipes": []
+}

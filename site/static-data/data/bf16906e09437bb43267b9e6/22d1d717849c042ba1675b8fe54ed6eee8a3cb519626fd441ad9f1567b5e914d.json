@@ -1,0 +1,76 @@
+{
+  "sourceItemId": "item_dog_hsmob_corp_1",
+  "name": "\u7530\u5BB6\u7279\u8272\u721B\u8089\u9EB5",
+  "rarity": 4,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_dog_hsmob_corp_1.png?v=4d377c265ae8175950101638040d2ad504b7866c7d745ce3bad9a660d7c3206c",
+  "summary": "\u6DFB\u52A0\u5275\u65B0\u5143\u7D20\u7684\u53E4\u6CD5\u721B\u8089\u9EB5\uFF0C\u4F50\u4EE5\u6B66\u9675\u7576\u5730\u65B0\u9BAE\u98DF\u6750\uFF0C\u5C07\u61F7\u5FF5\u7684\u5473\u9053\u4EE5\u7C21\u7D04\u7684\u65B9\u5F0F\u5448\u73FE\u3002\u70F9\u904E\u53BB\u4E4B\u5473\uFF0C\u5690\u672A\u4F86\u4E4B\u9BAE\uFF01",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u56DE\u5FA9\u5168\u968A\u5E79\u54E1\u751F\u547D\u503C\u7684\u6230\u8853\u7269\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6230\u8853\u7269\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u5168\u968A\u5E79\u54E1\u7ACB\u523B\u56DE\u5FA98%\u6700\u5927\u751F\u547D\u503C\uFF0C\u518D\u56DE\u5FA9592\u9EDE\u751F\u547D\u503C\u3002",
+  "obtainHint": "\u5B8C\u6210\u4EFB\u52D9\u5F8C\u7372\u5F97\u5C0D\u61C9\u914D\u65B9\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u4EFB\u52D9\u5831\u916C"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_dog_hsmob_corp_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 2,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 2,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 2,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_dog_hsmob_corp_1",
+          "name": "\u7530\u5BB6\u7279\u8272\u721B\u8089\u9EB5",
+          "quantity": 1,
+          "path": "/items/item_dog_hsmob_corp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_dog_hsmob_corp_1.png?v=4d377c265ae8175950101638040d2ad504b7866c7d745ce3bad9a660d7c3206c",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_dog_hsmob_corp_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

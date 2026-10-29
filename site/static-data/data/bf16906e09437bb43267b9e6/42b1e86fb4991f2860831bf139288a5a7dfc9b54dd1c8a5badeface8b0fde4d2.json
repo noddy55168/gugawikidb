@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_checkin_halfann",
+    "name": "\u76F8\u4F34\u8D08\u79AE",
+    "description": "\u9577\u8DEF\u6F2B\u6F2B\uFF0C\u6211\u5011\u4ECD\u9700\u76F8\u4F34\u524D\u884C\u3002",
+    "sourceType": 2,
+    "sortOrder": 8315,
+    "detailCoverage": "basic",
+    "timeId": "time_special_1_4_1",
+    "tabImageId": "bg_activity_tab_sign_important",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "2026/8/9 12:00:00",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": 1786248000
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "2026/8/9 12:00:00",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": 1786248000
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/7/15 18:00:00",
+        "closeTimeRaw": "2026/8/9 12:00:00",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": 1786294800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_pristine_access",
+        "name": "\u8D08\u79AE\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#f2e60c"
+  },
+  "instructionId": "instru_checkin_checkin_halfann",
+  "instructionTitle": "\u300C\u76F8\u4F34\u8D08\u79AE\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6BCF\u65E5\u767B\u5165\u904A\u6232\u5373\u53EF\u9818\u53D6\u7C3D\u5230\u734E\u52F5\u3002\n\u00B7 \u5B8C\u62103\u65E5\u7C3D\u5230\u7D2F\u8A08\u53EF\u9818\u53D6\u3010\u5D4C\u6676\u7389\u3011\u00D73000\u3001\u3010\u57FA\u790E\u5C0B\u8A2A\u6191\u8B49\u3011\u00D75\u548C6\u661F\u6B66\u5668\u3010\u9059\u671B\uFF08\u55AE\u624B\u528D\uFF09\u3011\u734E\u52F5\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

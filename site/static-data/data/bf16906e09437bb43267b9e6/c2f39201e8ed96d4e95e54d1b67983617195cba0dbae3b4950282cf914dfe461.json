@@ -1,0 +1,128 @@
+{
+  "sourceItemId": "item_corp_cabbage_1",
+  "name": "\u9752\u83DC",
+  "rarity": 3,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_corp_cabbage_1.png?v=c4fc34ec011c26a58d65aa50f9e68687cd39afd199c5b2f918f94d25342e4d3e",
+  "summary": "\u5E38\u898B\u7684\u7DA0\u8272\u852C\u83DC\uFF0C\u7D93\u904E\u591A\u5E74\u512A\u9078\u57F9\u80B2\u5F8C\u5DF2\u8B8A\u5F97\u5341\u5206\u8010\u5BD2\u3002",
+  "description": "\u900F\u904E\u7CBE\u7D30\u7A2E\u690D\u624D\u80FD\u57F9\u80B2\u7684\u4F5C\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_food_box_crop_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/seedcollector_plant_cabbage_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_cabbage_1",
+          "name": "\u9752\u83DC",
+          "quantity": 1,
+          "path": "/items/item_corp_cabbage_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_cabbage_1.png?v=c4fc34ec011c26a58d65aa50f9e68687cd39afd199c5b2f918f94d25342e4d3e",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_cabbage_seed_1",
+          "name": "\u9752\u83DC\u7A2E\u5B50",
+          "quantity": 2,
+          "path": "/items/item_corp_cabbage_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_cabbage_seed_1.png?v=3b1af018be18b4f05945e77237a1b0868b76c50e500d9a7ed5a9397ef7ce3cd3",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "seedcollector_1",
+          "name": "\u63A1\u7A2E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_seedcol_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aseedcollector_plant_cabbage_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_corp_cabbage_1/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_cabbage_seed_1",
+          "name": "\u9752\u83DC\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_corp_cabbage_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_cabbage_seed_1.png?v=3b1af018be18b4f05945e77237a1b0868b76c50e500d9a7ed5a9397ef7ce3cd3",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_corp_cabbage_1",
+          "name": "\u9752\u83DC\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_corp_cabbage_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

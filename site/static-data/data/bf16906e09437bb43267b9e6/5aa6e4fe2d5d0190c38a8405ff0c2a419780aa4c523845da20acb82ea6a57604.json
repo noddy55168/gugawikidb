@@ -1,0 +1,139 @@
+{
+  "sourceItemId": "item_ranch_fodder_2",
+  "name": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599",
+  "rarity": 4,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_ranch_fodder_2.png?v=5d553d35d30deb2c75ad0f4520b9b79ff46ab7b690025320701764f4a779eae4",
+  "summary": "\u300C\u597D\u4E86\uFF0C\u9019\u500B\u6539\u826F\u54C1\u7A2E\u7260\u5011\u7E3D\u4E0D\u6703\u5ACC\u96E3\u5403\u4E86\u5427\uFF1F\u300D\n\u300C\u6709\u610F\u601D\uFF0C\u6211\u4E5F\u4F86\u5690\u5169\u53E3\u3002\u300D",
+  "description": "\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u52A0\u5DE5\u5F8C\u7684\u7522\u7269\uFF0C\u53EF\u5728\u7DE3\u7DE3\u838A\u5F8C\u9662\u9935\u98DF\u52D5\u7269\uFF0C\u540C\u6642\u589E\u52A0\u98FD\u98DF\u5EA6\u548C\u6B61\u6B23\u5EA6\u3002\u52D5\u7269\u98FD\u98DF\u5EA6\u548C\u6B61\u6B23\u5EA6\u5747\u4E0D\u70BA\u7A7A\u6642\uFF0C\u53EF\u6301\u7E8C\u7522\u51FA\u9AD8\u7D1A\u7522\u7269\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/pool_ranch_fodder_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_byproduct_bean_moss_1",
+          "name": "\u7403\u8C46\u6BBC\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_byproduct_bean_moss_1",
+          "iconPath": "/media/wiki/catalogs/items/item_byproduct_bean_moss_1.png?v=792ce64f1ab3c36560827e89c2ff9f93d5b5c94e5d07766b9b9fc7eca710451f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_ranch_fodder_2",
+          "name": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599",
+          "quantity": 1,
+          "path": "/items/item_ranch_fodder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_ranch_fodder_2.png?v=5d553d35d30deb2c75ad0f4520b9b79ff46ab7b690025320701764f4a779eae4",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_ranch_fodder_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_ranch_fodder_2_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_byproduct_bean_moss_1",
+          "name": "\u7403\u8C46\u6BBC\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_byproduct_bean_moss_1",
+          "iconPath": "/media/wiki/catalogs/items/item_byproduct_bean_moss_1.png?v=792ce64f1ab3c36560827e89c2ff9f93d5b5c94e5d07766b9b9fc7eca710451f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_ranch_fodder_2",
+          "name": "\u96D9\u6548\u98FD\u98DF\u98FC\u6599",
+          "quantity": 1,
+          "path": "/items/item_ranch_fodder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_ranch_fodder_2.png?v=5d553d35d30deb2c75ad0f4520b9b79ff46ab7b690025320701764f4a779eae4",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_ranch_fodder_2_2"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

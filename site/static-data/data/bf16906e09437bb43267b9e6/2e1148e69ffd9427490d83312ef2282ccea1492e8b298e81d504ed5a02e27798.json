@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:item_device_balloon_recycle_3",
+    "name": "\u6D6E\u7A7A\u56DE\u6536\u5668III",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_device_balloon_recycle_3.png?v=5d0b42ea551dc9e778deae09e39da11beb8e16731c91c51e24b07f0d8596d202",
+    "sortOrder": 206,
+    "path": "/industry/recipes/manual%3Aitem_device_balloon_recycle_3",
+    "outputSummary": "\u6D6E\u7A7A\u56DE\u6536\u5668III \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_device_balloon_recycle_2",
+      "name": "\u6D6E\u7A7A\u56DE\u6536\u5668II",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_device_balloon_recycle_2.png?v=98894af9ffabd1ae88057cfd75edf40a5f9bad40a39cdeb389bf0bc60d7bc288",
+      "link": "/items/item_device_balloon_recycle_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_device_balloon_recycle_3",
+      "name": "\u6D6E\u7A7A\u56DE\u6536\u5668III",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_device_balloon_recycle_3.png?v=5d0b42ea551dc9e778deae09e39da11beb8e16731c91c51e24b07f0d8596d202",
+      "link": "/items/item_device_balloon_recycle_3"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_balloon_recycle_3",
+      "name": "\u6D6E\u7A7A\u56DE\u6536\u5668III\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_device_balloon_recycle_3.png?v=5d0b42ea551dc9e778deae09e39da11beb8e16731c91c51e24b07f0d8596d202",
+      "link": null
+    }
+  ],
+  "devices": []
+}

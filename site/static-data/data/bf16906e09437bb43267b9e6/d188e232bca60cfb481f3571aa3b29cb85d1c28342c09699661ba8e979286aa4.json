@@ -1,0 +1,563 @@
+{
+  "sourceItemId": "item_drop_dog_1",
+  "name": "\u7378\u8089",
+  "rarity": 1,
+  "category": "\u63A1\u96C6\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+  "summary": "\u65B0\u9BAE\u7684\u7378\u8089\uFF0C\u8DB3\u5920\u65B0\u9BAE\u3002",
+  "description": "\u64CA\u6557\u91CE\u751F\u7259\u7378\u3001\u78BE\u9AA8\u6495\u88C2\u7259\u7378\u7684\u6389\u843D\u7269\uFF0C\u53EF\u7528\u65BC\u7CBE\u88FD\u98DF\u85E5\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u4E2D\u64CA\u6557\u6575\u4EBA\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_eny_0050_hound",
+      "description": "\u64CA\u6557\u78BE\u9AA8\u6495\u88C2\u7259\u7378\u6709\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_jlebm_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/handwork_bottled_moss_2_animal_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_2",
+          "name": "\u67D1\u5BE6\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_moss_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_2.png?v=b721f44bd9bbdc26d7d070f94710da3fcfb0905141fc42a5249bef159f2ce617",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 2,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_bottle",
+          "name": "\u7D2B\u6676\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_glass_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_bottled_moss_2_animal_1",
+          "name": "\u602A\u5473\u8089\u91AC",
+          "quantity": 1,
+          "path": "/items/item_bottled_moss_2_animal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_bottled_moss_2_animal_1.png?v=c8ff004b5a973b2084d98d0bc830fc47a3f7f0d29b765b58590ccae2d916af7a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_bottled_moss_2_animal_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_corp1_animal_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 4,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp1_animal_1",
+          "name": "\u8C37\u5730\u9921\u9905",
+          "quantity": 1,
+          "path": "/items/item_corp1_animal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp1_animal_1.png?v=0a81af82f27ba53ab9599d54dcd2b114e442d6459feced20c489c7e16325efe1",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp1_animal_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_corp2_animal_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_2",
+          "name": "\u82E6\u8449\u6912",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_2.png?v=1e3cf160955a0dd0047765d725fbc301da53617c965a19eb45587a13061d2f7f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 4,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp2_animal_1",
+          "name": "\u8FA3\u7092\u8089\u4E01",
+          "quantity": 1,
+          "path": "/items/item_corp2_animal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp2_animal_1.png?v=55d5fcd55c9a2164fc66c0c084063ec01dd666d65ba3f6a3dee91cee052410c6",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp2_animal_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_corp3_animal_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_3",
+          "name": "\u74CA\u8449\u8518",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_3.png?v=8db3ba1866255f35d711904d751a9cb6819dead719137045e5b04e1755552ee5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 4,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp3_animal_1",
+          "name": "\u6E05\u71C9\u7378\u6392\u8518\u9B1A\u6E6F",
+          "quantity": 1,
+          "path": "/items/item_corp3_animal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp3_animal_1.png?v=ece495e3654517a23f6c6aae8356b75b77a66e3ddeb1372ed26e099c8de5bf45",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp3_animal_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_corp4_animal_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_4",
+          "name": "\u91D1\u77F3\u7A3B",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_4",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 4,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp4_animal_1",
+          "name": "\u6B66\u9675\u7092\u98EF",
+          "quantity": 1,
+          "path": "/items/item_corp4_animal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp4_animal_1.png?v=496ed277ab718632ebcfaf4f2e73916419b595e6e40c57add8f2df466777d891",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp4_animal_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_corp4_spc/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgslime_1",
+          "name": "\u5805\u97CC\u7684\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgslime_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_4",
+          "name": "\u91D1\u77F3\u7A3B",
+          "quantity": 2,
+          "path": "/items/item_plant_sp_4",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp4_spc",
+          "name": "\u7F85\u5FB7\u5CF6\u7279\u88FD\u53E3\u7CE7",
+          "quantity": 1,
+          "path": "/items/item_corp4_spc",
+          "iconPath": "/media/wiki/catalogs/items/item_corp4_spc.png?v=ac140542470b3a2a1a0d753a2df3a6bcfab46cfb92c3caff27da996f71247568",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_corp4_spc"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_dog_1_slimeml_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_slimeml_1",
+          "name": "\u87F2\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_slimeml_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_dog_1_slimeml_1_1",
+          "name": "\u71C9\u8089\u6703\u8B70",
+          "quantity": 1,
+          "path": "/items/item_dog_1_slimeml_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_dog_1_slimeml_1_1.png?v=045f1a8ed6b88a5b13434cc0c2bd95d6baffed9d7887c740d41a27f613e3e90e",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_dog_1_slimeml_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_dog_hsmob_corp_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 2,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 2,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 2,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_dog_hsmob_corp_1",
+          "name": "\u7530\u5BB6\u7279\u8272\u721B\u8089\u9EB5",
+          "quantity": 1,
+          "path": "/items/item_dog_hsmob_corp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_dog_hsmob_corp_1.png?v=4d377c265ae8175950101638040d2ad504b7866c7d745ce3bad9a660d7c3206c",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_dog_hsmob_corp_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_hsmob_1_dog_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 1,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_3",
+          "name": "\u74CA\u8449\u8518",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_3.png?v=8db3ba1866255f35d711904d751a9cb6819dead719137045e5b04e1755552ee5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_hsmob_1_dog_1_1",
+          "name": "\u7AF9\u7B4D\u7092\u8089",
+          "quantity": 1,
+          "path": "/items/item_hsmob_1_dog_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_hsmob_1_dog_1_1.png?v=13d426fda94f16635877ab2b166822bed070e0306d38c00fdee516da6a9a62c7",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_hsmob_1_dog_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_lbmob_1_dog_1_moss_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_lbmob_1",
+          "name": "\u8349\u7C7D\u4E7E\u7C89",
+          "quantity": 1,
+          "path": "/items/item_drop_lbmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_lbmob_1.png?v=fef01c9a46a227dc6fa1e2af05ab8ee171aac1c4117b7bcc7d9f85327eab7f7f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_1",
+          "name": "\u854E\u82B1\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_lbmob_1_dog_1_moss_1_1",
+          "name": "\u585E\u4EC0\u5361\u98A8\u8089\u6392",
+          "quantity": 1,
+          "path": "/items/item_lbmob_1_dog_1_moss_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_lbmob_1_dog_1_moss_1_1.png?v=71d6da5e6faccd7638f901bf83450a5bb32620221d0f681edf54f87d71e643cf",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_lbmob_1_dog_1_moss_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_lbshield_1_slimeml_1_dog_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_lbshield_1",
+          "name": "\u82E6\u6F80\u9EA5\u7C89",
+          "quantity": 1,
+          "path": "/items/item_drop_lbshield_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_lbshield_1.png?v=3cc43850821600fbd53969e142a5de73abc881f2f1bdd5da4195f002de3901ba",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_slimeml_1",
+          "name": "\u87F2\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_slimeml_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_slimeml_1.png?v=210eaf8b29f44387fd44de06296711c4e4e76e0f142b48bd979bee5c89e7c6bc",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_lbshield_1_slimeml_1_dog_1_1",
+          "name": "\u7D04\u7FF0\u8001\u7239\u6F22\u5821",
+          "quantity": 1,
+          "path": "/items/item_lbshield_1_slimeml_1_dog_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_lbshield_1_slimeml_1_dog_1_1.png?v=9aa4571c0848ad33d68b9d16439335e7d5807214baea0a7a417fef2566b0f5f5",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_lbshield_1_slimeml_1_dog_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

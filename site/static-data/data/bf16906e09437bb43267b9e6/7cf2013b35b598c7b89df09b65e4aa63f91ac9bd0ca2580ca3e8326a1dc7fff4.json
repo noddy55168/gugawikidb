@@ -1,0 +1,76 @@
+{
+  "sourceItemId": "item_agrange_1_lbshamman_bottled_1",
+  "name": "\u7C21\u6613\u93AE\u75DB\u85E5\u818F",
+  "rarity": 3,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_agrange_1_lbshamman_bottled_1.png?v=f57acda0b88b2786c2f9026feacbc8a5de796abaeeaa26fe83616e887e96890c",
+  "summary": "\u6839\u64DA\u5361\u8CC8\u63D0\u4F9B\u7684\u79D8\u65B9\u88FD\u4F5C\u7684\u93AE\u75DB\u85E5\u818F\uFF0C\u5728\u4ED6\u7684\u5BB6\u9109\u53D7\u5230\u8A31\u591A\u91CD\u9AD4\u529B\u52DE\u52D5\u8005\u5C45\u6C11\u7684\u9752\u775E\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u53D7\u5230\u6240\u6709\u985E\u578B\u7684\u50B7\u5BB3\u964D\u4F4E12%\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u7C21\u88FD\u624B\u518A\u7372\u5F97\u5C0D\u61C9\u7269\u54C1\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_agrange_1_lbshamman_bottled_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agrange_1",
+          "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agrange_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_lbshamman_1",
+          "name": "\u8EDF\u9AA8\u788E\u5C51",
+          "quantity": 1,
+          "path": "/items/item_drop_lbshamman_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_lbshamman_1.png?v=b04db58770a408bd2b6d045be464bf9ee17ab188876cb6285e4b6446149c3f64",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_bottle",
+          "name": "\u7D2B\u6676\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_glass_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_agrange_1_lbshamman_bottled_1",
+          "name": "\u7C21\u6613\u93AE\u75DB\u85E5\u818F",
+          "quantity": 1,
+          "path": "/items/item_agrange_1_lbshamman_bottled_1",
+          "iconPath": "/media/wiki/catalogs/items/item_agrange_1_lbshamman_bottled_1.png?v=f57acda0b88b2786c2f9026feacbc8a5de796abaeeaa26fe83616e887e96890c",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_agrange_1_lbshamman_bottled_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_log_hongs_bus_source",
+    "name": "\u5009\u5EAB\u5B58\u53D6\u7DDA\u6E90\u6A01",
+    "kind": "building",
+    "category": "\u5009\u5132\u5B58\u53D6",
+    "iconPath": "/media/wiki/industry/item_port_log_hongs_bus_source.png?v=d767a6243a001d30e1466569db03ba1825efbf6684f45abafb27e665947b913f",
+    "sortOrder": 6,
+    "path": "/industry/devices/wiki_item_port_log_hongs_bus_source",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u4EE5\u5728\u96C6\u6210\u6838\u5FC3\u5340\u57DF\u64FA\u653E\u5009\u5EAB\u5B58\u53D6\u7DDA\u6E90\u6A01\u3002\n\u5009\u5EAB\u5B58\u53D6\u7DDA\u57FA\u6BB5\u548C\u5009\u5EAB\u5B58\u53D6\u7DDA\u6E90\u6A01\u6216\u5176\u4ED6\u751F\u6548\u7684\u5009\u5EAB\u5B58\u53D6\u7DDA\u57FA\u6BB5\u76F8\u9023\u5F8C\uFF0C\u53EF\u8CBC\u9760\u5176\u64FA\u653E\u5009\u5EAB\u5B58\u8CA8\u53E3\u548C\u5009\u5EAB\u53D6\u8CA8\u53E3\u3002",
+  "sourceId": "log_hongs_bus_source",
+  "needPower": false,
+  "width": 4,
+  "depth": 4,
+  "height": 2,
+  "recipes": []
+}

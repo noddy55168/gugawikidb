@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:travel_pole_1",
+    "name": "\u6ED1\u7D22\u67B6",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_travel_pole_1.png?v=b8482ebfc3d11fceb139093466c3d93c4748d591e14947332d58ecc5fa143909",
+    "sortOrder": 20,
+    "path": "/industry/recipes/hub%3Atravel_pole_1",
+    "outputSummary": "\u6ED1\u7D22\u67B6 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_travel_pole_1",
+      "name": "\u6ED1\u7D22\u67B6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_travel_pole_1.png?v=b8482ebfc3d11fceb139093466c3d93c4748d591e14947332d58ecc5fa143909",
+      "link": null
+    }
+  ],
+  "devices": []
+}

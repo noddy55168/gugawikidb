@@ -1,0 +1,74 @@
+{
+  "sourceItemId": "item_corp3_animal_1",
+  "name": "\u6E05\u71C9\u7378\u6392\u8518\u9B1A\u6E6F",
+  "rarity": 5,
+  "category": "\u53EF\u7528\u9053\u5177",
+  "iconPath": "/media/wiki/catalogs/items/item_corp3_animal_1.png?v=ece495e3654517a23f6c6aae8356b75b77a66e3ddeb1372ed26e099c8de5bf45",
+  "summary": "\u4EE5\u74CA\u8449\u8518\u9B1A\u3001\u7378\u6392\u53CA\u591A\u7A2E\u6750\u6599\u71C9\u716E\u800C\u6210\u7684\u85E5\u81B3\u3002\u6B66\u9675\u79CB\u51AC\u5E38\u898B\u83DC\u991A\u3002\u5927\u96EA\u7D1B\u98DB\u6642\uFF0C\u4E00\u7897\u9BAE\u7F8E\u8089\u6E6F\u8DB3\u4EE5\u6696\u8EAB\u6696\u5FC3\u3002",
+  "description": "\u4F7F\u7528\u5F8C\u53EF\u4EE5\u63D0\u5347\u5E79\u54E1\u6230\u9B25\u6548\u679C\u7684\u6D88\u8017\u54C1\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6D88\u8017\u54C1",
+  "useEffect": "\u4F7F\u7528\u5F8C\uFF0C\u589E\u52A0180\u9EDE\u653B\u64CA\u529B\uFF0C\u589E\u52A011%\u66B4\u64CA\u7387\uFF0C\u6301\u7E8C300\u79D2\u3002",
+  "obtainHint": "\u7C21\u88FD\u624B\u518A\u4E2D\u89E3\u9396\u5C0D\u61C9\u914D\u65B9\u5F8C\u53EF\u88FD\u9020\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_plant_sp_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u74CA\u8449\u8518\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u6B66\u9675\u57CE-\u5BE6\u9A57\u4F5C\u7269\u6E2C\u8A66\u5340\u7B49\u5730\u63A1\u96C6\u74CA\u8449\u8518",
+    "\u6536\u96C6\u8DB3\u5920\u6578\u91CF\u7684\u74CA\u8449\u8518\u4EE5\u89E3\u9396\u914D\u65B9"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/handwork_corp3_animal_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_3",
+          "name": "\u74CA\u8449\u8518",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_3.png?v=8db3ba1866255f35d711904d751a9cb6819dead719137045e5b04e1755552ee5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 4,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp3_animal_1",
+          "name": "\u6E05\u71C9\u7378\u6392\u8518\u9B1A\u6E6F",
+          "quantity": 1,
+          "path": "/items/item_corp3_animal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp3_animal_1.png?v=ece495e3654517a23f6c6aae8356b75b77a66e3ddeb1372ed26e099c8de5bf45",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp3_animal_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "bound"
+}

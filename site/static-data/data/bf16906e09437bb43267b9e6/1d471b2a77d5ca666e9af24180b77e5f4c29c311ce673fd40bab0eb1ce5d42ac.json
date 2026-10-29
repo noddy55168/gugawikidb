@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_power_diffuser_2",
+    "name": "\u606F\u58E4\u4F9B\u96FB\u6A01",
+    "kind": "building",
+    "category": "\u96FB\u529B\u4F9B\u61C9",
+    "iconPath": "/media/wiki/industry/item_port_power_diffuser_2.png?v=9827435f1fbed175a6c0a6f59176c3f142529c575d00eaa415c020dafcc2135e",
+    "sortOrder": 2,
+    "path": "/industry/devices/wiki_item_port_power_diffuser_2",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u606F\u58E4\u4F9B\u96FB\u6A01\u662F\u6B66\u9675\u5730\u5340\u7279\u6709\u7684\u8A2D\u5099\uFF0C\u5728\u4F9B\u96FB\u6A01\u539F\u6709\u7684\u7BC4\u570D\u4F9B\u96FB\u8207\u77ED\u8DDD\u96E2\u96FB\u529B\u50B3\u8F38\u529F\u80FD\u57FA\u790E\u4E0A\uFF0C\u53EF\u81EA\u52D5\u9023\u63A580m\u5167\u7684\u5354\u8B70\u6838\u5FC3\u8207\u606F\u58E4\u4E2D\u7E7C\u5668\u300130m\u5167\u7684\u606F\u58E4\u4F9B\u96FB\u6A01\u8207\u5176\u4ED6\u96FB\u529B\u8A2D\u5099\u3002\n\u5728\u96C6\u6210\u6838\u5FC3\u5340\u57DF\u5167\u53EF\u7121\u8996\u8DDD\u96E2\u9650\u5236\u81EA\u52D5\u9023\u63A5\u5354\u8B70\u6838\u5FC3\u3002\u53EF\u9032\u884C\u7BC4\u570D\u4F9B\u96FB\u8207\u77ED\u8DDD\u96E2\u96FB\u529B\u50B3\u8F38\u3002",
+  "sourceId": "power_diffuser_2",
+  "needPower": true,
+  "width": 2,
+  "depth": 2,
+  "height": 7,
+  "recipes": []
+}

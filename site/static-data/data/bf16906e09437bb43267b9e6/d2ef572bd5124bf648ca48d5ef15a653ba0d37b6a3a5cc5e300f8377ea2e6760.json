@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_microphone_1",
+    "name": "\u300C\u7DDE\u5E36\u4E4B\u8072\u300D\u9EA5\u514B\u98A8",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_microphone_1.png?v=6af3bddad2178ab69bc03c6a2ce1cc22e38b22063ad21986d906e36fb337e79f",
+    "sortOrder": 9,
+    "path": "/industry/devices/wiki_item_port_microphone_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "microphone_1",
+  "needPower": false,
+  "width": 1,
+  "depth": 1,
+  "height": 2,
+  "recipes": []
+}

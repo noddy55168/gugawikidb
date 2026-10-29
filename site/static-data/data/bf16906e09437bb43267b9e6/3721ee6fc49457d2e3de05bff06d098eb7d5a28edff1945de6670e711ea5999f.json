@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_travel_pole_1",
+    "name": "\u6ED1\u7D22\u67B6",
+    "kind": "building",
+    "category": "\u529F\u80FD\u8A2D\u5099",
+    "iconPath": "/media/wiki/industry/item_port_travel_pole_1.png?v=b8482ebfc3d11fceb139093466c3d93c4748d591e14947332d58ecc5fa143909",
+    "sortOrder": 3,
+    "path": "/industry/devices/wiki_item_port_travel_pole_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u6ED1\u7D22\u67B6\u7528\u65BC\u5728\u5169\u5730\u4E4B\u9593\u5FEB\u901F\u79FB\u52D5\uFF0C\u9760\u8FD1\u5373\u53EF\u4F7F\u7528\u3002\n\u53EF\u4EE5\u9078\u5B9A\u5176\u4ED6\u6ED1\u7D22\u67B6\u4F5C\u70BA\u76EE\u6A19\uFF0C\u5FEB\u901F\u524D\u5F80\u8A72\u5730\u9EDE\u3002",
+  "sourceId": "travel_pole_1",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 7,
+  "recipes": []
+}

@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:filling_bottled_ironenr_xiranite_lowpoly",
+    "name": "\u92FC\u8CEA\u74F6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+    "sortOrder": 42,
+    "path": "/industry/recipes/machine%3Afilling_bottled_ironenr_xiranite_lowpoly",
+    "outputSummary": "\u92FC\u8CEA\u74F6 \u00D7 1",
+    "deviceNames": [
+      "\u704C\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2\uFF08\u704C\u88DD\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_enr_bottle",
+      "name": "\u92FC\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+      "link": "/items/item_iron_enr_bottle"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_xiranite_lowpoly",
+      "name": "\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_lowpoly.png?v=2be5bfdd3abad3534e1ed6ec3b1c3c07859f2b9c86828ba8f4579400d64de8c0",
+      "link": "/items/item_liquid_xiranite_lowpoly"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_fbottle_ironenr_xiranite_lowpoly",
+      "name": "\u92FC\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_iron_enr_bottle_liquid.png?v=eefac8eb8c974aa9dc85be386282484a88a9c928ca793c5f36adc68b5db10252",
+      "link": "/items/item_fbottle_ironenr_xiranite_lowpoly"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_filling_pd_mc_1",
+      "name": "\u704C\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_filling_pd_mc_1.png?v=45b74bdfae4b744bd94bc624b5fc1b026472a17ea3e4dfa6b957d8544cac338f",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_filling_pd_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

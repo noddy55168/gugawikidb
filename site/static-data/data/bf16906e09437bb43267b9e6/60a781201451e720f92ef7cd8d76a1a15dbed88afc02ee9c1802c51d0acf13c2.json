@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:dismantler_xiranenr_grass_2_1",
+    "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6\u3001\u82BD\u91DD\u6EB6\u6DB2",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+    "sortOrder": 78,
+    "path": "/industry/recipes/machine%3Adismantler_xiranenr_grass_2_1",
+    "outputSummary": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6 \u00D7 1\u3001\u82BD\u91DD\u6EB6\u6DB2 \u00D7 5",
+    "deviceNames": [
+      "\u62C6\u89E3\u6A5F"
+    ]
+  },
+  "description": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_fbottle_xiranenr_grass_2",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+      "link": "/items/item_fbottle_xiranenr_grass_2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_enr_bottle",
+      "name": "\u5BE6\u9A57\u91CD\u606F\u58E4\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_enr_bottle.png?v=fb5774d03b9b7d7e19825389d965bba1a19edea36db0a54c82a2401c81c28b46",
+      "link": "/items/item_activity_xiranite_enr_bottle"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_plant_grass_2",
+      "name": "\u82BD\u91DD\u6EB6\u6DB2",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_liquid_plant_grass_2.png?v=ba7b7a3ae5d770d3f425f556e0f0509fc42adefa04e460167da58070dfdee377",
+      "link": "/items/item_liquid_plant_grass_2"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_dismantler_1",
+      "name": "\u62C6\u89E3\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_dismantler_1.png?v=e346a07da0b431494d74c4634a72539e92807d87da4ccc6e1b8a878126680f3d",
+      "sortOrder": 9,
+      "path": "/industry/devices/wiki_item_port_dismantler_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

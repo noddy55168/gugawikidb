@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:handwork_plant_grass_powder_1",
+    "name": "\u9326\u8349\u7C89\u672B",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+    "sortOrder": 64,
+    "path": "/industry/recipes/manual%3Ahandwork_plant_grass_powder_1",
+    "outputSummary": "\u9326\u8349\u7C89\u672B \u00D7 2",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_grass_1",
+      "name": "\u9326\u8349",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_grass_1.png?v=6f13be316f253a7e5df2fe943dd3931c826791ad08180421e42a5873c0bc8087",
+      "link": "/items/item_plant_grass_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_grass_powder_1",
+      "name": "\u9326\u8349\u7C89\u672B",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+      "link": "/items/item_plant_grass_powder_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_plant_grass_powder_1",
+      "name": "\u9326\u8349\u7C89\u672B\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_1.png?v=057cce0b9f4eb1acddbe6c1bfc23f5be05a3377af502bdfea41b0e4926387a7b",
+      "link": null
+    }
+  ],
+  "devices": []
+}

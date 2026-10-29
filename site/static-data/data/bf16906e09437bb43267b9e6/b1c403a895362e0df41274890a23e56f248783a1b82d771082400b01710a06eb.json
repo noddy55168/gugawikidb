@@ -1,0 +1,189 @@
+{
+  "sourceItemId": "item_equip_t4_suit_pulse_cryst01_hand_02",
+  "name": "\u8108\u885D\u5F0F\u8F15\u8B77\u624B",
+  "rarity": 5,
+  "category": "\u8B77\u624B",
+  "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_hand_02.png?v=91b7aead4c6c38539359e95a7be5eee9f9b007fd0dc762081e92720a9903e65d",
+  "description": "\u8A2D\u8A08\u65B0\u7A4E\u7684\u88DD\u5099\u3002\n\u5167\u5EFA\u4E86\u591A\u500B\u5FAE\u5C0F\u7684\u65BD\u8853\u55AE\u5143\uFF0C\u80FD\u6709\u6548\u5E6B\u52A9\u4F7F\u7528\u8005\u5728\u96FB\u6D41\u7684\u6D77\u6D0B\u4E2D\u6311\u9078\u51FA\u81EA\u5DF1\u6700\u60F3\u8981\u7684\u4E00\u7E37\u5149\u8F1D\u3002",
+  "lore": "\u672C\u88DD\u5099\u7531\u7D42\u672B\u5730\u5DE5\u696D\u81EA\u7814\uFF0C\u4F7F\u7528\u96C6\u6210\u5DE5\u696D\u7CFB\u7D71\u88FD\u9020\uFF0C\u80FD\u5920\u63D0\u9AD8\u4F7F\u7528\u8005\u7684\u4F5C\u6230\u80FD\u529B\u3002",
+  "minWearLevel": 70,
+  "suitId": "suit_pulse_cryst01",
+  "attributes": [
+    {
+      "slot": 0,
+      "name": "\u9632\u79A6\u529B",
+      "values": [
+        {
+          "stage": 0,
+          "value": 42,
+          "displayValue": "42"
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "\u610F\u5FD7",
+      "values": [
+        {
+          "stage": 0,
+          "value": 65,
+          "displayValue": "65"
+        },
+        {
+          "stage": 1,
+          "value": 71,
+          "displayValue": "71"
+        },
+        {
+          "stage": 2,
+          "value": 78,
+          "displayValue": "78"
+        },
+        {
+          "stage": 3,
+          "value": 84,
+          "displayValue": "84"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "\u529B\u91CF",
+      "values": [
+        {
+          "stage": 0,
+          "value": 43,
+          "displayValue": "43"
+        },
+        {
+          "stage": 1,
+          "value": 47,
+          "displayValue": "47"
+        },
+        {
+          "stage": 2,
+          "value": 51,
+          "displayValue": "51"
+        },
+        {
+          "stage": 3,
+          "value": 55,
+          "displayValue": "55"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "\u5BD2\u51B7\u548C\u96FB\u78C1\u50B7\u5BB3\u52A0\u6210",
+      "values": [
+        {
+          "stage": 0,
+          "value": 0.191667,
+          "displayValue": "19.2%"
+        },
+        {
+          "stage": 1,
+          "value": 0.210833,
+          "displayValue": "21.1%"
+        },
+        {
+          "stage": 2,
+          "value": 0.23,
+          "displayValue": "23.0%"
+        },
+        {
+          "stage": 3,
+          "value": 0.249167,
+          "displayValue": "24.9%"
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "requiredCount": 3,
+      "name": "\u8108\u885D\u5F0F",
+      "description": "3\u4EF6\u5957\u88DD\u6548\u679C\uFF1A\u88DD\u5099\u8005\u6E90\u77F3\u6280\u85DD\u5F37\u5EA6\u002B30\u3002\n\u7576\u88DD\u5099\u8005\u65BD\u52A0\u5C0E\u96FB\u5F8C\uFF0C\u96FB\u78C1\u50B7\u5BB3\u002B50%\uFF0C\u6301\u7E8C10\u79D2\uFF0C\u8A72\u6548\u679C\u7121\u6CD5\u758A\u52A0\uFF1B\u7576\u88DD\u5099\u8005\u65BD\u52A0\u51CD\u7D50\u5F8C\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B50%\uFF0C\u6301\u7E8C10\u79D2\uFF0C\u8A72\u6548\u679C\u7121\u6CD5\u758A\u52A0\u3002",
+      "bindingStatus": "bound"
+    }
+  ],
+  "suitEquipment": [
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_hand_01",
+      "name": "\u8108\u885D\u5F0F\u624B\u5957",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_hand_01.png?v=92ea6157aa56dc0cf4fb253257efb91db55624c657e75142dffe4eeb26a75724",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_hand_02",
+      "name": "\u8108\u885D\u5F0F\u8F15\u8B77\u624B",
+      "category": "\u8B77\u624B",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_hand_02.png?v=91b7aead4c6c38539359e95a7be5eee9f9b007fd0dc762081e92720a9903e65d",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_body_01",
+      "name": "\u8108\u885D\u5F0F\u5E72\u64FE\u670D",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_body_01.png?v=54090feb4c58c71a6fedacb558505e87b42eec3237d6e05052ae498f485ac5c1",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_body_02",
+      "name": "\u8108\u885D\u5F0F\u8F15\u7532",
+      "category": "\u8B77\u7532",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_body_02.png?v=164e0cd7e19e72b4afaed0aad1f15e24b9b619e7bd04387817d7613f59f46c82",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_edc_02",
+      "name": "\u8108\u885D\u5F0F\u6821\u6E96\u5668",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_edc_02.png?v=ecfcfa0fdf0b3d1ee2dc786913b13fbf43d2bf852359a397343421b0b9cab181",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_edc_01",
+      "name": "\u8108\u885D\u5F0F\u63A2\u91DD",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_edc_01.png?v=5bd7b2860f077b89ad60ff9b82c2e33dfe733f111dbb81000f9101646286c062",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_edc_03",
+      "name": "\u8108\u885D\u5F0F\u4FB5\u5165\u6838",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_edc_03.png?v=9fec9292b73374902e71156f621f758557dfe567c199d758599541a9eb4f4ea9",
+      "hasDetail": true
+    },
+    {
+      "sourceItemId": "item_equip_t4_suit_pulse_cryst01_edc_04",
+      "name": "\u8108\u885D\u5F0F\u8B77\u7532\u677F",
+      "category": "\u914D\u4EF6",
+      "iconPath": "/media/wiki/catalogs/equipment/item_equip_t4_suit_pulse_cryst01_edc_04.png?v=5ff435fe1a7d3886a5f94cb9abae45e40f35f78d5418d5645233513f8175a364",
+      "hasDetail": true
+    }
+  ],
+  "recipes": [
+    {
+      "sourceFormulaId": "item_formu_t4_suit_pulse_cryst01_hand_02",
+      "chainId": 4003,
+      "isDefault": true,
+      "materials": [
+        {
+          "sourceItemId": "item_equip_script_4_3",
+          "name": "\u707C\u9285\u88DD\u5099\u539F\u4EF6",
+          "count": 50,
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_4_3.png?v=775bc431300c74e75b03c9e79c3515f3220f202a78e014b2c06eb5a61dd66364"
+        },
+        {
+          "sourceItemId": "item_domain_jinlong_coupon",
+          "name": "\u6B66\u9675\u8ABF\u5EA6\u5238",
+          "count": 360,
+          "iconPath": "/media/wiki/catalogs/items/item_domain_jinlong_coupon.png?v=9e0d0db46f39bed9464101d4ef0e88757ea8c21a78e5b39dfe9f0001983ff826"
+        }
+      ]
+    }
+  ]
+}

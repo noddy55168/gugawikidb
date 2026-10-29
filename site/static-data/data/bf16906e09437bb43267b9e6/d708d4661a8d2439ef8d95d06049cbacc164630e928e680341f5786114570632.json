@@ -1,0 +1,20 @@
+{
+  "sourceItemId": "item_device_buff_snow_2",
+  "name": "\u4E2D\u578B\u52A0\u901F\u55AE\u5143",
+  "rarity": 4,
+  "category": "\u96A8\u8EAB\u88DD\u7F6E",
+  "iconPath": "/media/wiki/catalogs/items/item_device_buff_snow_2.png?v=65556b1578376f4215dda6dce3c15f057e21aa8d0a69367ecfe334fecd58d9e2",
+  "summary": "\u5927\u5C0F\u9069\u4E2D\u7684\u65BD\u8853\u55AE\u5143\uFF0C\u85A9\u7C73\u7DAD\u683C\u7684\u5BE6\u9A57\u6027\u7522\u54C1\uFF0C\u80FD\u5920\u523A\u6FC0\u4F7F\u7528\u8005\u7684\u808C\u8089\uFF0C\u63D0\u9AD8\u5176\u904B\u52D5\u80FD\u529B\u3002",
+  "description": "\u914D\u5099\u5728\u80CC\u5305\u96A8\u8EAB\u88DD\u7F6E\u683C\u5F8C\uFF0C\u9AD4\u529B\u6062\u5FA9\u901F\u5EA6\u589E\u52A015%\uFF0C\u50C5\u5728\u6B66\u9675\u5730\u5340\u751F\u6548\u3002",
+  "wikiDescription": "",
+  "itemType": "\u96A8\u8EAB\u88DD\u7F6E",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

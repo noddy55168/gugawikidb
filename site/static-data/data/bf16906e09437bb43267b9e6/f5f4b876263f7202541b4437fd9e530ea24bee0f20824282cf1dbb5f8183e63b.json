@@ -1,0 +1,140 @@
+{
+  "sourceItemId": "item_gift_tundra_3",
+  "name": "\u885D\u6D6A\u5927\u8CFD\u9580\u7968",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_tundra_3.png?v=b6fa37ca199a3a9b0bec89f05598aa787527761be0f10b8d9b492122e41eb95e",
+  "summary": "\u83C8\u68B5\u6735\u746A\u885D\u6D6A\u5927\u8CFD\u7684\u9580\u7968\u3002\u524D\u5F80\u6703\u5834\u6642\u8A18\u5F97\u651C\u5E36\u81EA\u5DF1\u7684\u885D\u6D6A\u677F\u3002",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u904B\u52D5]  [\u85DD\u8853] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_1",
+      "description": "\u56DB\u865F\u8C37\u5730-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_tundra_3/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0006_wolfgd",
+          "name": "\u72FC\u885B",
+          "quantity": null,
+          "path": "/operators/6",
+          "iconPath": "/media/wiki/operators/chr_0006_wolfgd/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0009_azrila",
+          "name": "\u9918\u71FC",
+          "quantity": null,
+          "path": "/operators/9",
+          "iconPath": "/media/wiki/operators/chr_0009_azrila/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0013_aglina",
+          "name": "\u6F54\u723E\u4F69\u5854",
+          "quantity": null,
+          "path": "/operators/13",
+          "iconPath": "/media/wiki/operators/chr_0013_aglina/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0014_aurora",
+          "name": "\u665D\u96EA",
+          "quantity": null,
+          "path": "/operators/14",
+          "iconPath": "/media/wiki/operators/chr_0014_aurora/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0016_laevat",
+          "name": "\u840A\u842C\u6C40",
+          "quantity": null,
+          "path": "/operators/16",
+          "iconPath": "/media/wiki/operators/chr_0016_laevat/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0017_yvonne",
+          "name": "\u4F0A\u99AE",
+          "quantity": null,
+          "path": "/operators/17",
+          "iconPath": "/media/wiki/operators/chr_0017_yvonne/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0019_karin",
+          "name": "\u79CB\u6817",
+          "quantity": null,
+          "path": "/operators/19",
+          "iconPath": "/media/wiki/operators/chr_0019_karin/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0021_whiten",
+          "name": "\u57C3\u7279\u62C9",
+          "quantity": null,
+          "path": "/operators/21",
+          "iconPath": "/media/wiki/operators/chr_0021_whiten/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0022_bounda",
+          "name": "\u87A2\u77F3",
+          "quantity": null,
+          "path": "/operators/22",
+          "iconPath": "/media/wiki/operators/chr_0022_bounda/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

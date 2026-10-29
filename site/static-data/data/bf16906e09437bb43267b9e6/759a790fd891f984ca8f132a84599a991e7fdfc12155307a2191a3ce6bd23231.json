@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_ugly_paint_1",
+    "name": "\u6311\u71C8\u770B\u9F8D",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_ugly_paint_1.png?v=5bdf5453c098642b6d33c79f17955bb0d724531ec45d2c5e4188b40541192b61",
+    "sortOrder": 18,
+    "path": "/industry/devices/wiki_item_port_ugly_paint_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "ugly_paint_1",
+  "needPower": false,
+  "width": 1,
+  "depth": 1,
+  "height": 3,
+  "recipes": []
+}

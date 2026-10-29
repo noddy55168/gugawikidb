@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:vaporizer_1",
+    "name": "\u6C23\u9AD4\u6563\u5E03\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_vaporizer_1.png?v=1749f02ae73a87805bc147204addb5a6d25e4666ce8feac0762d4c551976dd32",
+    "sortOrder": 120,
+    "path": "/industry/recipes/hub%3Avaporizer_1",
+    "outputSummary": "\u6C23\u9AD4\u6563\u5E03\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 40,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_vaporizer_1",
+      "name": "\u6C23\u9AD4\u6563\u5E03\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_vaporizer_1.png?v=1749f02ae73a87805bc147204addb5a6d25e4666ce8feac0762d4c551976dd32",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "hub:planter_1",
+    "name": "\u7A2E\u690D\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_planter_1.png?v=514e15ab61a83832442f5bfdf7bdf4c33656677d1a06a422cb77612b6b2999ba",
+    "sortOrder": 15,
+    "path": "/industry/recipes/hub%3Aplanter_1",
+    "outputSummary": "\u7A2E\u690D\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 20,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_planter_1",
+      "name": "\u7A2E\u690D\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_planter_1.png?v=514e15ab61a83832442f5bfdf7bdf4c33656677d1a06a422cb77612b6b2999ba",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:seedcollector_plant_moss_1_1",
+    "name": "\u854E\u82B1\u7A2E\u5B50",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_plant_moss_seed_1.png?v=852ea48f76b08c09c70665ce6d214d0b60a257d7046ead96086f300d9a038bc1",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Aseedcollector_plant_moss_1_1",
+    "outputSummary": "\u854E\u82B1\u7A2E\u5B50 \u00D7 2",
+    "deviceNames": [
+      "\u63A1\u7A2E\u6A5F"
+    ]
+  },
+  "description": "\u854E\u82B1\u7A2E\u5B50\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_1",
+      "name": "\u854E\u82B1",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_1.png?v=9701bd44ec3c63ac13a2c894365578e50367b4667e1b2c43b558db55a717b888",
+      "link": "/items/item_plant_moss_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_moss_seed_1",
+      "name": "\u854E\u82B1\u7A2E\u5B50",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_plant_moss_seed_1.png?v=852ea48f76b08c09c70665ce6d214d0b60a257d7046ead96086f300d9a038bc1",
+      "link": "/items/item_plant_moss_seed_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_seedcol_1",
+      "name": "\u63A1\u7A2E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_seedcol_1.png?v=c76375bf19ea98367d7a8d5e6ae20ec22c8b5c4987359d60e67befe22049bde3",
+      "sortOrder": 6,
+      "path": "/industry/devices/wiki_item_port_seedcol_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

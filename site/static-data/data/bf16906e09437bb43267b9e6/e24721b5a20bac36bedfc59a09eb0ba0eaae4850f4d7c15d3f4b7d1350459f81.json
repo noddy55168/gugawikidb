@@ -1,0 +1,52 @@
+{
+  "sourceItemId": "item_gift_jinlong_13",
+  "name": "\u6728\u96D5\u528D",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_jinlong_13.png?v=249171f6d1065cd5102855ccd59fe3f6d55f4cc3bdb99c02db93a4335b0fa7cc",
+  "summary": "\u8A31\u591A\u5B8F\u5C71\u4EBA\u6703\u5C07\u9019\u4E9B\u5E36\u8457\u6728\u8CEA\u85B0\u9999\u6C23\u606F\u7684\u528D\u5F62\u64FA\u98FE\u7F6E\u65BC\u5BB6\u4E2D\uFF0C\u96D6\u7136\u672A\u5FC5\u80FD\u9A45\u9010\u707D\u5384\uFF0C\u7528\u4F86\u7FD2\u6B66\u9632\u8EAB\u537B\u662F\u7DBD\u7DBD\u6709\u9918\u3002",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u751F\u6D3B]  [\u81EA\u7136] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_2",
+      "description": "\u6B66\u9675-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_jinlong_13/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0036_jsspsi",
+          "name": "\u7940",
+          "quantity": null,
+          "path": "/operators/36",
+          "iconPath": "/media/wiki/operators/chr_0036_jsspsi/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

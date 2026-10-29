@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:thickener_1",
+    "name": "\u7814\u78E8\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_thickener_1.png?v=1c17cef6b85a2cc5fb4d6de8c89e0a37159b6e8ddc357b1dbd4e7c4fd1d22c5e",
+    "sortOrder": 14,
+    "path": "/industry/recipes/hub%3Athickener_1",
+    "outputSummary": "\u7814\u78E8\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_iron_cmpt",
+      "name": "\u9435\u88FD\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+      "link": "/items/item_iron_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_thickener_1",
+      "name": "\u7814\u78E8\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_thickener_1.png?v=1c17cef6b85a2cc5fb4d6de8c89e0a37159b6e8ddc357b1dbd4e7c4fd1d22c5e",
+      "link": null
+    }
+  ],
+  "devices": []
+}

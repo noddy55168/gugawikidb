@@ -1,0 +1,266 @@
+{
+  "sourceItemId": "item_originium_powder",
+  "name": "\u6E90\u77F3\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+  "summary": "\u7D42\u672B\u5730\u5229\u7528\u5354\u8B70\u6280\u8853\u5C0D\u6E90\u77F3\u7C89\u672B\u9032\u884C\u4E86\u7279\u6B8A\u7684\u7A69\u5B9A\u5316\u8655\u7406\u3002",
+  "description": "\u7A69\u5B9A\u7684\u6E90\u77F3\u7C89\u672B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/furnance_crystal_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_powder",
+          "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_crystal_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_crystal_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/thickener_originium_enr_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_3",
+          "name": "\u7802\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_3.png?v=0ba67717d1f91f50398bfeae1188f92f52c00210f9dc87d2d484455b13ba0123",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_enr_powder",
+          "name": "\u7DFB\u5BC6\u6E90\u77F3\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_originium_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_enr_powder.png?v=72bd1710dfdd76925428c819d56c780b3cf1d83cec1eefc9c95bea1fadd13e43",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "thickener_1",
+          "name": "\u7814\u78E8\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_thickener_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Athickener_originium_enr_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_battery_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_cmpt",
+          "name": "\u7D2B\u6676\u96F6\u4EF6",
+          "quantity": 5,
+          "path": "/items/item_glass_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 10,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_proc_battery_1",
+          "name": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+          "quantity": 1,
+          "path": "/items/item_proc_battery_1",
+          "iconPath": "/media/wiki/catalogs/items/item_proc_battery_1.png?v=71590f58b13552d8a07e6d0fe1aa3b9bbffa785a0a1e95018750dc7d9451f49c",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_battery_1_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_battery_2_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_cmpt",
+          "name": "\u9435\u88FD\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_iron_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_cmpt.png?v=2bc88d97b9e5ae6ea5b3dcbdc06c311f6c1cf383a96f37be3e796475b37d4825",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 15,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_proc_battery_2",
+          "name": "\u4E2D\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+          "quantity": 1,
+          "path": "/items/item_proc_battery_2",
+          "iconPath": "/media/wiki/catalogs/items/item_proc_battery_2.png?v=c30b3bcd7ea1a0dc28cd6f5d5a45e4fa370c022988275bf46c4dc18becbd154e",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_battery_2_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_originium_powder_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_ore",
+          "name": "\u6E90\u7926",
+          "quantity": 1,
+          "path": "/items/item_originium_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_powder",
+          "name": "\u6E90\u77F3\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_originium_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_originium_powder_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

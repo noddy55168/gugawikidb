@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_crystal_ball_1",
+    "name": "\u5B89\u746A\u7684\u95DC\u5207",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_crystal_ball_1.png?v=183299192641cc61dd7ffce6d58f91f5f1615a90ea7666254f03218afc16641e",
+    "sortOrder": 14,
+    "path": "/industry/devices/wiki_item_port_crystal_ball_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "crystal_ball_1",
+  "needPower": false,
+  "width": 1,
+  "depth": 1,
+  "height": 1,
+  "recipes": []
+}

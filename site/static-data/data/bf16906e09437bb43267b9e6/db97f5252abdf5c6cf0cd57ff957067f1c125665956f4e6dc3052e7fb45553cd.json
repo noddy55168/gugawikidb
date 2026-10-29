@@ -1,0 +1,61 @@
+{
+  "entry": {
+    "key": "machine:tools_proc_battery_1_1",
+    "name": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_proc_battery_1.png?v=71590f58b13552d8a07e6d0fe1aa3b9bbffa785a0a1e95018750dc7d9451f49c",
+    "sortOrder": 2,
+    "path": "/industry/recipes/machine%3Atools_proc_battery_1_1",
+    "outputSummary": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60 \u00D7 1",
+    "deviceNames": [
+      "\u5C01\u88DD\u6A5F"
+    ]
+  },
+  "description": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60\u5408\u6210",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_cmpt",
+      "name": "\u7D2B\u6676\u96F6\u4EF6",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+      "link": "/items/item_glass_cmpt"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_originium_powder",
+      "name": "\u6E90\u77F3\u7C89\u672B",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_originium_powder.png?v=98c74c65c0f9b9413f8b46d0be07e39b03231ee582901639fea6b847b05cad0d",
+      "link": "/items/item_originium_powder"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_proc_battery_1",
+      "name": "\u4F4E\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_proc_battery_1.png?v=71590f58b13552d8a07e6d0fe1aa3b9bbffa785a0a1e95018750dc7d9451f49c",
+      "link": "/items/item_proc_battery_1"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_tools_asm_mc_1",
+      "name": "\u5C01\u88DD\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_tools_asm_mc_1.png?v=66af8aa847ee7a4157f9237aa93ee1d47bfcf2e714be0f0462adf89e76b20284",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "entry": {
+    "key": "machine:pool_liquid_xiranite_poly_1",
+    "name": "\u58E4\u6676\u5EE2\u6DB2\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+    "sortOrder": 6,
+    "path": "/industry/recipes/machine%3Apool_liquid_xiranite_poly_1",
+    "outputSummary": "\u58E4\u6676\u5EE2\u6DB2 \u00D7 1\u3001\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2 \u00D7 1",
+    "deviceNames": [
+      "\u53CD\u61C9\u6C60"
+    ]
+  },
+  "description": "\u58E4\u6676\u5EE2\u6DB2\u5408\u6210\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_xiranite",
+      "name": "\u6DB2\u5316\u606F\u58E4",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite.png?v=c0b55927ac780b77e09d8118302e93c0f9d8bda81a8aad6f339d1a8e6800918f",
+      "link": "/items/item_liquid_xiranite"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_sewage",
+      "name": "\u6C59\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+      "link": "/items/item_liquid_sewage"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_xiranite_poly",
+      "name": "\u58E4\u6676\u5EE2\u6DB2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_poly.png?v=c0dd2096bf1ef0ad02548e53d39c874d2bc74cc6ca4d18ea054be045560b4fc8",
+      "link": "/items/item_liquid_xiranite_poly"
+    },
+    {
+      "role": "output",
+      "group": 1,
+      "order": 0,
+      "itemId": "item_liquid_xiranite_lowpoly",
+      "name": "\u60F0\u6027\u58E4\u6676\u5EE2\u6DB2",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_lowpoly.png?v=2be5bfdd3abad3534e1ed6ec3b1c3c07859f2b9c86828ba8f4579400d64de8c0",
+      "link": "/items/item_liquid_xiranite_lowpoly"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_mix_pool_1",
+      "name": "\u53CD\u61C9\u6C60",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_mix_pool_1.png?v=531a16ed1a42c703e31aaec8f676cf038585e364c7f69b0c1c8a1196b581b65b",
+      "sortOrder": 5,
+      "path": "/industry/devices/wiki_item_port_mix_pool_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

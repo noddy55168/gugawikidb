@@ -1,0 +1,192 @@
+{
+  "sourceItemId": "item_Ingredient_oil_1",
+  "name": "\u83DC\u7C7D\u6CB9",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_Ingredient_oil_1.png?v=a59fdda13d36bb65392ac3f66a96815e2759f56f14e96983039d40181ffd69bf",
+  "summary": "\u7531\u7C7D\u6CB9\u82B1\u52A0\u5DE5\u5F97\u4F86\u7684\u690D\u7269\u6CB9\uFF0C\u714E\u7092\u70F9\u70B8\u600E\u80FD\u96E2\u5F97\u958B\u5B83\uFF1F",
+  "description": "\u900F\u904E\u5DE5\u5EE0\u52A0\u5DE5\u7372\u5F97\u7684\u7522\u7269\uFF0C\u53EF\u7528\u65BC\u5BA2\u68E7\u73A9\u6CD5\u4E2D\u7684\u98DF\u7269\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    },
+    {
+      "sourceWayId": "item_obtain_inn_food_box_crop_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/pool_Ingredient_oil_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_canolaflower_1",
+          "name": "\u7C7D\u6CB9\u82B1",
+          "quantity": 1,
+          "path": "/items/item_corp_canolaflower_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_canolaflower_1.png?v=886faa402ae5b39249ab21670475884ac8741f96f49614eee7db9d9f6d4fbed2",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_Ingredient_oil_1",
+          "name": "\u83DC\u7C7D\u6CB9",
+          "quantity": 1,
+          "path": "/items/item_Ingredient_oil_1",
+          "iconPath": "/media/wiki/catalogs/items/item_Ingredient_oil_1.png?v=a59fdda13d36bb65392ac3f66a96815e2759f56f14e96983039d40181ffd69bf",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_Ingredient_oil_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_Ingredient_oil_1_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_canolaflower_1",
+          "name": "\u7C7D\u6CB9\u82B1",
+          "quantity": 1,
+          "path": "/items/item_corp_canolaflower_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_canolaflower_1.png?v=886faa402ae5b39249ab21670475884ac8741f96f49614eee7db9d9f6d4fbed2",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_Ingredient_oil_1",
+          "name": "\u83DC\u7C7D\u6CB9",
+          "quantity": 1,
+          "path": "/items/item_Ingredient_oil_1",
+          "iconPath": "/media/wiki/catalogs/items/item_Ingredient_oil_1.png?v=a59fdda13d36bb65392ac3f66a96815e2759f56f14e96983039d40181ffd69bf",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_Ingredient_oil_1_2"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_corp_canolaflower_1/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_canolaflower_seed_1",
+          "name": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_corp_canolaflower_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_canolaflower_seed_1.png?v=b59ba38ed9a139ee23759e1f1ad833fa11681efd9580a1942de8633e3c257b85",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_corp_canolaflower_1",
+          "name": "\u7C7D\u6CB9\u82B1\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_corp_canolaflower_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

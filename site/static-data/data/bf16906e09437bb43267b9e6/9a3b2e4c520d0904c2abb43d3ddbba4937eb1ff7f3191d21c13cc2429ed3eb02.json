@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_power_sta_1",
+    "name": "\u71B1\u80FD\u6C60",
+    "kind": "building",
+    "category": "\u96FB\u529B\u4F9B\u61C9",
+    "iconPath": "/media/wiki/industry/item_port_power_sta_1.png?v=b350b910477ae4275f641e802d6953369aeebd9a86f7ec5e77b1471ea6c38e19",
+    "sortOrder": 5,
+    "path": "/industry/devices/wiki_item_port_power_sta_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5229\u7528\u6E90\u7926\u6216\u96FB\u6C60\u63D0\u4F9B\u96FB\u80FD\u7684\u8A2D\u5099\uFF0C\u53EA\u6709\u63A5\u5165\u96FB\u7DB2\u624D\u80FD\u751F\u6548\u3002",
+  "sourceId": "power_station_1",
+  "needPower": true,
+  "width": 2,
+  "depth": 2,
+  "height": 4,
+  "recipes": []
+}

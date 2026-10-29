@@ -1,0 +1,5 @@
+# 成品的 SHA256 依原始位元組校驗，禁止 checkout／commit 自動轉換換行。
+site/** -text
+*.yml text eol=lf
+*.py text eol=lf
+*.md text eol=lf

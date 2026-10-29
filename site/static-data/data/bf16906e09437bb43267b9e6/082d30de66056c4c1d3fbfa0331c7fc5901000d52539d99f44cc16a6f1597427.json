@@ -1,0 +1,37 @@
+{
+  "entry": {
+    "key": "hub:transmuter_1",
+    "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+    "kind": "hub",
+    "category": "\u5EFA\u7BC9\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_phase_trans_1.png?v=205b4d8e6e53d9ad860ad2bb1574e22f81ad7fa9c0ba34a40543f289e35e4ba0",
+    "sortOrder": 118,
+    "path": "/industry/recipes/hub%3Atransmuter_1",
+    "outputSummary": "\u6DB2\u6C23\u8F49\u5316\u6A5F \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_cmpt",
+      "name": "\u8D64\u9285\u96F6\u4EF6",
+      "quantity": 40,
+      "iconPath": "/media/wiki/industry/item_copper_cmpt.png?v=395d36f17e7a0ec900fe7a32ddcbc53a3cb1c5abec4fe4cde047319cb4a40973",
+      "link": "/items/item_copper_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_phase_trans_1",
+      "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_phase_trans_1.png?v=205b4d8e6e53d9ad860ad2bb1574e22f81ad7fa9c0ba34a40543f289e35e4ba0",
+      "link": null
+    }
+  ],
+  "devices": []
+}

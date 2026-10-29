@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_hsmob_1_grass_2_1",
+    "name": "\u7197\u7092\u6642\u852C",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_hsmob_1_grass_2_1.png?v=bce1a484a05329debd846a4977407c93b0c3472deaa94deb6b7709750c741a9b",
+    "sortOrder": 17,
+    "path": "/industry/recipes/manual%3Ahdwk_hsmob_1_grass_2_1",
+    "outputSummary": "\u7197\u7092\u6642\u852C \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_hsmob_1",
+      "name": "\u65B0\u7B4D",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+      "link": "/items/item_drop_hsmob_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_plant_grass_powder_2",
+      "name": "\u82BD\u91DD\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+      "link": "/items/item_plant_grass_powder_2"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_sp_3",
+      "name": "\u74CA\u8449\u8518",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_sp_3.png?v=8db3ba1866255f35d711904d751a9cb6819dead719137045e5b04e1755552ee5",
+      "link": "/items/item_plant_sp_3"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_hsmob_1_grass_2_1",
+      "name": "\u7197\u7092\u6642\u852C",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_hsmob_1_grass_2_1.png?v=bce1a484a05329debd846a4977407c93b0c3472deaa94deb6b7709750c741a9b",
+      "link": "/items/item_hsmob_1_grass_2_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_hsmob_1_grass_2_1",
+      "name": "\u7197\u7092\u6642\u852C\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_hsmob_1_grass_2_1.png?v=bce1a484a05329debd846a4977407c93b0c3472deaa94deb6b7709750c741a9b",
+      "link": null
+    }
+  ],
+  "devices": []
+}

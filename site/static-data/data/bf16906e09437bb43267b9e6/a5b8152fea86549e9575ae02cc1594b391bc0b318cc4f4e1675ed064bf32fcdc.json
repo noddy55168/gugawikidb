@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_liquid_storager_1",
+    "name": "\u5132\u6DB2\u7F50",
+    "kind": "building",
+    "category": "\u5009\u5132\u5B58\u53D6",
+    "iconPath": "/media/wiki/industry/item_port_liquid_storager_1.png?v=f1a74f578639db92ff2b793b5863a4433fa9e8fbc3f4dca91741161ecb37abe9",
+    "sortOrder": 4,
+    "path": "/industry/devices/wiki_item_port_liquid_storager_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u5132\u6DB2\u7F50\u53EF\u5132\u5B58\u7BA1\u9053\u8F38\u5165\u7684\u55AE\u4E00\u985E\u578B\u6DB2\u9AD4\u3002",
+  "sourceId": "liquid_storager_1",
+  "needPower": false,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": []
+}

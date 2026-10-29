@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:grinder_crystal_powder_1",
+    "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+    "sortOrder": 6,
+    "path": "/industry/recipes/machine%3Agrinder_crystal_powder_1",
+    "outputSummary": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B \u00D7 1",
+    "deviceNames": [
+      "\u7C89\u788E\u6A5F"
+    ]
+  },
+  "description": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_shell",
+      "name": "\u6676\u9AD4\u5916\u6BBC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+      "link": "/items/item_crystal_shell"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_crystal_powder",
+      "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+      "link": "/items/item_crystal_powder"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_grinder_1.png?v=b22e8669bfa108d80d9c790befa77853e2372b0b28a5022f7f70e61f55420217",
+      "sortOrder": 2,
+      "path": "/industry/devices/wiki_item_port_grinder_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

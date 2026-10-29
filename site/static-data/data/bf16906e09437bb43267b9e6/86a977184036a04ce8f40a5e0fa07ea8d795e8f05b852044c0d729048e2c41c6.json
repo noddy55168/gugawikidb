@@ -1,0 +1,52 @@
+{
+  "sourceItemId": "item_gift_jinlong_12",
+  "name": "\u7DE3\u7DE3\u838A\u62FC\u5716",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_jinlong_12.png?v=24ed502bf513112e801f7e59f02cd3fb7a25b48aa1c7973549c41cb13fadb187",
+  "summary": "\u300C\u4F11\u9592\u8212\u58D3\uFF0C\u8CDE\u5C71\u73A9\u6C34\u3002\u5168\u5929\u4E0B\u6700\u597D\u7684\u5BA2\u68E7\uFF0C\u671F\u5F85\u60A8\u7684\u5149\u81E8\u3002\u300D",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u6642\u5C1A]  [\u76CA\u667A] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_2",
+      "description": "\u6B66\u9675-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_jinlong_12/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0036_jsspsi",
+          "name": "\u7940",
+          "quantity": null,
+          "path": "/operators/36",
+          "iconPath": "/media/wiki/operators/chr_0036_jsspsi/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

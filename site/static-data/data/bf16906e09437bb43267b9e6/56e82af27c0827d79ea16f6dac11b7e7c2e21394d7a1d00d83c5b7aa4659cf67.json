@@ -1,0 +1,182 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_gambling_dungeon",
+    "name": "\u767E\u8DA3\u6F14\u6B66",
+    "description": "\u5C0F\u9053\u5947\u5DF2\u5C07\u6700\u65B0\u6700\u6F6E\u7684\u529F\u80FD\u6574\u5408\u9032\u4E86\u6F14\u6B66\u5E73\u53F0\u3002\u767E\u7A2E\u8DA3\u5473\uFF0C\u842C\u822C\u5947\u5DE7\uFF0C\u76E1\u5728\u5176\u4E2D\u3002\u5FEB\u4F86\u8A66\u8A66\u5427\uFF0C\u7BA1\u7406\u54E1\uFF01",
+    "sourceType": 60,
+    "sortOrder": 6102,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_gamblingdungeon_1",
+    "tabImageId": "activity_tab_bg_gambleBattle",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/29 12:00:00",
+        "closeTimeRaw": "2026/11/19 4:00:00",
+        "openUnixSeconds": 1793246400,
+        "closeUnixSeconds": 1795032000
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/10/29 12:00:00",
+        "closeTimeRaw": "2026/11/19 4:00:00",
+        "openUnixSeconds": 1793246400,
+        "closeUnixSeconds": 1795032000
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/10/29 12:00:00",
+        "closeTimeRaw": "2026/11/19 4:00:00",
+        "openUnixSeconds": 1793293200,
+        "closeUnixSeconds": 1795078800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_high_difficulty",
+        "name": "\u6311\u6230\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#f04840"
+  },
+  "instructionId": "instru_activity_gambling_battle_1",
+  "instructionTitle": "\u300C\u767E\u8DA3\u6F14\u6B66\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u226530\u7D1A\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u4EE5\u9032\u884C\u300C\u767E\u8DA3\u6F14\u6B66\u300D\u6F14\u7B97\u6311\u6230\u3002\n\u00B7 \u62BD\u53D6\u8CC7\u6599\u9298\u724C\uFF0C\u64CA\u6557\u591A\u8F2A\u6575\u4EBA\uFF0C\u5373\u53EF\u5B8C\u6210\u6F14\u7B97\u4E26\u7372\u5F97\u734E\u52F5\u9EDE\u548C\u6F14\u7B97\u7A4D\u5206\uFF0C\u4E26\u5728\u300C\u6F14\u6B66\u6B77\u7A0B\u300D\u548C\u300C\u6F14\u6B66\u4E8B\u9304\u300D\u4E2D\u7372\u5F97\u734E\u52F5\u3002\n\u00B7 \u62BD\u51FA\u7684\u8CC7\u6599\u9298\u724C\u9054\u6210\u7D44\u5408\uFF0C\u9084\u80FD\u63D0\u4F9B\u734E\u52F5\u9EDE\u589E\u76CA\u500D\u7387\uFF0C\u4E5F\u6703\u52A0\u5927\u6311\u6230\u96E3\u5EA6\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_gambling_dungeon_unlock_condition_1",
+      "sourceType": 5023,
+      "compareOperator": 3,
+      "target": 30,
+      "description": "\u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u9054\u523030\u7D1A",
+      "tips": "\u76EE\u524D\u6B0A\u9650\u7B49\u968E%d\u7D1A\uFF08\u53EF\u6839\u64DA\u884C\u52D5\u624B\u518A\u6307\u5F15\u5B8C\u6210\u5404\u9805\u4EFB\u52D9\uFF0C\u7372\u5F97\u884C\u52D5\u8CC7\u6B77\uFF0C\u63D0\u5347\u6B0A\u9650\u7B49\u968E\uFF09"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_gambling_dungeon_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_user_avatar_activity_10",
+          "name": "\u300C\u5373\u523B\u767C\u9054\u300D",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_case_bp_selfselect_skillsp_2",
+          "name": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1II",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 6,
+          "sourceItemId": "item_char_break_stage_3_4",
+          "name": "\u5354\u8B70\u5713\u76E4\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 7,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 8,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 9,
+          "sourceItemId": "item_weapon_break_high",
+          "name": "\u91CD\u578B\u5F37\u56FA\u6A21\u5177",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 10,
+          "sourceItemId": "item_expcard_stage1_high",
+          "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 11,
+          "sourceItemId": "item_char_break_stage_1_2",
+          "name": "\u5354\u8B70\u5713\u76E4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 12,
+          "sourceItemId": "item_char_skill_level_1_6",
+          "name": "\u5354\u8B70\u7A1C\u67F1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 13,
+          "sourceItemId": "item_weapon_break_low",
+          "name": "\u5F37\u56FA\u6A21\u5177",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

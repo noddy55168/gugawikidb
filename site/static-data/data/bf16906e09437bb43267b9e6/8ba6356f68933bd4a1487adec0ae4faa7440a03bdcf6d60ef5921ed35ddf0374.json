@@ -1,0 +1,112 @@
+{
+  "sourceItemId": "item_plant_crylplant_seed_1_3",
+  "name": "\u81F3\u6676\u591A\u9F52\u8449\u6839\u8396",
+  "rarity": 4,
+  "category": "\u73CD\u8CB4\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_crylplant_seed_1_3.png?v=ce2120624b52d72df34c1e8784f394f1f8f67379c0517fd0a126c2654f1ef716",
+  "summary": "\u7D93\u56B4\u683C\u7BE9\u9078\u7684\u81F3\u6676\u591A\u9F52\u8449\uFF0C\u5176\u6839\u8396\u7684\u5B58\u6D3B\u6027\u8F03\u5F37\u3002",
+  "description": "\u81F3\u6676\u591A\u9F52\u8449\u7684\u6839\u8396\uFF0C\u53EF\u4EE5\u7528\u65BC\u57F9\u990A\u5168\u65B0\u7684\u500B\u9AD4\u3002\n\u81F3\u6676\u591A\u9F52\u8449\u53EF\u5728\u5E79\u54E17-9\u7D1A\u6280\u80FD\u5F37\u5316\u6642\u4F7F\u7528\u3002",
+  "wikiDescription": "",
+  "itemType": "\u57F9\u990A\u57FA\u6838",
+  "useEffect": "",
+  "obtainHint": "\u89E3\u9396\u5E1D\u6C5F\u865F\u4E26\u5EFA\u9020\u5C0D\u61C9\u8259\u5BA4\u5F8C\u751F\u7522",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u89E3\u9396\u5E1D\u6C5F\u865F\u4E26\u5EFA\u9020\u5C0D\u61C9\u8259\u5BA4\u5F8C\u751F\u7522"
+  ],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_spaceship_plant_seed_crylplant_1_3",
+      "description": "\u5E1D\u6C5F\u865F-\u57F9\u990A\u8259\u63D0\u53D6\u57FA\u6838",
+      "condition": {
+        "sourceId": "condition_plant_item_plant_crylplant_1_3",
+        "kind": "all",
+        "text": "\u9808\u540C\u6642\u7B26\u5408\u4EE5\u4E0B\u689D\u4EF6",
+        "resolved": true,
+        "children": [
+          {
+            "sourceId": "condition_spaceship_plant_build",
+            "kind": "leaf",
+            "text": "\u5EFA\u9020\u300C\u57F9\u990A\u8259\u300D",
+            "resolved": true,
+            "children": []
+          },
+          {
+            "sourceId": "condition_item_plant_crylplant_1_3",
+            "kind": "leaf",
+            "text": "\u89E3\u9396\u300C\u81F3\u6676\u591A\u9F52\u8449\u300D\u5716\u9451",
+            "resolved": true,
+            "children": []
+          }
+        ]
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipGrowCabinFormulaTable/growcabin_plant_crylplant_1_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u57F9\u990A\u8259\u7A2E\u690D",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_crylplant_seed_1_3",
+          "name": "\u81F3\u6676\u591A\u9F52\u8449\u6839\u8396",
+          "quantity": 1,
+          "path": "/items/item_plant_crylplant_seed_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_crylplant_seed_1_3.png?v=ce2120624b52d72df34c1e8784f394f1f8f67379c0517fd0a126c2654f1ef716",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_crylplant_1_3",
+          "name": "\u81F3\u6676\u591A\u9F52\u8449",
+          "quantity": 3,
+          "path": "/items/item_plant_crylplant_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_crylplant_1_3.png?v=e69861007c25877ba06378d2919774f75a519a95d8f9097f8dc3d17223462feb",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipGrowCabinSeedFormulaTable/growcabin_extract_crylplant_1_3/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u57F9\u990A\u8259\u88FD\u7A2E",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_crylplant_1_3",
+          "name": "\u81F3\u6676\u591A\u9F52\u8449",
+          "quantity": 1,
+          "path": "/items/item_plant_crylplant_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_crylplant_1_3.png?v=e69861007c25877ba06378d2919774f75a519a95d8f9097f8dc3d17223462feb",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_crylplant_seed_1_3",
+          "name": "\u81F3\u6676\u591A\u9F52\u8449\u6839\u8396",
+          "quantity": 3,
+          "path": "/items/item_plant_crylplant_seed_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_crylplant_seed_1_3.png?v=ce2120624b52d72df34c1e8784f394f1f8f67379c0517fd0a126c2654f1ef716",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

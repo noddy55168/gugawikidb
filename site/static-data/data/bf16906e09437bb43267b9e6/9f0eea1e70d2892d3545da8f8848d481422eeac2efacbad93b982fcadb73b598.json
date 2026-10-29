@@ -1,0 +1,140 @@
+{
+  "sourceItemId": "item_gift_tundra_1",
+  "name": "\u919A\u8CEA\u76F8\u6A5F",
+  "rarity": 5,
+  "category": "\u5E79\u54E1\u79AE\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_gift_tundra_1.png?v=2f6e07ebaf4a0db478e0a26b11c07da6a794bcd6e892af2ba57664fba5ab27a7",
+  "summary": "\u300C\u4FB5\u8755\u8B93\u4E16\u754C\u5316\u958B\uFF0C\u800C\u60A8\u7684\u4E3B\u9AD4\u4ECD\u7136\u92B3\u5229\uFF0C\u9078\u64C7\u5C3C\u514B\u62C9\u65AF006C\uFF0C\u8B93\u6211\u5011\u7528\u76EE\u5149\u9023\u63A5\u672A\u4F86\u3002\u300D",
+  "description": "\u53EF\u4F5C\u70BA\u79AE\u7269\u9001\u7D66\u611B\u597D [\u79D1\u6280]  [\u81EA\u7136] \u7684\u5E79\u54E1\u4EE5\u589E\u52A0\u4FE1\u8CF4\u503C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u79AE\u7269",
+  "useEffect": "",
+  "obtainHint": "\u7269\u8CC7\u8ABF\u5EA6\u7372\u5F97",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_domain_shop_1",
+      "description": "\u56DB\u865F\u8C37\u5730-\u7269\u8CC7\u8ABF\u5EA6\u8CFC\u8CB7",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_domain_shop_levelup",
+      "description": "\u7269\u8CC7\u8ABF\u5EA6\u7D42\u7AEF\u9054\u5230\u7279\u5B9A\u7B49\u7D1A\u5F8C\u89E3\u9396",
+      "condition": null
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "GiftItemTable/item_gift_tundra_1/\u8D08\u79AE\u504F\u597D/",
+      "category": "\u8D08\u79AE\u504F\u597D",
+      "title": "\u504F\u597D\u6B64\u79AE\u7269\u7684\u5E79\u54E1",
+      "description": "",
+      "participants": [
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0004_pelica",
+          "name": "\u4F69\u9E97\u5361",
+          "quantity": null,
+          "path": "/operators/4",
+          "iconPath": "/media/wiki/operators/chr_0004_pelica/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0007_ikut",
+          "name": "\u5F27\u5149",
+          "quantity": null,
+          "path": "/operators/7",
+          "iconPath": "/media/wiki/operators/chr_0007_ikut/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0011_seraph",
+          "name": "\u8CFD\u5E0C",
+          "quantity": null,
+          "path": "/operators/11",
+          "iconPath": "/media/wiki/operators/chr_0011_seraph/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0012_avywen",
+          "name": "\u827E\u7DAD\u6587\u5A1C",
+          "quantity": null,
+          "path": "/operators/12",
+          "iconPath": "/media/wiki/operators/chr_0012_avywen/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0020_meurs",
+          "name": "\u5361\u5951\u723E",
+          "quantity": null,
+          "path": "/operators/20",
+          "iconPath": "/media/wiki/operators/chr_0020_meurs/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0023_antal",
+          "name": "\u5B89\u5854\u723E",
+          "quantity": null,
+          "path": "/operators/23",
+          "iconPath": "/media/wiki/operators/chr_0023_antal/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0024_deepfin",
+          "name": "\u963F\u5217\u4EC0",
+          "quantity": null,
+          "path": "/operators/24",
+          "iconPath": "/media/wiki/operators/chr_0024_deepfin/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0025_ardelia",
+          "name": "\u827E\u723E\u9EDB\u62C9",
+          "quantity": null,
+          "path": "/operators/25",
+          "iconPath": "/media/wiki/operators/chr_0025_ardelia/portrait.png",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "operator",
+          "sourceId": "chr_0026_lastrite",
+          "name": "\u5225\u79AE",
+          "quantity": null,
+          "path": "/operators/26",
+          "iconPath": "/media/wiki/operators/chr_0026_lastrite/portrait.png",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

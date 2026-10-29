@@ -1,0 +1,126 @@
+{
+  "sourceItemId": "item_plant_bbflower_powder_1",
+  "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+  "summary": "\u5728\u7D93\u904E\u7C89\u788E\u8655\u7406\u5F8C\uFF0C\u916E\u5316\u704C\u6728\u7684\u6210\u5206\u63D0\u53D6\u904E\u7A0B\u5C07\u66F4\u52A0\u4FBF\u5229\u3002",
+  "description": "\u916E\u5316\u704C\u6728\u7C89\u672B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_item_bbflower",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u916E\u5316\u704C\u6728\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u7372\u5F97\u916E\u5316\u704C\u6728\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_bomb_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_cmpt",
+          "name": "\u7D2B\u6676\u96F6\u4EF6",
+          "quantity": 5,
+          "path": "/items/item_glass_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_powder_1",
+          "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_bbflower_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_proc_bomb_1",
+          "name": "\u5DE5\u696D\u7206\u70B8\u7269",
+          "quantity": 1,
+          "path": "/items/item_proc_bomb_1",
+          "iconPath": "/media/wiki/catalogs/items/item_proc_bomb_1.png?v=f35878fe2c5fe672f2b3306c20b8fa860beeb06162923182c04cd3d84ff64691",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_bomb_1_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_plant_bbflower_powder_1_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_1",
+          "name": "\u916E\u5316\u704C\u6728",
+          "quantity": 1,
+          "path": "/items/item_plant_bbflower_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_1.png?v=3c6fdbc378cc7fcdda5f5c0253ff619254ab7d13fbb8ad75d48c439c1a0d8772",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_bbflower_powder_1",
+          "name": "\u916E\u5316\u704C\u6728\u7C89\u672B",
+          "quantity": 2,
+          "path": "/items/item_plant_bbflower_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_bbflower_powder_1.png?v=57d5f2a1990e93e762b2761ed17ca1409deef9baa0417bd63905091f5f16926c",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_plant_bbflower_powder_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

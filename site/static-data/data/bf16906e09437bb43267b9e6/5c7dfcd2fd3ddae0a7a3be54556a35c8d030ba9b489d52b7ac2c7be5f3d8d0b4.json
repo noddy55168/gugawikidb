@@ -1,0 +1,34 @@
+{
+  "sourceItemId": "item_drop_hstiger_1",
+  "name": "\u5F6A\u7378\u7684\u9577\u7D68",
+  "rarity": 4,
+  "category": "\u63A1\u96C6\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_drop_hstiger_1.png?v=7b21d5cb50383e1db07bed4516e8447e59825f49265afae91f2e033cb8fe915d",
+  "summary": "\u5F6A\u7378\u524D\u722A\u5468\u908A\u7684\u7D30\u81A9\u7D68\u6BDB\u3002\u9019\u4E9B\u300C\u6D41\u5149\u6EA2\u5F69\u300D\u7684\u7D68\u6BDB\u662F\u88AB\u5F6A\u7378\u6E05\u7406\u6700\u52E4\u7684\u90E8\u5206\uFF0C\u4F46\u4F60\u4ECD\u80FD\u5728\u9593\u9699\u4E2D\u770B\u5230\u5E7E\u7E37\u7375\u7269\u7684\u8840\u8272\u3002",
+  "description": "\u64CA\u6557\u767E\u773C\u5F6A\u7378\u7684\u6389\u843D\u7269\uFF0C\u53EF\u7528\u65BC\u5009\u5132\u7BC0\u9EDE\u88DD\u7BB1\u904B\u9001\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u4E2D\u64CA\u6557\u6575\u4EBA\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_eny_0083_hstiger",
+      "description": "\u64CA\u6557\u767E\u773C\u5F6A\u7378\u6709\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_jlebm_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

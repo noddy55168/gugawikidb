@@ -1,0 +1,102 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_map02_guide_003",
+    "name": "\u6CC9\u6D41\u7121\u8072",
+    "description": "\u6C34\u8ECA\u975C\u975C\u8F49\u52D5\uFF0C\u5BC2\u975C\u6E05\u6CE2\u4ECA\u53C8\u6E67\u8D77\uFF0C\u5176\u8072\u5982\u64CA\u78EC\uFF0C\u53C8\u559A\u9192\u5E7E\u8A31\u6C89\u7A62\uFF0C\u591A\u5C11\u6028\u4EC7\uFF1F",
+    "sourceType": 13,
+    "sortOrder": 8001,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_guide_qingbo",
+    "tabImageId": "activity_tab_bg_v1d1_qingbovillage",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/12 7:00:00",
+        "closeTimeRaw": "2026/4/2 4:00:00",
+        "openUnixSeconds": 1773270000,
+        "closeUnixSeconds": 1775073600
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/3/12 7:00:00",
+        "closeTimeRaw": "2026/4/2 4:00:00",
+        "openUnixSeconds": 1773270000,
+        "closeUnixSeconds": 1775073600
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/3/11 18:00:00",
+        "closeTimeRaw": "2026/4/2 4:00:00",
+        "openUnixSeconds": 1773270000,
+        "closeUnixSeconds": 1775120400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_guide",
+        "name": "\u5F15\u5165\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#41cfac"
+  },
+  "instructionId": "activity_guide_qingbo",
+  "instructionTitle": "\u300C\u6CC9\u6D41\u7121\u8072\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6III - \u6DF1\u5165\u8FF7\u5C40\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u8ACB\u7BA1\u7406\u54E1\u524D\u5F80\u6B66\u9675\u5730\u5340\u7684\u300C\u6E05\u6CE2\u5BE8\u300D\u5340\u57DF\uFF0C\u5B8C\u6210\u89E3\u9396\u5354\u8B70\u50B3\u9001\u9EDE\u3001\u958B\u555F\u5354\u8B70\u5132\u85CF\u7BB1\u7B49\u4EFB\u52D9\uFF0C\u5373\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_guide_qingbovillage_unlockmain",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6III - \u6DF1\u5165\u8FF7\u5C40",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_guide_qingbo_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 5,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 7,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 15000,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

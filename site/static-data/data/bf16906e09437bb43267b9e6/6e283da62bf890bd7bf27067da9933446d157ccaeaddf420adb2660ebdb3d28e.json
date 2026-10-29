@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:shaper_activity_xiranite_box_1",
+    "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_xiranite_box.png?v=862105937e94a3be2c21d051056b03b5e5afa6f6e43ff5e1a490e3ddf83554a0",
+    "sortOrder": 9,
+    "path": "/industry/recipes/machine%3Ashaper_activity_xiranite_box_1",
+    "outputSummary": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC \u00D7 1",
+    "deviceNames": [
+      "\u5851\u5F62\u6A5F"
+    ]
+  },
+  "description": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_nugget",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_nugget.png?v=55973ac79ec4d80137dd8b36707fdc7b809e6135981ab05f75cde22352d237c1",
+      "link": "/items/item_activity_xiranite_nugget"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_xiranite_box",
+      "name": "\u5BE6\u9A57\u9F8D\u6CE1\u6CE1\u5916\u6BBC",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_xiranite_box.png?v=862105937e94a3be2c21d051056b03b5e5afa6f6e43ff5e1a490e3ddf83554a0",
+      "link": "/items/item_activity_xiranite_box"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_shaper_1",
+      "name": "\u5851\u5F62\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_shaper_1.png?v=e2566298e52a05123bbad144c04a47c370a8dedfa59df9366d89a5f707aa805e",
+      "sortOrder": 4,
+      "path": "/industry/devices/wiki_item_port_shaper_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "sourceItemId": "item_iron_enr",
+  "name": "\u92FC\u584A",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_iron_enr.png?v=cd1b706c0873591dfa5629f51b718841a5b3c6d038d0dd436a1330399296fe54",
+  "summary": "\u591A\u7D1A\u52A0\u5DE5\u5F8C\uFF0C\u7D42\u672B\u5730\u5DE5\u696D\u751F\u7522\u7684\u92FC\u6750\u5DF2\u88AB\u5217\u70BA\u300A\u5854\u885B\u4E8C\u5DE5\u696D\u91D1\u5C6C\u8010\u4FB5\u8755\u6A19\u6E96\u300B\u4E8C\u7D1A\u6A19\u6E96\u53C3\u8003\u7269\u3002",
+  "description": "\u7DFB\u5BC6\u85CD\u9435\u7C89\u672B\u7CBE\u7149\u878D\u5408\u5F8C\u7684\u9AD8\u7D1A\u6750\u6599\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_thickener",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u7814\u78E8\u5DE5\u85DD\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u7814\u78E8\u5DE5\u85DD\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/component_iron_enr_cmpt_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr",
+          "name": "\u92FC\u584A",
+          "quantity": 1,
+          "path": "/items/item_iron_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr.png?v=cd1b706c0873591dfa5629f51b718841a5b3c6d038d0dd436a1330399296fe54",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_iron_enr_cmpt_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/shaper_iron_enr_bottle_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr",
+          "name": "\u92FC\u584A",
+          "quantity": 2,
+          "path": "/items/item_iron_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr.png?v=cd1b706c0873591dfa5629f51b718841a5b3c6d038d0dd436a1330399296fe54",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_bottle",
+          "name": "\u92FC\u8CEA\u74F6",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_bottle",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_bottle.png?v=9ce56989548626d044b104ef71dd1d2a8ec8ec271de0e187146b819c9b058786",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_shaper_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Ashaper_iron_enr_bottle_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_iron_enr_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_powder",
+          "name": "\u7DFB\u5BC6\u85CD\u9435\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_powder.png?v=0655888c4a128de336dd80b10572d093bbeab3cd4837d55ae899027cf24aea23",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr",
+          "name": "\u92FC\u584A",
+          "quantity": 1,
+          "path": "/items/item_iron_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr.png?v=cd1b706c0873591dfa5629f51b718841a5b3c6d038d0dd436a1330399296fe54",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_iron_enr_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

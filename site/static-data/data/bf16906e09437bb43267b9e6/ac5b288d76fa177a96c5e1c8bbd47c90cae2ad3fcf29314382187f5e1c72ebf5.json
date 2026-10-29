@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_dream_bubble_1",
+    "name": "\u986F\u5922",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_dream_bubble_1.png?v=17255f7e0d037ad7d6b2b1be79c938e58c77faf969a1f5cb4694c44fe18e02cc",
+    "sortOrder": 15,
+    "path": "/industry/devices/wiki_item_port_dream_bubble_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "dream_bubble_1",
+  "needPower": false,
+  "width": 1,
+  "depth": 1,
+  "height": 3,
+  "recipes": []
+}

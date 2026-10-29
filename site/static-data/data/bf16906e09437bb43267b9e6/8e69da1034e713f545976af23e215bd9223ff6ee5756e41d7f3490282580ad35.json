@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:liquid_transmuter_2_activity_copper_poly_gas_1",
+    "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u6C23",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_activity_copper_poly_gas.png?v=2ec9de36f435ebe380889dcc3aad0e393248cabae59e8cd98c4a791d7e2818c2",
+    "sortOrder": 8,
+    "path": "/industry/recipes/machine%3Aliquid_transmuter_2_activity_copper_poly_gas_1",
+    "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u9285\u6C23 \u00D7 1",
+    "deviceNames": [
+      "\u56FA\u6C23\u8F49\u5316\u6A5F"
+    ]
+  },
+  "description": "\u5BE6\u9A57\u606F\u58E4\u9285\u6C23\u8F49\u5316",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_copper_poly",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u9320",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly.png?v=53bceed81dd633b53050fe617ee60ee32a48652e6c38e4c1672c9942d8c796e2",
+      "link": "/items/item_activity_copper_poly"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_activity_copper_poly_gas",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u6C23",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly_gas.png?v=2ec9de36f435ebe380889dcc3aad0e393248cabae59e8cd98c4a791d7e2818c2",
+      "link": "/items/item_activity_copper_poly_gas"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_phase_trans_2",
+      "name": "\u56FA\u6C23\u8F49\u5316\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_phase_trans_2.png?v=b2f3f3b76646e0a99e021f2e72230d4c4e1a8c022665775b6f14a60a37c40390",
+      "sortOrder": 11,
+      "path": "/industry/devices/wiki_item_port_phase_trans_2",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

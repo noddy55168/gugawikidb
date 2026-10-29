@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_power_pole_3",
+    "name": "\u606F\u58E4\u4E2D\u7E7C\u5668",
+    "kind": "building",
+    "category": "\u96FB\u529B\u4F9B\u61C9",
+    "iconPath": "/media/wiki/industry/item_port_power_pole_3.png?v=9490fe09414a93e5c94f6216a9972062e2d10488d6b5c0a7fce3d2feeaad369d",
+    "sortOrder": 4,
+    "path": "/industry/devices/wiki_item_port_power_pole_3",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u606F\u58E4\u4E2D\u7E7C\u5668\u662F\u6B66\u9675\u5730\u5340\u7279\u6709\u7684\u8A2D\u5099\uFF0C\u5728\u4E2D\u7E7C\u5668\u539F\u6709\u7684\u96FB\u529B\u50B3\u8F38\u548C\u5C0F\u7BC4\u570D\u4F9B\u96FB\u7684\u529F\u80FD\u57FA\u790E\u4E0A\uFF0C\u53EF\u81EA\u52D5\u9023\u63A580m\u5167\u7684\u5354\u8B70\u6838\u5FC3\u8207\u606F\u58E4\u96FB\u529B\u8A2D\u5099\u3002\n\u5728\u96C6\u6210\u6838\u5FC3\u5340\u57DF\u5167\u53EF\u7121\u8996\u8DDD\u96E2\u9650\u5236\u81EA\u52D5\u9023\u63A5\u5354\u8B70\u6838\u5FC3\u3002\u53EF\u9032\u884C\u96FB\u529B\u50B3\u8F38\u8207\u5C0F\u7BC4\u570D\u4F9B\u96FB\u3002",
+  "sourceId": "power_pole_3",
+  "needPower": true,
+  "width": 3,
+  "depth": 3,
+  "height": 15,
+  "recipes": []
+}

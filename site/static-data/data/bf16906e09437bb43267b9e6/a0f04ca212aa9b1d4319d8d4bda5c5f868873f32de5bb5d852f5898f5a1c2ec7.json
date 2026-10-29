@@ -1,0 +1,134 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_phototaking_universe",
+    "name": "\u942B\u5B87\u9298\u661F\u00B7\u7559\u5F71",
+    "description": "\u6211\u5011\u7684\u5922\u60F3\u3001\u52C7\u6C23\u8207\u707C\u707C\u71C3\u71D2\u7684\u6C42\u77E5\u4E4B\u5FC3\uFF0C\u5982\u4ECA\u5C31\u5728\u7FA4\u661F\u9593\u3002\u7BA1\u7406\u54E1\uFF0C\u8ACB\u60A8\u70BA\u4E4B\u7559\u5F71\u3002",
+    "sourceType": 4,
+    "sortOrder": 8300,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_universe",
+    "tabImageId": "activity_tab_bg_universe",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/24 12:00:00",
+        "closeTimeRaw": "2026/6/5 6:00:00",
+        "openUnixSeconds": 1777003200,
+        "closeUnixSeconds": 1780610400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/4/24 12:00:00",
+        "closeTimeRaw": "2026/6/5 6:00:00",
+        "openUnixSeconds": 1777003200,
+        "closeUnixSeconds": 1780610400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/4/24 12:00:00",
+        "closeTimeRaw": "2026/6/4 17:00:00",
+        "openUnixSeconds": 1777050000,
+        "closeUnixSeconds": 1780610400
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_universe",
+        "name": "\u592A\u7A7A\u4E3B\u984C\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff078"
+  },
+  "instructionId": "activity_phototaking_universe_1",
+  "instructionTitle": "\u300C\u942B\u5B87\u9298\u661F\u00B7\u7559\u5F71\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u4FEE\u7E55\u9032\u5C55\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u7BA1\u7406\u54E1\u53EF\u4EE5\u524D\u5F80\u5E1D\u6C5F\u865F\u7684\u5404\u500B\u6307\u5B9A\u5730\u9EDE\u958B\u555F\u62CD\u7167\u4EFB\u52D9\u3002\n\u00B7 \u6839\u64DA\u63D0\u793A\uFF0C\u5C07\u62CD\u651D\u76EE\u6A19\u6536\u5165\u756B\u9762\u4E2D\uFF0C\u5B8C\u6210\u62CD\u7167\u4EFB\u52D9\u3002\n\u00B7 \u6D3B\u52D5\u671F\u9593\u5171\u67093\u500B\u62CD\u7167\u4EFB\u52D9\uFF0C\u6703\u5728\u6D3B\u52D5\u958B\u555F\u5F8C\u5168\u90E8\u958B\u653E\u3002\n\u00B7 \u5B8C\u6210\u62CD\u7167\u4EFB\u52D9\u5F8C\u5373\u53EF\u9818\u53D6\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_phototaking_universe_unlock_condition_1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u4FEE\u7E55\u9032\u5C55",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_phototaking_universe_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_spaceship_exhibits_universe",
+          "name": "\u555F\u660E\u99D0\u7559\u5E73\u53F0\u6A21\u578B",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 6,
+          "sourceItemId": "item_expcard_stage1_high",
+          "name": "\u9AD8\u7D1A\u4F5C\u6230\u7D00\u9304",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 7,
+          "sourceItemId": "item_char_skill_level_1_6",
+          "name": "\u5354\u8B70\u7A1C\u67F1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

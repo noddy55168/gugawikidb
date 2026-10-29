@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:liquid_transmuter_1_gas_gas_xiranite_enr_1",
+    "name": "\u91CD\u606F\u58E4\u6C23",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_gas_xiranite_enr.png?v=07f92b772698df9eeb38815afcb4cd6cb6381a6d9049c8501d0b05e8ee3bb15a",
+    "sortOrder": 4,
+    "path": "/industry/recipes/machine%3Aliquid_transmuter_1_gas_gas_xiranite_enr_1",
+    "outputSummary": "\u91CD\u606F\u58E4\u6C23 \u00D7 5",
+    "deviceNames": [
+      "\u6DB2\u6C23\u8F49\u5316\u6A5F"
+    ]
+  },
+  "description": "\u91CD\u606F\u58E4\u6C23\u8F49\u5316",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_liquid_xiranite_enr",
+      "name": "\u6DB2\u5316\u91CD\u606F\u58E4",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_liquid_xiranite_enr.png?v=a217f392cfbc921f54e5ad3a1740d868eb45359ee192c0d6d6a35238edd5d073",
+      "link": "/items/item_liquid_xiranite_enr"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_gas_xiranite_enr",
+      "name": "\u91CD\u606F\u58E4\u6C23",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_gas_xiranite_enr.png?v=07f92b772698df9eeb38815afcb4cd6cb6381a6d9049c8501d0b05e8ee3bb15a",
+      "link": "/items/item_gas_xiranite_enr"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_phase_trans_1",
+      "name": "\u6DB2\u6C23\u8F49\u5316\u6A5F",
+      "kind": "building",
+      "category": "\u5408\u6210\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_port_phase_trans_1.png?v=205b4d8e6e53d9ad860ad2bb1574e22f81ad7fa9c0ba34a40543f289e35e4ba0",
+      "sortOrder": 10,
+      "path": "/industry/devices/wiki_item_port_phase_trans_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

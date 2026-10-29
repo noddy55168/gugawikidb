@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_jail_1",
+    "name": "\u864E\u00B7\u7262\u00B7\u95DC",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_jail_1.png?v=755a45c363d8263641a204fcbba12ca2ff021dae7a95eedc4d92fc526f501aec",
+    "sortOrder": 5,
+    "path": "/industry/devices/wiki_item_port_jail_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "jail_1",
+  "needPower": false,
+  "width": 3,
+  "depth": 3,
+  "height": 4,
+  "recipes": []
+}

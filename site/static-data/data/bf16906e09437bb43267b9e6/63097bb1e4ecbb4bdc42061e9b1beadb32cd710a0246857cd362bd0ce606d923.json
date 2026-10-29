@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_battle_turret_3",
+    "name": "\u300C\u66B4\u96E8\u300D\u9283\u68B0\u5854",
+    "kind": "building",
+    "category": "\u6230\u9B25\u8F14\u52A9",
+    "iconPath": "/media/wiki/industry/item_port_battle_turret_3.png?v=aece735944c4b379e018dcac2efdd5c8a0029f06719bf74b3105317abd5bb716",
+    "sortOrder": 17,
+    "path": "/industry/devices/wiki_item_port_battle_turret_3",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u653B\u64CA\u529B\uFF1A10310\n\u653B\u64CA\u9593\u9694\uFF1A2\u79D2\n\u653B\u64CA\u7BC4\u570D\uFF1A18m",
+  "sourceId": "battle_turret_3",
+  "needPower": true,
+  "width": 2,
+  "depth": 2,
+  "height": 4,
+  "recipes": []
+}

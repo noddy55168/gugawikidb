@@ -1,0 +1,67 @@
+{
+  "entry": {
+    "key": "manual:hdwk_lbmob_1_dog_1_moss_1_1",
+    "name": "\u585E\u4EC0\u5361\u98A8\u8089\u6392",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_lbmob_1_dog_1_moss_1_1.png?v=71d6da5e6faccd7638f901bf83450a5bb32620221d0f681edf54f87d71e643cf",
+    "sortOrder": 68,
+    "path": "/industry/recipes/manual%3Ahdwk_lbmob_1_dog_1_moss_1_1",
+    "outputSummary": "\u585E\u4EC0\u5361\u98A8\u8089\u6392 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_drop_lbmob_1",
+      "name": "\u8349\u7C7D\u4E7E\u7C89",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_lbmob_1.png?v=fef01c9a46a227dc6fa1e2af05ab8ee171aac1c4117b7bcc7d9f85327eab7f7f",
+      "link": "/items/item_drop_lbmob_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_dog_1",
+      "name": "\u7378\u8089",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+      "link": "/items/item_drop_dog_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_plant_moss_powder_1",
+      "name": "\u854E\u82B1\u7C89\u672B",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+      "link": "/items/item_plant_moss_powder_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_lbmob_1_dog_1_moss_1_1",
+      "name": "\u585E\u4EC0\u5361\u98A8\u8089\u6392",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_lbmob_1_dog_1_moss_1_1.png?v=71d6da5e6faccd7638f901bf83450a5bb32620221d0f681edf54f87d71e643cf",
+      "link": "/items/item_lbmob_1_dog_1_moss_1_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_lbmob_1_dog_1_moss_1_1",
+      "name": "\u585E\u4EC0\u5361\u98A8\u8089\u6392\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_lbmob_1_dog_1_moss_1_1.png?v=71d6da5e6faccd7638f901bf83450a5bb32620221d0f681edf54f87d71e643cf",
+      "link": null
+    }
+  ],
+  "devices": []
+}

@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "wiki_item_port_gas_reactor_1",
+    "name": "\u6C23\u9AD4\u53CD\u61C9\u7210",
+    "kind": "building",
+    "category": "\u5408\u6210\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_port_gas_reactor_1.png?v=d20f36b8ffb7800e0da0c80270afaf7a06e15f1fa05a1f256def0f339d5372e9",
+    "sortOrder": 13,
+    "path": "/industry/devices/wiki_item_port_gas_reactor_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u80FD\u5920\u9032\u884C\u6C23\u9AD4\u8207\u6C23\u9AD4\u9593\u53CD\u61C9\u7684\u8A2D\u5099\u3002",
+  "sourceId": "gas_reactor_1",
+  "needPower": true,
+  "width": 5,
+  "depth": 5,
+  "height": 5,
+  "recipes": [
+    {
+      "key": "machine:gas_reactor_activity_copper_poly_gas_1",
+      "name": "\u5BE6\u9A57\u606F\u58E4\u9285\u6C23",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_activity_copper_poly_gas.png?v=2ec9de36f435ebe380889dcc3aad0e393248cabae59e8cd98c4a791d7e2818c2",
+      "sortOrder": 2,
+      "path": "/industry/recipes/machine%3Agas_reactor_activity_copper_poly_gas_1",
+      "outputSummary": "\u5BE6\u9A57\u606F\u58E4\u9285\u6C23 \u00D7 1",
+      "deviceNames": [
+        "\u6C23\u9AD4\u53CD\u61C9\u7210"
+      ]
+    },
+    {
+      "key": "machine:gas_reactor_gas_copper_enr2_1",
+      "name": "\u6C23\u614B\u707C\u9285",
+      "kind": "machine",
+      "category": "\u5DE5\u696D\u88FD\u9020",
+      "iconPath": "/media/wiki/industry/item_gas_copper_enr2.png?v=c9bc241963f17c49ee5d362c885c01617351ab2e3b2f30a1aee6c80574813a0d",
+      "sortOrder": 1,
+      "path": "/industry/recipes/machine%3Agas_reactor_gas_copper_enr2_1",
+      "outputSummary": "\u6C23\u614B\u707C\u9285 \u00D7 1",
+      "deviceNames": [
+        "\u6C23\u9AD4\u53CD\u61C9\u7210"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_map02_guide_006",
+    "name": "\u5C0B\u528D\u5E7D\u8C37",
+    "description": "\u5927\u6F6E\u9000\u53BB\uFF0C\u5931\u843D\u4E4B\u7269\u91CD\u73FE\u65BC\u4E16\uFF0C\u9752\u5C71\u4E4B\u4E2D\u6216\u6709\u6A5F\u5DE7\u91CD\u5668\uFF0C\u53C8\u6216\u6709\u528D\u5149\u5C04\u6597\u2026\u2026\u64A5\u96F2\u898B\u65E5\uFF0C\u5C31\u5728\u6B64\u6642\u3002",
+    "sourceType": 13,
+    "sortOrder": 8004,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_guide_zhujiangu",
+    "tabImageId": "activity_tab_bg_guidezhujiangu",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/5 7:00:00",
+        "closeTimeRaw": "2026/6/26 12:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1782446400
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/5 7:00:00",
+        "closeTimeRaw": "2026/6/26 12:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1782446400
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/6/4 18:00:00",
+        "closeTimeRaw": "2026/6/26 12:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1782493200
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_guide",
+        "name": "\u5F15\u5165\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#4fd28a"
+  },
+  "instructionId": "activity_guide_zhujiangu",
+  "instructionTitle": "\u300C\u5C0B\u528D\u5E7D\u8C37\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u5728\u652F\u7DDA\u4EFB\u52D9\u300C\u85CF\u528D\u65BC\u8C37\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u524D\u5F80\u85CF\u528D\u8C37\u300D\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6III - \u820A\u6CC9\u6DB8\u8655\u65B0\u6F6E\u751F\u300D\u5F8C\uFF0C\u53EF\u958B\u555F\u4EFB\u52D9\u300C\u85CF\u528D\u65BC\u8C37\u300D\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u6D3B\u52D5\u671F\u9593\uFF0C\u8ACB\u7BA1\u7406\u54E1\u524D\u5F80\u6B66\u9675\u5730\u5340\u7684\u300C\u85CF\u528D\u8C37\u300D\u5340\u57DF\uFF0C\u5B8C\u6210\u76F8\u95DC\u6D3B\u52D5\u4EFB\u52D9\uFF0C\u5373\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_guide_zhujiangu_unlockmain",
+      "sourceType": 18,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5728\u652F\u7DDA\u4EFB\u52D9\u300C\u85CF\u528D\u65BC\u8C37\u300D\u4E2D\uFF0C\u5B8C\u6210\u300C\u524D\u5F80\u85CF\u528D\u8C37\u300D\uFF08\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\u300C\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6III - \u820A\u6CC9\u6DB8\u8655\u65B0\u6F6E\u751F\u300D\u5F8C\u53EF\u958B\u555F\u5C0D\u61C9\u4EFB\u52D9\uFF09",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_activity_guide_zhujiangu_overview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1200,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 7,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

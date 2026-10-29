@@ -1,0 +1,808 @@
+{
+  "sourceItemId": "item_crystal_shell",
+  "name": "\u6676\u9AD4\u5916\u6BBC",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+  "summary": "\u6E90\u77F3\u6676\u9AD4\u5916\u6BBC\u7684\u539A\u5EA6\u901A\u5E38\u53EF\u4EE5\u4F5C\u70BA\u5224\u65B7\u4E00\u689D\u7926\u8108\u5B58\u7E8C\u6642\u9593\u7684\u91CD\u8981\u4F9D\u64DA\u3002",
+  "description": "\u6E90\u77F3\u52A0\u5DE5\u6642\u525D\u96E2\u7684\u5916\u6BBC\u90E8\u5206\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002"
+  ],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_crystal_powder",
+      "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+      "iconPath": "/media/wiki/catalogs/items/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_equip_script_1",
+      "name": "\u7D2B\u6676\u88DD\u5099\u539F\u4EF6",
+      "iconPath": "/media/wiki/catalogs/items/item_equip_script_1.png?v=80a755674b11125a28c819fe31b34c6d2fc036e1f3ca9297495cab6f89312bb0",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_port_grinder_1",
+      "name": "\u7C89\u788E\u6A5F",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_body_01/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_body_01",
+          "name": "\u7C21\u6613\u8B77\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_body_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_body_01.png?v=404bd6189fd35b71dc6e4f28a4b4e1bbfe183231b8af61d94f06925b4fb1dec9",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_body_02/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_body_02",
+          "name": "\u7C21\u6613\u8B77\u670D",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_body_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_body_02.png?v=098b14e1c5ba993415cd2aad10bacdc654709df87a9eee30c38d4e2d9763916c",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_hand_01/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_hand_01",
+          "name": "\u7C21\u6613\u624B\u7532",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_hand_01",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_hand_01.png?v=e922c52e0e1af7ba7d760461a63772646889af17d24f55de8212fd26830e29ce",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "EquipFormulaTable/item_formu_t0_parts_tundra01_hand_02/\u6750\u6599\u7528\u9014/1005",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u88DD\u5099\u88FD\u4F5C",
+      "description": "\u9810\u8A2D\u6750\u6599\u65B9\u6848",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_tundra_wood",
+          "name": "\u539F\u6728",
+          "quantity": 2,
+          "path": "/items/item_plant_tundra_wood",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_tundra_wood.png?v=7e9450e4deb457da5550d320b75bcec219f44b2ab0be534b0dd7275babaaee53",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_t0_parts_tundra01_hand_02",
+          "name": "\u7C21\u6613\u8B77\u624B",
+          "quantity": 1,
+          "path": "/equipment/item_equip_t0_parts_tundra01_hand_02",
+          "iconPath": "/media/wiki/catalogs/equipment/item_equip_t0_parts_tundra01_hand_02.png?v=b5643cd02f667b68ecdc593d14df2c0548a7ca0607ce889a1bc6a85f96a2e870",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_medic_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 20,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_medic_1",
+          "name": "\u91AB\u7642\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_medic_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_turret_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_turret_1",
+          "name": "\u9283\u68B0\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_turret_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/component_mc_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_cmpt_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Acomponent_mc_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/grinder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 5,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Agrinder_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/miner_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 5,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_miner_1",
+          "name": "\u4FBF\u651C\u5F0F\u6E90\u77F3\u7926\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Aminer_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/miner_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_miner_1",
+          "name": "\u4FBF\u651C\u5F0F\u6E90\u77F3\u7926\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 5,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_miner_2",
+          "name": "\u96FB\u9A45\u7926\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Aminer_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/power_pole_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 20,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_power_pole_2",
+          "name": "\u4E2D\u7E7C\u5668",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Apower_pole_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/power_station_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_glass_cmpt",
+          "name": "\u7D2B\u6676\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_glass_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_glass_cmpt.png?v=9a1040abe0650edf963e2ffb8a6730aab77735b9ca474eed796665ebe9e52ff1",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_power_sta_1",
+          "name": "\u71B1\u80FD\u6C60",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Apower_station_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/shaper_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_shaper_1",
+          "name": "\u5851\u5F62\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Ashaper_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/storager_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 20,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_storager_1",
+          "name": "\u5354\u8B70\u5132\u5B58\u7BB1",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Astorager_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/winder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Awinder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_crystal_powder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 1,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_powder",
+          "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_crystal_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_crystal_powder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 5,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_quartz_glass",
+          "name": "\u7D2B\u6676\u7E96\u7DAD",
+          "quantity": 5,
+          "path": "/items/item_quartz_glass",
+          "iconPath": "/media/wiki/catalogs/items/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_1",
+          "name": "\u7D2B\u6676\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_1",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_1.png?v=80a755674b11125a28c819fe31b34c6d2fc036e1f3ca9297495cab6f89312bb0",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/winder_equip_script_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 10,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_nugget",
+          "name": "\u85CD\u9435\u584A",
+          "quantity": 10,
+          "path": "/items/item_iron_nugget",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_nugget.png?v=d39b6f612be9da225834b7dc5cf14bb986cdc32624bca1b284a99bd8ef28d26b",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_equip_script_2",
+          "name": "\u85CD\u9435\u88DD\u5099\u539F\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_equip_script_2",
+          "iconPath": "/media/wiki/catalogs/items/item_equip_script_2.png?v=b09c21c9a56caf489236f1b017a307e152c3de0b626ff55b20ebc8271063a2d1",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "winder_1",
+          "name": "\u88DD\u5099\u539F\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_winder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Awinder_equip_script_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_crystal_shell_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_ore",
+          "name": "\u6E90\u7926",
+          "quantity": 1,
+          "path": "/items/item_originium_ore",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_ore.png?v=44a2ff730a942a5c6aa90e99bf4e99c680d98821df3f5e4c69618cc40fa29000",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 1,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_crystal_shell_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/furnance_crystal_shell_2/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_powder",
+          "name": "\u6676\u9AD4\u5916\u6BBC\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_crystal_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_powder.png?v=d44acdd080f4823d761f6430ffc9b934e93f45e5663639ee0fdc5ef51bf2849d",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_crystal_shell",
+          "name": "\u6676\u9AD4\u5916\u6BBC",
+          "quantity": 1,
+          "path": "/items/item_crystal_shell",
+          "iconPath": "/media/wiki/catalogs/items/item_crystal_shell.png?v=2ea3ea512220fcbdfa8062e17056b62f73229f04dc9ce65527aedc4094d9a7fa",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "furnance_1",
+          "name": "\u7CBE\u7149\u7210",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_furnance_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Afurnance_crystal_shell_2"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

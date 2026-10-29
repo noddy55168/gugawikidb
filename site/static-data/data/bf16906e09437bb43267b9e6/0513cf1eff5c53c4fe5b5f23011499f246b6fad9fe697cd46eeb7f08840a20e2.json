@@ -1,0 +1,47 @@
+{
+  "entry": {
+    "key": "manual:item_arrow_chip_bomb",
+    "name": "\u71C3\u677E\u4E4B\u8102",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_arrow_chip_bomb.png?v=f47eb743e641907f81bbe68863abb8034f4a0af02f3544f501a0684b9c8c7b2a",
+    "sortOrder": 210,
+    "path": "/industry/recipes/manual%3Aitem_arrow_chip_bomb",
+    "outputSummary": "\u71C3\u677E\u4E4B\u8102 \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 10,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_arrow_chip_bomb",
+      "name": "\u71C3\u677E\u4E4B\u8102",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_arrow_chip_bomb.png?v=f47eb743e641907f81bbe68863abb8034f4a0af02f3544f501a0684b9c8c7b2a",
+      "link": "/items/item_arrow_chip_bomb"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_arrow_chip_bomb",
+      "name": "\u71C3\u677E\u4E4B\u8102\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_arrow_chip_bomb.png?v=f47eb743e641907f81bbe68863abb8034f4a0af02f3544f501a0684b9c8c7b2a",
+      "link": null
+    }
+  ],
+  "devices": []
+}

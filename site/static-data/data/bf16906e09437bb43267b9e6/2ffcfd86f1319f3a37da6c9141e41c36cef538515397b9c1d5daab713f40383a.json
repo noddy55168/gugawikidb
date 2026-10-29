@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:component_copper_enr2_cmpt_1",
+    "name": "\u707C\u9285\u96F6\u4EF6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+    "sortOrder": 8,
+    "path": "/industry/recipes/machine%3Acomponent_copper_enr2_cmpt_1",
+    "outputSummary": "\u707C\u9285\u96F6\u4EF6 \u00D7 1",
+    "deviceNames": [
+      "\u914D\u4EF6\u6A5F"
+    ]
+  },
+  "description": "\u707C\u9285\u96F6\u4EF6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2",
+      "name": "\u707C\u9285\u584A",
+      "quantity": 5,
+      "iconPath": "/media/wiki/industry/item_copper_enr2.png?v=1ea4d83f09abc6fa6225f196ddef2bbc89340e2fc540feff220e8245e3dbf872",
+      "link": "/items/item_copper_enr2"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_enr2_cmpt",
+      "name": "\u707C\u9285\u96F6\u4EF6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_enr2_cmpt.png?v=032a80ac01a3522d546421685a3c52ca0cf6d2454e3c36e3331859a9f2979aa5",
+      "link": "/items/item_copper_enr2_cmpt"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_cmpt_mc_1",
+      "name": "\u914D\u4EF6\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_cmpt_mc_1.png?v=50e0cd6f0541699b31cf921cde2def09a0f2fb1850433b536cc7437613af9c9e",
+      "sortOrder": 3,
+      "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

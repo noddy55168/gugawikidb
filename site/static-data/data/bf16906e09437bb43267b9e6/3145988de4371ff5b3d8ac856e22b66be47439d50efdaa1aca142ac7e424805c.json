@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "sourceActivityId": "CharacterGuide_mifu",
+    "name": "\u4EE5\u62F3\u554F\u5FC3",
+    "description": "\u5F2D\u5F17\u5FFD\u7136\u7D04\u4F60\u524D\u5F80\u7E3D\u6A01\u8FA6\u516C\u5BA4\u6703\u5408\u3002\u5979\u4F3C\u4E4E\u6709\u9EDE\u8457\u6025\uFF0C\u4E0D\u5FA9\u5F80\u65E5\u7684\u6C89\u8457\u2014\u2014\u6B66\u9675\u5230\u5E95\u767C\u751F\u4E86\u4EC0\u9EBC\uFF1F",
+    "sourceType": 10,
+    "sortOrder": 3006,
+    "detailCoverage": "basic",
+    "timeId": "time_CharacterGuide_mifu",
+    "tabImageId": "bg_activity_tab_char_guide_mifu",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/5 7:00:00",
+        "closeTimeRaw": "2026/7/16 6:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1784152800
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/6/5 7:00:00",
+        "closeTimeRaw": "2026/7/16 6:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1784152800
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/6/4 18:00:00",
+        "closeTimeRaw": "2026/7/15 17:00:00",
+        "openUnixSeconds": 1780614000,
+        "closeUnixSeconds": 1784152800
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_story",
+        "name": "\u6558\u4E8B\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#e3245c"
+  },
+  "instructionId": "CharacterGuide_mifu",
+  "instructionTitle": "\u300C\u4EE5\u62F3\u554F\u5FC3\u300D\u63A8\u85A6\u4EFB\u52D9\u8AAA\u660E",
+  "instructionContent": "\u5168\u65B0\u652F\u7DDA\u4EFB\u52D9\u300C\u4EE5\u62F3\u554F\u5FC3\u300D\u5DF2\u958B\u653E\uFF0C\u5B8C\u6210\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002\n\n- \u4EFB\u52D9\u63A5\u53D6\u689D\u4EF6 -\n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6VI - \u5FD7\u540C\u9053\u5408\n\n- \u4ECB\u9762\u95DC\u9589\u8AAA\u660E -\n\u00B7 \u672C\u63A8\u85A6\u4ECB\u9762\u70BA\u9650\u6642\u5C55\u793A\uFF0C\u5C07\u65BC\u4E0B\u6B21\u7248\u672C\u66F4\u65B0\u7DAD\u8B77\u5F8C\u95DC\u9589\u3002\n\u00B7 \u300C\u4EE5\u62F3\u554F\u5FC3\u300D\u70BA\u6C38\u4E45\u958B\u653E\u4EFB\u52D9\uFF0C\u4ECB\u9762\u95DC\u9589\u5F8C\u7BA1\u7406\u54E1\u4ECD\u53EF\u96A8\u6642\u63A5\u53D6\u4E26\u5B8C\u6210\u8A72\u4EFB\u52D9\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "CharacterGuide_mifu_unlock1",
+      "sourceType": 19,
+      "compareOperator": 3,
+      "target": 1,
+      "description": "\u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E8C\u7AE0 - \u9032\u5EA6VI - \u5FD7\u540C\u9053\u5408",
+      "tips": "\u76EE\u524D\u4E3B\u7DDA\u4EFB\u52D9\u9032\u5EA6\uFF1A\u300C%s\u300D"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_CharacterGuide_mifu",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 600,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_expcard_stage2_low",
+          "name": "\u521D\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_weapon_expcard_high",
+          "name": "\u6B66\u5668\u6AA2\u67E5\u5957\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

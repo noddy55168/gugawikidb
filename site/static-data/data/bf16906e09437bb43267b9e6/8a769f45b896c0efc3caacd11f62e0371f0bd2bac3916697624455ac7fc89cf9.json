@@ -1,0 +1,236 @@
+{
+  "sourceItemId": "item_drop_wgslime_1",
+  "name": "\u5805\u97CC\u7684\u6C34",
+  "rarity": 1,
+  "category": "\u63A1\u96C6\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+  "summary": "\u5947\u602A\u7684\u6C34\u3002\u660E\u660E\u6210\u5206\u50C5\u6709\u6C34\uFF0C\u89F8\u6478\u8D77\u4F86\u537B\u6709\u8457\u5947\u602A\u7684\u81A0\u8CEA\u611F\uFF0C\u6216\u8A31\u662F\u5929\u4F7F\u5F62\u6210\u904E\u7A0B\u4E2D\u7684\u4EC0\u9EBC\uFF0C\u8B93\u5B83\u7522\u751F\u4E86\u5982\u6B64\u5947\u5999\u7684\u8B8A\u5316\u3002",
+  "description": "\u64CA\u6557\u6FC1\u6D41\u5929\u4F7F\u7684\u6389\u843D\u7269\uFF0C\u53EF\u7528\u65BC\u7CBE\u88FD\u98DF\u85E5\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u4E2D\u64CA\u6557\u6575\u4EBA\u7372\u5F97\u3002",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_eny_0087_wgslime",
+      "description": "\u64CA\u6557\u6FC1\u6D41\u5929\u4F7F\u6709\u6A5F\u7387\u6389\u843D",
+      "condition": null
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_jlebm_grass1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/hdwk_corp4_spc/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgslime_1",
+          "name": "\u5805\u97CC\u7684\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgslime_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_4",
+          "name": "\u91D1\u77F3\u7A3B",
+          "quantity": 2,
+          "path": "/items/item_plant_sp_4",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp4_spc",
+          "name": "\u7F85\u5FB7\u5CF6\u7279\u88FD\u53E3\u7CE7",
+          "quantity": 1,
+          "path": "/items/item_corp4_spc",
+          "iconPath": "/media/wiki/catalogs/items/item_corp4_spc.png?v=ac140542470b3a2a1a0d753a2df3a6bcfab46cfb92c3caff27da996f71247568",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_corp4_spc"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_ethillu_1_wgslime_1_wgthorns_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_ethillu_1",
+          "name": "\u8FF4\u97FF\u5875\u57C3",
+          "quantity": 1,
+          "path": "/items/item_drop_ethillu_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_ethillu_1.png?v=c6389ed3bb50574c76677b3d20b4b6494944988167a6a92faf49403bea6519cc",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgslime_1",
+          "name": "\u5805\u97CC\u7684\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgslime_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgthorns_1",
+          "name": "\u5929\u7136\u6C23\u6CE1\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgthorns_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgthorns_1.png?v=ae4b5da9c56c44e74971dd3ccdb8c801e4f854eefabfb6e0ed26e6a16230df85",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_ethillu_1_wgslime_1_wgthorns_1_1",
+          "name": "\u8FF4\u97FF\u79D8\u5291",
+          "quantity": 1,
+          "path": "/items/item_ethillu_1_wgslime_1_wgthorns_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_ethillu_1_wgslime_1_wgthorns_1_1.png?v=e2b9dd6353914514b84af7e2905efe85eca795865a1763a383da22534192e637",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_ethillu_1_wgslime_1_wgthorns_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_wgslime_1_hsmob_1_grass_2_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgslime_1",
+          "name": "\u5805\u97CC\u7684\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgslime_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 1,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_grass_powder_2",
+          "name": "\u82BD\u91DD\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_grass_powder_2",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_grass_powder_2.png?v=a49064881b23daa5ad78cfdf5d45c872c450c9b26f00e5670eade653db74b553",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_wgslime_1_hsmob_1_grass_2_1",
+          "name": "\u9F8D\u6CE1\u6CE1\u852C\u83DC\u51CD",
+          "quantity": 1,
+          "path": "/items/item_wgslime_1_hsmob_1_grass_2_1",
+          "iconPath": "/media/wiki/catalogs/items/item_wgslime_1_hsmob_1_grass_2_1.png?v=31cd1bb04723fa5121a6a295f6e0bfd38508358283ee9736089cad2dd3639206",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_wgslime_1_hsmob_1_grass_2_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_wgslime_1_wgthorns_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgslime_1",
+          "name": "\u5805\u97CC\u7684\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgslime_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgslime_1.png?v=82a1ef31ebf3ce6464b8c5ea263ddc13b1c807e1f960aaf9b67637f0fb0fc5a3",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_wgthorns_1",
+          "name": "\u5929\u7136\u6C23\u6CE1\u6C34",
+          "quantity": 1,
+          "path": "/items/item_drop_wgthorns_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_wgthorns_1.png?v=ae4b5da9c56c44e74971dd3ccdb8c801e4f854eefabfb6e0ed26e6a16230df85",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_wgslime_1_wgthorns_1_1",
+          "name": "\u795E\u79D8\u6C23\u6CE1\u98F2\u6599",
+          "quantity": 1,
+          "path": "/items/item_wgslime_1_wgthorns_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_wgslime_1_wgthorns_1_1.png?v=6f4b65f6610dd876487c082aef9eef709164503644444c5209ef8016d474935a",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_wgslime_1_wgthorns_1_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

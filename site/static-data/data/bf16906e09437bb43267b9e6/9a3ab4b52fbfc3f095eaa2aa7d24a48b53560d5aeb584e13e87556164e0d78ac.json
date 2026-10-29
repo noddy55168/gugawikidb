@@ -1,0 +1,57 @@
+{
+  "entry": {
+    "key": "manual:handwork_corp4_animal_1",
+    "name": "\u6B66\u9675\u7092\u98EF",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_corp4_animal_1.png?v=496ed277ab718632ebcfaf4f2e73916419b595e6e40c57add8f2df466777d891",
+    "sortOrder": 1,
+    "path": "/industry/recipes/manual%3Ahandwork_corp4_animal_1",
+    "outputSummary": "\u6B66\u9675\u7092\u98EF \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_plant_sp_4",
+      "name": "\u91D1\u77F3\u7A3B",
+      "quantity": 8,
+      "iconPath": "/media/wiki/industry/item_plant_sp_4.png?v=d7fcf8ab840c54764a87eef36e5506192819e7284f3f4a3cf2daca88a04b4a38",
+      "link": "/items/item_plant_sp_4"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_drop_dog_1",
+      "name": "\u7378\u8089",
+      "quantity": 4,
+      "iconPath": "/media/wiki/industry/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+      "link": "/items/item_drop_dog_1"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp4_animal_1",
+      "name": "\u6B66\u9675\u7092\u98EF",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp4_animal_1.png?v=496ed277ab718632ebcfaf4f2e73916419b595e6e40c57add8f2df466777d891",
+      "link": "/items/item_corp4_animal_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_formula_corp4_animal_1",
+      "name": "\u6B66\u9675\u7092\u98EF\u914D\u65B9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp4_animal_1.png?v=496ed277ab718632ebcfaf4f2e73916419b595e6e40c57add8f2df466777d891",
+      "link": null
+    }
+  ],
+  "devices": []
+}

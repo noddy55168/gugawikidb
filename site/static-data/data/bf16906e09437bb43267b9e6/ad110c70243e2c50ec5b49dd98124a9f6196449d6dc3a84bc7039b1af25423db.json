@@ -1,0 +1,51 @@
+{
+  "entry": {
+    "key": "machine:shaper_glass_bottle_1",
+    "name": "\u7D2B\u6676\u8CEA\u74F6",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+    "sortOrder": 2,
+    "path": "/industry/recipes/machine%3Ashaper_glass_bottle_1",
+    "outputSummary": "\u7D2B\u6676\u8CEA\u74F6 \u00D7 1",
+    "deviceNames": [
+      "\u5851\u5F62\u6A5F"
+    ]
+  },
+  "description": "\u7D2B\u6676\u8CEA\u74F6\u751F\u7522",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_quartz_glass",
+      "name": "\u7D2B\u6676\u7E96\u7DAD",
+      "quantity": 2,
+      "iconPath": "/media/wiki/industry/item_quartz_glass.png?v=c0ec4a8c9e5eaada6506967d562cebd7750128b6848d401f1e599b9466e494d4",
+      "link": "/items/item_quartz_glass"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_glass_bottle",
+      "name": "\u7D2B\u6676\u8CEA\u74F6",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_glass_bottle.png?v=457620b0f1ddd7c60b346d1ef768f9dd36ca5bfa6882884273d2843553628757",
+      "link": "/items/item_glass_bottle"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_shaper_1",
+      "name": "\u5851\u5F62\u6A5F",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_shaper_1.png?v=e2566298e52a05123bbad144c04a47c370a8dedfa59df9366d89a5f707aa805e",
+      "sortOrder": 4,
+      "path": "/industry/devices/wiki_item_port_shaper_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_port_chubby_lung_balloon_1",
+    "name": "\u9F8D\u6CE1\u6CE1\u6C23\u7403",
+    "kind": "building",
+    "category": "\u88DD\u98FE\u7269\u54C1",
+    "iconPath": "/media/wiki/industry/item_port_chubby_lung_balloon_1.png?v=1a1d2e85e9c7ed9d2bed155412f26fdc1afcdeb6a49272ccb768b69906602e79",
+    "sortOrder": 4,
+    "path": "/industry/devices/wiki_item_port_chubby_lung_balloon_1",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u53EF\u653E\u7F6E\u7684\u88DD\u98FE\u7269\u54C1\u3002",
+  "sourceId": "chubby_lung_balloon_1",
+  "needPower": false,
+  "width": 5,
+  "depth": 5,
+  "height": 5,
+  "recipes": []
+}

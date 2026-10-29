@@ -1,0 +1,71 @@
+{
+  "entry": {
+    "key": "machine:furnance_copper_nugget_1",
+    "name": "\u8D64\u9285\u584A\u3001\u6C59\u6C34",
+    "kind": "machine",
+    "category": "\u5DE5\u696D\u88FD\u9020",
+    "iconPath": "/media/wiki/industry/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+    "sortOrder": 1,
+    "path": "/industry/recipes/machine%3Afurnance_copper_nugget_1",
+    "outputSummary": "\u8D64\u9285\u584A \u00D7 1\u3001\u6C59\u6C34 \u00D7 1",
+    "deviceNames": [
+      "\u7CBE\u7149\u7210"
+    ]
+  },
+  "description": "\u8D64\u9285\u584A\u751F\u7522\uFF08\u6DB2\u9AD4\uFF09",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_ore",
+      "name": "\u8D64\u9285\u7926",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_ore.png?v=2916d492a2191a3d2f23bd443e02e11139eadbc3095b93668fedb13cd5388722",
+      "link": "/items/item_copper_ore"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_water",
+      "name": "\u6E05\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+      "link": "/items/item_liquid_water"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_copper_nugget",
+      "name": "\u8D64\u9285\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_copper_nugget.png?v=1f1b8a72905246876f728ad38fedc4b2eef8f8640fbaf2f27934ff88e16f9fab",
+      "link": "/items/item_copper_nugget"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_liquid_sewage",
+      "name": "\u6C59\u6C34",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_liquid_sewage.png?v=950744ca970fa0d0d524f2c33d6790dfd5407dd31e56d777e3786eb29f3cf661",
+      "link": "/items/item_liquid_sewage"
+    }
+  ],
+  "devices": [
+    {
+      "key": "wiki_item_port_furnance_1",
+      "name": "\u7CBE\u7149\u7210",
+      "kind": "building",
+      "category": "\u57FA\u790E\u751F\u7522",
+      "iconPath": "/media/wiki/industry/item_port_furnance_1.png?v=fe587cb85015af4f97013b92155ea4862e0addbaa04835879626a070d92c35a9",
+      "sortOrder": 1,
+      "path": "/industry/devices/wiki_item_port_furnance_1",
+      "outputSummary": "",
+      "deviceNames": []
+    }
+  ]
+}

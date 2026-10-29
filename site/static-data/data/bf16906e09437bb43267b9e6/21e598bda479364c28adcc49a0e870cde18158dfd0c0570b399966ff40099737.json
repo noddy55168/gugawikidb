@@ -1,0 +1,319 @@
+{
+  "sourceItemId": "item_iron_enr_cmpt",
+  "name": "\u92FC\u88FD\u96F6\u4EF6",
+  "rarity": 3,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+  "summary": "\u5177\u5099\u4E00\u5B9A\u901A\u7528\u6027\u7684\u92FC\u88FD\u96F6\u4EF6\u3002",
+  "description": "\u92FC\u584A\u7D93\u52A0\u5DE5\u5F8C\u6210\u578B\u7684\u96F6\u4EF6\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u6216\u8A2D\u5099\u88FD\u9020\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [
+    {
+      "sourceId": "condition_item_obtain_noway_tech_cmpt",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u5DE5\u696D\u6280\u8853\u300C\u96F6\u4EF6\u88FD\u9020\u300D",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_iron",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u85CD\u9435\u7926\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    },
+    {
+      "sourceId": "condition_item_obtain_noway_item_moss_3",
+      "kind": "leaf",
+      "text": "\u89E3\u9396\u300C\u7802\u8449\u300D\u5716\u9451",
+      "resolved": true,
+      "children": []
+    }
+  ],
+  "unlockHints": [
+    "\u89E3\u9396\u96F6\u4EF6\u88FD\u9020\u5DE5\u696D\u6280\u8853",
+    "\u7372\u5F97\u85CD\u9435\u7926\u5F8C\u89E3\u9396",
+    "\u7372\u5F97\u7802\u8449\u5F8C\u89E3\u9396"
+  ],
+  "obtainWays": [],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_proc_battery_3",
+      "name": "\u9AD8\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+      "iconPath": "/media/wiki/catalogs/items/item_proc_battery_3.png?v=9f8979d3d649b27e8ede44b152fc7e7bd677a92d9c5e9a393f022bfcefa785e8",
+      "hasDetail": true,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_port_battle_sniper_1",
+      "name": "\u54E8\u6212\u5854",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_port_battle_cannon_2",
+      "name": "\u9AD8\u7206\u69B4\u5F48\u5854",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryHubCraftTable/battle_cannon_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_cannon_2",
+          "name": "\u9AD8\u7206\u69B4\u5F48\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_cannon_2"
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_fog_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_fog_1",
+          "name": "\u300C\u6BD2\u6CBC\u300DMK-I",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_fog_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_laser_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_laser_1",
+          "name": "\u5C04\u7DDA\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_laser_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_lightning_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_lightning_1",
+          "name": "\u96FB\u6E67\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_lightning_1"
+    },
+    {
+      "key": "FactoryHubCraftTable/battle_sniper_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5EFA\u7BC9\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 20,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_battle_sniper_1",
+          "name": "\u54E8\u6212\u5854",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/hub%3Abattle_sniper_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/tools_proc_battery_3_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 10,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_originium_enr_powder",
+          "name": "\u7DFB\u5BC6\u6E90\u77F3\u7C89\u672B",
+          "quantity": 15,
+          "path": "/items/item_originium_enr_powder",
+          "iconPath": "/media/wiki/catalogs/items/item_originium_enr_powder.png?v=72bd1710dfdd76925428c819d56c780b3cf1d83cec1eefc9c95bea1fadd13e43",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_proc_battery_3",
+          "name": "\u9AD8\u5BB9\u91CF\u8C37\u5730\u96FB\u6C60",
+          "quantity": 1,
+          "path": "/items/item_proc_battery_3",
+          "iconPath": "/media/wiki/catalogs/items/item_proc_battery_3.png?v=9f8979d3d649b27e8ede44b152fc7e7bd677a92d9c5e9a393f022bfcefa785e8",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "tools_assebling_mc_1",
+          "name": "\u5C01\u88DD\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_tools_asm_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Atools_proc_battery_3_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/component_iron_enr_cmpt_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr",
+          "name": "\u92FC\u584A",
+          "quantity": 1,
+          "path": "/items/item_iron_enr",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr.png?v=cd1b706c0873591dfa5629f51b718841a5b3c6d038d0dd436a1330399296fe54",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_iron_enr_cmpt",
+          "name": "\u92FC\u88FD\u96F6\u4EF6",
+          "quantity": 1,
+          "path": "/items/item_iron_enr_cmpt",
+          "iconPath": "/media/wiki/catalogs/items/item_iron_enr_cmpt.png?v=5a619b18641a158ad85940a1f64dfd946f2dccdddcaea6a5f61ff66cbc6f2c82",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "component_mc_1",
+          "name": "\u914D\u4EF6\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_cmpt_mc_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Acomponent_iron_enr_cmpt_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

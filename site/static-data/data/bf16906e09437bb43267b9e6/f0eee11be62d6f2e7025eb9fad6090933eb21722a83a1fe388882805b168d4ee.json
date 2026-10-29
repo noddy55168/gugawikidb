@@ -1,0 +1,438 @@
+{
+  "sourceItemId": "item_plant_sp_1",
+  "name": "\u7070\u8606\u9EA5",
+  "rarity": 2,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+  "summary": "\u7070\u8606\u9EA5\u6613\u65BC\u7A2E\u690D\uFF0C\u7522\u91CF\u8F03\u8DB3\uFF0C\u662F\u958B\u62D3\u5340\u6C11\u773E\u7684\u4E3B\u7CE7\u3002",
+  "description": "\u900F\u904E\u7CBE\u7D30\u7A2E\u690D\u624D\u80FD\u57F9\u80B2\u7684\u4F5C\u7269\uFF0C\u53EF\u76F4\u63A5\u7528\u65BC\u73CD\u8CB4\u98DF\u85E5\u7684\u88FD\u4F5C\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5192\u96AA\u63A2\u7D22\u6536\u96C6",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_gather_map01_lv005_1",
+      "description": "\u6E90\u77F3\u7814\u7A76\u5712-\u5D16\u908A\u5C71\u9053\u7B49\u5730\u63A1\u96C6",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_plant",
+      "description": "\u751F\u614B\u7A2E\u690D\u5340\u9032\u884C\u7A2E\u690D\u57F9\u80B2",
+      "condition": null
+    },
+    {
+      "sourceWayId": "item_obtain_inn_food_box_crop_1",
+      "description": "\u5F9E\u98DF\u6750\u7BB1\u88E1\u7372\u5F97",
+      "condition": {
+        "sourceId": "condition_mission_e11m8",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u9918\u6689\u672A\u537B\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_corp1_flower1_1",
+      "name": "\u95DC\u806F\u7269\u54C1\uFF08\u4F86\u6E90\u540D\u7A31\u7F3A\u6F0F\uFF09",
+      "iconPath": null,
+      "hasDetail": false,
+      "contentIconPath": null
+    },
+    {
+      "sourceItemId": "item_corp1_animal_1",
+      "name": "\u8C37\u5730\u9921\u9905",
+      "iconPath": "/media/wiki/catalogs/items/item_corp1_animal_1.png?v=0a81af82f27ba53ab9599d54dcd2b114e442d6459feced20c489c7e16325efe1",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/grinder_Ingredient_flour_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_Ingredient_flour_1",
+          "name": "\u9EB5\u7C89",
+          "quantity": 3,
+          "path": "/items/item_Ingredient_flour_1",
+          "iconPath": "/media/wiki/catalogs/items/item_Ingredient_flour_1.png?v=b325b5438fc41ae1b3ad3d545fb83f576c8517ffad6fe62a8d051d5e9aae7157",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_Ingredient_flour_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/seedcollector_plant_sp_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_seed_1",
+          "name": "\u7070\u8606\u9EA5\u7A2E\u5B50",
+          "quantity": 2,
+          "path": "/items/item_plant_sp_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_seed_1.png?v=14302a618b2b1cf7b31bcf869c2ae4db6ed84c1c6ac3ad5a988f1ff2288eaee0",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "seedcollector_1",
+          "name": "\u63A1\u7A2E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_seedcol_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aseedcollector_plant_sp_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_corp1_animal_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 8,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 4,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp1_animal_1",
+          "name": "\u8C37\u5730\u9921\u9905",
+          "quantity": 1,
+          "path": "/items/item_corp1_animal_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp1_animal_1.png?v=0a81af82f27ba53ab9599d54dcd2b114e442d6459feced20c489c7e16325efe1",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_corp1_animal_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_agrange_1_erhound_1_sp_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agrange_1",
+          "name": "\u9AD8\u80FD\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agrange_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agrange_1.png?v=fe713ec6cb19d1d7e592d5b628f15d6fdd7245c4b5839e942d698be792b31331",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_erhound_1",
+          "name": "\u523A\u9F3B\u4E7E\u8089",
+          "quantity": 1,
+          "path": "/items/item_drop_erhound_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_erhound_1.png?v=f7f3f87308639a2aa672cc41b14d055577d327325839ff5c6ca484dcde721470",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_agrange_1_erhound_1_sp_1_1",
+          "name": "\u96C5\u5404\u5E03\u7684\u907A\u7522",
+          "quantity": 1,
+          "path": "/items/item_agrange_1_erhound_1_sp_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_agrange_1_erhound_1_sp_1_1.png?v=d745c5766fc1deb6280fd562f789ef6f8c471ab3927f395263848c3a63920fa4",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_agrange_1_erhound_1_sp_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_dog_hsmob_corp_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_dog_1",
+          "name": "\u7378\u8089",
+          "quantity": 2,
+          "path": "/items/item_drop_dog_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_dog_1.png?v=6eac385d821c91484df699104756618983f5a900c9427a2132e473530f3c7557",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_hsmob_1",
+          "name": "\u65B0\u7B4D",
+          "quantity": 2,
+          "path": "/items/item_drop_hsmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_hsmob_1.png?v=aebd4e91887681b4501d6a4ada7bab10bb6960c4e1bd8e7e03b7be815287d64a",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 2,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_dog_hsmob_corp_1",
+          "name": "\u7530\u5BB6\u7279\u8272\u721B\u8089\u9EB5",
+          "quantity": 1,
+          "path": "/items/item_dog_hsmob_corp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_dog_hsmob_corp_1.png?v=4d377c265ae8175950101638040d2ad504b7866c7d745ce3bad9a660d7c3206c",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_dog_hsmob_corp_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_lbmob_1_lbshamman_1_sp_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_lbmob_1",
+          "name": "\u8349\u7C7D\u4E7E\u7C89",
+          "quantity": 1,
+          "path": "/items/item_drop_lbmob_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_lbmob_1.png?v=fef01c9a46a227dc6fa1e2af05ab8ee171aac1c4117b7bcc7d9f85327eab7f7f",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_lbshamman_1",
+          "name": "\u8EDF\u9AA8\u788E\u5C51",
+          "quantity": 1,
+          "path": "/items/item_drop_lbshamman_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_lbshamman_1.png?v=b04db58770a408bd2b6d045be464bf9ee17ab188876cb6285e4b6446149c3f64",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_lbmob_1_lbshamman_1_sp_1_1",
+          "name": "\u8EDF\u9AA8\u9905\u4E7E",
+          "quantity": 1,
+          "path": "/items/item_lbmob_1_lbshamman_1_sp_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_lbmob_1_lbshamman_1_sp_1_1.png?v=2a273473e7bc5948484c8c1167eb5a74884a8536e090596931e55efcecf57600",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_lbmob_1_lbshamman_1_sp_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/hdwk_sp_1_moss_1_agmelee_1_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_moss_powder_1",
+          "name": "\u854E\u82B1\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_plant_moss_powder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_moss_powder_1.png?v=c5ecf60e8dc35619ad80cc041dbbf3a4ecab6fc3a294b2d83f40ec40edf4ce00",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_drop_agmelee_1",
+          "name": "\u5805\u786C\u7570\u9999\u77F3",
+          "quantity": 1,
+          "path": "/items/item_drop_agmelee_1",
+          "iconPath": "/media/wiki/catalogs/items/item_drop_agmelee_1.png?v=119554b900689bcbfa17bf9dc28585c71c770ea392e3fdfbb5bb23362b49193d",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_1",
+          "name": "\u7070\u8606\u9EA5",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_1.png?v=5295655fb520d8bed00666ac89adaae0d9fb2bc4ae30c2055217a1cf494845d5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_sp_1_moss_1_agmelee_1_1",
+          "name": "\u6A1E\u7D10\u5340\u7DCA\u6025\u9910",
+          "quantity": 1,
+          "path": "/items/item_sp_1_moss_1_agmelee_1_1",
+          "iconPath": "/media/wiki/catalogs/items/item_sp_1_moss_1_agmelee_1_1.png?v=c85e1a99f91720d60f31b97857274dd31d59b0f57b1e20fcad2cd711a0cf6010",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahdwk_sp_1_moss_1_agmelee_1_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_sp_1/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_sp_seed_1",
+          "name": "\u7070\u8606\u9EA5\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_plant_sp_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_sp_seed_1.png?v=14302a618b2b1cf7b31bcf869c2ae4db6ed84c1c6ac3ad5a988f1ff2288eaee0",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_sp_1",
+          "name": "\u7070\u8606\u9EA5\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_sp_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

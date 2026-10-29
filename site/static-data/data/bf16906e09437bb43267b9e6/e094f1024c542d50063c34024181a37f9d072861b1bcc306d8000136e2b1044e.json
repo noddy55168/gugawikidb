@@ -1,0 +1,169 @@
+{
+  "sourceItemId": "item_byproduct_potato_moss_1",
+  "name": "\u5E73\u85AF\u8449\u7C89\u672B",
+  "rarity": 2,
+  "category": "\u5DE5\u696D\u7522\u7269",
+  "iconPath": "/media/wiki/catalogs/items/item_byproduct_potato_moss_1.png?v=bb95faeb23dd23faff613fc8fff12d6a0296fdb3743ee952e544d5e677c33e20",
+  "summary": "\u5E73\u85AF\u8449\u5B50\u78E8\u6210\u7684\u7C89\uFF0C\u662F\u88FD\u4F5C\u98FC\u6599\u7684\u4E0A\u597D\u6750\u6599\u3002",
+  "description": "\u5E73\u85AF\u8449\u7684\u7C89\u672B\uFF0C\u53EF\u7528\u65BC\u5176\u4ED6\u6750\u6599\u5408\u6210\u3002\u5178\u578B\u7522\u7269\u662F\u98FD\u98DF\u98FC\u6599\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "",
+  "unlockConditions": [],
+  "unlockHints": [],
+  "obtainWays": [],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "FactoryMachineCraftTable/pool_ranch_fodder_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_byproduct_potato_moss_1",
+          "name": "\u5E73\u85AF\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_byproduct_potato_moss_1",
+          "iconPath": "/media/wiki/catalogs/items/item_byproduct_potato_moss_1.png?v=bb95faeb23dd23faff613fc8fff12d6a0296fdb3743ee952e544d5e677c33e20",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_ranch_fodder_1",
+          "name": "\u98FD\u98DF\u98FC\u6599",
+          "quantity": 1,
+          "path": "/items/item_ranch_fodder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_ranch_fodder_1.png?v=eb1357c9d41bb318ebf96c119fcda3b3a6751496b32ba3fb1b0547a92bc6f5d7",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_1",
+          "name": "\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_ranch_fodder_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/pool_ranch_fodder_1_2/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_byproduct_potato_moss_1",
+          "name": "\u5E73\u85AF\u8449\u7C89\u672B",
+          "quantity": 1,
+          "path": "/items/item_byproduct_potato_moss_1",
+          "iconPath": "/media/wiki/catalogs/items/item_byproduct_potato_moss_1.png?v=bb95faeb23dd23faff613fc8fff12d6a0296fdb3743ee952e544d5e677c33e20",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_liquid_water",
+          "name": "\u6E05\u6C34",
+          "quantity": 1,
+          "path": "/items/item_liquid_water",
+          "iconPath": "/media/wiki/catalogs/items/item_liquid_water.png?v=79841878378ce97a905fef7b6a24c25acf0ecd6e7360426dca7f73202fb2ddbf",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_ranch_fodder_1",
+          "name": "\u98FD\u98DF\u98FC\u6599",
+          "quantity": 1,
+          "path": "/items/item_ranch_fodder_1",
+          "iconPath": "/media/wiki/catalogs/items/item_ranch_fodder_1.png?v=eb1357c9d41bb318ebf96c119fcda3b3a6751496b32ba3fb1b0547a92bc6f5d7",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "mix_pool_2",
+          "name": "\u64F4\u5BB9\u53CD\u61C9\u6C60",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_mix_pool_2",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Apool_ranch_fodder_1_2"
+    },
+    {
+      "key": "FactoryMachineCraftTable/grinder_byproduct_potato_moss_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_byproduct_potato_1",
+          "name": "\u5E73\u85AF\u8449",
+          "quantity": 1,
+          "path": "/items/item_byproduct_potato_1",
+          "iconPath": "/media/wiki/catalogs/items/item_byproduct_potato_1.png?v=b9ae2b411ee5f70778970dcbc35d9d3948f1e1cc4e8d9a965810d31ef6d8c608",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_byproduct_potato_moss_1",
+          "name": "\u5E73\u85AF\u8449\u7C89\u672B",
+          "quantity": 3,
+          "path": "/items/item_byproduct_potato_moss_1",
+          "iconPath": "/media/wiki/catalogs/items/item_byproduct_potato_moss_1.png?v=bb95faeb23dd23faff613fc8fff12d6a0296fdb3743ee952e544d5e677c33e20",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "grinder_1",
+          "name": "\u7C89\u788E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_grinder_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Agrinder_byproduct_potato_moss_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

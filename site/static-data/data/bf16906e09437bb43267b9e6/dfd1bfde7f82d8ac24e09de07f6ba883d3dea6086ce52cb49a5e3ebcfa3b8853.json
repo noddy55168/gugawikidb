@@ -1,0 +1,112 @@
+{
+  "sourceItemId": "item_plant_spcstone_seed_1_3",
+  "name": "\u91CD\u9EEF\u77F3\u5B50\u7C07",
+  "rarity": 4,
+  "category": "\u73CD\u8CB4\u6750\u6599",
+  "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_seed_1_3.png?v=0d9f814e0a9c74793c697bc9a7a748543aadb9701d90f79e73217ad079b285f5",
+  "summary": "\u7D93\u56B4\u683C\u7BE9\u9078\u7684\u91CD\u9EEF\u77F3\uFF0C\u5176\u5B50\u7C07\u5177\u5099\u7279\u6B8A\u7684\u57F9\u690D\u50F9\u503C\u3002",
+  "description": "\u91CD\u9EEF\u77F3\u7684\u5B50\u7C07\uFF0C\u53EF\u4EE5\u7528\u65BC\u57F9\u990A\u5168\u65B0\u7684\u500B\u9AD4\u3002\n\u91CD\u9EEF\u77F3\u53EF\u5728\u6B66\u566860\u7D1A\u7A81\u7834\u5F37\u5316\u6642\u4F7F\u7528\u3002",
+  "wikiDescription": "",
+  "itemType": "\u57F9\u990A\u57FA\u6838",
+  "useEffect": "",
+  "obtainHint": "\u89E3\u9396\u5E1D\u6C5F\u865F\u4E26\u5EFA\u9020\u5C0D\u61C9\u8259\u5BA4\u5F8C\u751F\u7522",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u89E3\u9396\u5E1D\u6C5F\u865F\u4E26\u5EFA\u9020\u5C0D\u61C9\u8259\u5BA4\u5F8C\u751F\u7522"
+  ],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_spaceship_plant_seed_spcstone_1_3",
+      "description": "\u5E1D\u6C5F\u865F-\u57F9\u990A\u8259\u63D0\u53D6\u57FA\u6838",
+      "condition": {
+        "sourceId": "condition_plant_item_plant_spcstone_1_3",
+        "kind": "all",
+        "text": "\u9808\u540C\u6642\u7B26\u5408\u4EE5\u4E0B\u689D\u4EF6",
+        "resolved": true,
+        "children": [
+          {
+            "sourceId": "condition_spaceship_plant_build",
+            "kind": "leaf",
+            "text": "\u5EFA\u9020\u300C\u57F9\u990A\u8259\u300D",
+            "resolved": true,
+            "children": []
+          },
+          {
+            "sourceId": "condition_item_plant_spcstone_1_3",
+            "kind": "leaf",
+            "text": "\u89E3\u9396\u300C\u91CD\u9EEF\u77F3\u300D\u5716\u9451",
+            "resolved": true,
+            "children": []
+          }
+        ]
+      }
+    }
+  ],
+  "relatedItems": [],
+  "relations": [
+    {
+      "key": "SpaceshipGrowCabinFormulaTable/growcabin_plant_spcstone_1_3/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u57F9\u990A\u8259\u7A2E\u690D",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_spcstone_seed_1_3",
+          "name": "\u91CD\u9EEF\u77F3\u5B50\u7C07",
+          "quantity": 1,
+          "path": "/items/item_plant_spcstone_seed_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_seed_1_3.png?v=0d9f814e0a9c74793c697bc9a7a748543aadb9701d90f79e73217ad079b285f5",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_spcstone_1_3",
+          "name": "\u91CD\u9EEF\u77F3",
+          "quantity": 1,
+          "path": "/items/item_plant_spcstone_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_1_3.png?v=6a5f631d1362a4dca75afe8b0d382bb5069514967765a86cc81620c8aa49b7b2",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    },
+    {
+      "key": "SpaceshipGrowCabinSeedFormulaTable/growcabin_extract_spcstone_1_3/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u57F9\u990A\u8259\u88FD\u7A2E",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_spcstone_1_3",
+          "name": "\u91CD\u9EEF\u77F3",
+          "quantity": 1,
+          "path": "/items/item_plant_spcstone_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_1_3.png?v=6a5f631d1362a4dca75afe8b0d382bb5069514967765a86cc81620c8aa49b7b2",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_plant_spcstone_seed_1_3",
+          "name": "\u91CD\u9EEF\u77F3\u5B50\u7C07",
+          "quantity": 3,
+          "path": "/items/item_plant_spcstone_seed_1_3",
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_seed_1_3.png?v=0d9f814e0a9c74793c697bc9a7a748543aadb9701d90f79e73217ad079b285f5",
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": null
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

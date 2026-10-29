@@ -1,0 +1,54 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_gacha_beginner",
+    "name": "\u65BC\u6B64\u555F\u7A0B",
+    "description": "\u63A8\u9032\u4E3B\u7DDA\u4EFB\u52D9\u53EF\u7372\u5F97\u5341\u9023\u555F\u7A0B\u5C0B\u8A2A\u6191\u8B49\uFF0C\u53EF\u5728\u555F\u7A0B\u5C0B\u8A2A\u4E2D\u7372\u5F97\u5F37\u529B6\u661F\u5E79\u54E1\u548C\u81EA\u90786\u661F\u6B66\u5668\u3002",
+    "sourceType": 6,
+    "sortOrder": 10099,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_gacha_beginner",
+    "tabImageId": "activity_tab_bg_gachabegin",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765224000,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2025/12/9 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1765270800,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_novice",
+        "name": "\u65B0\u624B\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff078"
+  },
+  "instructionId": "activity_gacha_beginner",
+  "instructionTitle": "\u300C\u65BC\u6B64\u555F\u7A0B\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u6D3B\u52D5\u4E2D\u5FC3\u89E3\u9396\u5F8C\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u7BA1\u7406\u54E1\u4E3B\u7DDA\u4EFB\u52D9\u9054\u5230\u7279\u5B9A\u9032\u5EA6\uFF0C\u53EF\u7372\u5F97\u3010\u5341\u9023\u555F\u7A0B\u5C0B\u8A2A\u6191\u8B49\u3011\u3002\n\u00B7 \u4F7F\u7528\u3010\u5341\u9023\u555F\u7A0B\u5C0B\u8A2A\u6191\u8B49\u3011\u53EF\u5728\u300C\u555F\u7A0B\u5C0B\u8A2A\u300D\u4E2D\u5C0B\u8A2A10\u6B21\uFF0C40\u6B21\u5C0B\u8A2A\u5167\u5FC5\u5F976\u661F\u5E79\u54E1\u3002\n\u00B7 \u555F\u7A0B\u5C0B\u8A2A40\u6B21\u5F8C\uFF0C\u9084\u53EF\u7372\u5F97\u3010\u555F\u7A0B\u6B66\u5668\u88DC\u7D66\u3011\u00D71\uFF0C\u958B\u555F\u5F8C\u53EF\u5F9E6\u661F\u6B66\u5668\u907A\u5FD8/\u7834\u788E\u541B\u738B/\u71B1\u7194\u5207\u5272\u5668/\u6614\u65E5\u7CBE\u54C1/\u9A4D\u52C7\u4E2D\u4EFB\u610F\u9078\u64C7\u4E00\u628A\u514D\u8CBB\u7372\u5F97\u3002\n\u00B7 \u7576\u7BA1\u7406\u54E1\u5728\u300C\u555F\u7A0B\u5C0B\u8A2A\u300D\u5B8C\u621040\u6B21\u5C0B\u8A2A\u4E26\u9818\u53D6\u5168\u90E8\u734E\u52F5\u5F8C\uFF0C\u672C\u6D3B\u52D5\u4ECB\u9762\u5C07\u5728\u6B21\u65E5\u4F3A\u670D\u5668\u6642\u959304:00\u95DC\u9589\u3002",
+  "conditions": [],
+  "rewards": [],
+  "stages": []
+}

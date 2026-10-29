@@ -1,0 +1,87 @@
+{
+  "entry": {
+    "key": "manual:handwork_port_soil_corp_canolaflower_1",
+    "name": "\u7C7D\u6CB9\u82B1\u7530\u584A",
+    "kind": "manual",
+    "category": "\u624B\u5DE5\u88FD\u4F5C",
+    "iconPath": "/media/wiki/industry/item_port_soil_corp_canolaflower_1.png?v=311be76b9c8dbead6e97fb68d22ec68be83432392cab78027c71420d65084873",
+    "sortOrder": 118,
+    "path": "/industry/recipes/manual%3Ahandwork_port_soil_corp_canolaflower_1",
+    "outputSummary": "\u7C7D\u6CB9\u82B1\u7530\u584A \u00D7 1",
+    "deviceNames": []
+  },
+  "description": "",
+  "parts": [
+    {
+      "role": "input",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_corp_canolaflower_seed_1",
+      "name": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_corp_canolaflower_seed_1.png?v=b59ba38ed9a139ee23759e1f1ad833fa11681efd9580a1942de8633e3c257b85",
+      "link": "/items/item_corp_canolaflower_seed_1"
+    },
+    {
+      "role": "input",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_carbon_mtl",
+      "name": "\u78B3\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+      "link": "/items/item_carbon_mtl"
+    },
+    {
+      "role": "output",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_port_soil_corp_canolaflower_1",
+      "name": "\u7C7D\u6CB9\u82B1\u7530\u584A",
+      "quantity": 1,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_canolaflower_1.png?v=311be76b9c8dbead6e97fb68d22ec68be83432392cab78027c71420d65084873",
+      "link": null
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 0,
+      "itemId": "item_Ingredient_oil_1",
+      "name": "\u83DC\u7C7D\u6CB9",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_Ingredient_oil_1.png?v=a59fdda13d36bb65392ac3f66a96815e2759f56f14e96983039d40181ffd69bf",
+      "link": "/items/item_Ingredient_oil_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 1,
+      "itemId": "item_corp_canolaflower_1",
+      "name": "\u7C7D\u6CB9\u82B1",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_canolaflower_1.png?v=886faa402ae5b39249ab21670475884ac8741f96f49614eee7db9d9f6d4fbed2",
+      "link": "/items/item_corp_canolaflower_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 2,
+      "itemId": "item_corp_canolaflower_seed_1",
+      "name": "\u7C7D\u6CB9\u82B1\u7A2E\u5B50",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_corp_canolaflower_seed_1.png?v=b59ba38ed9a139ee23759e1f1ad833fa11681efd9580a1942de8633e3c257b85",
+      "link": "/items/item_corp_canolaflower_seed_1"
+    },
+    {
+      "role": "unlock",
+      "group": 0,
+      "order": 3,
+      "itemId": "item_port_soil_corp_canolaflower_1",
+      "name": "\u7C7D\u6CB9\u82B1\u7530\u584A",
+      "quantity": null,
+      "iconPath": "/media/wiki/industry/item_port_soil_corp_canolaflower_1.png?v=311be76b9c8dbead6e97fb68d22ec68be83432392cab78027c71420d65084873",
+      "link": null
+    }
+  ],
+  "devices": []
+}

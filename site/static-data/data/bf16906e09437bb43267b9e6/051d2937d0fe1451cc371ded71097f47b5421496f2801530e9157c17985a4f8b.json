@@ -1,0 +1,126 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_seasontower_0",
+    "name": "\u6230\u722D\u8FF4\u97FF",
+    "description": "\u6230\u722D\u6B98\u7559\u7684\u75D5\u8DE1\u4ECD\u5B58\u5728\u65BC\u60A8\u7684\u5200\u528D\u4E4B\u4E0A\uFF0C\u611F\u53D7\u5B83\uFF0C\u95B1\u8B80\u5B83\uFF0C\u54C0\u60BC\u5B83\uFF0C\u8B93\u52DB\u7AE0\u8207\u69AE\u8000\u518D\u5EA6\u964D\u65BC\u638C\u5FC3\u5427\uFF0C\u7BA1\u7406\u54E1\u3002",
+    "sourceType": 43,
+    "sortOrder": 6100,
+    "detailCoverage": "basic",
+    "timeId": "time_activity_seasontower",
+    "tabImageId": "activity_tab_bg_seasontower",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/7/16 7:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/7/15 18:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1784156400,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_high_difficulty",
+        "name": "\u6311\u6230\u6D3B\u52D5"
+      }
+    ],
+    "themeColor": "#fff078"
+  },
+  "instructionId": "seasontower_main",
+  "instructionTitle": "\u300C\u6230\u722D\u8FF4\u97FF\u300D\u73A9\u6CD5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 - \n\u00B7 \u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u226540\u7D1A \n\u00B7 \u5B8C\u6210\u4E3B\u7DDA\u4EFB\u52D9\uFF1A\u7B2C\u4E00\u7AE0 - \u9032\u5EA6II - \u958B\u62D3\u524D\u8DEF\n\n- \u73A9\u6CD5\u7C21\u4ECB - \n\u00B7 \u300C\u6230\u722D\u8FF4\u97FF\u300D\u70BA\u8CFD\u5B63\u5236\u5E38\u99D0\u6311\u6230\u73A9\u6CD5\uFF0C\u7BA1\u7406\u54E1\u53EF\u900F\u904E\u6311\u6230\u4E0D\u540C\u95DC\u5361\u7D2F\u7A4D\u661F\u6578\u8A55\u7D1A\uFF0C\u4F86\u7372\u5F97\u6700\u7D42\u7684\u8CFD\u5B63\u7A31\u865F\u3002 \n\u00B7 \u6BCF\u500B\u8CFD\u5B63\u5305\u542B\u591A\u500B\u8F2A\u63DB\u9031\u671F\uFF0C\u6BCF\u500B\u8F2A\u63DB\u9031\u671F\u6301\u7E8C\u6642\u9593\u901A\u5E38\u4E0D\u5C11\u65BC7\u5929\u3002 \n\u00B7 \u6BCF\u500B\u8F2A\u63DB\u9031\u671F\u5305\u542B3\u500B\u95DC\u5361\uFF08\u53EF\u80FD\u5305\u542B\u5F80\u671F\u95DC\u5361\uFF09\u3002\u540C\u4E00\u8F2A\u63DB\u9031\u671F\u5167\uFF0C3\u500B\u95DC\u5361\u6240\u7372\u661F\u6578\u4E4B\u548C\u70BA\u8A72\u9031\u671F\u7684\u7E3D\u8A55\u7D1A\u3002 \n\u00B7 \u9031\u671F\u8F2A\u63DB\u5F8C\uFF0C\u65B0\u9031\u671F\u7684\u95DC\u5361\u661F\u6578\u8A55\u7D1A\u5C07\u88AB\u91CD\u7F6E\uFF0C\u9700\u91CD\u65B0\u6311\u6230\u4EE5\u518D\u6B21\u7372\u5F97\u661F\u6578\uFF1B\u6B77\u53F2\u9031\u671F\u7684\u7E3D\u8A55\u7D1A\u5C07\u88AB\u8A18\u9304\uFF0C\u4E26\u5C07\u53C3\u8207\u8CFD\u5B63\u7684\u300C\u6700\u7D42\u8A55\u7D1A\u300D\u7D71\u8A08\u3002 \n\u00B7 \u76EE\u524D\u8CFD\u5B63\u5404\u8F2A\u63DB\u9031\u671F\u7E3D\u8A55\u7D1A\u4E2D\u7684\u6700\u9AD8\u8A55\u7D1A\uFF0C\u5C07\u4F5C\u70BA\u672C\u8CFD\u5B63\u7684\u300C\u6700\u7D42\u8A55\u7D1A\u300D\u3002\u4F9D\u7167\u6700\u7D42\u8A55\u7D1A\uFF0C\u7BA1\u7406\u54E1\u53EF\u7372\u5F97\u5C0D\u61C9\u7684\u8CFD\u5B63\u7A31\u865F\u3002 \n\u00B7 \u76EE\u524D\u8CFD\u5B63\u7684\u8CFD\u5B63\u7A31\u865F\u6703\u5728\u597D\u53CB\u76F8\u95DC\u4ECB\u9762\u5C55\u793A\u3002\n\u00B7 \u66F4\u591A\u73A9\u6CD5\u8AAA\u660E\uFF0C\u53EF\u5728\u300C\u6230\u722D\u8FF4\u97FF\u300D\u4ECB\u9762\u4E2D\u67E5\u770B\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_seasontower_0_unlock_condition_1",
+      "sourceType": 5023,
+      "compareOperator": 3,
+      "target": 40,
+      "description": "\u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u9054\u523040\u7D1A",
+      "tips": "\u76EE\u524D\u6B0A\u9650\u7B49\u968E%d\u7D1A\uFF08\u53EF\u6839\u64DA\u884C\u52D5\u624B\u518A\u6307\u5F15\u5B8C\u6210\u5404\u9805\u4EFB\u52D9\uFF0C\u7372\u5F97\u884C\u52D5\u8CC7\u6B77\uFF0C\u63D0\u5347\u6B0A\u9650\u7B49\u968E\uFF09"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_season_tower_achievement_overview_s1",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_case_bp_selfselect_skillsp_1",
+          "name": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1I",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 2,
+          "sourceItemId": "item_case_bp_selfselect_skillsp_2",
+          "name": "\u9AD8\u968E\u57F9\u990A\u81EA\u9078\u7BB1II",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 3,
+          "sourceItemId": "item_expcard_stage2_high",
+          "name": "\u9AD8\u7D1A\u8A8D\u77E5\u8F09\u9AD4",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 4,
+          "sourceItemId": "item_char_skill_crown",
+          "name": "\u5B58\u7E8C\u7684\u75D5\u8DE1",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 5,
+          "sourceItemId": "item_gold",
+          "name": "\u6298\u91D1\u7968",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 6,
+          "sourceItemId": "item_char_skill_level_7_12",
+          "name": "\u5354\u8B70\u7A1C\u67F1\u7D44",
+          "sourceCount": 1,
+          "visibilityCode": 0
+        }
+      ]
+    }
+  ],
+  "stages": []
+}

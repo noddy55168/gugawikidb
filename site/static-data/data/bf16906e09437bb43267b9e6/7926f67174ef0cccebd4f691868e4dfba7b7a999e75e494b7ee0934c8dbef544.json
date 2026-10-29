@@ -1,0 +1,20 @@
+{
+  "entry": {
+    "key": "wiki_item_log_pipe_converger",
+    "name": "\u7BA1\u9053\u532F\u6D41\u5668",
+    "kind": "logistic",
+    "category": "\u7269\u6D41\u8A2D\u5099",
+    "iconPath": "/media/wiki/industry/item_log_pipe_converger.png?v=d1ca2271f55afb1731d8034be2cf86ad34ffa1fd21da480c0ddf04b64440a9e1",
+    "sortOrder": 8,
+    "path": "/industry/devices/wiki_item_log_pipe_converger",
+    "outputSummary": "",
+    "deviceNames": []
+  },
+  "description": "\u7BA1\u9053\u532F\u6D41\u5668\u53EF\u4EE5\u4F7F\u5F97\u591A\u689D\u7BA1\u9053\u4E0A\u7684\u6DB2\u9AD4\u532F\u6D41\u5230\u55AE\u4E00\u7BA1\u9053\u4E0A\uFF0C\u6700\u591A\u652F\u63F4\u4E09\u689D\u7BA1\u9053\u532F\u6D41\u3002",
+  "sourceId": "log_pipe_converger",
+  "needPower": null,
+  "width": null,
+  "depth": null,
+  "height": null,
+  "recipes": []
+}

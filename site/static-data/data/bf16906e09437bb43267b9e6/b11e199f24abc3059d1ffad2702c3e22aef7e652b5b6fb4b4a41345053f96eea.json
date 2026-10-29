@@ -1,0 +1,1144 @@
+{
+  "sourceItemId": "wpn_claym_0019",
+  "name": "\u60A0\u4E45\u50B3\u627F",
+  "rarity": 6,
+  "category": "\u96D9\u624B\u528D",
+  "iconPath": "/media/wiki/catalogs/weapons/wpn_claym_0019.png?v=20b506ff346660c7af00440aa8266fd0c2e78a08f1f8a233095d8c88fe394cb4",
+  "heroImagePath": "/media/wiki/weapon-heroes/wpn_claym_0019.png?v=9d6f8f120722964f3f136f9a55d91142f0ddf41cdcda959e07773947dd8d25bd",
+  "heroImageWidth": 1024,
+  "heroImageHeight": 2048,
+  "heroContentX": 348,
+  "heroContentY": 184,
+  "heroContentWidth": 312,
+  "heroContentHeight": 1660,
+  "englishName": "Long Heritage",
+  "description": "\u96F7\u795E\u5DE5\u696D\u7684\u5BA2\u88FD\u5316\u512A\u79C0\u6848\u4F8B\u4E4B\u4E00\uFF0C\u5305\u542B\u4E86\u8A2D\u8A08\u5E2B\u5C0D\u65B0\u578B\u5408\u91D1\u7684\u61C9\u7528\u601D\u8DEF\uFF0C\u4EE5\u7E41\u8907\u7684\u5C0D\u7A31\u7D50\u69CB\u5B8C\u6210\u4E86\u5BA2\u6236\u6307\u5B9A\u7684\u500B\u6027\u5316\u9700\u6C42\u3002",
+  "lore": "\u300C\u5C0A\u656C\u7684\u6F22\u68EE\u00B7\u7F85\u4F2F\u7279\u5148\u751F\uFF0C\u6211\u5011\u4E0D\u5F97\u4E0D\u907A\u61BE\u5730\u901A\u77E5\u60A8\uFF0C\u95DC\u65BC\u60A8\u64B0\u5BEB\u7684\u7B2C\u56DB\u7248\u300A\u66FC\u8FEA\u5144\u5F1F\u516C\u53F8\u5275\u696D\u6B77\u7A0B\u7DE8\u5E74\u53F2\u300B\uFF0C\u6211\u65B9\u76F8\u95DC\u90E8\u9580\u4EBA\u54E1\u5728\u7D93\u904E\u8A73\u76E1\u8A55\u4F30\u5F8C\uFF0C\u8A8D\u70BA\u5176\u5B58\u5728\u300E\u904E\u65BC\u6666\u6F80\u300F\u3001\u300E\u91CD\u9EDE\u6A21\u7CCA\u300F\u3001\u300E\u770B\u4E0D\u5230\u8207\u96F7\u795E\u5DE5\u696D\u7684\u95DC\u806F\u6027\u300F\u7B49\u554F\u984C\u3002\u300D\n\u300C\u56E0\u6B64\u5224\u5B9A\u70BA\u300E\u4E0D\u4E88\u63A1\u7528\u300F\uFF0C\u8ACB\u91CD\u65B0\u64B0\u5BEB\u4E26\u5728\u4E09\u500B\u5DE5\u4F5C\u5929\u5167\u63D0\u4EA4\u3002\u540C\u6642\u9019\u88E1\u518D\u6B21\u63D0\u9192\u60A8\uFF0C\u60A8\u8207\u6211\u5011\u66FC\u8FEA\u5144\u5F1F\u516C\u53F8\u7C3D\u8A02\u7684\u5408\u7D04\u88E1\u5DF2\u7D93\u5BEB\u660E\uFF0C\u6700\u7D42\u622A\u7A3F\u65E5\u70BA\u4E0B\u9031\u4E09\uFF0C\u5C46\u6642\u5982\u6709\u903E\u671F\uFF0C\u60A8\u5C07\u9700\u8981\u4EA4\u4ED8\u9055\u7D04\u91D1\uFF0C\u9084\u8ACB\u52D9\u5FC5\u6CE8\u610F\u3002\u300D\n\u300C\u671F\u5F85\u60A8\u4E0B\u6B21\u63D0\u4EA4\u7684\u7A3F\u4EF6\uFF0C\u518D\u6703\u3002\u300D\n\u96FB\u8A71\u81EA\u52D5\u7D50\u675F\u901A\u8A71\u5F8C\uFF0C\u6F22\u68EE\u5F9E\u6C92\u50CF\u6B64\u523B\u9019\u6A23\u5F8C\u6094\u63A5\u4E0B\u4E00\u500B\u5982\u6B64\u5403\u529B\u4E0D\u8A0E\u597D\u7684\u696D\u52D9\u2014\u2014\u5E6B\u4E00\u5BB6\u5BC2\u5BC2\u7121\u540D\u7684\u904B\u5177\u516C\u53F8\u64B0\u5BEB\u4E00\u6BB5\u5B8C\u6574\u7684\u767C\u5BB6\u6B77\u53F2\u3002\n\u8001\u5BE6\u8AAA\uFF0C\u5728\u7B2C\u4E00\u6B21\u807D\u5230\u66FC\u8FEA\u5144\u5F1F\u7684\u8001\u95C6\u8AAA\u51FA\u8981\u6C42\u6642\uFF0C\u4ED6\u4F5C\u70BA\u4E00\u4F4D\u524D\u6B77\u53F2\u5B78\u52A9\u6559\u517C\u53F2\u5B78\u8AD6\u6587\u4EE3\u7B46\uFF0C\u4E00\u5EA6\u4EE5\u70BA\u9019\u662F\u4E00\u4EF6\u8F15\u9B06\u5230\u5F77\u5F7F\u5728\u83C8\u68B5\u6735\u746A\u5EA6\u5047\u4E00\u822C\u7684\u5DE5\u4F5C\u3002\u7562\u7ADF\u5C0D\u65B9\u53EA\u63D0\u4E86\u5169\u500B\u8981\u6C42\uFF1A\u7B2C\u4E00\uFF0C\u8981\u8207\u5927\u540D\u9F0E\u9F0E\u7684\u96F7\u795E\u5DE5\u696D\u642D\u4E0A\u95DC\u4FC2\u2014\u2014\u56E0\u70BA\u4ED6\u7236\u89AA\u662F\u96F7\u795E\u5DE5\u696D\u7684\u5FE0\u5BE6\u64C1\u6234\u8005\uFF0C\u907A\u9858\u4E4B\u4E00\u5C31\u662F\u6709\u4E00\u5929\u81EA\u5BB6\u4F01\u696D\u80FD\u548C\u96F7\u795E\u5DE5\u696D\u51FA\u73FE\u5728\u5831\u7D19\u7684\u540C\u500B\u7248\u9762\uFF0C\u800C\u4ED6\u5011\u516C\u53F8\u6700\u8FD1\u525B\u597D\u5728\u300A\u827E\u4EC0\u67CF\u74B0\u5CF6\u65E5\u5831\u300B\u7684\u982D\u7248\u4E0A\u8CB7\u4E86\u4E00\u500B\u89D2\u843D\uFF0C\u6253\u7B97\u628A\u4F01\u696D\u767C\u5BB6\u53F2\u653E\u9032\u53BB\uFF0C\u8B93\u7236\u89AA\u5FC3\u9858\u5F97\u511F\uFF1B\u7B2C\u4E8C\uFF0C\u8981\u5118\u53EF\u80FD\u5730\u4EE4\u4EBA\u4FE1\u670D\u2014\u2014\u4E0B\u500B\u6708\u4ED6\u5011\u6253\u7B97\u53C3\u8207\u4E00\u500B\u5927\u578B\u7AF6\u6A19\u6703\uFF0C\u5176\u4E2D\u6700\u6709\u5A01\u8105\u7684\u7AF6\u722D\u8005\u7ADF\u7136\u81EA\u7A31\u662F\u6885\u4EC0\u79D1\u5DE5\u696D\u7684\u5B50\u516C\u53F8\uFF0C\u5C0D\u6B64\uFF0C\u66FC\u8FEA\u5144\u5F1F\u7684\u8001\u95C6\u8A8D\u70BA\u4ED6\u5011\u6709\u5FC5\u8981\u62FF\u51FA\u4E00\u6BB5\u66F4\u52A0\u50B3\u5947\u7684\u5275\u696D\u7D93\u6B77\uFF0C\u624D\u80FD\u5728\u6C23\u52E2\u4E0A\u9707\u61FE\u4F4F\u5C0D\u65B9\u3002\n\u96D6\u7136\u6F22\u68EE\u6839\u672C\u4E0D\u89BA\u5F97\u7DE8\u9020\u4E00\u6BB5\u4F01\u696D\u7684\u50B3\u5947\u767C\u5BB6\u6B77\u53F2\u5C31\u80FD\u5687\u5230\u8AB0\u6216\u662F\u8B93\u54EA\u5BB6\u516C\u53F8\u7AF6\u6A19\u6210\u529F\uFF0C\u4F46\u8AB0\u53EB\u66FC\u8FEA\u5144\u5F1F\u5149\u662F\u7D66\u7684\u8A02\u91D1\u5C31\u7D04\u7B49\u65BC\u4ED6\u5341\u500B\u6708\u7684\u98EF\u9322\u5462\u3002\u5854\u7F85\u65AF\u5728\u4E0A\uFF0C\u4ED6\u73FE\u5728\u53EA\u662F\u500B\u7AAE\u56F0\u6F66\u5012\u3001\u9700\u8981\u70BA\u81EA\u5DF1\u7684\u6EAB\u98FD\u8CA0\u8CAC\u7684\u666E\u901A\u9ECE\u535A\u5229\uFF0C\u4EC0\u9EBC\u5B78\u8853\u9053\u5FB7\uFF0C\u4EC0\u9EBC\u6B77\u53F2\u5BA2\u89C0\u6027\u2026\u2026\u9084\u662F\u5148\u653E\u5728\u4E00\u908A\u597D\u4E86\u3002\n\u662F\u7684\uFF0C\u4E8B\u60C5\u5230\u9019\u4E00\u6B65\u7684\u6642\u5019\uFF0C\u4E00\u5207\u90FD\u5F88\u9806\u5229\u2014\u2014\n\u4ED6\u60F3\u8981\u7684\u66FC\u8FEA\u5144\u5F1F\u904E\u5F80\u8CC7\u6599\u6709\u4E86\uFF0C\u4ED6\u8981\u6C42\u7684\u5305\u5403\u5305\u4F4F\u6709\u4E86\uFF0C\u63A5\u4E0B\u4F86\u53EA\u8981\u4ED6\u518D\u4E00\u53E3\u6C23\u628A\u9019\u6BB5\u6B77\u53F2\u7DE8\u5B8C\u5C31\u842C\u4E8B\u5927\u5409\u4E86\u3002\n\u842C\u842C\u6C92\u60F3\u5230\u7684\u662F\uFF0C\u9019\u537B\u662F\u5669\u5922\u7684\u958B\u59CB\u2014\u2014\u4ED6\u4EE5\u70BA\u81EA\u5DF1\u9023\u8CC7\u6599\u88E1\u5BEB\u7684\u6240\u6709\u8A73\u7D30\u65E5\u671F\u90FD\u5FFD\u7565\u4E0D\u8A08\u9019\u9EDE\u5DF2\u7D93\u5920\u4E0D\u56B4\u8B39\u4E86\uFF0C\u537B\u4F9D\u7136\u88AB\u8CEA\u7591\u70BA\u4EC0\u9EBC\u8981\u5BEB\u90A3\u9EBC\u591A\u7121\u610F\u7FA9\u7684\u5E74\u4EFD\uFF1B\u4ED6\u4EE5\u70BA\u53EA\u8981\u5BEB\u51FA\u66FC\u8FEA\u5144\u5F1F\u7591\u4F3C\u7E7C\u627F\u4E86\u96F7\u795E\u5DE5\u696D\u67D0\u7A2E\u5DE5\u7A0B\u6280\u8853\u7684\u610F\u601D\u5C31\u597D\uFF0C\u7D50\u679C\u537B\u88AB\u8AAA\u300C\u770B\u8D77\u4F86\u5C31\u50CF\u7DE8\u7684\u300D\u300C\u6BD4\u65B0\u85CD\u5361\u5862\u7684\u5EE3\u544A\u9084\u83AB\u540D\u5176\u5999\u300D\u3002\n\u771F\u7684\uFF0C\u4ED6\u60F3\u4ED6\u5DF2\u7D93\u53D7\u5920\u4E86\u9019\u4E9B\u5C0D\u6B77\u53F2\u7DE8\u5BEB\u65B9\u5F0F\u6BEB\u7121\u6982\u5FF5\u3001\u5C0D\u4ED6\u7684\u5DE5\u4F5C\u6210\u679C\u5168\u7121\u5C0A\u91CD\u7684\u5916\u884C\u4EBA\u4E86\uFF0C\u4F46\u8003\u616E\u5230\u5341\u5929\u5F8C\u4ED6\u9084\u6709\u4E00\u4EFD\u623F\u79DF\u8981\u4EA4\uFF0C\u5728\u7D93\u6B77\u4E86\u4E00\u5206\u9418\u7684\u5167\u5FC3\u6399\u624E\u5F8C\uFF0C\u6F22\u68EE\u518D\u6B21\u5750\u56DE\u66F8\u684C\u524D\uFF0C\u958B\u59CB\u4E86\u7B2C\u4E94\u7248\u300A\u66FC\u8FEA\u5144\u5F1F\u516C\u53F8\u5275\u696D\u6B77\u7A0B\u7DE8\u5E74\u53F2\u300B\u7684\u64B0\u5BEB\u2026\u2026\n\u9019\u4E00\u6B21\uFF0C\u4ED6\u653E\u68C4\u4E86\u6240\u6709\u7684\u5805\u6301\uFF0C\u5E7E\u4E4E\u7834\u7F50\u7834\u6454\u5730\u7DE8\u9020\u4E86\u4E00\u500B\u300C\u66FE\u7D93\u6709\u4E00\u4F4D\u96F7\u795E\u5DE5\u696D\u7684\u9802\u7D1A\u8A2D\u8A08\u5E2B\uFF0C\u4E0D\u9858\u8B93\u6280\u8853\u53EA\u670D\u52D9\u65BC\u8ECD\u5DE5\u4F01\u696D\uFF0C\u65BC\u662F\u4F86\u5230\u4E86\u827E\u4EC0\u67CF\u74B0\u5CF6\uFF0C\u70BA\u5DE5\u4EBA\u5011\u756B\u4E0B\u4E86\u4E00\u8F1B\u91CD\u578B\u5DF4\u58EB\u7684\u5716\u7D19\u2014\u2014\u9019\u6B63\u662F\u66FC\u8FEA\u5144\u5F1F\u516C\u53F8\u7684\u8D77\u9EDE\u300D\u7684\u552C\u4EBA\u5C0F\u6545\u4E8B\u3002\u88E1\u9762\u6C92\u6709\u5F15\u7528\u4EFB\u4F55\u95DC\u65BC\u96F7\u795E\u5DE5\u696D\u7684\u6B77\u53F2\u5178\u6545\uFF0C\u4E0D\u6D89\u53CA\u66FC\u8FEA\u5144\u5F1F\u771F\u6B63\u7684\u767C\u5BB6\u904E\u7A0B\uFF0C\u552F\u4E00\u6709\u95DC\u806F\u7684\u53EA\u662F\u4E00\u5F35\u66FC\u8FEA\u5144\u5F1F\u63D0\u4F9B\u7684\u8CC7\u6599\u88E1\u4FDD\u5B58\u5B8C\u597D\u7684\u65E9\u671F\u5716\u7D19\uFF0C\u7F72\u540D\u4F86\u81EA\u4E00\u500B\u53EB\u300C\u7D04\u7FF0\u00B7\u7DAD\u91CC\u8482\u300D\u7684\u5E74\u8F15\u81E8\u6642\u5DE5\u3002\n\u5C31\u9019\u6A23\uFF0C\u6F22\u68EE\u98DB\u5FEB\u4EA4\u4E86\u7A3F\uFF0C\u7136\u5F8C\u4FBF\u5012\u982D\u5927\u7761\u5230\u4E86\u4E09\u5929\u5F8C\u3002\n\u7D50\u679C\u4ED6\u7B49\u4F86\u7684\u4E0D\u662F\u9055\u7D04\u91D1\u7684\u901A\u77E5\uFF0C\u800C\u662F\u4E00\u689D\u5C3E\u6B3E\u5DF2\u5165\u5E33\u7684\u7C21\u8A0A\uFF0C\u8207\u4E00\u901A\u964C\u751F\u7684\u96FB\u8A71\u2014\u2014\n\u300C\u8ACB\u554F\u662F\u6F22\u68EE\u00B7\u7F85\u4F2F\u7279\u5148\u751F\u55CE\uFF1F\u6211\u662F\u96F7\u795E\u5DE5\u696D\u7684\u516C\u95DC\u9867\u554F\u57C3\u6587\u65AF\u3002\u300D\n\u300C\u4F60\u3001\u4F60\u597D\u2026\u2026\u5148\u8AAA\u6E05\u695A\u554A\uFF0C\u90A3\u7A3F\u5B50\u662F\u66FC\u8FEA\u5144\u5F1F\u516C\u53F8\u627E\u6211\u5BEB\u7684\uFF0C\u5982\u679C\u4F60\u5011\u6709\u4EC0\u9EBC\u554F\u984C\uFF0C\u9084\u662F\u627E\u4ED6\u5011\u2026\u2026\u300D\n\u300C\u8ACB\u5225\u8AA4\u6703\uFF0C\u6211\u4E26\u975E\u4F86\u5411\u60A8\u8FFD\u7A76\u4EC0\u9EBC\u2026\u2026\u53EA\u662F\u60F3\u554F\u4E00\u4EF6\u4E8B\u2014\u2014\u60A8\u662F\u5982\u4F55\u767C\u73FE\u7D04\u7FF0\u00B7\u7DAD\u91CC\u8482\u548C\u6211\u5011\u96F7\u795E\u5DE5\u696D\u5B58\u5728\u95DC\u806F\u7684\uFF1F\u300D\n\u300C\u2026\u2026\u554A\uFF1F\u4EC0\u9EBC\u95DC\u806F\u2026\u2026\uFF1F\u300D\n\u300C\u60A8\u4E0D\u5FC5\u5982\u6B64\u8B19\u905C\u3002\u96F7\u795E\u5DE5\u696D\u4E26\u6C92\u6709\u4EFB\u4F55\u4E00\u4F4D\u5728\u8077\u6216\u66FE\u4EFB\u8077\u7684\u8A2D\u8A08\u5E2B\u53EB\u9019\u500B\u540D\u5B57\uFF0C\u4F46\u95DC\u65BC\u9019\u500B\u540D\u5B57\u7684\u4E3B\u4EBA\u2026\u2026\u9019\u500B\u5316\u540D\u7684\u80CC\u5F8C\u6709\u4E00\u500B\u60A8\u6216\u8A31\u807D\u8AAA\u904E\u7684\u771F\u540D\uFF1A\u8096\u6069\u00B7\u5E03\u6D1B\u8D6B\u2014\u2014\u300D\n\u300C\u4E5F\u5C31\u662F\u6211\u5011\u96F7\u795E\u5DE5\u696D\u66FE\u7D93\u7684\u57F7\u884C\u4E3B\u7BA1\u517C\u9996\u5E2D\u8A2D\u8A08\u7E3D\u76E3\u3002\u300D\n\u300C\u4ED6\u5E74\u8F15\u6642\u66FE\u5728\u827E\u4EC0\u67CF\u74B0\u5CF6\u2026\u2026\u65C5\u5C45\u3002\u4F46\u9019\u6BB5\u7D93\u6B77\u6975\u5176\u96B1\u5BC6\uFF0C\u9023\u4F01\u696D\u5167\u90E8\u4E5F\u7F3A\u4E4F\u76F8\u95DC\u7684\u7D00\u9304\u2026\u2026\u6240\u4EE5\uFF0C\u4E5F\u8A31\u60A8\u73FE\u5728\u53EF\u4EE5\u548C\u6211\u8AAA\u8AAA\uFF0C\u60A8\u5230\u5E95\u662F\u5982\u4F55\u5BDF\u89BA\u5230\u300E\u7D04\u7FF0\u00B7\u7DAD\u91CC\u8482\u300F\u7684\u771F\u5BE6\u8EAB\u5206\u7684\uFF1F\u300D",
+  "maxLevel": 90,
+  "levels": [
+    {
+      "level": 1,
+      "baseAttack": 49,
+      "experience": 10,
+      "gold": 0
+    },
+    {
+      "level": 2,
+      "baseAttack": 54,
+      "experience": 10,
+      "gold": 0
+    },
+    {
+      "level": 3,
+      "baseAttack": 59,
+      "experience": 10,
+      "gold": 0
+    },
+    {
+      "level": 4,
+      "baseAttack": 64,
+      "experience": 20,
+      "gold": 0
+    },
+    {
+      "level": 5,
+      "baseAttack": 69,
+      "experience": 40,
+      "gold": 0
+    },
+    {
+      "level": 6,
+      "baseAttack": 74,
+      "experience": 50,
+      "gold": 0
+    },
+    {
+      "level": 7,
+      "baseAttack": 78,
+      "experience": 80,
+      "gold": 0
+    },
+    {
+      "level": 8,
+      "baseAttack": 83,
+      "experience": 110,
+      "gold": 0
+    },
+    {
+      "level": 9,
+      "baseAttack": 88,
+      "experience": 150,
+      "gold": 0
+    },
+    {
+      "level": 10,
+      "baseAttack": 93,
+      "experience": 200,
+      "gold": 10
+    },
+    {
+      "level": 11,
+      "baseAttack": 98,
+      "experience": 270,
+      "gold": 10
+    },
+    {
+      "level": 12,
+      "baseAttack": 103,
+      "experience": 370,
+      "gold": 10
+    },
+    {
+      "level": 13,
+      "baseAttack": 108,
+      "experience": 480,
+      "gold": 20
+    },
+    {
+      "level": 14,
+      "baseAttack": 113,
+      "experience": 620,
+      "gold": 30
+    },
+    {
+      "level": 15,
+      "baseAttack": 118,
+      "experience": 780,
+      "gold": 50
+    },
+    {
+      "level": 16,
+      "baseAttack": 123,
+      "experience": 990,
+      "gold": 70
+    },
+    {
+      "level": 17,
+      "baseAttack": 127,
+      "experience": 1250,
+      "gold": 100
+    },
+    {
+      "level": 18,
+      "baseAttack": 132,
+      "experience": 1550,
+      "gold": 140
+    },
+    {
+      "level": 19,
+      "baseAttack": 137,
+      "experience": 1900,
+      "gold": 200
+    },
+    {
+      "level": 20,
+      "baseAttack": 142,
+      "experience": 2360,
+      "gold": 240
+    },
+    {
+      "level": 21,
+      "baseAttack": 147,
+      "experience": 2960,
+      "gold": 300
+    },
+    {
+      "level": 22,
+      "baseAttack": 152,
+      "experience": 3280,
+      "gold": 330
+    },
+    {
+      "level": 23,
+      "baseAttack": 157,
+      "experience": 3580,
+      "gold": 360
+    },
+    {
+      "level": 24,
+      "baseAttack": 162,
+      "experience": 3850,
+      "gold": 390
+    },
+    {
+      "level": 25,
+      "baseAttack": 167,
+      "experience": 4090,
+      "gold": 410
+    },
+    {
+      "level": 26,
+      "baseAttack": 172,
+      "experience": 4300,
+      "gold": 430
+    },
+    {
+      "level": 27,
+      "baseAttack": 176,
+      "experience": 4600,
+      "gold": 460
+    },
+    {
+      "level": 28,
+      "baseAttack": 181,
+      "experience": 4810,
+      "gold": 490
+    },
+    {
+      "level": 29,
+      "baseAttack": 186,
+      "experience": 4940,
+      "gold": 500
+    },
+    {
+      "level": 30,
+      "baseAttack": 191,
+      "experience": 5090,
+      "gold": 510
+    },
+    {
+      "level": 31,
+      "baseAttack": 196,
+      "experience": 5250,
+      "gold": 530
+    },
+    {
+      "level": 32,
+      "baseAttack": 201,
+      "experience": 5480,
+      "gold": 550
+    },
+    {
+      "level": 33,
+      "baseAttack": 206,
+      "experience": 5670,
+      "gold": 570
+    },
+    {
+      "level": 34,
+      "baseAttack": 211,
+      "experience": 5820,
+      "gold": 590
+    },
+    {
+      "level": 35,
+      "baseAttack": 216,
+      "experience": 5910,
+      "gold": 600
+    },
+    {
+      "level": 36,
+      "baseAttack": 221,
+      "experience": 6010,
+      "gold": 610
+    },
+    {
+      "level": 37,
+      "baseAttack": 225,
+      "experience": 6110,
+      "gold": 620
+    },
+    {
+      "level": 38,
+      "baseAttack": 230,
+      "experience": 6220,
+      "gold": 630
+    },
+    {
+      "level": 39,
+      "baseAttack": 235,
+      "experience": 6320,
+      "gold": 640
+    },
+    {
+      "level": 40,
+      "baseAttack": 240,
+      "experience": 6430,
+      "gold": 650
+    },
+    {
+      "level": 41,
+      "baseAttack": 245,
+      "experience": 6620,
+      "gold": 670
+    },
+    {
+      "level": 42,
+      "baseAttack": 250,
+      "experience": 6810,
+      "gold": 690
+    },
+    {
+      "level": 43,
+      "baseAttack": 255,
+      "experience": 7010,
+      "gold": 710
+    },
+    {
+      "level": 44,
+      "baseAttack": 260,
+      "experience": 7220,
+      "gold": 730
+    },
+    {
+      "level": 45,
+      "baseAttack": 265,
+      "experience": 7410,
+      "gold": 750
+    },
+    {
+      "level": 46,
+      "baseAttack": 270,
+      "experience": 7690,
+      "gold": 770
+    },
+    {
+      "level": 47,
+      "baseAttack": 274,
+      "experience": 7960,
+      "gold": 800
+    },
+    {
+      "level": 48,
+      "baseAttack": 279,
+      "experience": 8260,
+      "gold": 830
+    },
+    {
+      "level": 49,
+      "baseAttack": 284,
+      "experience": 8580,
+      "gold": 860
+    },
+    {
+      "level": 50,
+      "baseAttack": 289,
+      "experience": 8940,
+      "gold": 900
+    },
+    {
+      "level": 51,
+      "baseAttack": 294,
+      "experience": 9320,
+      "gold": 940
+    },
+    {
+      "level": 52,
+      "baseAttack": 299,
+      "experience": 9740,
+      "gold": 980
+    },
+    {
+      "level": 53,
+      "baseAttack": 304,
+      "experience": 10190,
+      "gold": 1020
+    },
+    {
+      "level": 54,
+      "baseAttack": 309,
+      "experience": 10680,
+      "gold": 1070
+    },
+    {
+      "level": 55,
+      "baseAttack": 314,
+      "experience": 11210,
+      "gold": 1130
+    },
+    {
+      "level": 56,
+      "baseAttack": 319,
+      "experience": 11770,
+      "gold": 1180
+    },
+    {
+      "level": 57,
+      "baseAttack": 323,
+      "experience": 12380,
+      "gold": 1240
+    },
+    {
+      "level": 58,
+      "baseAttack": 328,
+      "experience": 13040,
+      "gold": 1310
+    },
+    {
+      "level": 59,
+      "baseAttack": 333,
+      "experience": 13740,
+      "gold": 1380
+    },
+    {
+      "level": 60,
+      "baseAttack": 338,
+      "experience": 14110,
+      "gold": 1420
+    },
+    {
+      "level": 61,
+      "baseAttack": 343,
+      "experience": 15870,
+      "gold": 1540
+    },
+    {
+      "level": 62,
+      "baseAttack": 348,
+      "experience": 17690,
+      "gold": 1670
+    },
+    {
+      "level": 63,
+      "baseAttack": 353,
+      "experience": 19480,
+      "gold": 1800
+    },
+    {
+      "level": 64,
+      "baseAttack": 358,
+      "experience": 21670,
+      "gold": 1960
+    },
+    {
+      "level": 65,
+      "baseAttack": 363,
+      "experience": 24220,
+      "gold": 2160
+    },
+    {
+      "level": 66,
+      "baseAttack": 368,
+      "experience": 27210,
+      "gold": 2390
+    },
+    {
+      "level": 67,
+      "baseAttack": 372,
+      "experience": 30700,
+      "gold": 2680
+    },
+    {
+      "level": 68,
+      "baseAttack": 377,
+      "experience": 34780,
+      "gold": 3010
+    },
+    {
+      "level": 69,
+      "baseAttack": 382,
+      "experience": 39510,
+      "gold": 3400
+    },
+    {
+      "level": 70,
+      "baseAttack": 387,
+      "experience": 44990,
+      "gold": 3860
+    },
+    {
+      "level": 71,
+      "baseAttack": 392,
+      "experience": 48870,
+      "gold": 4400
+    },
+    {
+      "level": 72,
+      "baseAttack": 397,
+      "experience": 53240,
+      "gold": 5020
+    },
+    {
+      "level": 73,
+      "baseAttack": 402,
+      "experience": 58140,
+      "gold": 5730
+    },
+    {
+      "level": 74,
+      "baseAttack": 407,
+      "experience": 63580,
+      "gold": 6560
+    },
+    {
+      "level": 75,
+      "baseAttack": 412,
+      "experience": 69600,
+      "gold": 7500
+    },
+    {
+      "level": 76,
+      "baseAttack": 417,
+      "experience": 74420,
+      "gold": 8380
+    },
+    {
+      "level": 77,
+      "baseAttack": 421,
+      "experience": 79530,
+      "gold": 9350
+    },
+    {
+      "level": 78,
+      "baseAttack": 426,
+      "experience": 84940,
+      "gold": 10420
+    },
+    {
+      "level": 79,
+      "baseAttack": 431,
+      "experience": 90620,
+      "gold": 11590
+    },
+    {
+      "level": 80,
+      "baseAttack": 436,
+      "experience": 96570,
+      "gold": 12880
+    },
+    {
+      "level": 81,
+      "baseAttack": 441,
+      "experience": 103570,
+      "gold": 14400
+    },
+    {
+      "level": 82,
+      "baseAttack": 446,
+      "experience": 110930,
+      "gold": 16070
+    },
+    {
+      "level": 83,
+      "baseAttack": 451,
+      "experience": 118620,
+      "gold": 17900
+    },
+    {
+      "level": 84,
+      "baseAttack": 456,
+      "experience": 126650,
+      "gold": 19910
+    },
+    {
+      "level": 85,
+      "baseAttack": 461,
+      "experience": 134990,
+      "gold": 22090
+    },
+    {
+      "level": 86,
+      "baseAttack": 466,
+      "experience": 143620,
+      "gold": 24470
+    },
+    {
+      "level": 87,
+      "baseAttack": 470,
+      "experience": 152540,
+      "gold": 27060
+    },
+    {
+      "level": 88,
+      "baseAttack": 475,
+      "experience": 161720,
+      "gold": 29860
+    },
+    {
+      "level": 89,
+      "baseAttack": 480,
+      "experience": 171160,
+      "gold": 32900
+    },
+    {
+      "level": 90,
+      "baseAttack": 485,
+      "experience": 0,
+      "gold": 0
+    }
+  ],
+  "skills": [
+    {
+      "sourceSkillId": "wpn_attr_wisd_high",
+      "slot": 1,
+      "name": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+      "rows": [
+        {
+          "parameterKey": "wisd",
+          "label": "\u667A\u8B58",
+          "values": [
+            "20",
+            "36",
+            "52",
+            "68",
+            "84",
+            "100",
+            "116",
+            "132",
+            "156"
+          ]
+        }
+      ],
+      "levels": [
+        {
+          "bindingStatus": "bound",
+          "level": 1,
+          "description": "\u667A\u8B58\u002B20"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 2,
+          "description": "\u667A\u8B58\u002B36"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 3,
+          "description": "\u667A\u8B58\u002B52"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 4,
+          "description": "\u667A\u8B58\u002B68"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 5,
+          "description": "\u667A\u8B58\u002B84"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 6,
+          "description": "\u667A\u8B58\u002B100"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 7,
+          "description": "\u667A\u8B58\u002B116"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 8,
+          "description": "\u667A\u8B58\u002B132"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 9,
+          "description": "\u667A\u8B58\u002B156"
+        }
+      ]
+    },
+    {
+      "sourceSkillId": "wpn_sp_attr_crystdam_high",
+      "slot": 2,
+      "name": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+      "rows": [
+        {
+          "parameterKey": "crystdam",
+          "label": "\u5BD2\u51B7\u50B7\u5BB3",
+          "values": [
+            "5.6%",
+            "10.0%",
+            "14.4%",
+            "18.9%",
+            "23.3%",
+            "27.8%",
+            "32.2%",
+            "36.7%",
+            "43.3%"
+          ]
+        }
+      ],
+      "levels": [
+        {
+          "bindingStatus": "bound",
+          "level": 1,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B5.6%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 2,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B10.0%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 3,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B14.4%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 4,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B18.9%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 5,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B23.3%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 6,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B27.8%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 7,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B32.2%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 8,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B36.7%"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 9,
+          "description": "\u5BD2\u51B7\u50B7\u5BB3\u002B43.3%"
+        }
+      ]
+    },
+    {
+      "sourceSkillId": "sk_wpn_claym_0019",
+      "slot": 3,
+      "name": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+      "rows": [
+        {
+          "parameterKey": "primary_attr_up",
+          "label": "\u4E3B\u80FD\u529B",
+          "values": [
+            "7.0%",
+            "8.4%",
+            "9.8%",
+            "11.2%",
+            "12.6%",
+            "14.0%",
+            "15.4%",
+            "16.8%",
+            "19.6%"
+          ]
+        },
+        {
+          "parameterKey": "cryst_dmg_up",
+          "label": "\u5BD2\u51B7\u50B7\u5BB3",
+          "values": [
+            "6.0%",
+            "7.2%",
+            "8.4%",
+            "9.6%",
+            "10.8%",
+            "12.0%",
+            "13.2%",
+            "14.4%",
+            "16.8%"
+          ]
+        },
+        {
+          "parameterKey": "duration",
+          "label": "\u6301\u7E8C\u79D2",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "parameterKey": "spell_dmg_up",
+          "label": "\u5168\u968A\u6CD5\u8853\u50B7\u5BB3",
+          "values": [
+            "4.0%",
+            "4.8%",
+            "5.6%",
+            "6.4%",
+            "7.2%",
+            "8.0%",
+            "8.8%",
+            "9.6%",
+            "11.2%"
+          ]
+        },
+        {
+          "parameterKey": "duration2",
+          "label": "\u6301\u7E8C\u79D2",
+          "values": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        }
+      ],
+      "levels": [
+        {
+          "bindingStatus": "bound",
+          "level": 1,
+          "description": "\u4E3B\u80FD\u529B\u002B7.0%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B6.0%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B4.0%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 2,
+          "description": "\u4E3B\u80FD\u529B\u002B8.4%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B7.2%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B4.8%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 3,
+          "description": "\u4E3B\u80FD\u529B\u002B9.8%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B8.4%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B5.6%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 4,
+          "description": "\u4E3B\u80FD\u529B\u002B11.2%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B9.6%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B6.4%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 5,
+          "description": "\u4E3B\u80FD\u529B\u002B12.6%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B10.8%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B7.2%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 6,
+          "description": "\u4E3B\u80FD\u529B\u002B14.0%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B12.0%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B8.0%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 7,
+          "description": "\u4E3B\u80FD\u529B\u002B15.4%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B13.2%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B8.8%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 8,
+          "description": "\u4E3B\u80FD\u529B\u002B16.8%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B14.4%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B9.6%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        },
+        {
+          "bindingStatus": "bound",
+          "level": 9,
+          "description": "\u4E3B\u80FD\u529B\u002B19.6%\u3002\n\u88DD\u5099\u8005\u900F\u904E\u6230\u6280\u65BD\u52A0\u5BD2\u51B7\u9644\u8457\u6216\u707C\u71B1\u9644\u8457\u6642\uFF0C\u5BD2\u51B7\u50B7\u5BB3\u002B16.8%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u88DD\u5099\u8005\u5C0D\u5C0F\u968A\u5167\u5176\u4ED6\u5E79\u54E1\u65BD\u52A0\u6CD5\u8853\u589E\u5E45\u5F8C\uFF0C\u5168\u968A\u6CD5\u8853\u50B7\u5BB3\u002B11.2%\uFF0C\u6301\u7E8C20\u79D2\u3002\n\u5169\u7A2E\u6548\u679C\u7368\u7ACB\u751F\u6548\uFF0C\u4E14\u5747\u7121\u6CD5\u758A\u52A0\u3002"
+        }
+      ]
+    }
+  ],
+  "breakthroughs": [
+    {
+      "stage": 0,
+      "requiredLevel": 1,
+      "gold": 0,
+      "materials": [],
+      "skillRanges": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 1,
+          "upper": 3
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 1,
+          "upper": 3
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 1,
+          "upper": 4
+        }
+      ]
+    },
+    {
+      "stage": 1,
+      "requiredLevel": 20,
+      "gold": 2200,
+      "materials": [
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_weapon_break_low.png?v=f1fe3a0b3d1fae70c031484a3e35d344646199fdcc4dfe91b827b2d81783ffbe",
+          "sourceItemId": "item_weapon_break_low",
+          "name": "\u5F37\u56FA\u6A21\u5177",
+          "count": 5
+        },
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_1_1.png?v=fc6255aa2bccc9914b3635b2f0ba08d9bdd23d3dc36d5289e3eddd35794c0f4c",
+          "sourceItemId": "item_plant_spcstone_1_1",
+          "name": "\u8F15\u9EEF\u77F3",
+          "count": 3
+        }
+      ],
+      "skillRanges": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 2,
+          "upper": 5
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 1,
+          "upper": 4
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 1,
+          "upper": 4
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "requiredLevel": 40,
+      "gold": 8500,
+      "materials": [
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_weapon_break_low.png?v=f1fe3a0b3d1fae70c031484a3e35d344646199fdcc4dfe91b827b2d81783ffbe",
+          "sourceItemId": "item_weapon_break_low",
+          "name": "\u5F37\u56FA\u6A21\u5177",
+          "count": 18
+        },
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_1_2.png?v=10978d3b73949f74f1ed56b9505289de2bbcc74b681318d6ee7620fbd4078632",
+          "sourceItemId": "item_plant_spcstone_1_2",
+          "name": "\u4E2D\u9EEF\u77F3",
+          "count": 5
+        }
+      ],
+      "skillRanges": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 2,
+          "upper": 6
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 2,
+          "upper": 6
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 1,
+          "upper": 4
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "requiredLevel": 60,
+      "gold": 25000,
+      "materials": [
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_weapon_break_high.png?v=36a35a6e7c27890570c4a42ef0bf3e65f6523c535084444c552acd2fc1a39c15",
+          "sourceItemId": "item_weapon_break_high",
+          "name": "\u91CD\u578B\u5F37\u56FA\u6A21\u5177",
+          "count": 20
+        },
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_1_3.png?v=6a5f631d1362a4dca75afe8b0d382bb5069514967765a86cc81620c8aa49b7b2",
+          "sourceItemId": "item_plant_spcstone_1_3",
+          "name": "\u91CD\u9EEF\u77F3",
+          "count": 5
+        }
+      ],
+      "skillRanges": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 3,
+          "upper": 8
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 2,
+          "upper": 7
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 1,
+          "upper": 4
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "requiredLevel": 80,
+      "gold": 90000,
+      "materials": [
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_weapon_break_high.png?v=36a35a6e7c27890570c4a42ef0bf3e65f6523c535084444c552acd2fc1a39c15",
+          "sourceItemId": "item_weapon_break_high",
+          "name": "\u91CD\u578B\u5F37\u56FA\u6A21\u5177",
+          "count": 30
+        },
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_char_skill_specialize_6.png?v=ee15d58d9b9ae7f9b99c7d6c89c0e58de7332be6eba3484a7586e6faf739afe0",
+          "sourceItemId": "item_char_skill_specialize_6",
+          "name": "\u8E8D\u9077\u6F3F\u9AD4\u5857\u7247",
+          "count": 16
+        },
+        {
+          "iconPath": "/media/wiki/catalogs/items/item_plant_spcstone_2_3.png?v=8c1f70b7d40ece96018d06101a6bf0a84774ca9a210c252e04a20e9acf9f13ae",
+          "sourceItemId": "item_plant_spcstone_2_3",
+          "name": "\u5354\u8B70\u7D0B\u77F3",
+          "count": 8
+        }
+      ],
+      "skillRanges": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 3,
+          "upper": 9
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 3,
+          "upper": 9
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 1,
+          "upper": 4
+        }
+      ]
+    }
+  ],
+  "potentials": [
+    {
+      "level": 1,
+      "skillBonuses": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 1,
+          "upper": 1
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "skillBonuses": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 2,
+          "upper": 2
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "skillBonuses": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 3,
+          "upper": 3
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "skillBonuses": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 4,
+          "upper": 4
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "skillBonuses": [
+        {
+          "slot": 1,
+          "skillName": "\u667A\u8B58\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 2,
+          "skillName": "\u5BD2\u51B7\u50B7\u5BB3\u63D0\u5347\u00B7\u5927",
+          "lower": 0,
+          "upper": 0
+        },
+        {
+          "slot": 3,
+          "skillName": "\u6548\u76CA\u00B7\u79D8\u8F9B\u53F2\u8A71",
+          "lower": 5,
+          "upper": 5
+        }
+      ]
+    }
+  ],
+  "potentialItems": [
+    {
+      "iconPath": "/media/wiki/catalogs/items/item_wpnpotentialup_bp.png?v=6284c86db9d32543f21e4c52addc6a915dd3377bdcbdca71989e7f6cdd44e688",
+      "sourceItemId": "item_wpnpotentialup_bp",
+      "name": "\u5354\u8B70\u5316\u6B66\u5668\u539F\u578B",
+      "count": null
+    }
+  ]
+}

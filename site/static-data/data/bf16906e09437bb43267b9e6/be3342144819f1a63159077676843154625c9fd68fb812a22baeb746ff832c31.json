@@ -1,0 +1,169 @@
+{
+  "sourceItemId": "item_corp_bean_seed_1",
+  "name": "\u7403\u8C46\u7A2E\u5B50",
+  "rarity": 2,
+  "category": "\u81EA\u7136\u8CC7\u6E90",
+  "iconPath": "/media/wiki/catalogs/items/item_corp_bean_seed_1.png?v=0012c567b590ef3c78a433a32920706df37c3c29306b856fe49d45bcf73db570",
+  "summary": "\u7D93\u56B4\u683C\u7BE9\u9078\u7684\u7403\u8C46\uFF0C\u5176\u7A2E\u5B50\u98FD\u6EFF\u5B8C\u6574\uFF0C\u6D3B\u529B\u8F03\u9AD8\u3002",
+  "description": "\u7403\u8C46\u7684\u7A2E\u5B50\uFF0C\u900F\u904E\u6539\u826F\u6210\u7530\u584A\u4E26\u9032\u884C\u7CBE\u7D30\u5316\u57F9\u80B2\uFF0C\u53EF\u7522\u51FA\u7403\u8C46\u3002",
+  "wikiDescription": "",
+  "itemType": "\u6750\u6599",
+  "useEffect": "",
+  "obtainHint": "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002",
+  "unlockConditions": [],
+  "unlockHints": [
+    "\u5DE5\u696D\u767C\u5C55\u5F8C\u4F7F\u7528\u8A2D\u5099\u751F\u7522\u3002"
+  ],
+  "obtainWays": [
+    {
+      "sourceWayId": "item_obtain_inn_shop_1",
+      "description": "\u5802\u982D\u300C\u624B\u4E0D\u505C\u300D\u8655\u8CFC\u8CB7",
+      "condition": {
+        "sourceId": "condition_mission_f1m36",
+        "kind": "leaf",
+        "text": "\u5DF2\u5B8C\u6210\u4EFB\u52D9\u300C\u958B\u756B\u5927\u5409\u300D",
+        "resolved": true,
+        "children": []
+      }
+    }
+  ],
+  "relatedItems": [
+    {
+      "sourceItemId": "item_corp_bean_1",
+      "name": "\u7403\u8C46",
+      "iconPath": "/media/wiki/catalogs/items/item_corp_bean_1.png?v=61bfc5fe50a45955b182763a5f8c07822ef3247d66ffb94d0a5ed290e6f10f12",
+      "hasDetail": true,
+      "contentIconPath": null
+    }
+  ],
+  "relations": [
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_corp_bean_1/\u6750\u6599\u7528\u9014/",
+      "category": "\u6750\u6599\u7528\u9014",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_bean_seed_1",
+          "name": "\u7403\u8C46\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_corp_bean_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_bean_seed_1.png?v=0012c567b590ef3c78a433a32920706df37c3c29306b856fe49d45bcf73db570",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_corp_bean_1",
+          "name": "\u7403\u8C46\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_corp_bean_1"
+    },
+    {
+      "key": "FactoryMachineCraftTable/seedcollector_plant_bean_1/\u88FD\u4F5C\u4F86\u6E90/",
+      "category": "\u88FD\u4F5C\u4F86\u6E90",
+      "title": "\u5DE5\u696D\u88FD\u9020",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_bean_1",
+          "name": "\u7403\u8C46",
+          "quantity": 1,
+          "path": "/items/item_corp_bean_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_bean_1.png?v=61bfc5fe50a45955b182763a5f8c07822ef3247d66ffb94d0a5ed290e6f10f12",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_bean_seed_1",
+          "name": "\u7403\u8C46\u7A2E\u5B50",
+          "quantity": 2,
+          "path": "/items/item_corp_bean_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_bean_seed_1.png?v=0012c567b590ef3c78a433a32920706df37c3c29306b856fe49d45bcf73db570",
+          "contentIconPath": null
+        },
+        {
+          "role": "target",
+          "group": 0,
+          "targetKind": "building",
+          "sourceId": "seedcollector_1",
+          "name": "\u63A1\u7A2E\u6A5F",
+          "quantity": null,
+          "path": "/industry/devices/wiki_item_port_seedcol_1",
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/machine%3Aseedcollector_plant_bean_1"
+    },
+    {
+      "key": "FactoryManualCraftTable/handwork_port_soil_corp_bean_1/\u914D\u65B9\u89E3\u9396\u95DC\u806F/",
+      "category": "\u914D\u65B9\u89E3\u9396\u95DC\u806F",
+      "title": "\u624B\u5DE5\u88FD\u4F5C",
+      "description": "",
+      "participants": [
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_corp_bean_seed_1",
+          "name": "\u7403\u8C46\u7A2E\u5B50",
+          "quantity": 1,
+          "path": "/items/item_corp_bean_seed_1",
+          "iconPath": "/media/wiki/catalogs/items/item_corp_bean_seed_1.png?v=0012c567b590ef3c78a433a32920706df37c3c29306b856fe49d45bcf73db570",
+          "contentIconPath": null
+        },
+        {
+          "role": "input",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_carbon_mtl",
+          "name": "\u78B3\u584A",
+          "quantity": 1,
+          "path": "/items/item_carbon_mtl",
+          "iconPath": "/media/wiki/catalogs/items/item_carbon_mtl.png?v=83e68f1e3f95a162e2ec04ec95614c42184212f00b039068968f36293824e256",
+          "contentIconPath": null
+        },
+        {
+          "role": "output",
+          "group": 0,
+          "targetKind": "item",
+          "sourceId": "item_port_soil_corp_bean_1",
+          "name": "\u7403\u8C46\u7530\u584A",
+          "quantity": 1,
+          "path": null,
+          "iconPath": null,
+          "contentIconPath": null
+        }
+      ],
+      "recipePath": "/industry/recipes/manual%3Ahandwork_port_soil_corp_bean_1"
+    }
+  ],
+  "contentIconPath": null,
+  "bindingStatus": "unbound"
+}

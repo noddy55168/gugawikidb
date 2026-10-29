@@ -1,0 +1,86 @@
+{
+  "activity": {
+    "sourceActivityId": "activity_weekly_task_1",
+    "name": "\u6BCF\u9031\u4E8B\u52D9",
+    "description": "\u5B8C\u6210\u6BCF\u9031\u4EFB\u52D9\u53EF\u7372\u5F97\u8C50\u539A\u734E\u52F5\u3002",
+    "sourceType": 16,
+    "sortOrder": 2999,
+    "detailCoverage": "basic",
+    "timeId": "time_weekly_mission_activity",
+    "tabImageId": "activity_tab_bg_weeklytask",
+    "times": [
+      {
+        "sourceIndex": 0,
+        "region": "source-0",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/1/19 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1768766400,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 1,
+        "region": "asia",
+        "offsetMinutes": 480,
+        "openTimeRaw": "2026/1/19 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1768766400,
+        "closeUnixSeconds": null
+      },
+      {
+        "sourceIndex": 2,
+        "region": "americas-europe",
+        "offsetMinutes": -300,
+        "openTimeRaw": "2026/1/19 4:00:00",
+        "closeTimeRaw": "",
+        "openUnixSeconds": 1768813200,
+        "closeUnixSeconds": null
+      }
+    ],
+    "tags": [
+      {
+        "sourceTagId": "activity_tag_weekly_task",
+        "name": "\u6BCF\u9031\u4E8B\u52D9"
+      }
+    ],
+    "themeColor": "#fff100"
+  },
+  "instructionId": "instru_activity_weekly_task_1",
+  "instructionTitle": "\u300C\u6BCF\u9031\u4E8B\u52D9\u300D\u6D3B\u52D5\u8AAA\u660E",
+  "instructionContent": "- \u53C3\u8207\u689D\u4EF6 -\n\u00B7 \u9054\u5230\u6B0A\u9650\u7B49\u968E15\u7D1A\u3002\n\n- \u6D3B\u52D5\u898F\u5247 -\n\u00B7 \u5B8C\u6210\u6BCF\u9031\u6307\u5B9A\u4E8B\u52D9\uFF0C\u9054\u5230\u76F8\u61C9\u4E8B\u52D9\u5B8C\u6210\u9032\u5EA6\u7BC0\u9EDE\uFF0C\u5373\u53EF\u9818\u53D6\u5C0D\u61C9\u4E8B\u52D9\u734E\u52F5\u3002\n\u00B7 \u9032\u5EA6\u7BC0\u9EDE\u548C\u4E8B\u52D9\u734E\u52F5\u5C07\u5728\u6BCF\u9031\u4E00\u91CD\u7F6E\u3002",
+  "conditions": [
+    {
+      "sourceConditionId": "activity_weekly_task_1_unlock_condition_1",
+      "sourceType": 5023,
+      "compareOperator": 3,
+      "target": 15,
+      "description": "\u7BA1\u7406\u54E1\u6B0A\u9650\u7B49\u968E\u9054\u523015\u7D1A",
+      "tips": "\u76EE\u524D\u6B0A\u9650\u7B49\u968E%d\u7D1A\uFF08\u53EF\u6839\u64DA\u884C\u52D5\u624B\u518A\u6307\u5F15\u5B8C\u6210\u5404\u9805\u4EFB\u52D9\uFF0C\u7372\u5F97\u884C\u52D5\u8CC7\u6B77\uFF0C\u63D0\u5347\u6B0A\u9650\u7B49\u968E\uFF09"
+    }
+  ],
+  "rewards": [
+    {
+      "purpose": "overview",
+      "sourceRewardId": "reward_weekly_mission_preview",
+      "items": [
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 0,
+          "sourceItemId": "item_diamond",
+          "name": "\u5D4C\u6676\u7389",
+          "sourceCount": 500,
+          "visibilityCode": 1
+        },
+        {
+          "bundleKind": "itemBundles",
+          "sortOrder": 1,
+          "sourceItemId": "item_gachabyproducts_weapongold",
+          "name": "\u6B66\u5EAB\u914D\u984D",
+          "sourceCount": 100,
+          "visibilityCode": 1
+        }
+      ]
+    }
+  ],
+  "stages": []
+}
