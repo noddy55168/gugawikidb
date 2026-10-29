@@ -1,37 +1,48 @@
 # Guga資料站
 
-Public, read-only static edition of a practice wiki website built with Vue.
-The development project uses C# to export public data and Vue to build this static edition.
-This repository contains the generated website and a C# (.NET 10) release verifier. GitHub Pages serves static files; it does not run a backend.
+一個 Wiki 網頁練習專案，分為「C# 後端＋Vue 前端」與「GitHub Pages 靜態閱讀版」。
 
-## First publication
+此倉庫用於發布靜態閱讀版：由 C# 匯出公開資料，再由 Vue 建置網站。倉庫包含建置完成的網站，以及 C#（.NET 10）發布驗證工具。GitHub Pages 只提供靜態檔案，不執行 C# 後端。
 
-1. Review and commit the prepared files to `main`, then push to GitHub.
-2. In **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**.
-3. Open **Actions → Publish Guga資料站 → Run workflow**, select `main`, and run it.
-4. Wait for both `package` and `deploy` to pass. Open the URL shown by the deployment.
+## 網站連結
 
-Expected project URL: https://noddy55168.github.io/gugawikidb/
-Example detail: https://noddy55168.github.io/gugawikidb/#/operators/4
-The first publication is live. Local changes appear online after another successful manual publication.
+- [Guga資料站](https://noddy55168.github.io/gugawikidb/)
+- [幹員詳情範例](https://noddy55168.github.io/gugawikidb/#/operators/4)
 
-## Manual updates
+## 手動發布
 
-Pushing commits alone does **not** publish the website. Only `workflow_dispatch` triggers publication.
-The workflow checks the file list and SHA256 values, then uploads **only `site/`**.
-It does not build Vue or connect to a database. No personal access token is required by the workflow.
+1. 檢查準備好的檔案，提交（commit）至 `main`，再推送（push）到 GitHub。
+2. 首次設定時，到 **Settings → Pages → Build and deployment**，將 **Source** 設為 **GitHub Actions**。
+3. 開啟 **Actions → Publish Guga資料站 → Run workflow**，選擇 `main` 並執行。
+4. 等待 `package` 與 `deploy` 都成功，再開啟部署結果提供的網址。
 
-Generate and verify a complete new package in the development project with base `/gugawikidb/`.
-Replace the previous `site/` contents as one reviewed release, including removal of obsolete files;
-do not mix new JavaScript with an old data manifest. Commit, push, and run the workflow manually.
-Keep `.gitattributes`: generated files must retain their exact bytes for hash verification.
+只推送倉庫不會自動更新網站；目前僅透過 `workflow_dispatch` 手動發布。
 
-Before publication, the package can also be checked locally with `dotnet run --project tools/PagesReleaseCheck/PagesReleaseCheck.csproj --configuration Release -- site`.
-`site/release.json` records the data version, base, build timestamp, and file hashes.
-For rollback, restore a complete previously verified `site/` package in a new commit and publish it manually.
+發布流程會使用 C# 檢查檔案清單與 SHA256，通過後只上傳 `site/`。此流程不重新建置 Vue、不連接資料庫，也不需要自行提供個人存取權杖（Personal Access Token）。
 
-## Content boundary
+## 更新網站內容
 
-This is a reading snapshot: accounts, editing, and administration are unavailable.
-Database files, credentials, research exports, and private development documents do not belong in this repository.
-Game names, artwork, and other game assets belong to their respective rights holders.
+1. 在開發專案完成內容或介面修改。
+2. 使用 `/gugawikidb/` 作為 base，產生並驗證完整的新版靜態封包。
+3. 以新版封包完整替換 `site/`，包含移除已不再使用的舊檔案；不要混用不同版本的 JavaScript 與資料清單。
+4. 檢查變更後 commit、push，再依上方步驟手動發布。
+
+請保留 `.gitattributes`，避免 Git 的換行轉換改變成品內容，造成雜湊驗證失敗。
+
+安裝 .NET 10 SDK 後，也可以在倉庫根目錄執行本機驗證：
+
+```powershell
+dotnet run --project tools/PagesReleaseCheck/PagesReleaseCheck.csproj --configuration Release -- site
+```
+
+`site/release.json` 記錄資料版本、base、建置時間及檔案雜湊。
+
+若要回復舊版，請將先前已驗證的完整 `site/` 封包還原為一筆新的提交，推送後再次手動發布。
+
+## 功能與內容範圍
+
+此版本是公開資料的閱讀快照，不提供帳戶、編輯或管理功能。
+
+資料庫檔案、憑證、完整研究匯出及私人開發文件不應放入此發布倉庫。
+
+遊戲名稱、美術圖片及其他遊戲資產的權利，歸各自的權利人所有。
