@@ -71,8 +71,6 @@ dotnet run --project tools/PagesReleaseCheck/PagesReleaseCheck.csproj --configur
 
 此版本是公開資料的閱讀快照，不提供帳戶、編輯或管理功能。
 
-資料庫檔案、憑證、完整研究匯出及私人開發文件不應放入此發布倉庫。
-
 遊戲名稱、美術圖片及其他遊戲資產的權利，歸各自的權利人所有。
 
 ## 特別感謝
@@ -80,4 +78,3 @@ dotnet run --project tools/PagesReleaseCheck/PagesReleaseCheck.csproj --configur
 特別感謝以下協助：
 
 [https://github.com/Variante](https://github.com/Variante)
-
